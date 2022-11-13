@@ -11,7 +11,6 @@
 <body>
     <div class="container">
     <?php include "nav.php"?>
-    <?php include "menu_temp.php"?>
     <div class="row">
       <div class="col-12">
         <a href="index.php">Home</a> / 

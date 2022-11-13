@@ -10,10 +10,9 @@
 <body>
   <div class="container">
   <?php include "../nav.php"?>
-    <?php include "../menu_temp.php"?>
     <div class="row">
       <div class="col-12">
-        <a href="../index.php">Home</a> / <a href="index.html">Noticias Cinema</a>
+        <a href="../index.php">Home</a> / <a href="index.php">Noticias Cinema</a>
       </div>
     </div>
   <div class="row justify-content-center">

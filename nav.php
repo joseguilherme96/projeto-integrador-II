@@ -20,15 +20,16 @@
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav">
           <li class="nav-item">
-             <a class="nav-link active" aria-current="page" href="#">Home</a>
+             <a class="nav-link active" aria-current="page" href="/projeto-integrador-II/index.php">Home</a>
           </li>
+          
     
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" href="" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Cinema
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Cinema</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/cinema">Cinema</a></li>
               <li><a class="dropdown-item" href="#">Literatura</a></li>
               <li><a class="dropdown-item" href="#">Entrevista</a></li>
               <li><a class="dropdown-item" href="#">Streaming</a></li>
@@ -90,6 +91,9 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">Autores</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/projeto-integrador-II/wireframes-html">Wireframes</a>
             </li>
   
       </div>
