@@ -10,6 +10,7 @@
 </head>
 <body>
     <div class="container">
+    <?php include "nav.php"?>
     <?php include "menu_temp.php"?>
     <div class="row">
       <div class="col-12">
@@ -30,9 +31,9 @@
                 <h1>CINEMA</h1>
             </div>
         </div>
-        <div class="row ">
+        <div class="row">
             <div class="col-12 col-sm-12 col-lg-12 ">
-                <p class="">
+                <p class="align-items-center">
                     Lorem ipsum dolor sit amet, consecteturLorem ipsum
                     dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
                     consecteturLorem ipsum dolor sit amet, consectetur
@@ -47,8 +48,10 @@
             </div>
         </div>
         <div class="row ">
-            <div class="col-6 col-sm-6 col-lg-6 p-1">
+            <div class="col-6 col-sm-6 col-lg-6 p-1 border py-lg-5">
+          
                 <img src="https://via.placeholder.com/600x350" class="img-fluid ">
+            
             </div>
             <div class="col-6 col-sm-6 col-lg-6 p-1">
                 <p>
