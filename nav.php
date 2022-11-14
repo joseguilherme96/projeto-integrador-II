@@ -30,7 +30,8 @@
             Cinema
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="/projeto-integrador-II/cinema">Cinema</a></li>
+            <li><a class="dropdown-item" href="/projeto-integrador-II/cinema/index.php">Noticias de Cinema</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/cinema/cinema.php">Cinema</a></li>
               <li><a class="dropdown-item" href="#">Literatura</a></li>
               <li><a class="dropdown-item" href="#">Entrevista</a></li>
               <li><a class="dropdown-item" href="#">Streaming</a></li>
