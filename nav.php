@@ -42,11 +42,11 @@
            HQS
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Materias</a></li>
-              <li><a class="dropdown-item" href="#">Top Five</a></li>
-              <li><a class="dropdown-item" href="#">Criticas</a></li>
-              <li><a class="dropdown-item" href="#">Melhores criticas</a></li>
-              <li><a class="dropdown-item" href="#">Melhores autores</a></li>
+              <li><a class="dropdown-item" href="materia.html">Materias</a></li>
+              <li><a class="dropdown-item" href="topfive.html">Top Five</a></li>
+              <li><a class="dropdown-item" href="criticas.html">Criticas</a></li>
+              <li><a class="dropdown-item" href="ultimasn.html">Melhores criticas</a></li>
+              <li><a class="dropdown-item" href="autores.html">Melhores autores</a></li>
             </ul>
           </li>
 
