@@ -20,7 +20,7 @@
         <li class="nav-item">
         </button>
   
-       <a class="nav-link active" aria-current="page" href="#">Home</a>
+       <a class="nav-link active" aria-current="page" href="/projeto-integrador-II/index.php">Home</a>
        </li>
     
           <li class="nav-item dropdown">
