@@ -32,9 +32,10 @@
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="/projeto-integrador-II/cinema/index.php">Cinema</a></li>
               <li><a class="dropdown-item" href="/projeto-integrador-II/cinema/filmes.php">Filmes</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/cinema/streaming.php">Streaming</a></li>
               <li><a class="dropdown-item" href="#">Literatura</a></li>
               <li><a class="dropdown-item" href="#">Entrevista</a></li>
-              <li><a class="dropdown-item" href="#">Streaming</a></li>
+              
             </ul>
           </li>
 
