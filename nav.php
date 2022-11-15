@@ -31,8 +31,8 @@
               <li><a class="dropdown-item" href="/projeto-integrador-II/cinema/index.php">Cinema</a></li>
               <li><a class="dropdown-item" href="/projeto-integrador-II/cinema/filmes.php">Filmes</a></li>
               <li><a class="dropdown-item" href="/projeto-integrador-II/cinema/streaming.php">Streaming</a></li>
-              <li><a class="dropdown-item" href="#">Literatura</a></li>
-              <li><a class="dropdown-item" href="#">Entrevista</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/cinema/literatura.php">Literatura</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/cinema/entrevistas.php">Entrevista</a></li>
               
             </ul>
           </li>

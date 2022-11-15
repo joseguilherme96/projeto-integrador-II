@@ -14,7 +14,7 @@
     <div class="container">
     <div class="row">
       <div class="col-12">
-        <a href="../index.php">Home</a> / <a href="index.php">Cinema</a> / <a href="filmes.php">Streming</a> 
+        <a href="../index.php">Home</a> / <a href="index.php">Cinema</a> / <a href="filmes.php">Streaming</a> 
       </div>
     </div>
         <div class="row justify-content-center">
@@ -66,8 +66,7 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="row justify-content-center">
-                        <div class="col-6 border">LANÇAMENTO</div>
-                        <div class="col-3 border">AÇAO</div>
+                        <div class="col-6 border">PRIME VIDEO</div>
                     </div>
                 </div>
             </div>
@@ -96,8 +95,7 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="row justify-content-center">
-                        <div class="col-6 border">LANÇAMENTO</div>
-                        <div class="col-3 border">AÇAO</div>
+                        <div class="col-6 border">NETFLIX</div>
                     </div>
                 </div>
             </div>
@@ -126,8 +124,7 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="row justify-content-center">
-                        <div class="col-6 border">LANÇAMENTO</div>
-                        <div class="col-3 border">AÇAO</div>
+                        <div class="col-6 border">DISNEY PLUS</div>
                     </div>
                 </div>
             </div>
@@ -156,8 +153,7 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="row justify-content-center">
-                        <div class="col-6 border">LANÇAMENTO</div>
-                        <div class="col-3 border">AÇAO</div>
+                        <div class="col-6 border">NETFLIX</div>
                     </div>
                 </div>
             </div>
