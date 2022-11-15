@@ -13,7 +13,7 @@
   <?php include "../nav.php"?>
     <div class="row">
       <div class="col-12">
-        <a href="../index.php">Home</a> / <a href="index.php">Noticias Cinema</a>
+        <a href="../index.php">Home</a> / <a href="index.php">Cinema</a>
       </div>
     </div>
   <div class="row justify-content-center">
@@ -26,7 +26,7 @@
   </div>
   <div class="row">
     <div class="col-12 text-center">
-      <h1>NOTICIAS CINEMA</h1>
+      <h1>CINEMA</h1>
     </div>
   </div>
   <div class="row">
@@ -42,7 +42,7 @@
       <div class="row">
         <div class="col-6 col-sm-3 col-lg-3 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
           <img src="https://via.placeholder.com/250x350" class="img-fluid">
-          <div>CINEMA</div>
+          <div>FILMES</div>
         </div>
         <div class="col-6 col-sm-3 col-lg-3 p-1">
           <img src="https://via.placeholder.com/250x350" class="img-fluid">

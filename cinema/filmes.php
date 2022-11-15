@@ -14,7 +14,7 @@
         <?php include "../nav.php"?>
         <div class="row">
       <div class="col-12">
-        <a href="../index.php">Home</a> / <a href="index.php">Noticias Cinema</a> / <a href="cinema.php">Cinema</a> 
+        <a href="../index.php">Home</a> / <a href="index.php">Cinema</a> / <a href="filmes.php">Filmes</a> 
       </div>
     </div>
         <div class="row justify-content-center">
@@ -27,8 +27,8 @@
   </div>
         <section id="cinema">
   <div class="row">
-    <div class="col-12">
-      <h1>CINEMA</h1>
+    <div class="col-12 text-center">
+      <h1>FILMES</h1>
     </div> 
   </div>
   <div class="row text-center">
@@ -88,7 +88,7 @@
             </p>
           </div>
           <div class="text-end">
-            <a href="">Ler Mais</a>
+            <a href="noticia-filme.php?noticia=2">Ler Mais</a>
           </div>
         </div>
         <div class="col-12 col-sm-6 col-lg-6 p-1">
