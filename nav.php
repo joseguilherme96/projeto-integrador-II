@@ -43,10 +43,10 @@
             </a>
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="/projeto-integrador-II/cinema/materia.html">Materias</a></li>
-              <li><a class="dropdown-item" href="topfive.html">Top Five</a></li>
-              <li><a class="dropdown-item" href="criticas.html">Criticas</a></li>
-              <li><a class="dropdown-item" href="ultimasn.html">Melhores criticas</a></li>
-              <li><a class="dropdown-item" href="autores.html">Melhores autores</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/topfive.html">Top Five</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/criticas.html">Criticas</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/ultimasn.html">Melhores criticas</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/autores.html">Melhores autores</a></li>
             </ul>
           </li>
 
