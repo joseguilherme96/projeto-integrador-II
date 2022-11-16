@@ -42,7 +42,7 @@
            HQS
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="/projeto-integrador-II/cinema/materia.html">Materias</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/materia.html">Materias</a></li>
               <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/topfive.html">Top Five</a></li>
               <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/criticas.html">Criticas</a></li>
               <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/ultimasn.html">Melhores criticas</a></li>
