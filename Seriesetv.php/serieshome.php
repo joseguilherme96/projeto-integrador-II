@@ -11,20 +11,20 @@
 </head>
 <body>
     <div class="container text-center">
-    <?php include "../nav.php"?>
-    <div class="row">
+        <?php include "../nav.php"?>
+        <div class="row">
         <div class="col-12">
             <h1>Séries e TV</h1>
         </div>
-    </div>
-    <div class="row">
-        <div class="row justify-content-start">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
-        </div>
-        <div class="col-12 text-center">
-            <img src="https://via.placeholder.com/1100x320" class="img-fluid">
-        </div>
-    </div>    
+    
+        <div class="row">
+            <div class="row justify-content-start">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+            </div>
+            <div class="col-12 text-center">
+                <img src="https://via.placeholder.com/1100x320" class="img-fluid">
+            </div>
+        </div>    
     
         <div class="row">
             <div class="col-12 col-sm-6">
@@ -47,17 +47,28 @@
                     </div>
                 </div>
             </div>
-        </div> 
-        <div class="row">
-            <div class="col-6">
-                <img src="https://via.placeholder.com/300x200" class="img-fluid">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, dolores quo quaerat commodi ipsa cupiditate! Aliquam, dolore earum, quo exercitationem vero minus tempore minima. </p>
+            <div class="col-12 col-sm-6">
+                <div class="row">
+                    <div class="col-6 col-sm-12 pt-5">
+                        <img src="https://via.placeholder.com/300x200" class="img-fluid">
+                    </div>
+                    <div class="col-6 col-sm-12 pt-5 text-start">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, dolores quo quaerat commodi ipsa cupiditate! Aliquam, dolore earum, quo exercitationem vero minus tempore minima. </p>
+                    </div>
+                </div>
             </div>
-            <div class="col-6">
-                <img src="https://via.placeholder.com/300x200" class="img-fluid">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, dolores quo quaerat commodi ipsa cupiditate! Aliquam, dolore earum, quo exercitationem vero minus tempore minima. </p>
+            <div class="col-12 col-sm-6">
+                <div class="row">
+                    <div class="col-6 col-sm-12 pt-5">
+                        <img src="https://via.placeholder.com/300x200" class="img-fluid">
+                    </div>
+                    <div class="col-6 col-sm-12 pt-5 text-start">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, dolores quo quaerat commodi ipsa cupiditate! Aliquam, dolore earum, quo exercitationem vero minus tempore minima. </p>
+                    </div>
+                </div>
             </div>
         </div> 
+        
 
     
     <?php include "../rodape.php"?>      

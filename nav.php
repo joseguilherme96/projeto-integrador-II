@@ -71,9 +71,9 @@
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/serieshome.php">Serie/Tv</a></li>
               <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/resenha.php">Resenhas</a></li>
-              <li><a class="dropdown-item" href="#">Lançamentos</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/lançamentos.php">Lançamentos</a></li>
               <li><a class="dropdown-item" href="#">Criticas</a></li>
-              <li><a class="dropdown-item" href="#">Autores</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/atores.php">Atores</a></li>
             </ul>
           </li>
         </ul>
