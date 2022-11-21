@@ -11,19 +11,16 @@
 <body>
     <div class="container">
         <?php include "../nav.php"?>
-        <div class="row">
-            <div class="col-12 text-center">
-                <h1>Séries e TV</h1>
-            </div>
+        <div class="row text-center">
+            <h1>Séries e TV</h1>
         </div>
         <div class="row">
-            <div class="row justify-content-start">
+            <div class="row text-start">
                 <h1>Resenha da Série tal </h1>
             </div>
             <div class="col-12 text-center">
-            <img src="https://via.placeholder.com/1100x320" class="img-fluid">
+                <img src="https://via.placeholder.com/1100x320" class="img-fluid">
             </div>
-    
             <div class=" text-center">
                 <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aut, eum nulla libero consectetur ut quasi delectus, totam neque veritatis accusamus aspernatur esse cupiditate voluptas. Consequuntur exercitationem consectetur molestiae porro.
@@ -38,8 +35,8 @@
         <div class="text-end pb-3">
             <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
         </div>
+        <?php include "../rodape.php"?>
     </div>
-    <?php include "../rodape.php"?>
 </body>
 </html>
 

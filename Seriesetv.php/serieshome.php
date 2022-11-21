@@ -10,22 +10,22 @@
     <title>Séries e TV</title>
 </head>
 <body>
-    <div class="container text-center">
+    <div class="container">
         <?php include "../nav.php"?>
-        <div class="row">
-        <div class="col-12">
+        <div class="row text-center">
             <h1>Séries e TV</h1>
         </div>
-    
-        <div class="row">
-            <div class="row justify-content-start">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
-            </div>
-            <div class="col-12 text-center">
-                <img src="https://via.placeholder.com/1100x320" class="img-fluid">
-            </div>
-        </div>    
-    
+        <div class="row text-start">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+        </div>
+        <div class="col-12 text-center">
+            <img src="https://via.placeholder.com/1100x320" class="img-fluid">
+        </div>
+
+
+
+
+        
         <div class="row">
             <div class="col-12 col-sm-6">
                 <div class="row">

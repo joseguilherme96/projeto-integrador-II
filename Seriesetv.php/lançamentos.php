@@ -11,36 +11,32 @@
 <body>
     <div class="container">
         <?php include "../nav.php"?>
-        <div class="row">
-            <div class="col-12 text-center">
-                    <h1>Séries e TV</h1>
-            </div>
+        <div class="row text-center">
+            <h1>Séries e TV</h1>
+        </div>
+        <div class="row text-start">
+            <h1>Lançamentos</h1>
         </div>
         <div class="row">
-            <div class="row justify-content-start">
-                <h1>Lançamento</h1>
-            </div>
-        </div>  
-        <div class="row">
             <div class="col-12 col-sm-6">
-                <div class="row">
-                    <div class="col-12 col-sm-6 pt-3 row justify-content-evenly">
-                        <img src="https://via.placeholder.com/900x700" class="img-fluid">
-                    </div>
-                    <div class="col-12 col-sm-6 pt-3 row justify-content-evenly">
-                        <img src="https://via.placeholder.com/900x700" class="img-fluid">
-                    </div>
+                <div class="text-center">
+                    <img src="https://via.placeholder.com/300x200" class="img-fluid">
                 </div>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam fugit optio tempora dicta! Sed, pariatur labore dignissimos qui, expedita dolore dolores, non vitae amet accusamus sequi? Doloremque nemo saepe delectus!
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse quidem voluptatibus ex facilis nobis odio quisquam quaerat vel, aspernatur labore rem iste dolor saepe assumenda atque blanditiis reprehenderit consequuntur? 
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis vel atque autem sunt dolore nihil, minus doloremque nesciunt animi consectetur aliquid cum odit ipsum explicabo voluptates asperiores! Non, totam vero.
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero quibusdam veritatis totam quos officiis doloribus dolores necessitatibus cumque, quae saepe nobis est voluptatum reprehenderit facilis odio laudantium repe
+                </p>
             </div>
-            <div class="container text-center">
-            <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aut, eum nulla libero consectetur ut quasi delectus, totam neque veritatis accusamus aspernatur esse cupiditate voluptas. Consequuntur exercitationem consectetur molestiae porro.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aut, eum nulla libero consectetur ut quasi delectus, totam neque veritatis accusamus aspernatur esse cupiditate voluptas. Consequuntur exercitationem consectetur molestiae porro.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aut, eum nulla libero consectetur ut quasi delectus, totam neque veritatis accusamus aspernatur esse cupiditate voluptas. Consequuntur exercitationem consectetur molestiae porro.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aut, eum nulla libero consectetur ut quasi delectus, totam neque veritatis accusamus aspernatur esse cupiditate voluptas. Consequuntur exercitationem consectetur molestiae porro.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aut, eum nulla libero consectetur ut quasi delectus, totam neque veritatis accusamus aspernatur esse cupiditate voluptas. Consequuntur exercitationem consectetur molestiae porro.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aut, eum nulla libero consectetur ut quasi delectus, totam neque veritatis accusamus aspernatur esse cupiditate voluptas. Consequuntur exercitationem consectetur molestiae porro.
-            </p>
+            <div class="col-12 col-sm-6">
+                <div class="text-center">
+                    <img src="https://via.placeholder.com/300x200" class="img-fluid">
+                </div>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam fugit optio tempora dicta! Sed, pariatur labore dignissimos qui, expedita dolore dolores, non vitae amet accusamus sequi? Doloremque nemo saepe delectus!
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse quidem voluptatibus ex facilis nobis odio quisquam quaerat vel, aspernatur labore rem iste dolor saepe assumenda atque blanditiis reprehenderit consequuntur? 
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis vel atque autem sunt dolore nihil, minus doloremque nesciunt animi consectetur aliquid cum odit ipsum explicabo voluptates asperiores! Non, totam vero.
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero quibusdam veritatis totam quos officiis doloribus dolores necessitatibus cumque, quae saepe nobis est voluptatum reprehenderit facilis odio laudantium repe
+                </p>
             </div>
             <div class="text-end pb-3">
                 <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
