@@ -10,62 +10,62 @@
     <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
 </head>
 <body>
-    <div class="container">
-        <?php include "../nav.php"?>
-        <div class="row">
+  <div class="container">
+    <?php include "../nav.php"?>
+    <div class="row">
       <div class="col-12">
         <a href="../index.php">Home</a> / <a href="index.php">Cinema</a> / <a href="filmes.php">Filmes</a> 
       </div>
     </div>
-        <div class="row justify-content-center">
-    <div class="col-5 ">
-      <input type="text" class="form-control " placeholder="Pesquise sobre filmes,noticias.." />
-    </div>
-    <div class="col-2 p-2">
-      <i class="bi-search "></i>
-    </div>
-  </div>
-        <section id="cinema">
-  <div class="row">
-    <div class="col-12 text-center">
-      <h1>FILMES</h1>
-    </div> 
-  </div>
-  <div class="row text-center">
-    <div class=" col-sm-5 col-lg-12">
-      <picture >
-        <source srcset="https://via.placeholder.com/1100x320" class="img-fluid" media="(min-width:992px)">
-        <img src="https://via.placeholder.com/255x320" class="img-fluid">
-      </picture>
-    </div>
-    <div class="col-12 col-sm-5 col-lg-12">
-      <div class="row ">
-        <p>
-        Lorem ipsum dolor sit amet, consecteturLorem ipsum
-         dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-        consecteturLorem ipsum dolor sit amet, consectetur
-        Lorem ipsum dolor sit amet, consecteturLorem ipsum
-        </p>  
+    <div class="row justify-content-center">
+      <div class="col-5 ">
+        <input type="text" class="form-control " placeholder="Pesquise sobre filmes,noticias..">
       </div>
-      <div class="row justify-content-center ">
-      <div class="col-3 col-sm-5 col-lg-2 border">LANÇAMENTO</div>
-      <div class="col-2 col-sm-5 col-lg-1 border">AÇÃO</div>
-      </div>
-      <div>
-        <i class="bi bi-circle"></i>
-        <i class="bi bi-circle"></i>
-        <i class="bi bi-circle"></i>
+      <div class="col-2 p-2">
+        <i class="bi-search "></i>
       </div>
     </div>
-  </div>
-</section>
-<section>
-<div class="row">
-        <div class="col-12 col-sm-6 col-lg-6 p-1">
+    <section id="cinema">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h1>FILMES</h1>
+        </div> 
+      </div>
+      <div class="row text-center">
+        <div class=" col-sm-5 col-lg-12">
+          <picture >
+            <source srcset="https://via.placeholder.com/1100x320" class="i mg-fluid" media="(min-width:992px)" >
+            <img src="https://via.placeholder.com/255x320" class="img-fluid" alt="Capa de Filmes">
+          </picture>
+        </div>
+        <div class="col-12 col-sm-5 col-lg-12">
+          <div class="row ">
+            <p>
+            Lorem ipsum dolor sit amet, consecteturLorem ipsum
+            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
+            consecteturLorem ipsum dolor sit amet, consectetur
+            Lorem ipsum dolor sit amet, consecteturLorem ipsum
+            </p>  
+          </div>
+          <div class="row justify-content-center ">
+            <div class="col-3 col-sm-5 col-lg-2 border">LANÇAMENTO</div>
+            <div class="col-2 col-sm-5 col-lg-1 border">AÇÃO</div>
+          </div>
+          <div>
+            <i class="bi bi-circle"></i>
+            <i class="bi bi-circle"></i>
+            <i class="bi bi-circle"></i>
+          </div>
+        </div>
+      </div>
+    </section>
+    <div class="row">
+      <div class="col-12 col-sm-6 col-lg-6 p-1">
+        <section>
           <div class="text-center">
             <picture>
               <source srcset="https://via.placeholder.com/450x250" media="(min-width:992px)">
-              <img src="https://via.placeholder.com/250x250" >
+              <img src="https://via.placeholder.com/250x250" alt="Capa de Filmes">
             </picture>
           </div>
           <div class="text-left">
@@ -82,23 +82,89 @@
                 </div>
             </div>
             <p>
-            Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit amet,
+              Lorem ipsum dolor sit amet, consecteturLorem ipsum
+              dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
+              consecteturLorem ipsum dolor sit amet,
             </p>
           </div>
           <div class="text-end">
             <a href="noticia-filme.php?noticia=2">Ler Mais</a>
           </div>
-        </div>
-        <div class="col-12 col-sm-6 col-lg-6 p-1">
+        </section>
+      </div>
+      <div class="col-12 col-sm-6 col-lg-6 p-1">
+        <section>  
           <div class="text-center">
             <picture>
               <source srcset="https://via.placeholder.com/450x250" media="(min-width:992px)">
-              <img src="https://via.placeholder.com/250x250" >
+              <img src="https://via.placeholder.com/250x250" alt="Capa de Filmes" >
             </picture>
           </div>
           <div class="text-left">
+            <div class="row">
+              <div class="col-lg-7">
+                  <h5>Lorem ipsum dolor sit amet, consectetur </h5>
+                  <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
+              </div>
+              <div class="col-lg-5">
+                  <div class="row justify-content-center">
+                      <div class="col-6 border">LANÇAMENTO</div>
+                      <div class="col-3 border">AÇAO</div>
+                  </div>
+              </div>
+            </div>
+            <p>
+              Lorem ipsum dolor sit amet, consecteturLorem ipsum
+              dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
+              consecteturLorem ipsum dolor sit amet,
+            </p>
+          </div>
+          <div class="text-end">
+            <a href="">Ler Mais</a>
+          </div>
+        </section>
+      </div>
+      <div class="col-12 col-sm-6 col-lg-6 p-1">
+        <section>
+          <div class="text-center">
+            <picture>
+              <source srcset="https://via.placeholder.com/450x250" media="(min-width:992px)">
+              <img src="https://via.placeholder.com/250x250" alt="Capa de Filmes">
+            </picture>
+          </div>
+          <div class="text-left">
+            <div class="row">
+              <div class="col-lg-7">
+                  <h5>Lorem ipsum dolor sit amet, consectetur </h5>
+                  <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
+              </div>
+              <div class="col-lg-5">
+                  <div class="row justify-content-center">
+                    <div class="col-6 border">LANÇAMENTO</div>
+                    <div class="col-3 border">AÇAO</div>
+                  </div>
+              </div>
+          </div>
+          <p>
+            Lorem ipsum dolor sit amet, consecteturLorem ipsum
+            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
+            consecteturLorem ipsum dolor sit amet,
+          </p>
+          </div>
+          <div class="text-end">
+            <a href="">Ler Mais</a>
+          </div>
+        </section>
+      </div>
+      <div class="col-12 col-sm-6 col-lg-6 p-1">
+        <section>
+          <div class="text-center">
+            <picture>
+              <source srcset="https://via.placeholder.com/450x250" media="(min-width:992px)">
+              <img src="https://via.placeholder.com/250x250" alt="Capa Filmes">
+            </picture>
+          </div>
+          <div class="text-start">
             <div class="row">
                 <div class="col-lg-7">
                     <h5>Lorem ipsum dolor sit amet, consectetur </h5>
@@ -116,74 +182,14 @@
             dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
             consecteturLorem ipsum dolor sit amet,
             </p>
-          </div>
-          <div class="text-end">
-            <a href="">Ler Mais</a>
-          </div>
-        </div>
-        <div class="col-12 col-sm-6 col-lg-6 p-1">
-          <div class="text-center">
-            <picture>
-              <source srcset="https://via.placeholder.com/450x250" media="(min-width:992px)">
-              <img src="https://via.placeholder.com/250x250" >
-            </picture>
-          </div>
-          <div class="text-left">
-            <div class="row">
-                <div class="col-lg-7">
-                    <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                    <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-                </div>
-                <div class="col-lg-5">
-                    <div class="row justify-content-center">
-                        <div class="col-6 border">LANÇAMENTO</div>
-                        <div class="col-3 border">AÇAO</div>
-                    </div>
-                </div>
+            <div class="text-end">
+              <a href="">Ler Mais</a>
             </div>
-            <p>
-            Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit amet,
-            </p>
           </div>
-          <div class="text-end">
-            <a href="">Ler Mais</a>
-          </div>
-        </div>
-        <div class="col-12 col-sm-6 col-lg-6 p-1">
-          <div class="text-center">
-            <picture>
-              <source srcset="https://via.placeholder.com/450x250" media="(min-width:992px)">
-              <img src="https://via.placeholder.com/250x250" >
-            </picture>
-          </div>
-          <div class="text-left">
-            <div class="row">
-                <div class="col-lg-7">
-                    <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                    <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-                </div>
-                <div class="col-lg-5">
-                    <div class="row justify-content-center">
-                        <div class="col-6 border">LANÇAMENTO</div>
-                        <div class="col-3 border">AÇAO</div>
-                    </div>
-                </div>
-            </div>
-            <p>
-            Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit amet,
-            </p>
-          </div>
-          <div class="text-end">
-            <a href="">Ler Mais</a>
-          </div>
-        </div>
-        
-</section>
-        <?php include "../rodape.php"?>
+        </section>
+      </div>
     </div>
+  </div>
+  <?php include "../rodape.php"?>
 </body>
 </html>
