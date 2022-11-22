@@ -10,115 +10,121 @@
     <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
 </head>
 <body>
+    <?php include "../nav.php"?>
     <div class="container ">
-        <?php include "../nav.php"?>
         <div class="row">
             <div class="col-12">
                 <a href="../index.php">Home</a> / <a href="index.php">Cinema</a> / <a href="literatura.php">Literatura</a> / <a href="artigo-literatura.php">Artigo</a> 
             </div>
         </div>
-        <div class="row justify-content-center">
+        <div class="row justify-content-center pt-1">
             <div class="col-5 ">
-                <input type="text" class="form-control " placeholder="Pesquise sobre filmes,noticias.." />
+                <input type="text" class="form-control " placeholder="Pesquise sobre filmes,noticias..">
             </div>
             <div class="col-2 p-2">
                 <i class="bi-search "></i>
             </div>
         </div>
-        <div class="row text-center">
-            <div class="col-12 col-sm-12 col-lg-12">
-                <picture>
-                        <source srcset="https://via.placeholder.com/718x306" media="(min-width:992px">
-                        <source srcset="https://via.placeholder.com/471x306" media="(min-width:576px">
-                        <img src="https://via.placeholder.com/313x150">
-                <picture>
+        <article>
+            <h1 class="row text-center d-block">Livro</h1>
+            <section>
+                
+                <div class="row text-center">
+                    <div class="col-12 col-sm-12 col-lg-12">
+                        <picture>
+                            <source srcset="https://via.placeholder.com/718x306" media="(min-width:992px)">
+                            <source srcset="https://via.placeholder.com/471x306" media="(min-width:576px)">
+                            <img src="https://via.placeholder.com/313x150" alt="livro">
+                        </picture>   
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                        <div class="col-lg-5">
+                            <h5>Lorem ipsum dolor sit amet, consectetur </h5>
+                            <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
+                        </div>
+                        <div class="col-lg-3">
+                            <div class="row ">
+                                <div class="col-6 border">LANÇAMENTO</div>
+                                <div class="col-3 border">AÇAO</div>
+                            </div>
+                        </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-8">
+                        <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur 
+                            Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur 
+                            Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur 
+                            Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur </p>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-8">
+                        <p>Disponíveis</p>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-8">
+                        <div class="row justify-content-start">
+                            <div class="col-8 border">
+                                <img src="https://via.placeholder.com/50x50" class="img-fluid" alt="Logo Prime Video">
+                                <img src="https://via.placeholder.com/50x50" class="img-fluid" alt="Logo Netflix">
+                                <img src="https://via.placeholder.com/50x50" class="img-fluid" alt="Logo Disney Plus">
+                            </div>
+                            <div class="col-4 text-end">
+                                <i class="bi bi-share"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-8">
+                        <p>Referências Bibliograficas</p>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-8">
+                        <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur Refer    </p>
+                    </div>
+                </div>
+                </section>
+        </article>
+        <section>
+            <div class="row justify-content-center">
+                <h2 class="col-8">Ver mais</h2>
             </div>
-        </div>
-        <div class="row justify-content-center">
-                <div class="col-lg-5">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
                     <h5>Lorem ipsum dolor sit amet, consectetur </h5>
                     <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
                 </div>
-                <div class="col-lg-3">
-                    <div class="row ">
-                        <div class="col-6 border">LANÇAMENTO</div>
-                        <div class="col-3 border">AÇAO</div>
-                    </div>
-                </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-8">
-                <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur 
-                    Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur 
-                    Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur 
-                    Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur </p>
             </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-8">
-                <p>Disponíveis</p>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-8">
-                <div class="row justify-content-start">
-                    <div class="col-8 border">
-                        <img src="https://via.placeholder.com/50x50" class="img-fluid">
-                        <img src="https://via.placeholder.com/50x50" class="img-fluid" >
-                        <img src="https://via.placeholder.com/50x50" class="img-fluid">
-                    </div>
-                    <div class="col-4 text-end">
-                        <i class="bi bi-share"></i>
-                    </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <h5>Lorem ipsum dolor sit amet, consectetur </h5>
+                    <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
                 </div>
             </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-8">
-                <p>Referências Bibliograficas</p>
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <h5>Lorem ipsum dolor sit amet, consectetur </h5>
+                    <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
+                </div>
             </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-8">
-                <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur Refer    </p>
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <h5>Lorem ipsum dolor sit amet, consectetur </h5>
+                    <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
+                </div>
             </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-8">
-                <p>Ver mais</p>
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <h5>Lorem ipsum dolor sit amet, consectetur </h5>
+                    <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
+                </div>
             </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-            </div>
-        </div>
-        <?php include "../rodape.php";?>
+        </section>
     </div>
+    <?php include "../rodape.php";?>
 </body>
 </html>
