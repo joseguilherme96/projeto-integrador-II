@@ -1,5 +1,4 @@
-
-        <div class="row border">
+<footer class="row border">
                 <div class="col-sm-3 col-lg-1">
                     <ul>
                         <li><a href="">Cinema</a></li>
@@ -77,5 +76,5 @@
                         </p>
                     </div>
                 </div>
-        </div>
+</footer>
     
