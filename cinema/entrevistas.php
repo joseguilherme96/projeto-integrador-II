@@ -20,7 +20,7 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-5 ">
-                <input type="text" class="form-control " placeholder="Pesquise sobre filmes,noticias.." />
+                <input type="text" class="form-control " placeholder="Pesquise sobre filmes,noticias..">
             </div>
             <div class="col-2 p-2">
                 <i class="bi-search "></i>
@@ -32,42 +32,42 @@
             </div> 
         </div>
         <div class="row">
-            <div class="col-12 col-sm-6 col-lg-4 p-1">
-                <h1>Ator 1</h1>
+            <section class="col-12 col-sm-6 col-lg-4 p-1">
+                <h2>Ator 1</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus rem eveniet quas! Nemo eveniet sint voluptatum fugit eius, incidunt voluptatem illum quae distinctio earum neque iste deserunt quaerat consectetur libero?</p>
-                <img src="https://via.placeholder.com/294x195" class="img-fluid">
-                <a href="entrevista-com-autores.php" class="d-block text-end">Ler Mais</a>
-            </div>
-            <div class="col-12 col-sm-6 col-lg-4 p-1">
-                <h1>Ator 1</h1>
+                <img src="https://via.placeholder.com/294x195" class="img-fluid" alt="Foto ator">
+                <a href="entrevista-com-autores.php" class="d-block text-end">Ler Mais</a>   
+            </section>
+            <section class="col-12 col-sm-6 col-lg-4 p-1">
+                <h2>Ator 1</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus rem eveniet quas! Nemo eveniet sint voluptatum fugit eius, incidunt voluptatem illum quae distinctio earum neque iste deserunt quaerat consectetur libero?</p>
-                <img src="https://via.placeholder.com/294x195" class="img-fluid">
+                <img src="https://via.placeholder.com/294x195" class="img-fluid" alt="Foto ator">
                 <a href="" class="d-block text-end">Ler Mais</a>
-            </div>
-            <div class="col-12 col-sm-6 col-lg-4 p-1">
-                <h1>Ator 1</h1>
+            </section>
+            <section class="col-12 col-sm-6 col-lg-4 p-1">
+                <h2>Ator 1</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus rem eveniet quas! Nemo eveniet sint voluptatum fugit eius, incidunt voluptatem illum quae distinctio earum neque iste deserunt quaerat consectetur libero?</p>
-                <img src="https://via.placeholder.com/294x195" class="img-fluid">
+                <img src="https://via.placeholder.com/294x195" class="img-fluid" alt="Foto ator">
                 <a href="" class="d-block text-end">Ler Mais</a>
-            </div>
-            <div class="col-12 col-sm-6 col-lg-4 p-1">
-                <h1>Ator 1</h1>
+            </section>
+            <section class="col-12 col-sm-6 col-lg-4 p-1">
+                <h2>Ator 1</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus rem eveniet quas! Nemo eveniet sint voluptatum fugit eius, incidunt voluptatem illum quae distinctio earum neque iste deserunt quaerat consectetur libero?</p>
-                <img src="https://via.placeholder.com/294x195" class="img-fluid">
+                <img src="https://via.placeholder.com/294x195" class="img-fluid" alt="Foto ator">
                 <a href="" class="d-block text-end">Ler Mais</a>
-            </div>
-            <div class="col-12 col-sm-6 col-lg-4 p-1">
-                <h1>Ator 1</h1>
+            </section>
+            <section class="col-12 col-sm-6 col-lg-4 p-1">
+                <h2>Ator 1</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus rem eveniet quas! Nemo eveniet sint voluptatum fugit eius, incidunt voluptatem illum quae distinctio earum neque iste deserunt quaerat consectetur libero?</p>
-                <img src="https://via.placeholder.com/294x195" class="img-fluid">
+                <img src="https://via.placeholder.com/294x195" class="img-fluid" alt="Foto ator">
                 <a href="" class="d-block text-end">Ler Mais</a>
-            </div>
-            <div class="col-12 col-sm-6 col-lg-4 p-1">
-                <h1>Ator 1</h1>
+            </section>
+            <section class="col-12 col-sm-6 col-lg-4 p-1">
+                <h2>Ator 1</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus rem eveniet quas! Nemo eveniet sint voluptatum fugit eius, incidunt voluptatem illum quae distinctio earum neque iste deserunt quaerat consectetur libero?</p>
-                <img src="https://via.placeholder.com/294x195" class="img-fluid">
+                <img src="https://via.placeholder.com/294x195" class="img-fluid" alt="Foto ator">
                 <a href="" class="d-block text-end">Ler Mais</a>
-            </div>
+            </section>
         </div>
     </div>
 </body>
