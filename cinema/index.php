@@ -18,17 +18,16 @@
     </div>
   <div class="row justify-content-center">
     <div class="col-5 ">
-      <input type="text" class="form-control " placeholder="Pesquise sobre filmes,noticias.." />
+      <input type="text" class="form-control " placeholder="Pesquise sobre filmes,noticias..">
     </div>
     <div class="col-2 p-2">
       <i class="bi-search "></i>
     </div>
   </div>
-  <div class="row">
+  <section class="row">
     <div class="col-12 text-center">
-      <h1>CINEMA</h1>
+      <h2>CINEMA</h2>
     </div>
-  </div>
   <div class="row">
     <div class="col-12 text-center">
       <p>
@@ -38,37 +37,36 @@
       </p>
     </div>
   </div>
-  <div class="container text-center">
       <div class="row">
         <div class="col-6 col-sm-3 col-lg-3 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
-          <img src="https://via.placeholder.com/250x350" class="img-fluid">
+          <img src="https://via.placeholder.com/250x350" class="img-fluid" alt="Capa Filmes">
           <div>FILMES</div>
         </div>
         <div class="col-6 col-sm-3 col-lg-3 p-1">
-          <img src="https://via.placeholder.com/250x350" class="img-fluid">
+          <img src="https://via.placeholder.com/250x350" class="img-fluid" alt="Capa Streaming">
           <div>STREAMING</div>
         </div>
         <div class="col-6 col-sm-3 col-lg-3 p-1">
-          <img src="https://via.placeholder.com/250x350" class="img-fluid">
+          <img src="https://via.placeholder.com/250x350" class="img-fluid" alt="Capa Entrevistas">
           <div>ENTREVISTAS</div>
         </div>
         <div class="col-6 col-sm-3 col-lg-3 p-1">
-          <img src="https://via.placeholder.com/250x350" class="img-fluid">
+          <img src="https://via.placeholder.com/250x350" class="img-fluid" alt=" Capa Literatura">
           <div>LITERATURA</div>
         </div>
       </div>
-  </div>
+  </section>
   <section id="cinema">
   <div class="row">
     <div class="col-12">
-      <h1>CINEMA</h1>
+      <h2>CINEMA</h2>
     </div> 
   </div>
   <div class="row text-center">
     <div class=" col-sm-5 col-lg-12">
       <picture >
         <source srcset="https://via.placeholder.com/1100x320" class="img-fluid" media="(min-width:992px)">
-        <img src="https://via.placeholder.com/255x320" class="img-fluid">
+        <img src="https://via.placeholder.com/255x320" class="img-fluid" alt="Banner Cinema">
       </picture>
     </div>
     <div class="col-12 col-sm-5 col-lg-12">
@@ -95,20 +93,20 @@
 <section id="streamming">
   <div class="row ">
     <div class="col">
-      <h1>STREAMING</h1>
+      <h2>STREAMING</h2>
     </div>
   </div>
   <div class="row text-center">
     <div class="col-12 col-sm-4 col-lg-4 "><!--col <= 576px; col-sm >=576px col-lg >=992px -->
-      <img src="https://via.placeholder.com/250x350" class="img-fluid">
+      <img src="https://via.placeholder.com/250x350" class="img-fluid" alt="Capa Prime Video">
       <div>PRIME VIDEO</div>
     </div>
     <div class="col-12 col-sm-4 col-lg-4 ">
-      <img src="https://via.placeholder.com/250x350" class="img-fluid">
+      <img src="https://via.placeholder.com/250x350" class="img-fluid" alt="Capa Netflix">
       <div>NETIFLIX</div>
     </div>
     <div class="col-12 col-sm-4 col-lg-4 ">
-      <img src="https://via.placeholder.com/250x350" class="img-fluid">
+      <img src="https://via.placeholder.com/250x350" class="img-fluid" alt="Capa Disney Plus">
       <div>DISNEY PLUS</div>
     </div>
   </div>
@@ -116,14 +114,14 @@
   <section id="literatura">
       <div class="row">
         <div class="col-12">
-          <h1>LITERATURA</h1>
+          <h2>LITERATURA</h2>
         </div>
       </div>
       <div class="row">
         <div class="col-12 col-sm-6 col-lg-3 p-1">
           <div class="text-center">
             <figure>
-              <img src="https://via.placeholder.com/250x350">
+              <img src="https://via.placeholder.com/250x350" alt="Capa Livro">
               <figcaption>Maze Runner</figcaption>
             </figure>
           </div>
@@ -147,7 +145,7 @@
         <div class="col-12 col-sm-6 col-lg-3 p-1">
           <div class="text-center">
             <figure>
-              <img src="https://via.placeholder.com/250x350">
+              <img src="https://via.placeholder.com/250x350" alt="Capa Livro">
               <figcaption>Maze Runner</figcaption>
             </figure>
           </div>
@@ -171,7 +169,7 @@
         <div class="col-12 col-sm-6 col-lg-3 p-1">
           <div class="text-center">
             <figure>
-              <img src="https://via.placeholder.com/250x350">
+              <img src="https://via.placeholder.com/250x350" alt="Capa Livro">
               <figcaption>Maze Runner</figcaption>
             </figure>
           </div>
@@ -195,7 +193,7 @@
         <div class="col-12 col-sm-6 col-lg-3 p-1">
           <div class="text-center">
             <figure>
-              <img src="https://via.placeholder.com/250x350">
+              <img src="https://via.placeholder.com/250x350" alt="Capa Livro">
               <figcaption>Maze Runner</figcaption>
             </figure>
           </div>
@@ -221,7 +219,7 @@
   <section id="entrevistas">
     <div class="row">
       <div class="col-12">
-        <h1>ENTREVISTAS</h1>
+        <h2>ENTREVISTAS</h2>
       </div>
     </div>
     <div class="row">
@@ -230,7 +228,7 @@
           <h6>Ator 1</h6>
         </div>
         <div class="row">
-          <img src="https://via.placeholder.com/294x160">
+          <img src="https://via.placeholder.com/294x160" alt="Foto Autor">
         </div>
         <div class="row">
           <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum
@@ -246,7 +244,7 @@
           <h6>Ator 1</h6>
         </div>
         <div class="row">
-          <img src="https://via.placeholder.com/294x160">
+          <img src="https://via.placeholder.com/294x160" alt="Foto Autor">
         </div>
         <div class="row">
           <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum
@@ -262,7 +260,7 @@
           <h6>Ator 1</h6>
         </div>
         <div class="row">
-          <img src="https://via.placeholder.com/294x160">
+          <img src="https://via.placeholder.com/294x160" alt="Foto Autor">
         </div>
         <div class="row">
           <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum
@@ -278,7 +276,7 @@
           <h6>Ator 1</h6>
         </div>
         <div class="row">
-          <img src="https://via.placeholder.com/294x160">
+          <img src="https://via.placeholder.com/294x160" alt="Foto Autor">
         </div>
         <div class="row">
           <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum
