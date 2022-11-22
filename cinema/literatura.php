@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,7 +19,7 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-5 ">
-                <input type="text" class="form-control " placeholder="Pesquise sobre filmes,noticias.." />
+                <input type="text" class="form-control " placeholder="Pesquise sobre filmes,noticias..">
             </div>
             <div class="col-2 p-2">
                 <i class="bi-search "></i>
@@ -31,13 +31,13 @@
             </div> 
         </div>
         <div class="row">
-        <div class="col-12 col-sm-6 col-lg-4 p-1">
+        <section class="col-12 col-sm-6 col-lg-4 p-1">
           <div class="text-center">
             <picture>
               <source srcset="https://via.placeholder.com/113x154" media="(min-width:992px)">
-              <img src="https://via.placeholder.com/250x250" >
+              <img src="https://via.placeholder.com/250x250" alt="Capa Livro">
             </picture>
-            <p>Jogador Nº 1</p>
+            <h2>Jogador Nº 1</h2>
           </div>
           <div class="text-left">
             <div class="row">
@@ -55,14 +55,14 @@
           <div class="text-end">
             <a href="artigo-literatura.php?noticia=2">Ler Mais</a>
           </div>
-        </div>
-        <div class="col-12 col-sm-6 col-lg-4 p-1">
+        </section>
+        <section class="col-12 col-sm-6 col-lg-4 p-1">
           <div class="text-center">
             <picture>
               <source srcset="https://via.placeholder.com/113x154" media="(min-width:992px)">
-              <img src="https://via.placeholder.com/250x250" >
+              <img src="https://via.placeholder.com/250x250"  alt="Capa Livro">
             </picture>
-            <p>Harry Potter</p>
+            <h2>Harry Potter</h2>
           </div>
           <div class="text-left">
             <div class="row">
@@ -80,14 +80,14 @@
           <div class="text-end">
             <a href="">Ler Mais</a>
           </div>
-        </div>
-        <div class="col-12 col-sm-6 col-lg-4 p-1">
+        </section>
+        <section class="col-12 col-sm-6 col-lg-4 p-1">
           <div class="text-center">
             <picture>
               <source srcset="https://via.placeholder.com/113x154" media="(min-width:992px)">
-              <img src="https://via.placeholder.com/250x250" >
+              <img src="https://via.placeholder.com/250x250" alt="Capa Livro" >
             </picture>
-            <p>Filme</p>
+            <h2>Filme</h2>
           </div>
           <div class="text-left">
             <div class="row">
@@ -105,14 +105,14 @@
           <div class="text-end">
             <a href="">Ler Mais</a>
           </div>
-        </div>
-        <div class="col-12 col-sm-6 col-lg-4 p-1">
+        </section>
+        <section class="col-12 col-sm-6 col-lg-4 p-1">
           <div class="text-center">
             <picture>
               <source srcset="https://via.placeholder.com/113x154" media="(min-width:992px)">
-              <img src="https://via.placeholder.com/250x250" >
+              <img src="https://via.placeholder.com/250x250" alt="Capa Livro">
             </picture>
-            <p>Filme</p>
+            <h2>Filme</h2>
           </div>
           <div class="text-left">
             <div class="row">
@@ -130,14 +130,14 @@
           <div class="text-end">
             <a href="">Ler Mais</a>
           </div>
-        </div>
-        <div class="col-12 col-sm-6 col-lg-4 p-1">
+        </section>
+        <section class="col-12 col-sm-6 col-lg-4 p-1">
           <div class="text-center">
             <picture>
               <source srcset="https://via.placeholder.com/113x154" media="(min-width:992px)">
-              <img src="https://via.placeholder.com/250x250" >
+              <img src="https://via.placeholder.com/250x250" alt="Capa Livro">
             </picture>
-            <p>Filme</p>
+            <h2>Filme</h2>
           </div>
           <div class="text-left">
             <div class="row">
@@ -155,14 +155,14 @@
           <div class="text-end">
             <a href="">Ler Mais</a>
           </div>
-        </div>
-        <div class="col-12 col-sm-6 col-lg-4 p-1">
+        </section>
+        <section class="col-12 col-sm-6 col-lg-4 p-1">
           <div class="text-center">
             <picture>
               <source srcset="https://via.placeholder.com/113x154" media="(min-width:992px)">
-              <img src="https://via.placeholder.com/250x250" >
+              <img src="https://via.placeholder.com/250x250" alt="Capa Livro">
             </picture>
-            <p>Filme</p>
+            <h2>Filme</h2>
           </div>
           <div class="text-left">
             <div class="row">
@@ -180,8 +180,9 @@
           <div class="text-end">
             <a href="">Ler Mais</a>
           </div>
-        </div>
-        <?php include '../rodape.php';?>
+        </section>
+      </div>
     </div>
+    <?php include '../rodape.php';?>
 </body>
 </html>
