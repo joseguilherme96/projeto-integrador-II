@@ -21,11 +21,11 @@
                 </div>
                 <div class="col-sm-3 col-lg-1 ">
                     <ul >
-                        <li><a href="">Cosplay</a></li>
-                        <li><a href="">Animes</a></li>
-                        <li><a href="">Game</a></li>
-                        <li><a href="">Noticias</a></li>
-                        <li><a href="">Eventos</a></li>
+                        <li><a href="/projeto-integrador-II/cosplay/cosplay.php">Cosplay</a></li>
+                        <li><a href="/projeto-integrador-II/cosplay/animes.php">Animes</a></li>
+                        <li><a href="/projeto-integrador-II/cosplay/games.php">Game</a></li>
+                        <li><a href="/projeto-integrador-II/cosplay/noticias.php">Noticias</a></li>
+                        <li><a href="/projeto-integrador-II/cosplay/eventos.php">Eventos</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-3  col-lg-1 ">

@@ -55,12 +55,11 @@
        Cosplay
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Cosplay</a></li>
-              <li><a class="dropdown-item" href="#">Animes</a></li>
-              <li><a class="dropdown-item" href="#">Criticas</a></li>
-              <li><a class="dropdown-item" href="#">Eventos</a></li>
-              <li><a class="dropdown-item" href="#">Games</a></li>
-              <li><a class="dropdown-item" href="#">Games</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/cosplay/cosplay.php">Cosplay</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/cosplay/animes.php">Animes</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/cosplay/noticias.php">Noticias</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/cosplay/eventos.php">Eventos</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/cosplay/games.php">Games</a></li>
             </ul>
           </li>
 
@@ -88,7 +87,7 @@
               <a class="nav-link" href="#">Contatos</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Normas de Utilização</a>
+              <a class="nav-link" href="/projeto-integrador-II/normasdeutilização.php">Normas de Utilização</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/projeto-integrador-II/autores.php">Autores</a>
