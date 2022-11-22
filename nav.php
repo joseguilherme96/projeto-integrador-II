@@ -84,7 +84,7 @@
               <a class="nav-link" href="#">Quem somos</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Contatos</a>
+              <a class="nav-link" href="/projeto-integrador-II/contato.php">Contatos</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/projeto-integrador-II/normasdeutilização.php">Normas de Utilização</a>

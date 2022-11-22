@@ -1,22 +1,21 @@
 <footer class="row border">
                 <div class="col-sm-3 col-lg-1">
                     <ul>
-                        <li><a href="">Cinema</a></li>
-                        <li><a href="">Filmes</a></li>
-                        <li><a href="">Cinema</a></li>
-                        <li><a href="">Streaming</a></li>
-                        <li><a href="">Literatura</a></li>
-                        <li><a href="">Entrevistas</a></li>
+                        <li><a href="/projeto-integrador-II/cinema/index.php">Cinema</a></li>
+                        <li><a href="/projeto-integrador-II/cinema/filmes.php">Filmes</a></li>
+                        <li><a href="/projeto-integrador-II/cinema/streaming.php">Streaming</a></li>
+                        <li><a href="/projeto-integrador-II/cinema/literatura.php">Literatura</a></li>
+                        <li><a href="/projeto-integrador-II/cinema/entrevistas.php">Entrevistas</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-3 col-lg-1 ">
                     <ul >
-                        <li><a href="">HQS</a></li>
-                        <li><a href="">Matérias</a></li>
-                        <li><a href="">Top Five</a></li>
-                        <li><a href="">Melhores Criticas</a></li>
-                        <li><a href="">Melhores Autores</a></li>
-                        <li><a href="">Criticas</a></li>
+                        <li><a href="#">HQS</a></li>
+                        <li><a href="#">Matérias</a></li>
+                        <li><a href="#">Top Five</a></li>
+                        <li><a href="#">Melhores Criticas</a></li>
+                        <li><a href="#">Melhores Autores</a></li>
+                        <li><a href="#">Criticas</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-3 col-lg-1 ">
