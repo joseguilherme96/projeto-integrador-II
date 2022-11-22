@@ -14,23 +14,32 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                    <h1>Formulario</h1>
+                    <h1>Fale Conosco</h1>
             </div>
         </div>
         <form action="" method="POST">
             <div class="row">
-            <div class="col-6">
-            <label>Nome</label>
-            <input type="text" class="form-control" placeholder="Nome">
+                <div class="col-6">
+                    <label>Nome</label>
+                    <input type="text" class="form-control" placeholder="Nome">
+                </div>
+                <div class="col-6">
+                    <label>E-mail</label>
+                    <input type="text" class="form-control" placeholder="example@hotmail.com">
+                </div>
             </div>
-            <div class="col-6">
-            <label>E-mail</label>
-            <input type="text" class="form-control" placeholder="example@hotmail.com">
+            <div class="row">
+                <div class="col-12">
+                <label>Mensagem</label>
             </div>
-            <div class="col-12 pb-5">
-            <label>E-mail</label>
-            <textarea type="text" class="form-control" placeholder="Mensagem" width="700"></textarea>
+            
+            <div class="row">
+                <textarea type="text" class="form-control" placeholder="Mensagem" width="700"></textarea>
             </div>
+            <div class="row justify-content-end">
+                <div class="col-2 pt-5 pb-5">
+                    <button class="btn bg-secondary">Enviar Mensagem</button>
+                </div>
             </div>
         </form>
     </div>
