@@ -19,21 +19,26 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-5 ">
-                <input type="text" class="form-control " placeholder="Pesquise sobre filmes,noticias.." />
+                <input type="text" class="form-control " placeholder="Pesquise sobre filmes,noticias..">
             </div>
-            <div class="col-2 p-2">
+             <div class="col-2 p-2">
                 <i class="bi-search "></i>
             </div>
         </div>
+        <article>
+            <div class="row justify-content-center text-center">
+                <h1>Noticia Filme</h1>
+            </div>
         <div class="row text-center">
             <div class="col-12 col-sm-12 col-lg-12">
                 <picture>
-                        <source srcset="https://via.placeholder.com/718x306" media="(min-width:992px">
-                        <source srcset="https://via.placeholder.com/471x306" media="(min-width:576px">
-                        <img src="https://via.placeholder.com/313x150">
-                <picture>
+                        <source srcset="https://via.placeholder.com/718x306" media="(min-width:992px)">
+                        <source srcset="https://via.placeholder.com/471x306" media="(min-width:576px)">
+                        <img src="https://via.placeholder.com/313x150" alt="Capa Filme">
+                </picture>
             </div>
         </div>
+        <section>
         <div class="row justify-content-center">
                 <div class="col-lg-5">
                     <h5>Lorem ipsum dolor sit amet, consectetur </h5>
@@ -63,9 +68,9 @@
             <div class="col-8">
                 <div class="row justify-content-start">
                     <div class="col-8 border">
-                        <img src="https://via.placeholder.com/50x50" class="img-fluid">
-                        <img src="https://via.placeholder.com/50x50" class="img-fluid" >
-                        <img src="https://via.placeholder.com/50x50" class="img-fluid">
+                        <img src="https://via.placeholder.com/50x50" class="img-fluid" alt="Logo Prime Video">
+                        <img src="https://via.placeholder.com/50x50" class="img-fluid" alt="Logo Prime Netflix">
+                        <img src="https://via.placeholder.com/50x50" class="img-fluid" alt="Logo Disney Plus">
                     </div>
                     <div class="col-4 text-end">
                         <i class="bi bi-share"></i>
@@ -82,12 +87,15 @@
             <div class="col-8">
                 <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur Refer    </p>
             </div>
-        </div>
-        <div class="row justify-content-center">
+        </div>  
+        </section>
+        </article>
+        <section class="row justify-content-center">
+        
             <div class="col-8">
-                <p>Ver mais</p>
+                <h2>Ver Mais</h2>
             </div>
-        </div>
+        
         <div class="row justify-content-center">
             <div class="col-lg-8">
                 <h5>Lorem ipsum dolor sit amet, consectetur </h5>
@@ -118,7 +126,8 @@
                 <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
             </div>
         </div>
-        <?php include "../rodape.php";?>
+        </section>
     </div>
+    <?php include "../rodape.php";?>
 </body>
 </html>
