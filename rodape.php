@@ -1,5 +1,5 @@
 <footer class="row border">
-                <div class="col-sm-3 col-lg-1">
+                <div class="col-sm-3 col-lg-1 d-none d-sm-inline">
                     <ul>
                         <li><a href="/projeto-integrador-II/cinema/index.php">Cinema</a></li>
                         <li><a href="/projeto-integrador-II/cinema/filmes.php">Filmes</a></li>
@@ -8,7 +8,7 @@
                         <li><a href="/projeto-integrador-II/cinema/entrevistas.php">Entrevistas</a></li>
                     </ul>
                 </div>
-                <div class="col-sm-3 col-lg-1 ">
+                <div class="col-sm-3 col-lg-1 d-none d-sm-inline">
                     <ul >
                         <li><a href="#">HQS</a></li>
                         <li><a href="#">Matérias</a></li>
@@ -18,7 +18,7 @@
                         <li><a href="#">Criticas</a></li>
                     </ul>
                 </div>
-                <div class="col-sm-3 col-lg-1 ">
+                <div class="col-sm-3 col-lg-1 d-none d-sm-inline">
                     <ul >
                         <li><a href="/projeto-integrador-II/cosplay/cosplay.php">Cosplay</a></li>
                         <li><a href="/projeto-integrador-II/cosplay/animes.php">Animes</a></li>
@@ -27,7 +27,7 @@
                         <li><a href="/projeto-integrador-II/cosplay/eventos.php">Eventos</a></li>
                     </ul>
                 </div>
-                <div class="col-sm-3  col-lg-1 ">
+                <div class="col-sm-3  col-lg-1 d-none d-sm-inline">
                     <ul >
                         <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/serieshome.php">Serie/Tv</a></li>
                         <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/resenha.php">Resenhas</a></li>
@@ -38,7 +38,7 @@
                     </ul>
                 </div>
                 <div class="col-3 col-lg-1">
-</div>
+                </div>
                 <div class="col-lg-7">
                     <p class="text-center">Participantes</p>
                    <div class="row">
