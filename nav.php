@@ -91,7 +91,7 @@
               <a class="nav-link" href="#">Normas de Utilização</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Autores</a>
+              <a class="nav-link" href="/projeto-integrador-II/autores.php">Autores</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/projeto-integrador-II/wireframes-html">Wireframes</a>

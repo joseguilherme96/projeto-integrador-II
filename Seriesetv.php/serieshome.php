@@ -15,17 +15,16 @@
         <div class="row text-center">
             <h1>Séries e TV</h1>
         </div>
+
         <div class="row text-start">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
         </div>
-        <div class="col-12 text-center">
-            <img src="https://via.placeholder.com/1100x320" class="img-fluid">
+        <div class="row">
+            <div class="col-12 text-center">
+                <img src="https://via.placeholder.com/1100x320" class="img-fluid">
+            </div>
         </div>
 
-
-
-
-        
         <div class="row">
             <div class="col-12 col-sm-6">
                 <div class="row">
@@ -37,6 +36,7 @@
                     </div>
                 </div>
             </div>
+
             <div class="col-12 col-sm-6">
                 <div class="row">
                     <div class="col-6 col-sm-12 pt-5">
@@ -47,6 +47,7 @@
                     </div>
                 </div>
             </div>
+
             <div class="col-12 col-sm-6">
                 <div class="row">
                     <div class="col-6 col-sm-12 pt-5">
@@ -57,6 +58,7 @@
                     </div>
                 </div>
             </div>
+
             <div class="col-12 col-sm-6">
                 <div class="row">
                     <div class="col-6 col-sm-12 pt-5">
@@ -67,12 +69,9 @@
                     </div>
                 </div>
             </div>
+            
         </div> 
-        
-
-    
-    <?php include "../rodape.php"?>      
-
-    
+        <?php include "../rodape.php"?> 
+    </div>     
 </body>
 </html>

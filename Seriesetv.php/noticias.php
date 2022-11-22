@@ -9,8 +9,9 @@
     <title>Séries e TV</title>
 </head>
 <body>
-    <div class="container">
-        <?php include "../nav.php"?>
+    <?php include "../nav.php"?>
+    <div class="container d-lg-none">
+        
         <div class="row text-center">
             <h1>Notícias</h1>
         </div>
@@ -18,26 +19,53 @@
             <h1>Ontem o canal.....</h1>
         </div>
         <div class="row">
-            <div class="col-12 col-sm-5">
+            <div class="col-12 col-sm-6 text-center pb-3">
                 <img src="https://via.placeholder.com/300x200" class="img-fluid">
-            <div>
+            </div>
+            <div class="col-12 col-sm-6">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam nulla aliquam iste sequi dolorum labore, nostrum incidunt amet tenetur molestias molestiae ullam, odio voluptatibus? Beata</p>
+            </div>
+            </div>
+        <div class="row">
+            <div class="col-12 col-sm-6 text-center">
+                <img src="https://via.placeholder.com/300x200" class="img-fluid">
+            </div>
+            <div class="col-12 col-sm-6">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam nulla aliquam iste sequi dolorum labore, nostrum incidunt amet tenetur molestias molestiae ullam, odio voluptatibus? Beata</p>
+            </div>
+        </div>
+        <div class="text-end pb-3">
+            <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
+        </div>
+    </div>
+    <div class="container d-none d-sm-none d-lg-block">
+        <div class="row text-center">
+            <h1>Notícias</h1>
+        </div>
+        <div class="row text-start">
+            <h1>Ontem o canal.....</h1>
         </div>
         <div class="row">
-            <div class="col-12 col-sm-7">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam nulla aliquam iste sequi dolorum labore, nostrum incidunt amet tenetur molestias molestiae ullam, odio voluptatibus? Beatae
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab fuga suscipit atque nisi, unde quaerat reprehenderit veritatis dignissimos eos temporibus cum, quae sequi nesciunt impedit, 
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis aut temporibus maxime, reprehenderit similique recusandae veniam quisquam quos ipsam error quo amet voluptatibus 
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe veritatis eos natus eius, quas odit doloremque eaque. Dicta ex deserunt, porro iste perspiciatis corrupti libero 
-                </p>
+            <div class="col-lg-6 text-center pb-3">
+                <img src="https://via.placeholder.com/300x200" class="img-fluid">
+            </div>
+            <div class="col-lg-6 text-center">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident exercitationem quas eos, totam quasi labore in magnam itaque, est minus laboriosam assumenda, illum atque quis perferendis vitae</p>
             </div>
         </div>
 
-        
-        
-
-
-
-
+        <div class="row">
+            <div class="col-lg-6 text-center">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident exercitationem quas eos, totam quasi labore in magnam itaque, est minus laboriosam assumenda, illum atque quis perferendis vitae</p>
+            </div>
+            <div class="col-lg-6 text-center">
+                <img src="https://via.placeholder.com/300x200" class="img-fluid">  
+            </div>
+        </div>
+        <div class="text-end pb-3">
+            <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
+        </div>
     </div>
+    <?php include "../rodape.php"?>
 </body>
 </html>

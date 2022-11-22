@@ -31,11 +31,12 @@
                 </div>
                 <div class="col-sm-3  col-lg-1 ">
                     <ul >
-                        <li><a href="">Series & TV</a></li>
-                        <li><a href="">Noticias</a></li>
-                        <li><a href="">Lançamentos</a></li>
-                        <li><a href="">Autores</a></li>
-                        <li><a href="">Resenhas</a></li>
+                        <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/serieshome.php">Serie/Tv</a></li>
+                        <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/resenha.php">Resenhas</a></li>
+                        <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/lançamentos.php">Lançamentos</a></li>
+                        <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/criticas.php">Criticas</a></li>
+                        <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/noticias.php">Notícias</a></li>
+                        <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/atores.php">Atores</a></li>
                     </ul>
                 </div>
                 <div class="col-3 col-lg-1">

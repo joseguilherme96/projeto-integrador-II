@@ -38,11 +38,11 @@
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero quibusdam veritatis totam quos officiis doloribus dolores necessitatibus cumque, quae saepe nobis est voluptatum reprehenderit facilis odio laudantium repe
                 </p>
             </div>
-            <div class="text-end pb-3">
-                <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
-            </div>
         </div>
-    </div>    
-    <?php include "../rodape.php"?>
+        <div class="text-end pb-3">
+            <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
+        </div>
+        <?php include "../rodape.php"?>
+    </div>
 </body>
 </html>

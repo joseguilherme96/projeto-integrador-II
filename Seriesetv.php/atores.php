@@ -41,10 +41,12 @@
                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet eum vitae cum itaque eaque reprehenderit numquam sunt eligendi, minima debitis, quasi asperiores iusto! Itaque voluptatem laudantium dolore 
                 </p>
             </div>
-    <div class="text-end pb-3">
+        </div>
+        <div class="text-end pb-3">
         <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
-    </div>
-    <?php include "../rodape.php"?>      
+        </div>
+        <?php include "../rodape.php"?>  
+    </div>  
 </body>
 </html>
     
