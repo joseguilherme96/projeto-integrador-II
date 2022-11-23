@@ -11,13 +11,13 @@
 </head>
 <body>
     <?php include "nav.php"?>
-    <div class="container">
+    <section class="container">
         <div class="row">
             <div class="col-12 text-center">
-                    <h1>Fale Conosco</h1>
+                    <h2>Fale Conosco</h2>
             </div>
         </div>
-        <form action="" method="POST">
+        <form action="#" method="POST">
             <div class="row">
                 <div class="col-6">
                     <label>Nome</label>
@@ -30,11 +30,11 @@
             </div>
             <div class="row">
                 <div class="col-12">
-                <label>Mensagem</label>
+                    <label>Mensagem</label>
+                </div>
             </div>
-            
             <div class="row">
-                <textarea type="text" class="form-control" placeholder="Mensagem" width="700"></textarea>
+                <textarea class="form-control" placeholder="Mensagem"></textarea>
             </div>
             <div class="row justify-content-end">
                 <div class="col-2 pt-5 pb-5">
@@ -42,7 +42,7 @@
                 </div>
             </div>
         </form>
-    </div>
+    </section>
     <?php include "rodape.php"?>
 </body>
 </html>
