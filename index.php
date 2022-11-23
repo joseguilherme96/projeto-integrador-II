@@ -28,7 +28,7 @@
     <section class="cinema">
         <div class="row text-center">
             <div class="col-12 col-sm-12 col-lg-12">
-                <h1>CINEMA</h1>
+                <h2>CINEMA</h2>
             </div>
         </div>
         <div class="row">
@@ -68,7 +68,7 @@
     <section>
         <div class="row text-center">
             <div class="col-12 col-sm-12 col-lg-12">
-                <h1>HQS</h1>
+                <h2>HQS</h2>
             </div>
         </div>
         <div class="row ">
@@ -113,7 +113,7 @@
     <section class="cosplay text-center">
         <div class="row">
             <div class="col-12 col-sm-12 col-lg-12">
-                <h1>COSPLAY</h1>
+                <h2>COSPLAY</h2>
             </div>
         </div>
         <div class="row ">
@@ -151,7 +151,7 @@
     <section>
         <div class="row text-center">
             <div class="col-12 col-sm-12 col-lg-12">
-                <h1>SERIES & TV</h1>
+                <h2>SERIES & TV</h2>
             </div>
         </div>
         <div class="row ">
@@ -159,14 +159,16 @@
                 <img src="https://via.placeholder.com/600x350" class="img-fluid ">
             </div>
             <div class="col-6 col-sm-6 col-lg-6 p-1">
-                <p>
-                    Lorem ipsum dolor sit amet, consecteturLorem ipsum
+                <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum
                     dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
                     consecteturLorem ipsum dolor sit amet, consectetur
                     Lorem ipsum dolor sit amet, consecteturLorem ipsum
                     dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
                     consecteturLorem ipsum dolor sit amet, consectetur
                 </p>
+            </div> 
+            <div class="text-end pb-3">
+                <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/lançamentos.php" role="button">Ver mais</a>
             </div>
         </div>
         <div class="row ">
@@ -192,6 +194,9 @@
                     consecteturLorem ipsum dolor sit amet, consectetur
                 </p>
         </div>
+        <div class="text-end pb-3">
+                <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/resenha.php" role="button">Ver mais</a>
+            </div>
     </section>
     <?php include "rodape.php"?>
 </div>
