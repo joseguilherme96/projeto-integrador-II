@@ -10,15 +10,25 @@
     <title>HQS</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
   </head>
+  <body>
+
 <header>
     <h1>Materia</h1>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+
+
   </header>
 
-    <body>
-
+  
 
 <section>
+  
+ 
+  <div class="container">
+
+  <?php include "../nav.php"?>
+    
+<h2>seção</h2>
   <div class="clearfix">
     <img src="https://via.placeholder.com/100x100" class="col-md-4 float-md-start mb-4 ms-md-4" alt="...">
   
@@ -35,7 +45,9 @@
     </p>
   </div>
 
+</section>
   <section>
+<h2>seção</h2>
     <div class="clearfix">
       <img src="https://via.placeholder.com/100x100" class="col-md-4 float-md-start mb-4 ms-md-4" alt="...">
     
@@ -53,7 +65,8 @@
     </div>
 
 
-    <section>
+</section>
+    <aside>
       <div class="clearfix">
         <img src="https://via.placeholder.com/100x100" class="col-md-4 float-md-start mb-4 ms-md-4" alt="...">
       
@@ -69,8 +82,8 @@
           And yet, here you are, still persevering in reading this placeholder text, hoping for some more insights, or some hidden easter egg of content. A joke, perhaps. Unfortunately, there's none of that here.
         </p>
       </div>
-
-      <section>
+</aside>
+      <aside>
         <div class="clearfix">
           <img src="https://via.placeholder.com/100x100" class="col-md-4 float-md-start mb-4 ms-md-4" alt="...">
         
@@ -87,9 +100,10 @@
           </p>
         </div>
   
-  </section>
+  </aside>
 
   <section>
+<h2>seção</h2>
   <div class="clearfix">
     <img src="https://via.placeholder.com/100x100" class="col-md-4 float-md-start mb-4 ms-md-4" alt="...">
   
@@ -110,7 +124,7 @@
 
 
 <footer>
-
+  <?php include "../rodape.php"?>
 
   
 </footer>

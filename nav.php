@@ -42,11 +42,11 @@
            HQS
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/materia.html">Materias</a></li>
-              <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/topfive.html">Top Five</a></li>
-              <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/criticas.html">Criticas</a></li>
-              <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/ultimasn.html">Melhores criticas</a></li>
-              <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/autores.html">Melhores autores</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/materia.php">Materias</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/topfive.php">Top Five</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/criticas.php">Criticas</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/ultimasn.php">Melhores criticas</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/autores.php">Melhores autores</a></li>
             </ul>
           </li>
 
@@ -81,7 +81,7 @@
           <ul class="navbar-nav">
 
             <li class="nav-item">
-              <a class="nav-link" href="#">Quem somos</a>
+              <a class="nav-link" href="#">"/projeto-integrador-II/quemsomos.php">Quem somos</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/projeto-integrador-II/contato.php">Contatos</a>
