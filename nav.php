@@ -81,7 +81,7 @@
           <ul class="navbar-nav">
 
             <li class="nav-item">
-              <a class="nav-link" href="#">"/projeto-integrador-II/quemsomos.php">Quem somos</a>
+              <a class="nav-link" href="/projeto-integrador-II/quemsomos.php">Quem somos</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/projeto-integrador-II/contato.php">Contatos</a>

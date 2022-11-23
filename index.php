@@ -62,6 +62,9 @@
                     dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
                     consecteturLorem ipsum dolor sit amet, consectetur
                 </p>
+                <div class="text-end pb-3">
+                <a class="btn btn-primary" href="/projeto-integrador-II/cinema/index.php" role="button">Ver mais</a>
+            </div>
             </div>
         </div>
     </section>
@@ -84,6 +87,9 @@
                     dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
                     consecteturLorem ipsum dolor sit amet, consectetur
                 </p>
+                <div class="text-end pb-3">
+                <a class="btn btn-primary" href="/projeto-integrador-II/HQS/index.php" role="button">Ver mais</a>
+            </div>
             </div>
         </div>
         <div class="row ">
@@ -145,6 +151,9 @@
                     dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
                     consecteturLorem ipsum dolor sit amet, consectetur
                 </p>
+                <div class="text-end pb-3">
+                <a class="btn btn-primary" href="/projeto-integrador-II/cosplay/cosplay.php" role="button">Ver mais</a>
+            </div>
             </div>
         </div>
     </section>
