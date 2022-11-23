@@ -11,8 +11,12 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
     
 
-<article>
 <div class="container text-center">
+  
+  
+<article>
+  
+  
 <nav class="navbar navbar-expand-lg bg-light">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">Navbar</a>
@@ -136,6 +140,7 @@
 
 
 <footer>
+   <?php include "../rodape.php"?>
       </footer>
 
 </body>
