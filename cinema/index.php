@@ -40,19 +40,19 @@
       <div class="row">
         <div class="col-6 col-sm-3 col-lg-3 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
           <img src="https://via.placeholder.com/250x350" class="img-fluid" alt="Capa Filmes">
-          <div>FILMES</div>
+          <div><a href="filmes.php">FILMES</a></div>
         </div>
         <div class="col-6 col-sm-3 col-lg-3 p-1">
           <img src="https://via.placeholder.com/250x350" class="img-fluid" alt="Capa Streaming">
-          <div>STREAMING</div>
+          <div><a href="streaming.php">STREAMING</a></div>
         </div>
         <div class="col-6 col-sm-3 col-lg-3 p-1">
           <img src="https://via.placeholder.com/250x350" class="img-fluid" alt="Capa Entrevistas">
-          <div>ENTREVISTAS</div>
+          <div><a href="entrevistas.php">ENTREVISTAS</a></div>
         </div>
         <div class="col-6 col-sm-3 col-lg-3 p-1">
           <img src="https://via.placeholder.com/250x350" class="img-fluid" alt=" Capa Literatura">
-          <div>LITERATURA</div>
+          <div><a href="literatura.php">LITERATURA</a></div>
         </div>
       </div>
   </section>
@@ -64,10 +64,12 @@
   </div>
   <div class="row text-center">
     <div class=" col-sm-5 col-lg-12">
+    <a href="noticia-filme.php">
       <picture >
         <source srcset="https://via.placeholder.com/1100x320" class="img-fluid" media="(min-width:992px)">
         <img src="https://via.placeholder.com/255x320" class="img-fluid" alt="Banner Cinema">
       </picture>
+      </a>
     </div>
     <div class="col-12 col-sm-5 col-lg-12">
       <div class="row ">
@@ -99,15 +101,15 @@
   <div class="row text-center">
     <div class="col-12 col-sm-4 col-lg-4 "><!--col <= 576px; col-sm >=576px col-lg >=992px -->
       <img src="https://via.placeholder.com/250x350" class="img-fluid" alt="Capa Prime Video">
-      <div>PRIME VIDEO</div>
+      <div><a href="streaming.php">PRIME VIDEO</a></div>
     </div>
     <div class="col-12 col-sm-4 col-lg-4 ">
       <img src="https://via.placeholder.com/250x350" class="img-fluid" alt="Capa Netflix">
-      <div>NETIFLIX</div>
+      <div><a href="streaming.php">NETIFLIX</a></div>
     </div>
     <div class="col-12 col-sm-4 col-lg-4 ">
       <img src="https://via.placeholder.com/250x350" class="img-fluid" alt="Capa Disney Plus">
-      <div>DISNEY PLUS</div>
+      <div><a href="streaming.php">DISNEY PLUS</a></div>
     </div>
   </div>
 </section>
@@ -139,7 +141,7 @@
             </p>
           </div>
           <div class="text-right">
-            <a href="">Ler Mais</a>
+            <a href="artigo-literatura.php">Ler Mais</a>
           </div>
         </div>
         <div class="col-12 col-sm-6 col-lg-3 p-1">
@@ -162,7 +164,7 @@
             consecteturLorem ipsum dolor sit amet,
             </p>
             <div class="text-right">
-              <a href="">Ler Mais</a>
+            <a href="artigo-literatura.php">Ler Mais</a>
             </div>
           </div>
         </div>
@@ -186,7 +188,7 @@
             consecteturLorem ipsum dolor sit amet,
             </p>
             <div class="text-right">
-              <a href="">Ler Mais</a>
+            <a href="artigo-literatura.php">Ler Mais</a>
             </div>
           </div>
         </div>
@@ -210,7 +212,7 @@
             consecteturLorem ipsum dolor sit amet,
             </p>
             <div class="text-right">
-              <a href="">Ler Mais</a>
+            <a href="artigo-literatura.php">Ler Mais</a>
             </div>
           </div>
         </div>
@@ -236,7 +238,7 @@
             consecteturLorem ipsum dolor sit ame</p>
         </div>
         <div class="row">
-          <a href="">Ler Mais</a>
+        <a href="entrevista-com-autores.php">Ler Mais</a>
         </div>
       </div>
       <div class="col-12 col-sm-6 col-lg-3">
@@ -252,7 +254,7 @@
             consecteturLorem ipsum dolor sit ame</p>
         </div>
         <div class="row">
-          <a href="">Ler Mais</a>
+        <a href="entrevista-com-autores.php">Ler Mais</a>
         </div>
       </div>
       <div class="col-12 col-sm-6 col-lg-3">
@@ -268,7 +270,7 @@
             consecteturLorem ipsum dolor sit ame</p>
         </div>
         <div class="row">
-          <a href="">Ler Mais</a>
+        <a href="entrevista-com-autores.php">Ler Mais</a>
         </div>
       </div>
       <div class="col-12 col-sm-6 col-lg-3">
@@ -284,7 +286,7 @@
             consecteturLorem ipsum dolor sit ame</p>
         </div>
         <div class="row">
-          <a href="">Ler Mais</a>
+        <a href="entrevista-com-autores.php">Ler Mais</a>
         </div>
       </div>
     </div>
