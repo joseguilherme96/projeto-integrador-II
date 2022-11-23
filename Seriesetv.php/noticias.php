@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,62 +10,66 @@
 </head>
 <body>
     <?php include "../nav.php"?>
-    <div class="container d-lg-none">
-        
-        <div class="row text-center">
-            <h1>Notícias</h1>
-        </div>
-        <div class="row text-start">
-            <h1>Ontem o canal.....</h1>
-        </div>
-        <div class="row">
-            <div class="col-12 col-sm-6 text-center pb-3">
-                <img src="https://via.placeholder.com/300x200" class="img-fluid">
+    <article>
+        <div class="container d-lg-none">
+            <div class="row text-center">
+                <h1>Séries e TV</h1>
             </div>
-            <div class="col-12 col-sm-6">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam nulla aliquam iste sequi dolorum labore, nostrum incidunt amet tenetur molestias molestiae ullam, odio voluptatibus? Beata</p>
-            </div>
-            </div>
-        <div class="row">
-            <div class="col-12 col-sm-6 text-center">
-                <img src="https://via.placeholder.com/300x200" class="img-fluid">
-            </div>
-            <div class="col-12 col-sm-6">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam nulla aliquam iste sequi dolorum labore, nostrum incidunt amet tenetur molestias molestiae ullam, odio voluptatibus? Beata</p>
-            </div>
-        </div>
-        <div class="text-end pb-3">
-            <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
-        </div>
-    </div>
-    <div class="container d-none d-sm-none d-lg-block">
-        <div class="row text-center">
-            <h1>Notícias</h1>
-        </div>
-        <div class="row text-start">
-            <h1>Ontem o canal.....</h1>
-        </div>
-        <div class="row">
-            <div class="col-lg-6 text-center pb-3">
-                <img src="https://via.placeholder.com/300x200" class="img-fluid">
-            </div>
-            <div class="col-lg-6 text-center">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident exercitationem quas eos, totam quasi labore in magnam itaque, est minus laboriosam assumenda, illum atque quis perferendis vitae</p>
+            <section>
+                <div class="row text-start">
+                    <h2>Ontem o canal.....</h2>
+                </div>
+                <div class="row">
+                    <div class="col-12 col-sm-6 text-center pb-3">
+                        <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="imagem tal e tal">
+                    </div>
+                    <div class="col-12 col-sm-6">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam nulla aliquam iste sequi dolorum labore, nostrum incidunt amet tenetur molestias molestiae ullam, odio voluptatibus? Beata</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 col-sm-6 text-center">
+                        <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="imagem tal e tal">
+                    </div>
+                    <div class="col-12 col-sm-6">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam nulla aliquam iste sequi dolorum labore, nostrum incidunt amet tenetur molestias molestiae ullam, odio voluptatibus? Beata</p>
+                    </div>
+                </div>
+            </section>
+            <div class="text-end pb-3">
+                <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
             </div>
         </div>
-
-        <div class="row">
-            <div class="col-lg-6 text-center">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident exercitationem quas eos, totam quasi labore in magnam itaque, est minus laboriosam assumenda, illum atque quis perferendis vitae</p>
+        <div class="container d-none d-sm-none d-lg-block">
+            <div class="row text-center">
+                <h1>Séries e TV</h1>
             </div>
-            <div class="col-lg-6 text-center">
-                <img src="https://via.placeholder.com/300x200" class="img-fluid">  
+            <section>
+                <div class="row text-start">
+                    <h2>Ontem o canal.....</h2>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 text-center pb-3">
+                        <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="imagem tal e tal">
+                    </div>
+                    <div class="col-lg-6 text-center">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident exercitationem quas eos, totam quasi labore in magnam itaque, est minus laboriosam assumenda, illum atque quis perferendis vitae</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 text-center">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident exercitationem quas eos, totam quasi labore in magnam itaque, est minus laboriosam assumenda, illum atque quis perferendis vitae</p>
+                    </div>
+                    <div class="col-lg-6 text-center">
+                        <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="imagem tal e tal">  
+                    </div>
+                </div>
+            </section>
+            <div class="text-end pb-3">
+                <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
             </div>
         </div>
-        <div class="text-end pb-3">
-            <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
-        </div>
-    </div>
+    </article>
     <?php include "../rodape.php"?>
 </body>
 </html>

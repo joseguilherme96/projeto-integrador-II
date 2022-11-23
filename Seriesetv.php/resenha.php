@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,30 +10,23 @@
 </head>
 <body>
     <div class="container">
-        <div class="row">
-            <?php include "../nav.php"?>
-        </div>
-        <section>
+        <?php include "../nav.php"?>
+        <article>
             <div class="row text-center">
                 <h1>Séries e TV</h1>
             </div>
-        </section>
-        <article>
             <section>
                 <div class="row text-start">
-                    <h1>Resenha da Série tal </h1>
+                    <h2>Resenha da Série tal </h2>
                 </div>
                 <div class="row text-center">
-                    <div class="col-12">
-                        <img src="https://via.placeholder.com/1100x320" class="img-fluid">
-                    </div>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aut, eum nulla libero consectetur ut quasi delectus, totam neque veritatis accusamus aspernatur esse cupiditate voluptas. Consequuntur exercitationem consectetur molestiae porro.
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aut, eum nulla libero consectetur ut quasi delectus, totam neque veritatis accusamus aspernatur esse cupiditate voluptas. Consequuntur exercitationem consectetur molestiae porro.
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aut, eum nulla libero consectetur ut quasi delectus, totam neque veritatis accusamus aspernatur esse cupiditate voluptas. Consequuntur exercitationem consectetur molestiae porro.
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aut, eum nulla libero consectetur ut quasi delectus, totam neque veritatis accusamus aspernatur esse cupiditate voluptas. Consequuntur exercitationem consectetur molestiae porro.
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aut, eum nulla libero consectetur ut quasi delectus, totam neque veritatis accusamus aspernatur esse cupiditate voluptas. Consequuntur exercitationem consectetur molestiae porro.
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aut, eum nulla libero consectetur ut quasi delectus, totam neque veritatis accusamus aspernatur esse cupiditate voluptas. Consequuntur exercitationem consectetur molestiae porro.
+                    <img src="https://via.placeholder.com/1100x320" class="img-fluid" alt="imagem tal">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aut, eum nulla libero consectetur ut quasi delectus, totam neque veritatis accusamus aspernatur esse cupiditate voluptas. Consequuntur exercitationem consectetur molestiae porro.
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aut, eum nulla libero consectetur ut quasi delectus, totam neque veritatis accusamus aspernatur esse cupiditate voluptas. Consequuntur exercitationem consectetur molestiae porro.
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aut, eum nulla libero consectetur ut quasi delectus, totam neque veritatis accusamus aspernatur esse cupiditate voluptas. Consequuntur exercitationem consectetur molestiae porro.
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aut, eum nulla libero consectetur ut quasi delectus, totam neque veritatis accusamus aspernatur esse cupiditate voluptas. Consequuntur exercitationem consectetur molestiae porro.
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aut, eum nulla libero consectetur ut quasi delectus, totam neque veritatis accusamus aspernatur esse cupiditate voluptas. Consequuntur exercitationem consectetur molestiae porro.
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam aut, eum nulla libero consectetur ut quasi delectus, totam neque veritatis accusamus aspernatur esse cupiditate voluptas. Consequuntur exercitationem consectetur molestiae porro.
                     </p>
                 </div>       
             </section>

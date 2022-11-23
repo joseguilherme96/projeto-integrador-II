@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,37 +11,40 @@
 <body>
     <div class="container">
         <?php include "../nav.php"?>
-    
-        <div class= "row text-center">
-            <h1>Séries e TV</h1>
-        </div>
-        <div class="row">
-            <div class= col-12>
-                <img src="https://via.placeholder.com/1100x320" class="img-fluid">
+        <article>
+            <div class= "row text-center">
+                <h1>Séries e TV</h1>
             </div>
-        </div>
-        <div class="row">
-            <div class="col-12 text-start">
-                <h1>Críticas a série tal</h1>
+            <div class="row">
+                <div class= col-12>
+                    <img src="https://via.placeholder.com/1100x320" class="img-fluid" alt="imagem tal">
+                </div>
             </div>
-        </div>
-        <div class="row">
-            <div class="col-12 col-sm-6">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, dolores quo quaerat commodi ipsa cupiditate! Aliquam, dolore earum, quo exercitationem vero 
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, dolores quo quaerat commodi ipsa cupiditate! Aliquam, dolore earum, quo exercitationem vero 
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, dolores quo quaerat commodi ipsa cupiditate! Aliquam, dolore earum, quo exercitationem vero 
-                </p>
-            </div> 
-            <div class="col-12 col-sm-6">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, dolores quo quaerat commodi ipsa cupiditate! Aliquam, dolore earum, quo exercitationem vero 
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, dolores quo quaerat commodi ipsa cupiditate! Aliquam, dolore earum, quo exercitationem vero minus 
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, dolores quo quaerat commodi ipsa cupiditate! Aliquam, dolore earum, quo exercitationem vero minus 
-                </p>
+            <section>
+                <div class="row">
+                    <div class="col-12 text-start">
+                        <h2>Críticas a série tal</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 col-sm-6">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, dolores quo quaerat commodi ipsa cupiditate! Aliquam, dolore earum, quo exercitationem vero 
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, dolores quo quaerat commodi ipsa cupiditate! Aliquam, dolore earum, quo exercitationem vero 
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, dolores quo quaerat commodi ipsa cupiditate! Aliquam, dolore earum, quo exercitationem vero 
+                        </p>
+                    </div> 
+                    <div class="col-12 col-sm-6">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, dolores quo quaerat commodi ipsa cupiditate! Aliquam, dolore earum, quo exercitationem vero 
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, dolores quo quaerat commodi ipsa cupiditate! Aliquam, dolore earum, quo exercitationem vero minus 
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, dolores quo quaerat commodi ipsa cupiditate! Aliquam, dolore earum, quo exercitationem vero minus 
+                        </p>
+                    </div>
+                </div>
+            </section>
+            <div class="text-end pb-3">
+                <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
             </div>
-        </div>
-        <div class="text-end pb-3">
-            <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
-        </div>
+        </article>
         <?php include "../rodape.php"?>
     </div>
 </body>

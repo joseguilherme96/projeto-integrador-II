@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,40 +11,45 @@
 <body>
     <div class="container">
         <?php include "../nav.php"?>
-        
-        <div class="row text-center">
-            <h1>Séries e TV</h1>
-        </div>
-        <div class="row text-start">
-            <h1>Atores</h1>
-        </div>
-        <div class="row">
-            <div class="col-12 col-sm-6">
-                <div class="text-center">
-                    <img src="https://via.placeholder.com/300x200" class="img-fluid">
-                </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab aliquid, eligendi veritatis perspiciatis ullam doloremque, est ratione excepturi nostrum autem sed? Cumque reprehenderit sequi doloribus corrupti placeat.
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus eligendi debitis quas vel assumenda cum dolorem harum, perspiciatis, tempore voluptate animi. Rerum ad adipisci iste quod maxime, in asperiores 
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, debitis rem harum adipisci odio perferendis commodi molestiae a dignissimos tempora animi provident repellat deleniti totam aliquam excepturi 
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate incidunt dolorem dolorum hic sunt sed quaerat consequatur distinctio! Delectus mollitia adipisci minus fugit architecto aspernatur voluptatem 
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet eum vitae cum itaque eaque reprehenderit numquam sunt eligendi, minima debitis, quasi asperiores iusto! Itaque voluptatem laudantium dolore 
-                </p>
+        <article>
+            <div class="row text-center">
+                <h1>Séries e TV</h1>
             </div>
-            <div class="col-12 col-sm-6">
-                <div class="text-center">
-                    <img src="https://via.placeholder.com/300x200" class="img-fluid">
+            <section>
+                <div class="row text-start">
+                    <h2>Atores</h2>
                 </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab aliquid, eligendi veritatis perspiciatis ullam doloremque, est ratione excepturi nostrum autem sed? Cumque reprehenderit sequi doloribus corrupti placeat.
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus eligendi debitis quas vel assumenda cum dolorem harum, perspiciatis, tempore voluptate animi. Rerum ad adipisci iste quod maxime, in asperiores 
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, debitis rem harum adipisci odio perferendis commodi molestiae a dignissimos tempora animi provident repellat deleniti totam aliquam excepturi 
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate incidunt dolorem dolorum hic sunt sed quaerat consequatur distinctio! Delectus mollitia adipisci minus fugit architecto aspernatur voluptatem 
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet eum vitae cum itaque eaque reprehenderit numquam sunt eligendi, minima debitis, quasi asperiores iusto! Itaque voluptatem laudantium dolore 
-                </p>
+            </section>
+            <div class="row">
+                <section class="col-12 col-sm-6">
+                    <div class="text-center">
+                        <h3>ator tal</h3>
+                        <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="imagem tal">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab aliquid, eligendi veritatis perspiciatis ullam doloremque, est ratione excepturi nostrum autem sed? Cumque reprehenderit sequi doloribus corrupti placeat.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus eligendi debitis quas vel assumenda cum dolorem harum, perspiciatis, tempore voluptate animi. Rerum ad adipisci iste quod maxime, in asperiores 
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, debitis rem harum adipisci odio perferendis commodi molestiae a dignissimos tempora animi provident repellat deleniti totam aliquam excepturi 
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate incidunt dolorem dolorum hic sunt sed quaerat consequatur distinctio! Delectus mollitia adipisci minus fugit architecto aspernatur voluptatem 
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet eum vitae cum itaque eaque reprehenderit numquam sunt eligendi, minima debitis, quasi asperiores iusto! Itaque voluptatem laudantium dolore 
+                        </p>
+                    </div>
+                </section>
+                <section class="col-12 col-sm-6">
+                    <div class="text-center">
+                        <h3>ator tal</h3>
+                        <img src="https://via.placeholder.com/300x200" class="img-fluid" alt="imagem tal">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab aliquid, eligendi veritatis perspiciatis ullam doloremque, est ratione excepturi nostrum autem sed? Cumque reprehenderit sequi doloribus corrupti placeat.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus eligendi debitis quas vel assumenda cum dolorem harum, perspiciatis, tempore voluptate animi. Rerum ad adipisci iste quod maxime, in asperiores 
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, debitis rem harum adipisci odio perferendis commodi molestiae a dignissimos tempora animi provident repellat deleniti totam aliquam excepturi 
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate incidunt dolorem dolorum hic sunt sed quaerat consequatur distinctio! Delectus mollitia adipisci minus fugit architecto aspernatur voluptatem 
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet eum vitae cum itaque eaque reprehenderit numquam sunt eligendi, minima debitis, quasi asperiores iusto! Itaque voluptatem laudantium dolore 
+                        </p>
+                    </div>
+                </section>
             </div>
-        </div>
-        <div class="text-end pb-3">
-        <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
-        </div>
+            <div class="text-end pb-3">
+                <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
+            </div> 
+        </article>
         <?php include "../rodape.php"?>  
     </div>  
 </body>
