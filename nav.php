@@ -42,10 +42,11 @@
            HQS
             </a>
             <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/index.php">HQS</a></li>
               <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/materia.php">Materias</a></li>
               <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/topfive.php">Top Five</a></li>
-              <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/criticas.php">Criticas</a></li>
-              <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/ultimasn.php">Melhores criticas</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/critica.php">Criticas</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/ultimasnoticias.php">Melhores criticas</a></li>
               <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/autores.php">Melhores autores</a></li>
             </ul>
           </li>
