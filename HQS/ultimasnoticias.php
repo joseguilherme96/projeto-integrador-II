@@ -65,6 +65,7 @@
         </div>
       </div>
   </div>
+  
   <section id="cinema">
   <div class="row">
     <div class="col-12">
