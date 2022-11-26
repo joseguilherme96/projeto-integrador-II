@@ -1,135 +1,58 @@
-
-
 <!doctype html>
 <html lang="en">
-
-
   <head>
+    <title>HQS</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>HQS</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  </head>
-  <body>
+</head>
+<body>
 
-<header>
-    <h1>Materia</h1>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
-
-
-  </header>
-
-  
-
-<section>
-  
- 
   <div class="container">
+    <nav>
+    <?php include "../nav.php"?>
+</nav>
+    <section class="row pt-5 "> 
 
-  <?php include "../nav.php"?>
-    
-<h2>seção</h2>
-  <div class="clearfix">
-    <img src="https://via.placeholder.com/100x100" class="col-md-4 float-md-start mb-4 ms-md-4" alt="...">
-  
-    <p>
-      A paragraph of placeholder text. We're using it here to show the use of the clearfix class. We're adding quite a few meaningless phrases here to demonstrate how the columns interact here with the floated image.
-    </p>
-  
-    <p>
-      As you can see the paragraphs gracefully wrap around the floated image. Now imagine how this would look with some actual content in here, rather than just this boring placeholder text that goes on and on, but actually conveys no tangible information at. It simply takes up space and should not really be read.
-    </p>
-  
-    <p>
-      And yet, here you are, still persevering in reading this placeholder text, hoping for some more insights, or some hidden easter egg of content. A joke, perhaps. Unfortunately, there's none of that here.
-    </p>
-  </div>
+      <div class="col-12 col-sm-6 col-lg-6 text-center pt-5 "> 
+      <img src="https://via.placeholder.com/200x200 " alt="" >
+      </div>  
 
-</section>
-  <section>
-<h2>seção</h2>
-    <div class="clearfix">
-      <img src="https://via.placeholder.com/100x100" class="col-md-4 float-md-start mb-4 ms-md-4" alt="...">
-    
-      <p>
-        A paragraph of placeholder text. We're using it here to show the use of the clearfix class. We're adding quite a few meaningless phrases here to demonstrate how the columns interact here with the floated image.
-      </p>
-    
-      <p>
-        As you can see the paragraphs gracefully wrap around the floated image. Now imagine how this would look with some actual content in here, rather than just this boring placeholder text that goes on and on, but actually conveys no tangible information at. It simply takes up space and should not really be read.
-      </p>
-    
-      <p>
-        And yet, here you are, still persevering in reading this placeholder text, hoping for some more insights, or some hidden easter egg of content. A joke, perhaps. Unfortunately, there's none of that here.
-      </p>
-    </div>
-
-
-</section>
-    <aside>
-      <div class="clearfix">
-        <img src="https://via.placeholder.com/100x100" class="col-md-4 float-md-start mb-4 ms-md-4" alt="...">
-      
-        <p>
-          A paragraph of placeholder text. We're using it here to show the use of the clearfix class. We're adding quite a few meaningless phrases here to demonstrate how the columns interact here with the floated image.
-        </p>
-      
-        <p>
-          As you can see the paragraphs gracefully wrap around the floated image. Now imagine how this would look with some actual content in here, rather than just this boring placeholder text that goes on and on, but actually conveys no tangible information at. It simply takes up space and should not really be read.
-        </p>
-      
-        <p>
-          And yet, here you are, still persevering in reading this placeholder text, hoping for some more insights, or some hidden easter egg of content. A joke, perhaps. Unfortunately, there's none of that here.
+      <div class="col-12 col-sm-6 col-lg-6 pt-5 pb-5 text-start "> 
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, placeat? Quis minima alias natus praesentium, eos perspiciatis, quisquam numquam, ab reiciendis explicabo eius! Exercitationem ex nesciunt officia quo provident vero! 
         </p>
       </div>
-</aside>
-      <aside>
-        <div class="clearfix">
-          <img src="https://via.placeholder.com/100x100" class="col-md-4 float-md-start mb-4 ms-md-4" alt="...">
-        
-          <p>
-            A paragraph of placeholder text. We're using it here to show the use of the clearfix class. We're adding quite a few meaningless phrases here to demonstrate how the columns interact here with the floated image.
-          </p>
-        
-          <p>
-            As you can see the paragraphs gracefully wrap around the floated image. Now imagine how this would look with some actual content in here, rather than just this boring placeholder text that goes on and on, but actually conveys no tangible information at. It simply takes up space and should not really be read.
-          </p>
-        
-          <p>
-            And yet, here you are, still persevering in reading this placeholder text, hoping for some more insights, or some hidden easter egg of content. A joke, perhaps. Unfortunately, there's none of that here.
-          </p>
-        </div>
-  
-  </aside>
+   
+      <div class="col-12 col-sm-6 col-lg-6 pt-5 text-center"> <img src="https://via.placeholder.com/200x200" alt="">
+      </div>  
 
-  <section>
-<h2>seção</h2>
-  <div class="clearfix">
-    <img src="https://via.placeholder.com/100x100" class="col-md-4 float-md-start mb-4 ms-md-4" alt="...">
-  
-    <p>
-      A paragraph of placeholder text. We're using it here to show the use of the clearfix class. We're adding quite a few meaningless phrases here to demonstrate how the columns interact here with the floated image.
-    </p>
-  
-    <p>
-      As you can see the paragraphs gracefully wrap around the floated image. Now imagine how this would look with some actual content in here, rather than just this boring placeholder text that goes on and on, but actually conveys no tangible information at. It simply takes up space and should not really be read.
-    </p>
-  
-    <p>
-      And yet, here you are, still persevering in reading this placeholder text, hoping for some more insights, or some hidden easter egg of content. A joke, perhaps. Unfortunately, there's none of that here.
-    </p>
+      <div class="col-12 col-sm-6 col-lg-6  pt-5 pb-5 text-start " > 
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia error tempore, consequatur aliquid sit similique. Corporis deleniti, est quae saepe voluptates, quibusdam esse facere ducimus voluptas modi, hic incidunt maxime? </p>
+      </div>
+
+    </section>
+     
+    <section class="row pt-5 "> 
+
+      <div class="col-12 col-sm-6 col-lg-6 pt-5 text-center" > <img src="https://via.placeholder.com/200x200" alt="">
+      </div>
+
+      <div class="col-12 col-sm-6 col-lg-6 pt-5 pb-5 text-start" > 
+        <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error quis quisquam hic praesentium consectetur iusto excepturi rerum voluptatibus neque repellat deserunt quae necessitatibus, labore explicabo est ex molestiae illum asperiores!</p> 
+      </div>
+
+
+      <div class="col-12 col-sm-6 col-lg-6 pt-5 text-center" > <img src="https://via.placeholder.com/200x200" alt="">
+      </div>
+    
+      <div class="col-12 col-sm-6 col-lg-6 pt-5 pb-5 text-start " > 
+        <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptates consequatur nemo eveniet quod molestiae esse culpa maiores facere dolorem itaque iure dignissimos obcaecati amet, voluptate facilis laboriosam. Repudiandae, ipsam exercitationem? </p>
+      </div>
+
+    </section>
+
   </div>
+<footer><?php include "../rodape.php"?></footer>
   
-</section>
-
-
-<footer>
-  <?php include "../rodape.php"?>
-
-  
-</footer>
-
-
-
 </body>
 </html>
