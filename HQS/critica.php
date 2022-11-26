@@ -10,54 +10,53 @@
     <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
   </head>
 <body>
-  <?php include "../nav.php"?>
+  <body>
+
   <div class="container">
-    <div class="container-sm">
-<article>
-  <div class="col-12 col-sm-12 col-lg-12 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
-<div class="card mb-3">
-    <img src="s1.png" class="card-img-top" alt="..." >
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
-</div>
-</div>
-  </article>
-  
-    <article>
-  <div class="card">
-    <div class="col-12 col-sm-12 col-lg-12 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
-    <img src="s1.png" class="card-img-bottom" alt="...">
-  </div>
-</div>
- </article>
+    <nav>
+    <?php include "../nav.php"?>
+</nav>
+    <section class="row pt-5 "> 
 
-   <article>
-<div class="card">
-  <div class="col-12 col-sm-12 col-lg-12 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    
-    <img src="s1.png" class="card-img-bottom" alt="..." >
-  </div>
-</div>
+      <div class="col-12 col-sm-6 col-lg-12 text-center pt-5 "> 
+      <img src="https://via.placeholder.com/200x200 " alt="" >
+      </div>  
+
+      <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start "> 
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, placeat? Quis minima alias natus praesentium, eos perspiciatis, quisquam numquam, ab reiciendis explicabo eius! Exercitationem ex nesciunt officia quo provident vero! 
+        </p>
+      </div>
    
-     </div>
+      <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center"> <img src="https://via.placeholder.com/200x200" alt="">
+      </div>  
 
-</article>
-</div>
-</div>
-      <footer>
-         <?php include "../rodape.php"?>
-      </footer>
+      <div class="col-12 col-sm-6 col-lg-12  pt-5 pb-5 text-start " > 
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia error tempore, consequatur aliquid sit similique. Corporis deleniti, est quae saepe voluptates, quibusdam esse facere ducimus voluptas modi, hic incidunt maxime? </p>
+      </div>
+
+    </section>
+     
+    <section class="row pt-5 "> 
+
+      <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center" > <img src="https://via.placeholder.com/200x200" alt="">
+      </div>
+
+      <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start" > 
+        <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error quis quisquam hic praesentium consectetur iusto excepturi rerum voluptatibus neque repellat deserunt quae necessitatibus, labore explicabo est ex molestiae illum asperiores!</p> 
+      </div>
+
+
+      <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center" > <img src="https://via.placeholder.com/200x200" alt="">
+      </div>
+    
+      <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start " > 
+        <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptates consequatur nemo eveniet quod molestiae esse culpa maiores facere dolorem itaque iure dignissimos obcaecati amet, voluptate facilis laboriosam. Repudiandae, ipsam exercitationem? </p>
+      </div>
+
+    </section>
+
+  </div>
+<footer><?php include "../rodape.php"?></footer>
+  
 </body>
 </html>
