@@ -15,300 +15,54 @@
 
 </header>
 
+  <body>
+<?php include "../nav.php"?>
   <div class="container">
-
-    <div class="row">
-         <?php include "../nav.php"?>
-      <div class="col-12">
-        <a href="../index.php">Home</a> / <a href="index.php">Cinema</a>
-      </div>
-    </div>
-  <div class="row justify-content-center">
-    <div class="col-5 ">
-      <input type="text" class="form-control " placeholder="Pesquise sobre filmes,noticias.." />
-    </div>
-    <div class="col-2 p-2">
-      <i class="bi-search "></i>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-12 text-center">
-      <h1>CINEMA</h1>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-12 text-center">
-      <p>
-        Lorem ipsum dolor sit amet, consecteturLorem ipsum
-         dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-        consecteturLorem ipsum dolor sit amet, consectetur 
-      </p>
-    </div>
-  </div>
-  <div class="container text-center">
-      <div class="row">
-        <div class="col-6 col-sm-3 col-lg-3 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
-          <img src="https://via.placeholder.com/250x350" class="img-fluid" alt = ''>
-          <div>FILMES</div>
-        </div>
-        <div class="col-6 col-sm-3 col-lg-3 p-1">
-          <img src="https://via.placeholder.com/250x350" class="img-fluid" alt = ''>
-          <div>STREAMING</div>
-        </div>
-        <div class="col-6 col-sm-3 col-lg-3 p-1">
-          <img src="https://via.placeholder.com/250x350" class="img-fluid" alt = ''>
-          <div>ENTREVISTAS</div>
-        </div>
-        <div class="col-6 col-sm-3 col-lg-3 p-1">
-          <img src="https://via.placeholder.com/250x350" class="img-fluid" alt = ''>
-          <div>LITERATURA</div>
-        </div>
-      </div>
-  </div>
+   
   
-  <section id="cinema">
-  <div class="row">
-    <div class="col-12">
-      <h1>CINEMA</h1>
-    </div> 
+    <section class="row pt-5 "> 
+
+      <div class="col-6 col-sm-12 col-lg-6 text-center pt-5 "> 
+      <img src="https://via.placeholder.com/200x200 " alt="" >
+      </div>  
+
+      <div class="col-6 col-sm-12 col-lg-6 pt-5 pb-5 text-start "> 
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, placeat? Quis minima alias natus praesentium, eos perspiciatis, quisquam numquam, ab reiciendis explicabo eius! Exercitationem ex nesciunt officia quo provident vero! 
+        </p>
+      </div>
+   
+      <div class="col-6 col-sm-12 col-lg-6 pt-5 text-center"> <img src="https://via.placeholder.com/200x200" alt="">
+      </div>  
+
+      <div class="col-6 col-sm-12 col-lg-6  pt-5 pb-5 text-start " > 
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia error tempore, consequatur aliquid sit similique. Corporis deleniti, est quae saepe voluptates, quibusdam esse facere ducimus voluptas modi, hic incidunt maxime? </p>
+      </div>
+
+    </section>
+     
+    <section class="row pt-5 "> 
+
+      <div class="col-6 col-sm-12 col-lg-6 pt-5 text-center" > <img src="https://via.placeholder.com/200x200" alt="">
+      </div>
+
+      <div class="col-6 col-sm-12 col-lg-6 pt-5 pb-5 text-start" > 
+        <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error quis quisquam hic praesentium consectetur iusto excepturi rerum voluptatibus neque repellat deserunt quae necessitatibus, labore explicabo est ex molestiae illum asperiores!</p> 
+      </div>
+
+
+      <div class="col-6 col-sm-12 col-lg-6 pt-5 text-center" > <img src="https://via.placeholder.com/200x200" alt="">
+      </div>
+    
+      <div class="col-6 col-sm-12 col-lg-6 pt-5 pb-5 text-start " > 
+        <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptates consequatur nemo eveniet quod molestiae esse culpa maiores facere dolorem itaque iure dignissimos obcaecati amet, voluptate facilis laboriosam. Repudiandae, ipsam exercitationem? </p>
+      </div>
+
+    </section>
+
+  
+
+    </section>
   </div>
-  <div class="row text-center">
-    <div class=" col-sm-5 col-lg-12">
-      <picture >
-        <source srcset="https://via.placeholder.com/1100x320" class="img-fluid" media="(min-width:992px)" alt = ''>
-        <img src="https://via.placeholder.com/255x320" class="img-fluid" alt = ''>
-      </picture>
-    </div>
-    <div class="col-12 col-sm-5 col-lg-12">
-      <div class="row ">
-        <p>
-        Lorem ipsum dolor sit amet, consecteturLorem ipsum
-         dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-        consecteturLorem ipsum dolor sit amet, consectetur
-        Lorem ipsum dolor sit amet, consecteturLorem ipsum
-        </p>  
-      </div>
-      <div class="row justify-content-center ">
-      <div class="col-3 col-sm-5 col-lg-2">LANÇAMENTO</div>
-      <div class="col-2 col-sm-5 col-lg-1">AÇÃO</div>
-      </div>
-      <div>
-        <i class="bi bi-circle"></i>
-        <i class="bi bi-circle"></i>
-        <i class="bi bi-circle"></i>
-      </div>
-    </div>
-  </div>
-</section>
-<section id="streamming">
-  <div class="row ">
-    <div class="col">
-      <h1>STREAMING</h1>
-    </div>
-  </div>
-  <div class="row text-center">
-    <div class="col-12 col-sm-4 col-lg-4 "><!--col <= 576px; col-sm >=576px col-lg >=992px -->
-      <img src="https://via.placeholder.com/250x350" class="img-fluid" alt = ''>
-      <div>PRIME VIDEO</div>
-    </div>
-    <div class="col-12 col-sm-4 col-lg-4 ">
-      <img src="https://via.placeholder.com/250x350" class="img-fluid" alt = ''>
-      <div>NETIFLIX</div>
-    </div>
-    <div class="col-12 col-sm-4 col-lg-4 ">
-      <img src="https://via.placeholder.com/250x350" class="img-fluid" alt = ''>
-      <div>DISNEY PLUS</div>
-    </div>
-  </div>
-</section>
-  <section id="literatura">
-      <div class="row">
-        <div class="col-12">
-          <h1>LITERATURA</h1>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-12 col-sm-6 col-lg-3 p-1">
-          <div class="text-center">
-            <figure>
-              <img src="https://via.placeholder.com/250x350" alt = ''>
-              <figcaption>Maze Runner</figcaption>
-            </figure>
-          </div>
-          <div class="text-left">
-            <h5>
-              Lorem ipsum dolor sit amet, consectetur 
-            </h5>
-            <h6>
-              Por <a href="">Yasmin</a>  28/10/20222
-            </h6>
-            
-            <div class="text-left"></div>
-            <p>
-            Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit amet,
-            </p>
-          </div>
-          <div class="text-right">
-            <a href="">Ler Mais</a>
-          </div>
-        </div>
-        <div class="col-12 col-sm-6 col-lg-3 p-1">
-          <div class="text-center">
-            <figure>
-              <img src="https://via.placeholder.com/250x350" alt = ''>
-              <figcaption>Maze Runner</figcaption>
-            </figure>
-          </div>
-          <div class="text-left">
-            <h5>
-              Lorem ipsum dolor sit amet, consectetur 
-            </h5>
-            <h6>
-              Por <a href="">Yasmin</a>  28/10/20222
-            </h6>
-            
-            <div class="text-left"></div>
-            <p>
-            Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit amet,
-            </p>
-            <div class="text-right">
-              <a href="">Ler Mais</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-12 col-sm-6 col-lg-3 p-1">
-          <div class="text-center">
-            <figure>
-              <img src="https://via.placeholder.com/250x350"  alt = ''>
-              <figcaption>Maze Runner</figcaption>
-            </figure>
-          </div>
-          <div class="text-left">
-            <h5>
-              Lorem ipsum dolor sit amet, consectetur 
-            </h5>
-            <h6>
-              Por <a href="">Yasmin</a>  28/10/20222
-            </h6>
-            
-            <div class="text-left"></div>
-            <p>
-            Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit amet,
-            </p>
-            <div class="text-right">
-              <a href="">Ler Mais</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-12 col-sm-6 col-lg-3 p-1">
-          <div class="text-center">
-            <figure>
-              <img src="https://via.placeholder.com/250x350" alt = ''>
-              <figcaption>Maze Runner</figcaption>
-            </figure>
-          </div>
-          <div class="text-left">
-            <h5>
-              Lorem ipsum dolor sit amet, consectetur 
-            </h5>
-            <h6>
-              Por <a href="">Yasmin</a>  28/10/20222
-            </h6>
-            <div class="text-left"></div>
-            <p>
-            Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit amet,
-            </p>
-            <div class="text-right">
-              <a href="">Ler Mais</a>
-            </div>
-          </div>
-        </div>
-      </div>
-  </section>
-  <section id="entrevistas">
-    <div class="row">
-      <div class="col-12">
-        <h1>ENTREVISTAS</h1>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-12 col-sm-6 col-lg-3">
-        <div class="row">
-          <h6>Ator 1</h6>
-        </div>
-        <div class="row">
-          <img src="https://via.placeholder.com/294x160" alt = ''>
-        </div>
-        <div class="row">
-          <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit ame</p>
-        </div>
-        <div class="row">
-          <a href="">Ler Mais</a>
-        </div>
-      </div>
-      <div class="col-12 col-sm-6 col-lg-3">
-        <div class="row">
-          <h6>Ator 1</h6>
-        </div>
-        <div class="row">
-          <img src="https://via.placeholder.com/294x160" alt = ''>
-        </div>
-        <div class="row">
-          <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit ame</p>
-        </div>
-        <div class="row">
-          <a href="">Ler Mais</a>
-        </div>
-      </div>
-      <div class="col-12 col-sm-6 col-lg-3">
-        <div class="row">
-          <h6>Ator 1</h6>
-        </div>
-        <div class="row">
-          <img src="https://via.placeholder.com/294x160" alt = ''>
-        </div>
-        <div class="row">
-          <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit ame</p>
-        </div>
-        <div class="row">
-          <a href="">Ler Mais</a>
-        </div>
-      </div>
-      <div class="col-12 col-sm-6 col-lg-3">
-        <div class="row">
-          <h6>Ator 1</h6>
-        </div>
-        <div class="row">
-          <img src="https://via.placeholder.com/294x160" alt = ''>
-        </div>
-        <div class="row">
-          <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit ame</p>
-        </div>
-        <div class="row">
-          <a href="">Ler Mais</a>
-        </div>
-      </div>
-    </div>
-  </section>
-<footer>
   <?php include "../rodape.php"?>
-</footer>
-</div>
 </body>
 </html>
