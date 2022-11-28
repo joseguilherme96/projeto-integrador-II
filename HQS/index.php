@@ -12,39 +12,50 @@
     <?php include "../nav.php"?>
 <div class="container text-center">
   
-  <div class="container text-center">
+ <section>
   <div class="row">
     
-    <div class="col-12 col-sm-6 col-lg-3 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
-    <aside>
+    <div class="col-12 col-sm-6 col-lg-5 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
+   
       <img src="https://via.placeholder.com/250x350" class="img-fluid" alt=" AQUI TEMOS UMA IMAGEM ">
-      <div>Super</div>
-      </aside>
+      <h3>Super</h3>
+    
+    
     </div>
     
 
-    <div class="col-12 col-sm-6 col-lg-3 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
+    <div class="col-12 col-sm-6 col-lg-7 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
       <img src="https://via.placeholder.com/250x350" class="img-fluid" alt=" AQUI TEMOS UMA IMAGEM ">
-      <div>STREAMING</div>
+      <h3>STREAMING</h3>
+    </div>
+   
+
+</section>
+
+<section>
+    <div class="row">
+
+    <div class="col-12 col-sm-6 col-lg-2 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
+      <img src="https://via.placeholder.com/250x350" class="img-fluid"  alt=" AQUI TEMOS UMA IMAGEM ">
+      <h3>ENTREVISTAS</h3>
     </div>
 
 
-
-    <div class="col-12 col-sm-6 col-lg-3 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
+    <div class="col-12 col-sm-6 col-lg-2 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
       <img src="https://via.placeholder.com/250x350" class="img-fluid"  alt=" AQUI TEMOS UMA IMAGEM ">
-      <div>ENTREVISTAS</div>
+      <h3>LITERATURA</h3>
+
+      
     </div>
-    
-
-    <div class="col-12 col-sm-6 col-lg-3 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
-      <img src="https://via.placeholder.com/250x350" class="img-fluid"  alt=" AQUI TEMOS UMA IMAGEM ">
-      <div>LITERATURA</div>
+    <div class="col-12 col-sm-12 col-lg-8 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
+        <h5> Lorem ipsum dolor sit amet, Integer vel hendrerit magna. Etiam ac urna a enim vulputate mattis a ut erat. Donec vel feugiat ex, eu accumsan nunc.</h5>
       </div>
 
-    </div>
-    </div>
+   
+ 
+</section>
 
-
+</div>
 
 <footer>
    <?php include "../rodape.php"?>
