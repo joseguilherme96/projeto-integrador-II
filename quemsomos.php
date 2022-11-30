@@ -10,7 +10,7 @@
 
   <div class="container">
     <nav>
-    <?php include "../nav.php"?>
+    <?php include "nav.php"?>
 </nav>
     <section class="row pt-5 "> 
 
@@ -52,7 +52,7 @@
     </section>
 
   </div>
-<footer><?php include "../rodape.php"?></footer>
+<footer><?php include "rodape.php"?></footer>
   
 </body>
 </html>

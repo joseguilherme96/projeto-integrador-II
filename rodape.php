@@ -10,12 +10,12 @@
                 </div>
                 <div class="col-sm-3 col-lg-1 d-none d-sm-inline">
                     <ul >
-                        <li><a href="#">HQS</a></li>
-                        <li><a href="#">Matérias</a></li>
-                        <li><a href="#">Top Five</a></li>
-                        <li><a href="#">Melhores Criticas</a></li>
-                        <li><a href="#">Melhores Autores</a></li>
-                        <li><a href="#">Criticas</a></li>
+                        <li><a href="/projeto-integrador-II/HQS/index.php">HQS</a></li>
+                        <li><a href="/projeto-integrador-II/HQS/materia.php">Matérias</a></li>
+                        <li><a href="/projeto-integrador-II/HQS/topfive.php">Top Five</a></li>
+                        <li><a href="/projeto-integrador-II/HQS/ultimasnoticias.php">Melhores Criticas</a></li>
+                        <li><a href="/projeto-integrador-II/HQS/autores.php">Melhores Autores</a></li>
+                        <li><a href="/projeto-integrador-II/HQS/critica.php">Criticas</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-3 col-lg-1 d-none d-sm-inline">
