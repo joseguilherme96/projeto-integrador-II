@@ -1,40 +1,45 @@
-<footer class="row border">
+<style>
+    footer > div {
+        background-color:#363636;
+    }
+</style>
+<footer class="row border text-light">
                 <div class="col-sm-3 col-lg-1 d-none d-sm-inline">
                     <ul>
-                        <li><a href="/projeto-integrador-II/cinema/index.php">Cinema</a></li>
-                        <li><a href="/projeto-integrador-II/cinema/filmes.php">Filmes</a></li>
-                        <li><a href="/projeto-integrador-II/cinema/streaming.php">Streaming</a></li>
-                        <li><a href="/projeto-integrador-II/cinema/literatura.php">Literatura</a></li>
-                        <li><a href="/projeto-integrador-II/cinema/entrevistas.php">Entrevistas</a></li>
+                        <li><a href="/projeto-integrador-II/cinema/index.php" class="text-decoration-none text-light">Cinema</a></li>
+                        <li><a href="/projeto-integrador-II/cinema/filmes.php" class="text-decoration-none text-light" >Filmes</a></li>
+                        <li><a href="/projeto-integrador-II/cinema/streaming.php" class="text-decoration-none text-light">Streaming</a></li>
+                        <li><a href="/projeto-integrador-II/cinema/literatura.php" class="text-decoration-none text-light">Literatura</a></li>
+                        <li><a href="/projeto-integrador-II/cinema/entrevistas.php" class="text-decoration-none text-light">Entrevistas</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-3 col-lg-1 d-none d-sm-inline">
                     <ul >
-                        <li><a href="/projeto-integrador-II/HQS/index.php">HQS</a></li>
-                        <li><a href="/projeto-integrador-II/HQS/materia.php">Matérias</a></li>
-                        <li><a href="/projeto-integrador-II/HQS/topfive.php">Top Five</a></li>
-                        <li><a href="/projeto-integrador-II/HQS/ultimasnoticias.php">Melhores Criticas</a></li>
-                        <li><a href="/projeto-integrador-II/HQS/autores.php">Melhores Autores</a></li>
-                        <li><a href="/projeto-integrador-II/HQS/critica.php">Criticas</a></li>
+                        <li><a href="/projeto-integrador-II/HQS/index.php" class="text-decoration-none text-light">HQS</a></li>
+                        <li><a href="/projeto-integrador-II/HQS/materia.php" class="text-decoration-none text-light">Matérias</a></li>
+                        <li><a href="/projeto-integrador-II/HQS/topfive.php" class="text-decoration-none text-light">Top Five</a></li>
+                        <li><a href="/projeto-integrador-II/HQS/ultimasnoticias.php" class="text-decoration-none text-light">Melhores Criticas</a></li>
+                        <li><a href="/projeto-integrador-II/HQS/autores.php" class="text-decoration-none text-light">Melhores Autores</a></li>
+                        <li><a href="/projeto-integrador-II/HQS/critica.php" class="text-decoration-none text-light">Criticas</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-3 col-lg-1 d-none d-sm-inline">
                     <ul >
-                        <li><a href="/projeto-integrador-II/cosplay/cosplay.php">Cosplay</a></li>
-                        <li><a href="/projeto-integrador-II/cosplay/animes.php">Animes</a></li>
-                        <li><a href="/projeto-integrador-II/cosplay/games.php">Game</a></li>
-                        <li><a href="/projeto-integrador-II/cosplay/noticias.php">Noticias</a></li>
-                        <li><a href="/projeto-integrador-II/cosplay/eventos.php">Eventos</a></li>
+                        <li><a href="/projeto-integrador-II/cosplay/cosplay.php" class="text-decoration-none text-light">Cosplay</a></li>
+                        <li><a href="/projeto-integrador-II/cosplay/animes.php" class="text-decoration-none text-light">Animes</a></li>
+                        <li><a href="/projeto-integrador-II/cosplay/games.php" class="text-decoration-none text-light">Game</a></li>
+                        <li><a href="/projeto-integrador-II/cosplay/noticias.php" class="text-decoration-none text-light">Noticias</a></li>
+                        <li><a href="/projeto-integrador-II/cosplay/eventos.php" class="text-decoration-none text-light">Eventos</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-3  col-lg-1 d-none d-sm-inline">
                     <ul >
-                        <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/serieshome.php">Serie/Tv</a></li>
-                        <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/resenha.php">Resenhas</a></li>
-                        <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/lançamentos.php">Lançamentos</a></li>
-                        <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/criticas.php">Criticas</a></li>
-                        <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/noticias.php">Notícias</a></li>
-                        <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/atores.php">Atores</a></li>
+                        <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" class="text-decoration-none text-light">Serie/Tv</a></li>
+                        <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/resenha.php" class="text-decoration-none text-light">Resenhas</a></li>
+                        <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/lançamentos.php" class="text-decoration-none text-light">Lançamentos</a></li>
+                        <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/criticas.php" class="text-decoration-none text-light">Criticas</a></li>
+                        <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/noticias.php" class="text-decoration-none text-light">Notícias</a></li>
+                        <li><a class="dropdown-item" href="/projeto-integrador-II/Seriesetv.php/atores.php" class="text-decoration-none text-light">Atores</a></li>
                     </ul>
                 </div>
                 <div class="col-3 col-lg-1">

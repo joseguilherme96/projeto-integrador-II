@@ -7,17 +7,19 @@
     <link href="css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link rel="stylesheet" href="node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="css/tema.css">
     <title>Home</title>
 </head>
 <body>
+<?php include "nav.php"?>
     <div class="container">
-    <?php include "nav.php"?>
+    
     <div class="row">
-      <div class="col-12">
-        <a href="index.php">Home</a> / 
+      <div class="col-12 cor-letra">
+        <a href="index.php" class="text-decoration-none cor-letra">Home</a> / 
       </div>
     </div>
-    <div class="row justify-content-center">
+    <div class="row justify-content-center my-5">
     <div class="col-5 ">
       <input type="text" class="form-control " placeholder="Pesquise sobre cosplay" />
     </div>
@@ -25,13 +27,11 @@
       <i class="bi-search "></i>
     </div>
   </div>
-    <section class="cinema">
-        <div class="row text-center">
+    <section class="cinemamt-5">
+        <div class="row  mt-5">
             <div class="col-12 col-sm-12 col-lg-12">
-                <h2>CINEMA</h2>
+                <h2 class="cor-letra text-start py-3">CINEMA</h2>
             </div>
-        </div>
-        <div class="row">
             <div class="col-12 col-sm-12 col-lg-12 ">
                 <p class="align-items-center">
                     Lorem ipsum dolor sit amet, consecteturLorem ipsum
@@ -39,46 +39,40 @@
                     consecteturLorem ipsum dolor sit amet, consectetur
                 </p>
             </div>
-            <div class=" col-sm-12 col-lg-12 text-center p-1">
-                <picture >
-                    <source srcset="https://via.placeholder.com/1700x320" class="img-fluid" media="(min-width:992px)">
-                    <source srcset="https://via.placeholder.com/821x229" class="img-fluid" media="(min-width:576px)">
-                    <img src="https://via.placeholder.com/299x119" class="img-fluid">
-                </picture>
-            </div>
         </div>
         <div class="row ">
-            <div class="col-6 col-sm-6 col-lg-6 p-1 border py-lg-5">
+            <div class="col-12 col-sm-12 col-lg-6 p-1 py-lg-1 ">
           
-                <img src="https://via.placeholder.com/600x350" class="img-fluid ">
+                <img src="img/cinema.jpg" class="img-fluid ">
             
             </div>
-            <div class="col-6 col-sm-6 col-lg-6 p-1">
-                <p>
+            <div class="cor-fundo col-12 col-sm-12 col-lg-6 p-1 py-lg-1 my-1" >
+                <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
+                <h2 class="d-inline cor-letra">Lorem ipsum</h2>
+                <p class="">
                     Lorem ipsum dolor sit amet, consecteturLorem ipsum
                     dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
                     consecteturLorem ipsum dolor sit amet, consectetur
                     Lorem ipsum dolor sit amet, consecteturLorem ipsum
                     dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-                    consecteturLorem ipsum dolor sit amet, consectetur
+                    conse   cteturLorem ipsum dolor sit amet, consectetur
                 </p>
                 <div class="text-end pb-3">
-                <a class="btn btn-primary" href="/projeto-integrador-II/cinema/index.php" role="button">Ver mais</a>
+                <a class="btn" style="background-color:#E03616" href="/projeto-integrador-II/cinema/index.php" role="button">Ver mais</a>
             </div>
             </div>
         </div>
     </section>
     <section>
-        <div class="row text-center">
-            <div class="col-12 col-sm-12 col-lg-12">
-                <h2>HQS</h2>
+    <h2 class="py-3 cor-letra" >HQS</h2>
+        <div class="row text-center cor-fundo mt-5">
+            
+            <div class="col-12 col-sm-12 col-lg-6 p-1">
+                <img src="img/hqs.jpg" class="img-fluid ">
             </div>
-        </div>
-        <div class="row ">
-            <div class="col-6 col-sm-6 col-lg-6 p-1">
-                <img src="https://via.placeholder.com/600x350" class="img-fluid ">
-            </div>
-            <div class="col-6 col-sm-6 col-lg-6 p-1">
+            <div class="col-12 col-sm-12 col-lg-6 p-1 text-start">
+                <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
+                <h2 class="d-inline cor-letra text-start">Lorem ipsum</h2>
                 <p>
                     Lorem ipsum dolor sit amet, consecteturLorem ipsum
                     dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
@@ -88,11 +82,39 @@
                     consecteturLorem ipsum dolor sit amet, consectetur
                 </p>
                 <div class="text-end pb-3">
-                <a class="btn btn-primary" href="/projeto-integrador-II/HQS/index.php" role="button">Ver mais</a>
-            </div>
+                    <a class="btn" style="background-color:#E03616" href="/projeto-integrador-II/cinema/index.php" role="button">Ver mais</a>
+                </div>
             </div>
         </div>
-        <div class="row ">
+        <div class="row my-3 cor-fundo">
+            <div class=" text-start col-12 col-sm-12 col-lg-12">
+            <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
+                <h2 class="d-inline cor-letra text-start">Lorem ipsum</h2>
+                <p>
+                    Lorem ipsum dolor sit amet, consecteturLorem ipsum
+                    dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
+                    consecteturLorem ipsum dolor sit amet, consectetur
+                </p>
+            </div>  
+            <div class=" col-sm-12 col-lg-12 text-center p-1">
+                <picture >
+                    <source srcset="https://via.placeholder.com/1700x320" class="img-fluid" media="(min-width:992px)">
+                    <source srcset="https://via.placeholder.com/821x229" class="img-fluid" media="(min-width:576px)">
+                    <img src="https://via.placeholder.com/299x119" class="img-fluid">
+                </picture>
+            </div>
+            <div class=" text-start col-12 col-sm-12 col-lg-12">
+                <p>
+                    Lorem ipsum dolor sit amet, consecteturLorem ipsum
+                    dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
+                    consecteturLorem ipsum dolor sit amet, consectetur
+                </p>
+            </div>  
+        </div>
+    </section>
+    <section class="cosplay">
+    <h2 class=" py-3 cor-letra">COSPLAY</h2>
+        <div class="row cor-fundo mt-5">
             <div class="col-12 col-sm-12 col-lg-12">
                 <p>
                     Lorem ipsum dolor sit amet, consecteturLorem ipsum
@@ -107,42 +129,12 @@
                     <img src="https://via.placeholder.com/299x119" class="img-fluid">
                 </picture>
             </div>
-        </div>
-        <div class="col-12 col-sm-12 col-lg-12">
-                <p>
-                    Lorem ipsum dolor sit amet, consecteturLorem ipsum
-                    dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-                    consecteturLorem ipsum dolor sit amet, consectetur
-                </p>
-        </div>
-    </section>
-    <section class="cosplay text-center">
-        <div class="row">
-            <div class="col-12 col-sm-12 col-lg-12">
-                <h2>COSPLAY</h2>
-            </div>
-        </div>
-        <div class="row ">
-            <div class="col-12 col-sm-12 col-lg-12">
-                <p>
-                    Lorem ipsum dolor sit amet, consecteturLorem ipsum
-                    dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-                    consecteturLorem ipsum dolor sit amet, consectetur
-                </p>
-            </div>
-            <div class=" col-sm-12 col-lg-12 text-center p-1">
-                <picture >
-                    <source srcset="https://via.placeholder.com/1700x320" class="img-fluid" media="(min-width:992px)">
-                    <source srcset="https://via.placeholder.com/821x229" class="img-fluid" media="(min-width:576px)">
-                    <img src="https://via.placeholder.com/299x119" class="img-fluid">
-                </picture>
-            </div>
-        </div>
-        <div class="row ">
-            <div class="col-6 col-sm-6 col-lg-6 p-1">
+            <div class="col-12 col-sm-12 col-lg-6 p-1">
                 <img src="https://via.placeholder.com/600x350" class="img-fluid ">
             </div>
-            <div class="col-6 col-sm-6 col-lg-6 p-1">
+            <div class="col-12 col-sm-12 col-lg-6 p-1 text-start">
+            <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
+                <h2 class="d-inline cor-letra text-start">Lorem ipsum</h2>
                 <p>
                     Lorem ipsum dolor sit amet, consecteturLorem ipsum
                     dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
@@ -152,22 +144,20 @@
                     consecteturLorem ipsum dolor sit amet, consectetur
                 </p>
                 <div class="text-end pb-3">
-                <a class="btn btn-primary" href="/projeto-integrador-II/cosplay/cosplay.php" role="button">Ver mais</a>
+                <a class="btn" style="background-color:#E03616" href="/projeto-integrador-II/cinema/index.php" role="button">Ver mais</a>
             </div>
             </div>
         </div>
     </section>
     <section>
-        <div class="row text-center">
-            <div class="col-12 col-sm-12 col-lg-12">
-                <h2>SERIES & TV</h2>
-            </div>
-        </div>
-        <div class="row ">
-            <div class="col-6 col-sm-6 col-lg-6 p-1">
+        <h2 class="cor-letra py-3">SERIES & TV</h2>
+        <div class="row cor-fundo my-5">
+            <div class="col-12 col-sm-12 col-lg-6  p-1">
                 <img src="https://via.placeholder.com/600x350" class="img-fluid ">
             </div>
-            <div class="col-6 col-sm-6 col-lg-6 p-1">
+            <div class="col-12 col-sm-12 col-lg-6 p-1">
+            <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
+                <h2 class="d-inline cor-letra text-start">Lorem ipsum</h2>
                 <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum
                     dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
                     consecteturLorem ipsum dolor sit amet, consectetur
@@ -177,10 +167,8 @@
                 </p>
             </div> 
             <div class="text-end pb-3">
-                <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/lançamentos.php" role="button">Ver mais</a>
+            <a class="btn" style="background-color:#E03616" href="/projeto-integrador-II/cinema/index.php" role="button">Ver mais</a>
             </div>
-        </div>
-        <div class="row ">
             <div class="col-12 col-sm-12 col-lg-12">
                 <p>
                     Lorem ipsum dolor sit amet, consecteturLorem ipsum
@@ -194,8 +182,7 @@
                     <source srcset="https://via.placeholder.com/821x229" class="img-fluid" media="(min-width:576px)">
                     <img src="https://via.placeholder.com/299x119" class="img-fluid">
                 </picture>
-            </div>
-        </div>
+</div>
         <div class="col-12 col-sm-12 col-lg-12">
                 <p>
                     Lorem ipsum dolor sit amet, consecteturLorem ipsum
@@ -204,10 +191,11 @@
                 </p>
         </div>
         <div class="text-end pb-3">
-                <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/resenha.php" role="button">Ver mais</a>
+        <a class="btn" style="background-color:#E03616" href="/projeto-integrador-II/cinema/index.php" role="button">Ver mais</a>
             </div>
+</div>
     </section>
-    <?php include "rodape.php"?>
 </div>
 </body>
+<?php include "rodape.php"?>
 </html>
