@@ -12,7 +12,7 @@
 
     
     <div class="row justify-content-center">
-      <div class="col-2 m-5 col-sm-6 col-lg-3"> <img src="https://via.placeholder.com/120x120" alt="">
+      <div class="col-2 m-5 col-sm-6 col-lg-3"> <img src="/projeto-integrador-II/imgcosplay//boruto.jpg" alt="">
         
       </div>
 

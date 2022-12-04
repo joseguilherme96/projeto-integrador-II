@@ -14,38 +14,38 @@
     <section class="row pt-5 "> 
 
       <div class="col-12 col-sm-6 col-lg-3 text-center pt-5 "> 
-      <img src="https://via.placeholder.com/200x200 " alt="" >
+      <img src="/projeto-integrador-II/imgcosplay//kodia.jpg " alt="" >
       </div>  
 
       <div class="col-12 col-sm-6 col-lg-3 pt-5 pb-5 text-start "> 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, placeat? Quis minima alias natus praesentium, eos perspiciatis, quisquam numquam, ab reiciendis explicabo eius! Exercitationem ex nesciunt officia quo provident vero! 
+        <p> <h6> Ahsoka Tano - Star Wars </h6> Incrivel Cosplay do personagem "Ahsoka Tano" feita por uma fã da grande série Star Wars surpreendeu nas redes sociais, a fã descreve "Esse cosplay foi um verdadeiro desafio pra mim, principalmente a maquiagem, e aprendi muito fazendo.Mal posso esperar para usá-la na Star Wars Celebration em Londres no ano que vem. 
         </p>
       </div>
    
-      <div class="col-12 col-sm-6 col-lg-3 pt-5 text-center"> <img src="https://via.placeholder.com/200x200" alt="">
+      <div class="col-12 col-sm-6 col-lg-3 pt-5 text-center"> <img src="/projeto-integrador-II/imgcosplay//arlequina.jpg" alt="">
       </div>  
 
       <div class="col-12 col-sm-6 col-lg-3  pt-5 pb-5 text-start " > 
-        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia error tempore, consequatur aliquid sit similique. Corporis deleniti, est quae saepe voluptates, quibusdam esse facere ducimus voluptas modi, hic incidunt maxime? </p>
+        <p> <h6>Deadpool e Arlequina </h6> Deadpool e Arlequina juntos em incrivel cosplay feito por fã, quem conhece sabe que os dois personagem são de casas de super-herois diferentes, então essa amizade é bem improvavel acontecer um dia, em algum filme, mas os fãs quebram barreiras. </p>
       </div>
 
     </section>
      
     <section class="row pt-5 "> 
 
-      <div class="col-12 col-sm-6 col-lg-3 pt-5 text-center" > <img src="https://via.placeholder.com/200x200" alt="">
+      <div class="col-12 col-sm-6 col-lg-3 pt-5 text-center" > <img src="/projeto-integrador-II/imgcosplay//gowcosplay.jpg" alt="">
       </div>
 
       <div class="col-12 col-sm-6 col-lg-3 pt-5 pb-5 text-start" > 
-        <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error quis quisquam hic praesentium consectetur iusto excepturi rerum voluptatibus neque repellat deserunt quae necessitatibus, labore explicabo est ex molestiae illum asperiores!</p> 
+        <p> <h6>God of War Ragnarök</h6> Cosplay surpreende fãs da grande franquia, com o recém lançamendo do jogo God of War Ragnarök, que está sendo um sucesso absurdo, aclamada em todo o mundo, alguns comentarios positivos surgiram como este "A equipe envolvida na construção desses cosplays é simplesmente incrível". </p> 
       </div>
 
 
-      <div class="col-12 col-sm-6 col-lg-3 pt-5 text-center" > <img src="https://via.placeholder.com/200x200" alt="">
+      <div class="col-12 col-sm-6 col-lg-3 pt-5 text-center" > <img src="/projeto-integrador-II/imgcosplay//capitaoamerica.jpeg" alt="">
       </div>
     
       <div class="col-12 col-sm-6 col-lg-3 pt-5 pb-5 text-start " > 
-        <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptates consequatur nemo eveniet quod molestiae esse culpa maiores facere dolorem itaque iure dignissimos obcaecati amet, voluptate facilis laboriosam. Repudiandae, ipsam exercitationem? </p>
+        <p> <h6>Capitão America </h6> Incrivel cosplay de capitão america surpreende na CCXP, diretamente de guerra infinita, um dos herois mais queridos do mundo dos cinemas.</p>
       </div>
 
     </section>
@@ -53,18 +53,18 @@
     <section class="row pt-5 ">
 
       <div class="col-12 col-sm-6 col-lg-3 pt-5 text-center" > 
-        <img src="https://via.placeholder.com/200x200" alt="">
+        <img src="/projeto-integrador-II/imgcosplay//gueen.jpg" alt="">
       </div>
     
       <div class="col-12 col-sm-6 col-lg-3 pt-5 pb-5 text-start" > 
-        <p> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reiciendis eum reprehenderit ducimus praesentium placeat, ipsum deleniti quidem sed ea consectetur aut illum quod excepturi! Eveniet accusamus laborum atque adipisci commodi?</p>
+        <p> <h6>Gueen</h6> Fã faz cosplay de Gueen, uma das personagens mais amada da serie de filmes do Homem Aranha, além desses a fã ja fez diversos outros personagens.</p>
       </div>
 
-      <div class="col-12 col-sm-6 col-lg-3 pt-5 pb-5 text-center" > <img src="https://via.placeholder.com/200x200" alt="">
+      <div class="col-12 col-sm-6 col-lg-3 pt-5 pb-5 text-center" > <img src="/projeto-integrador-II/imgcosplay//sylvie.jpg" alt="">
       </div>
         
       <div class="col-12 col-sm-6 col-lg-3 pt-5 pb-5 text-start"> 
-        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aspernatur consequuntur modi, officiis animi fugit amet quia, porro beatae ullam itaque mollitia eveniet sed voluptatibus tempore illum vero perspiciatis nisi. </p> 
+        <p> <h6>Sylvie</h6> Quem ai conhece a grande "vilã" da serie Loki? Sylvie, uma personagem bastante imponente e que faz parte de um dos grandes estopims da marvel.   </p> 
       </div>
 
     </section>

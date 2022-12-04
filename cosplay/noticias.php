@@ -12,49 +12,49 @@
   <div class="container text-center">
       <div class="row justify-content-center pb-5 pt-5">
     <picture>
-        <source srcset="https://via.placeholder.com/1100x120" media="(min-width:1200px)"  class="img-fluid">
-        <source srcset="https://via.placeholder.com/950x120" media="(min-width:1110px)" class="img-fluid">
-        <source srcset="https://via.placeholder.com/800x120" media="(min-width:1000px)" class="img-fluid">
-        <source srcset="https://via.placeholder.com/750x120" media="(min-width:950px)"  class="img-fluid">
-        <source srcset="https://via.placeholder.com/700x120" media="(min-width:850px)"  class="img-fluid">
-        <source srcset="https://via.placeholder.com/600x120" media="(min-width:750px)"  class="img-fluid">
-        <source srcset="https://via.placeholder.com/470x120" media="(min-width:600px)"  class="img-fluid">
-        <img src="https://via.placeholder.com/415x150" alt="esta imagem está em branco">
+        <source srcset="/projeto-integrador-II/imgcosplay//mundodosgames.jpg" media="(min-width:1200px)"  class="img-fluid">
+        <source srcset="/projeto-integrador-II/imgcosplay//mundodosgames2.jpg" media="(min-width:1110px)" class="img-fluid">
+        <source srcset="/projeto-integrador-II/imgcosplay//mundodosgames3.jpg" media="(min-width:1000px)" class="img-fluid">
+        <source srcset="/projeto-integrador-II/imgcosplay//mundodosgames4.jpg" media="(min-width:950px)"  class="img-fluid">
+        <source srcset="/projeto-integrador-II/imgcosplay//mundodosgames5.jpg" media="(min-width:850px)"  class="img-fluid">
+        <source srcset="/projeto-integrador-II/imgcosplay//mundodosgames6.jpg" media="(min-width:750px)"  class="img-fluid">
+        <source srcset="/projeto-integrador-II/imgcosplay//mundodosgames7.jpg" media="(min-width:600px)"  class="img-fluid">
+        <img src="/projeto-integrador-II/imgcosplay//mundodosgames8.jpg" alt="esta imagem está em branco">
       </picture>
     </div>
     <div class="row justify-content-center ">
-
-      <div class="col-12  col-sm-3 col-lg-2 "> <img src="https://via.placeholder.com/120x120" alt="">
+  
+      <div class="col-12 col-sm-3 col-lg-2 "> <img src="/projeto-integrador-II/imgcosplay//cuphead.jpeg" alt="">
         
-      </div>
-      <div class="col-12  col-sm-3 col-lg-2 text-start "> 
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima, id doloremque </p>
-      </div>
+        </div>
+        <div class="col-12  col-sm-12 col-lg-2 text-start"> 
+        <p>  <h6> Cuphead</h6> é um enorme lançamento, um dos mais bem sucedidos da historia. O sucesso do game foi tão grande, que ele ganhou uma série animada na Netflix que já está na terceira temporada.</p>
+      </div> 
 
-      <div class="col-12  col-sm-3 col-lg-2 " > <img src="https://via.placeholder.com/120x120" alt="">
+      <div class="col-12 col-sm-12 col-lg-2" > <img src="/projeto-integrador-II/imgcosplay//summergamerfast.jpg" alt="">
 
       </div>
       
-      <div class="col-12  col-sm-3 col-lg-2 text-start"> 
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima, id doloremque </p>
+      <div class="col-12  col-sm-12 col-lg-2 text-start"> 
+        <p>  <h6> Summer Game Fast </h6>  Evento acontecerá dias antes do grande evento E3 2023. A próxima edição do Summer Game Fest já está marcada para acontecer a partir do dia 8 de junho.</p>
       </div>
   
     <div class="row justify-content-center pt-5 pb-5">
 
-      <div class="col-12  col-sm-3 col-lg-2" > <img src="https://via.placeholder.com/120x120" alt=""> 
+      <div class="col-12  col-sm-12 col-lg-2" > <img src="/projeto-integrador-II/imgcosplay//gowragnarok.png" alt=""> 
         
       </div>
 
-      <div class="col-12  col-sm-3 col-lg-2 text-start"> 
-        <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima, id doloremque </p>
+      <div class="col-12  col-sm-12 col-lg-2 text-start"> 
+        <p><h6>God of War Ragnarök</h6> Cosplay surpreende fãs da grande franquia. Principalmente com o recém lançamendo do jogo God of War Ragnarök,que está sendo um sucesso absurdo. </p>
       </div>
 
-      <div class="col-12  col-sm-3 col-lg-2" > <img src="https://via.placeholder.com/120x120" alt="">
+      <div class="col-12  col-sm-12 col-lg-2" > <img src="/projeto-integrador-II/imgcosplay//ccxp.png" alt="">
           
       </div>
 
-      <div class="col-12  col-sm-3 col-lg-2 text-start"> 
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima, id doloremque </p>
+      <div class="col-12  col-sm-12 col-lg-2 text-start"> 
+        <p><h6> CCXP</h6> Com evento historico ingressos se esgotam na CCXP22. Com muito conteudo, além de diversos idolos como Keanu Reeves, Bruna Marquezine, Xolo Maridueña e diversos outros. </p>
       </div>
     </div>
 
