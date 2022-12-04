@@ -257,71 +257,64 @@
   <section id="entrevistas">
     <div class="row">
       <div class="col-12">
-        <h2>ENTREVISTAS</h2>
+        <h2 class="cor-letra">ENTREVISTAS</h2>
       </div>
     </div>
     <div class="row">
       <div class="col-12 col-sm-6 col-lg-3">
         <div class="row">
-          <h6>Ator 1</h6>
+        <h2 class="cor-letra">Jason Stham</h2>
         </div>
         <div class="row">
-          <img src="https://via.placeholder.com/294x160" alt="Foto Autor">
+          <img src="img/jason-statham.jpg" alt="Foto Autor">
         </div>
         <div class="row">
-          <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit ame</p>
+          <p>Conhecido como o cara durão de Carga Explosiva, Os Mercenários e Velozes & Furiosos 7, Jason Statham fez poucas comédias em sua carreira. </p>
         </div>
-        <div class="row">
+        <div class="row text-end">
         <a href="entrevista-com-autores.php">Ler Mais</a>
         </div>
       </div>
       <div class="col-12 col-sm-6 col-lg-3">
         <div class="row">
-          <h6>Ator 1</h6>
+          <h2 class="cor-letra">Camille Rowe</h2>
         </div>
         <div class="row">
-          <img src="https://via.placeholder.com/294x160" alt="Foto Autor">
+          <img src="img/camille-rowe.jpg" alt="Foto Autor">
         </div>
         <div class="row">
-          <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit ame</p>
+          <p>Camille Rowe a protagonista do primeiro fashion film Journeys by Mango a apresentar a coleção feminina mais em</p>
+        </div>
+        <div class="row text-end">
+        <a href="entrevista-com-autores.php">Ler Mais</a>
+        </div>
+      </div>
+      
+      <div class="col-12 col-sm-6 col-lg-3">
+        <div class="row">
+          <h2 class="cor-letra">Vin Diesel</h2>
         </div>
         <div class="row">
+          <img src="img/vin-diesel.jpg" alt="Foto Autor">
+        </div>
+        <div class="row">
+          <p>Vin diesel fala sobre o filme Reativado que estreiou no dia 19 de janeiro.</p>
+        </div>
+        <div class="row text-end">
         <a href="entrevista-com-autores.php">Ler Mais</a>
         </div>
       </div>
       <div class="col-12 col-sm-6 col-lg-3">
         <div class="row">
-          <h6>Ator 1</h6>
+          <h2 class="cor-letra">Audrey Tautou</h2>
         </div>
         <div class="row">
-          <img src="https://via.placeholder.com/294x160" alt="Foto Autor">
+          <img src="img/audrey-tautou.jpg" alt="Foto Autor">
         </div>
         <div class="row">
-          <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit ame</p>
+          <p>Audrey Justine Tautou é uma atriz francesa. Reconhecida na França por sua atuação em Vénus beauté que lhe rendeu o prêmio César de Atriz Revelação</p>
         </div>
-        <div class="row">
-        <a href="entrevista-com-autores.php">Ler Mais</a>
-        </div>
-      </div>
-      <div class="col-12 col-sm-6 col-lg-3">
-        <div class="row">
-          <h6>Ator 1</h6>
-        </div>
-        <div class="row">
-          <img src="https://via.placeholder.com/294x160" alt="Foto Autor">
-        </div>
-        <div class="row">
-          <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit ame</p>
-        </div>
-        <div class="row">
+        <div class="row text-end">
         <a href="entrevista-com-autores.php">Ler Mais</a>
         </div>
       </div>

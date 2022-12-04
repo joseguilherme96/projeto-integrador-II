@@ -33,7 +33,7 @@
         </div>
         <div class="row">
             <section class="col-12 col-sm-6 col-lg-4 p-1">
-                <h2>Ator 1</h2>
+                <h2 class="cor-letra">Jason Stham - Velozes & Furiosos 8</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus rem eveniet quas! Nemo eveniet sint voluptatum fugit eius, incidunt voluptatem illum quae distinctio earum neque iste deserunt quaerat consectetur libero?</p>
                 <img src="https://via.placeholder.com/294x195" class="img-fluid" alt="Foto ator">
                 <a href="entrevista-com-autores.php" class="d-block text-end">Ler Mais</a>   

@@ -49,8 +49,8 @@
                    <div class="row">
                         <div class="col-3 col-lg-3">
                             <figure>
-                                <img src="/projeto-integrador-II/perfil.png" class="img-fluid" >
-                                <figcaption>Gilberto</figcaption>
+                                <img src="/projeto-integrador-II/img/IMG-20221204-WA0101.jpg" class="img-fluid" >
+                                <figcaption class="text-center" >Gilberto</figcaption>
                             </figure>
                         </div>
                         <div class="col-3 col-lg-3 ">
@@ -67,8 +67,8 @@
                         </div>
                         <div class="col-3 col-lg-3">
                             <figure>
-                                <img src="/projeto-integrador-II/perfil.png" class="img-fluid">
-                                <figcaption >Yasmin</figcaption>
+                                <img src="/projeto-integrador-II/img/IMG-20221204-WA0097.jpg" class="img-fluid">
+                                <figcaption class="text-center">Yasmin</figcaption>
                             </figure>
                         </div>
                     </div>

@@ -8,121 +8,74 @@
     <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="../css/tema.css">
 </head>
 <body>
+<?php include "../nav.php"?>
     <div class="container ">
-        <?php include "../nav.php"?>
         <div class="row">
             <div class="col-12">
                 <a href="../index.php">Home</a> / <a href="index.php">Cinema</a> / <a href="entrevistas.php">Entrevistas</a> / <a href="entrevista-com-autores.php">Entrevista</a> 
             </div>
         </div>
-        <div class="row justify-content-center">
-            <div class="col-5 ">
-                <input type="text" class="form-control " placeholder="Pesquise sobre filmes,noticias..">
-            </div>
-            <div class="col-2 p-2">
-                <i class="bi-search "></i>
-            </div>
-        </div>
+        <?php include "../barra-de-pesquisa.php";?>
         <article>
-            <h1 class="row d-block text-center">Entrevista</h1>
+            <h1 class="row d-block text-center cor-letra">Entrevistas</h1>
             <section>
+                <h2 class="cor-letra">Vin Diesel</h2>
+                <div class="row text-center">
+                    <div class="col-12 col-sm-12 col-lg-12" >
+                    <iframe class="col-12"  src="https://www.youtube.com/embed/yQ9QkFxC0sc" title="VIN DIESEL | Entrevista Exclusiva com Carol Moreira" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="row justify-content-start">
+                    <div class="col-lg-12">
+                        <p>Vin diesel fala sobre o filme Reativado que estreiou no dia 19 de janeiro. </p>
+                    </div>
+                
+                </div>
+            </section>
+            <section>
+                <h2 class="cor-letra">Camile Rowe</h2>
                 <div class="row text-center">
                     <div class="col-12 col-sm-12 col-lg-12">
-                        <picture>
-                                <source srcset="https://via.placeholder.com/718x306" media="(min-width:992px)">
-                                <source srcset="https://via.placeholder.com/471x306" media="(min-width:576px)">
-                                <img src="https://via.placeholder.com/313x150" alt="Foto Autor">
-                        </picture>
+                    <iframe class="col-12"src="https://www.youtube.com/embed/BO80Rdh_PbE" title="Mango: entrevista a Camille Rowe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="row justify-content-center">
-                    <div class="col-lg-5">
-                        <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                        <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
+                    <div class="col-lg-12">
+                        <p>Camille Rowe a protagonista do primeiro fashion film Journeys by Mango a apresentar a coleção feminina mais em</p>
                     </div>
-                    <div class="col-lg-3">
-                        <div class="row ">
-                            <div class="col-6 border">LANÇAMENTO</div>
-                            <div class="col-3 border">AÇAO</div>
-                        </div>
+                </div>
+            </section>
+            <section>
+                <h2 class="cor-letra">Jason Statham</h2>
+                <div class="row text-center">
+                    <div class="col-12 col-sm-12 col-lg-12">
+                    <iframe class="col-12" src="https://www.youtube.com/embed/Q7pTtHIcZuU" title="Entrevista a Jason Statham - El Especialista: Resurrección" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="row justify-content-center">
-                    <div class="col-8">
-                        <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur 
-                            Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur 
-                            Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur 
-                            Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur </p>
+                    <div class="col-lg-12">
+                        <p>Conhecido como o cara durão de Carga Explosiva, Os Mercenários e Velozes & Furiosos 7, Jason Statham fez poucas comédias em sua carreira.</p>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <h2 class="cor-letra">Audrey Tautou</h2>
+                <div class="row text-center">
+                    <div class="col-12 col-sm-12 col-lg-12">
+                    <iframe class="col-12" src="https://www.youtube.com/embed/GwqbAE6ir1w" title="Audrey Tautou live at the "Jonathan Ross Show" (2013) - TV excerpt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="row justify-content-center">
-                    <div class="col-8">
-                        <p>Disponíveis</p>
-                    </div>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-8">
-                        <div class="row justify-content-start">
-                            <div class="col-8 border">
-                                <img src="https://via.placeholder.com/50x50" class="img-fluid" alt="Logo Prime Video">
-                                <img src="https://via.placeholder.com/50x50" class="img-fluid" alt="Logo Netflix" >
-                                <img src="https://via.placeholder.com/50x50" class="img-fluid" alt="Logo Disney Plus">
-                            </div>
-                            <div class="col-4 text-end">
-                                <i class="bi bi-share"></i>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-8">
-                        <p>Referências Bibliograficas</p>
-                    </div>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-8">
-                        <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur Refer    </p>
+                    <div class="col-lg-12">
+                        <p>Audrey Justine Tautou é uma atriz francesa. Reconhecida na França por sua atuação em Vénus beauté que lhe rendeu o prêmio César de Atriz Revelação</p>
                     </div>
                 </div>
             </section>
         </article>
-        <section>
-            <div class="row justify-content-center">
-                    <h2 class="col-8">Ver mais</h2>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                    <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                    <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                    <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                    <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                    <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-                </div>
-            </div>
-        </section>
+       
     </div>
     <?php include "../rodape.php";?>
 </body>
