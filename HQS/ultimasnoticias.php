@@ -20,49 +20,77 @@
   <div class="container">
    
   
-    <section class="row pt-5 "> 
+  <section class="row pt-5 "> 
 
-      <div class="col-6 col-sm-12 col-lg-6 text-center pt-5 "> 
-      <img src="https://via.placeholder.com/200x200 " alt="" >
-      </div>  
+<div class="col-12 col-sm-12 col-lg-6 text-center pt-5 "> 
+<img src="u1.jpg" class="img-fluid" alt="Aqui temos a imagem do ultimo desenhão"  width="400px" height="400px">
+</div>  
 
-      <div class="col-6 col-sm-12 col-lg-6 pt-5 pb-5 text-start "> 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, placeat? Quis minima alias natus praesentium, eos perspiciatis, quisquam numquam, ab reiciendis explicabo eius! Exercitationem ex nesciunt officia quo provident vero! 
-        </p>
-      </div>
-   
-      <div class="col-6 col-sm-12 col-lg-6 pt-5 text-center"> <img src="https://via.placeholder.com/200x200" alt="">
-      </div>  
-
-      <div class="col-6 col-sm-12 col-lg-6  pt-5 pb-5 text-start " > 
-        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia error tempore, consequatur aliquid sit similique. Corporis deleniti, est quae saepe voluptates, quibusdam esse facere ducimus voluptas modi, hic incidunt maxime? </p>
-      </div>
-
-    </section>
-     
-    <section class="row pt-5 "> 
-
-      <div class="col-6 col-sm-12 col-lg-6 pt-5 text-center" > <img src="https://via.placeholder.com/200x200" alt="">
-      </div>
-
-      <div class="col-6 col-sm-12 col-lg-6 pt-5 pb-5 text-start" > 
-        <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error quis quisquam hic praesentium consectetur iusto excepturi rerum voluptatibus neque repellat deserunt quae necessitatibus, labore explicabo est ex molestiae illum asperiores!</p> 
-      </div>
-
-
-      <div class="col-6 col-sm-12 col-lg-6 pt-5 text-center" > <img src="https://via.placeholder.com/200x200" alt="">
-      </div>
-    
-      <div class="col-6 col-sm-12 col-lg-6 pt-5 pb-5 text-start " > 
-        <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptates consequatur nemo eveniet quod molestiae esse culpa maiores facere dolorem itaque iure dignissimos obcaecati amet, voluptate facilis laboriosam. Repudiandae, ipsam exercitationem? </p>
-      </div>
-
-    </section>
-
+<div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start "> 
+  <h1>Desenhão: batalha de desenhos ao vivo premiará artista com um iPad Pro</h1>
   
+  <p class="texto">No próximo sábado, 26 de novembro, a partir das 19h, acontece o Desenhão, uma festa que vai reunir artistas, fãs dos quadrinhos nacionais e amantes da cultura geek no geral numa oportunidade de juntar as pessoas para celebrar, debater assuntos e fazer arte.
 
-    </section>
-  </div>
-  <?php include "../rodape.php"?>
+    O atrativo principal da festa é a batalha de desenho. Oito artistas de quadrinhos serão convidados a duelar e desenhar sobre temas sorteados na hora. Eles terão cerca de dois minutos para concluir o desenho e o público decide quem é o(a) vencedor(a), valendo um Ipad Pro na etapa final. Participam Helô D’Angelo, Marilia Marz, Felipe Portugal, Jefferson Costa, Gabú Britto, Flávia Borges, Diego Sanchez e Aline Zouvi.
+    
+    Além da batalha, haverá uma pequena exposição com cartuns e tirinhas sobre autocuidado produzidas pelos oito artistas convidados, a partir de temas sensíveis às marcas parceiras do evento, que são Listerine, Sempre Livre e Carefree.
+    
+    O evento acontecerá na Dona Sonia Bar e Hamburgueria (Rua Júlio Rebollo Perez, 489 - Jardim Peri Peri), em São Paulo/SP, próximo ao Butantã Gibicon, um evento gratuito que tem como objetivo fomentar o cenário das histórias em quadrinhos nacionais e a diversidade de autores brasileiros
+  </p>
+</div>
+
+<div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
+   <img src="u2.jpg" class="img-fluid" alt="Formosa Márcia vence o Prêmio Jabuti na categoria História em Quadrinhos" width="400px" height="400px">
+</div>  
+
+<div class="col-12 col-sm-12 col-lg-6  pt-5 pb-5 text-start " > 
+  <h1>Formosa Márcia vence o Prêmio Jabuti na categoria História em Quadrinhos</h1>
+  <p class="texto"> Foi divulgado na data de ontem o vencedor da 64ª edição do Prêmio Jabuti na categoria História em Quadrinhos.
+
+    O prêmio foi para Escuta, Formosa Márcia, de Marcello Quintanilha (Editora Veneta). Na trama, a enfermeira Márcia, mãe solteira, nascida e criada em uma comunidade do Estado do Rio, vem travando uma verdadeira batalha doméstica para disciplinar sua filha, a insubordinada Jaqueline. Quando a jovem se vê envolvida até o pescoço com o crime organizado, Márcia estará disposta a chegar às últimas consequências para livrá-la dessa enrascada.
+    
+    Confira as demais obras finalistas nesta categoria:
+    
+    A menor distância entre dois pontos é uma fuga (independente), de Gabriel Nascimento e João Henrique Belo;
+    
+    Brega Story (Brasa Editora), de Gidalti Jr.;
+    
+    Manual do Minotauro (Quadrinhos na Cia.), de Laerte;
+    
+    Risca Faca (Monstra), de André Kitagawa.
+    
+    O Jabuti é a mais importante premiação literária do Brasil. O vencedor de cada categoria recebe o valor de R$ 5 mil, e o vencedor do Livro do Ano recebe R$ 100 mil. </p>
+</div>
+
+</section>
+
+<section class="row pt-5 "> 
+
+<div class="col-12 col-sm-12 col-lg-6 pt-5 text-center" > <img src="u3.jpg" class="img-fluid"alt="História em quadrinhos sobre Paulo Freire em campanha no Catarse" width="400px" height="400px">
+</div>
+
+<div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start" >
+  
+  <h1>História em quadrinhos sobre Paulo Freire em campanha no Catarse</h1>
+  <p class="texto"> A obra busca apresentar o educador a uma nova geração, mas também permitir um reencontro àqueles que conhecem sua história, com quatro narrativas criadas por Rogério Faria (Marighella #LIVRE), Ricardo Sousa (ZéMurai), Jefferson Costa (Jeremias - Pele) e Ren Nolasco (Só Ana), com 20 páginas.
+
+    As histórias seguem Paulo Freire da infância ao legado nos dias de hoje, destacando-se a experiência de alfabetização em Angicos-RN, a escrita da obra Pedagogia do Oprimido no exílio no Chile, sua contribuição a uma África recém-independente, seu retorno ao país e sua participação no debate sobre políticas públicas de educação, quando chegou a ser secretário de educação no município de São Paulo.
+    
+    De 1930 até os dias atuais, passando por Brasil, Chile, Genebra e Guiné-Bissau, descobrindo um ser humano generoso, que dedicou sua teoria e sua prática para mudar as vidas das pessoas, mudar o mundo.
+    
+    Com prefácio do Padre Júlio Lancellotti e posfácio da professora Eneide Araujo, o projeto foi contemplado pelo ProAC-SP 2021, contando com apoio do Governo do Estado de São Paulo, por meio da Secretaria de Cultura e Economia Criativa.
+    </p> 
+</div>
+
+
+
+
+</section>
+
+
+
+</section>
+</div>
+<?php include "../rodape.php"?>
 </body>
 </html>
