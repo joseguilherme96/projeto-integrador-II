@@ -35,7 +35,7 @@
       </div>
    
       <div class="col-12 col-sm-6 col-lg-6 pt-5 text-center"> 
-        <img src="/projeto-integrador-II/melissa.jpg.png" class="img-fluid " alt="Aqui temos a imagem da Melissa.">
+        <img src="/projeto-integrador-II/melissa.jpg.jpg" class="img-fluid " alt="Aqui temos a imagem da Melissa.">
       </div>  
 
       <div class="col-12 col-sm-6 col-lg-6  pt-5 pb-5 text-start " > 
