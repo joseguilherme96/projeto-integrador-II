@@ -1,8 +1,12 @@
 .cor-fundo{
-    background-color: #D2D2D2;
+    background-color:#D2D2D2; ;
 }
 .cor-letra{
     color: #E03616;
+}
+
+.cor-letra-D2D2D2{
+    color : #D2D2D2;
 }
 
 .cor-icone-quadrado{
