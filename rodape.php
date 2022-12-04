@@ -55,20 +55,20 @@
                         </div>
                         <div class="col-3 col-lg-3 ">
                         <figure>
-                                <img src="/projeto-integrador-II/perfil.png" class="img-fluid">
-                                <figcaption>José Guilherme</figcaption>
+                                <img src="/projeto-integrador-II/img/IMG_20220922_071956875.jpg" class="img-fluid">
+                                <figcaption class="text-center">José Guilherme</figcaption>
                             </figure>
                         </div>
                         <div class="col-3 col-lg-3">
                         <figure>
-                                <img src="/projeto-integrador-II/perfil.png" class="img-fluid">
-                                <figcaption>Melissa</figcaption>
+                                <img src="/projeto-integrador-II/img/Screenshot_20221204-094744.png" class="img-fluid">
+                                <figcaption class="text-center">Melissa</figcaption>
                             </figure>
                         </div>
                         <div class="col-3 col-lg-3">
                             <figure>
                                 <img src="/projeto-integrador-II/perfil.png" class="img-fluid">
-                                <figcaption>Yasmin</figcaption>
+                                <figcaption >Yasmin</figcaption>
                             </figure>
                         </div>
                     </div>
