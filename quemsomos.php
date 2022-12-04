@@ -15,7 +15,7 @@
     <section class="row pt-5 "> 
 
       <div class="col-12 col-sm-6 col-lg-6 text-center pt-5 "> 
-      <img src="https://via.placeholder.com/200x200 " alt="" >
+      <img src="melissa.jpg" alt="Aqui temos a imgem da Melissa" >
       </div>  
 
       <div class="col-12 col-sm-6 col-lg-6 pt-5 pb-5 text-start "> 
