@@ -56,7 +56,7 @@
            HQS
             </a>
             <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/index.php">HQS</a></li>
+            <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/pg.php">HQS</a></li>
               <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/materia.php">Materias</a></li>
               <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/topfive.php">Top Five</a></li>
               <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/critica.php">Criticas</a></li>
