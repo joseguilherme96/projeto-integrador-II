@@ -90,13 +90,17 @@
         </p>  
       </div>
       <div class="row justify-content-center ">
-      <div class="col-3 col-sm-5 col-lg-2">LANÇAMENTO</div>
-      <div class="col-2 col-sm-5 col-lg-1">AÇÃO</div>
+      <div class="cor-botao col-5 col-lg-2 text-center col-sm-7 m-1">
+            <a href="literatura.php" class="text-decoration-none text-light">LANÇAMENTO</a>
+          </div>
+          <div class="cor-botao col-5 col-lg-2 text-center col-sm-3 m-1">
+            <a href="literatura.php" class="text-decoration-none text-light">AÇÃO</a>
+          </div>
       </div>
       <div>
-        <i class="bi bi-circle"></i>
-        <i class="bi bi-circle"></i>
-        <i class="bi bi-circle"></i>
+        <i class="bi bi-circle cor-letra"></i>
+        <i class="bi bi-circle cor-letra" ></i>
+        <i class="bi bi-circle cor-letra"></i>
       </div>
     </div>
   </div>
@@ -109,16 +113,28 @@
   </div>
   <div class="row text-center">
     <div class="col-12 col-sm-4 col-lg-4 "><!--col <= 576px; col-sm >=576px col-lg >=992px -->
-      <img src="https://via.placeholder.com/250x350" class="img-fluid" alt="Capa Prime Video">
-      <div><a href="streaming.php">PRIME VIDEO</a></div>
+      <img src="img/prime-video.png " class="img-fluid border" alt="Capa Prime Video">
+      <div class="row justify-content-center">
+      <div class="cor-botao col-5 col-lg-5 text-center col-sm-10 m-1">
+            <a href="streaming.php" class="text-decoration-none text-light">PRIME VIDEO</a>
+          </div>
+      </div>
     </div>
     <div class="col-12 col-sm-4 col-lg-4 ">
-      <img src="https://via.placeholder.com/250x350" class="img-fluid" alt="Capa Netflix">
-      <div><a href="streaming.php">NETIFLIX</a></div>
+      <img src="img/netflix.png" class="img-fluid border" alt="Capa Netflix">
+      <div class="row justify-content-center">
+      <div class="cor-botao col-5 col-lg-5 text-center col-sm-10 m-1">
+            <a href="streaming.php" class="text-decoration-none text-light">NETFLIX</a>
+          </div>
+      </div>
     </div>
     <div class="col-12 col-sm-4 col-lg-4 ">
-      <img src="https://via.placeholder.com/250x350" class="img-fluid" alt="Capa Disney Plus">
-      <div><a href="streaming.php">DISNEY PLUS</a></div>
+      <img src="img/disney-plus.png" class="img-fluid border " alt="Capa Disney Plus">
+      <div class="row justify-content-center">
+      <div class="cor-botao col-5 col-lg-5 text-center col-sm-10 m-1">
+            <a href="streaming.php" class="text-decoration-none text-light">DISNEY PLUS</a>
+          </div>
+      </div>
     </div>
   </div>
 </section>
@@ -299,8 +315,8 @@
         </div>
       </div>
     </div>
-  </section>
-  <?php include "../rodape.php"?>
+</section>
 </div>
+<?php include "../rodape.php"?>
 </body>
 </html>

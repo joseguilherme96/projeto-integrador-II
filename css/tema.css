@@ -12,3 +12,8 @@
 .cor-botao{
     background-color: #E03616;
 }
+
+.borda{
+    border-color:#E03616;
+    border-width: solid 3px;
+}
