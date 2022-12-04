@@ -33,11 +33,11 @@
             ?>
             <section>  
                 <div class="row text-center">
-                    <div class="col-12 col-sm-12 col-lg-12">
-                       
-                            <img src="img/artigos/banner-jogador-numero-1.jpg" class="img-fluid" >
-                           
-                             
+                    <div class="col-12 col-sm-12 col-lg-12 text-start text-lg-end">
+                    <figure>    
+                    <img src="img/artigos/banner-jogador-numero-1.jpg" class="img-fluid" >
+                    <figcaption><b>Fonte imagem em </b> https://www.hbomax.com/br/pt/feature/urn:hbo:feature:GX9q5dgf0LMILwgEAAAF0</figcaption>
+                    </figure>
                     </div>
                 </div>
                 <div class="row justify-content-center">
@@ -105,9 +105,10 @@
             <section>  
                 <div class="row text-center">
                     <div class="col-12 col-sm-12 col-lg-12">
-                       
-                            <img src="img/artigos/banner-harry-potter.png" class="img-fluid" >
-                           
+                       <figure>
+                        <img src="img/artigos/banner-harry-potter.png" class="img-fluid" >
+                        <figcaption><b>Fonte da imagem em</b> https://pt.wikipedia.org/wiki/Harry_Potter_%28s%C3%A9rie_de_filmes%29</figcaption>
+                        </figure>  
                              
                     </div>
                 </div>
@@ -181,9 +182,10 @@
             <section>  
                 <div class="row text-center">
                     <div class="col-12 col-sm-12 col-lg-12">
-                       
-                            <img src="img/artigos/banner-jennifer-lawrence.jpg" class="img-fluid" >
-                           
+                       <figure>
+                        <img src="img/artigos/banner-jennifer-lawrence.jpg" class="img-fluid" >
+                        <figcaption><b>Fonte imagem em </b>https://www.omelete.com.br/filmes/jennifer-lawrence-franquias-velha</figcaption>    
+                    </figure> 
                              
                     </div>
                 </div>
@@ -263,10 +265,11 @@
             <section>  
                 <div class="row text-center">
                     <div class="col-12 col-sm-12 col-lg-12">
-                       
-                            <img src="img/artigos/banner-senhor-dos-aneis.jpg" class="img-fluid" >
-                           
-                             
+                    
+                    <figure>
+                    <img src="img/artigos/banner-senhor-dos-aneis.jpg" class="img-fluid" >
+                    <figcaption><b>Fonte da imagem em </b>https://www.omelete.com.br/o-senhor-dos-aneis/aneis-do-poder-novas-escalacoes-fio</figcaption>
+                    </figure>     
                     </div>
                 </div>
                 <div class="row justify-content-center">
