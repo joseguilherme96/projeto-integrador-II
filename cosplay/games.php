@@ -13,7 +13,7 @@
 
     <div class="row text-center pt-5 pb-5 "> 
       
-        <div  class="col-4 col-sm-4 col-lg-4 pt-5 ">  <h6 class="cor-letra" >> God of War Ragnarok </h6 > <img src="/projeto-integrador-II/imgcosplay//godofwarragnarokgames.png" alt="God of War Ragnarök é um jogo eletrônico de ação-aventura desenvolvido pela Santa Monica Studio e publicado pela Sony Interactive Entertainment. Foi lançado em 9 de novembro de 2022 para PlayStation 4 e PlayStation 5. É o nono título da série God of War, o nono em ordem cronológica, e a sequência de God of War.">  </div> 
+        <div  class="col-4 col-sm-4 col-lg-4 pt-5 ">  <h6 class="cor-letra" > God of War Ragnarok </h6 > <img src="/projeto-integrador-II/imgcosplay//godofwarragnarokgames.png" alt="God of War Ragnarök é um jogo eletrônico de ação-aventura desenvolvido pela Santa Monica Studio e publicado pela Sony Interactive Entertainment. Foi lançado em 9 de novembro de 2022 para PlayStation 4 e PlayStation 5. É o nono título da série God of War, o nono em ordem cronológica, e a sequência de God of War.">  </div> 
       
       
         <div class="col-4 col-sm-4 col-lg-4 pt-5 "> <h6 class="cor-letra">Horizon Forbidden West </h6> <img src="/projeto-integrador-II/imgcosplay//horizonforbiden.png" alt="Horizon Forbidden West é um jogo eletrônico de RPG de ação desenvolvido pela Guerrilla Games e publicado pela Sony Interactive Entertainment. Foi lançado em 18 de fevereiro de 2022 para PlayStation 4 e PlayStation 5."> </div>
@@ -32,6 +32,7 @@
 
     </div>
   </div>
+</div>
 
 <?php include "../rodape.php"?>
   
