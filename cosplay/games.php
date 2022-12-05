@@ -22,13 +22,13 @@
       
     <div class="row pt-5 pb-5">
 
-        <div class="col-3 col-sm-4 col-lg-4 " >  <h6 class="cor-letra"> Forza Horizon 5 </h6> <img src="/projeto-integrador-II/imgcosplay//forza.png" alt="Forza Horizon 5 é um jogo eletrônico de corrida desenvolvido pela Playground Games e publicado pela Xbox Game Studios. É o quinto jogo da série Forza Horizon e o décimo segundo título principal da franquia Forza. O jogo se passa em uma representação ficcional do México. "> </div>
+        <div class="col-4 col-sm-4 col-lg-4 " >  <h6 class="cor-letra"> Forza Horizon 5 </h6> <img src="/projeto-integrador-II/imgcosplay//forza.png" alt="Forza Horizon 5 é um jogo eletrônico de corrida desenvolvido pela Playground Games e publicado pela Xbox Game Studios. É o quinto jogo da série Forza Horizon e o décimo segundo título principal da franquia Forza. O jogo se passa em uma representação ficcional do México. "> </div>
 
 
-        <div class="col-3 col-sm-4 col-lg-4 " > <h6 class="cor-letra"> The Last of Us Part II   </h6> <img src="/projeto-integrador-II/imgcosplay//thelastofusgames.png" alt="The Last of Us Part II é um jogo eletrônico de ação-aventura desenvolvido pela Naughty Dog e publicado pela Sony Interactive Entertainment. É o segundo jogo da franquia e foi lançado em 19 de junho de 2020 exclusivamente para PlayStation 4."></div>
+        <div class="col-4 col-sm-4 col-lg-4 " > <h6 class="cor-letra"> The Last of Us Part II   </h6> <img src="/projeto-integrador-II/imgcosplay//thelastofusgames.png" alt="The Last of Us Part II é um jogo eletrônico de ação-aventura desenvolvido pela Naughty Dog e publicado pela Sony Interactive Entertainment. É o segundo jogo da franquia e foi lançado em 19 de junho de 2020 exclusivamente para PlayStation 4."></div>
       </picture>
 
-        <div class="col-3  col-sm-4 col-lg-4 " > <h6 class="cor-letra" > Days Gone   </h6> <img src="/projeto-integrador-II/imgcosplay//daysgonegames.png" alt="Days Gone é um jogo eletrônico de ação-aventura e sobrevivência desenvolvido pela Bend Studio e publicado pela Sony Interactive Entertainment. O jogo se passa no Oregon pós-apocalíptico, dois anos após o início de uma pandemia. O ex-fora-da-lei que se tornou um vagabundo, o diácono St.">  </div>
+        <div class="col-4  col-sm-4 col-lg-4 " > <h6 class="cor-letra" > Days Gone   </h6> <img src="/projeto-integrador-II/imgcosplay//daysgonegames.png" alt="Days Gone é um jogo eletrônico de ação-aventura e sobrevivência desenvolvido pela Bend Studio e publicado pela Sony Interactive Entertainment. O jogo se passa no Oregon pós-apocalíptico, dois anos após o início de uma pandemia. O ex-fora-da-lei que se tornou um vagabundo, o diácono St.">  </div>
 
     </div>
   </div>
