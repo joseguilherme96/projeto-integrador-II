@@ -27,28 +27,24 @@
             </div>
             <div class="col-12 col-sm-12 col-lg-12 ">
                 <p class="align-items-center">
-                    Lorem ipsum dolor sit amet, consecteturLorem ipsum
-                    dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-                    consecteturLorem ipsum dolor sit amet, consectetur
+                Aqui vamos trazer noticias, materias e entrevistas exclusivas sobre o mundo do cimema. As noticias sobre filmes incluem lançamentos, noticias de streaming focado nos principais filmes exclusivos da plataforma streamming, entrevistas.
                 </p>
             </div>
         </div>
-        <div class="row ">
-            <div class="col-12 col-sm-12 col-lg-6 p-1 py-lg-1 ">
-          
-                <img src="img/cinema.jpg" class="img-fluid ">
-            
+        <div class="row cor-fundo">
+            <div class="col-12 col-sm-12 col-lg-6 py-lg-5 ">
+                <figure>
+                <img src="cinema/img/artigos/banner-senhor-dos-aneis.jpg" class="img-fluid ">
+                <figcaption class="fs-6"><b>Fonte imagem</b> : https://www.omelete.com.br/o-senhor-dos-aneis/aneis-do-poder-novas-escalacoes-fio</figcaption>    
+            </figure>
             </div>
-            <div class="cor-fundo col-12 col-sm-12 col-lg-6 p-1 py-lg-1 my-1" >
+            <div class="cor-fundo col-12 col-sm-12 col-lg-6 " >
                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                <h2 class="d-inline cor-letra">Lorem ipsum</h2>
+                <h2 class="cor-letra d-inline">Os Anéis de Poder | Prime Video anuncia novas escalações do elenco; veja</h2>
+                            <h5 class="cor-letra-D2D2D2">Personagens dos atores não foram revelados</h5>
+                            <h6>Por <a href="autores.php?#flavio-pinto">Flávio Pinto</a>  01/12/2022</h6>
                 <p class="">
-                    Lorem ipsum dolor sit amet, consecteturLorem ipsum
-                    dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-                    consecteturLorem ipsum dolor sit amet, consectetur
-                    Lorem ipsum dolor sit amet, consecteturLorem ipsum
-                    dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-                    conse   cteturLorem ipsum dolor sit amet, consectetur
+                O Prime Video aproveitou a manhã de hoje (1) para anunciar as novas adições do elenco de O Senhor dos Anéis: Os Anéis de Poder. Em formato de fio, a plataforma, aos poucos, revelou o nome dos 7 atores que se juntarão à produção na a próxima temporada.
                 </p>
                 <div class="text-end pb-3">
                 <a class="btn" style="background-color:#E03616" href="/projeto-integrador-II/cinema/index.php" role="button">Ver mais</a>

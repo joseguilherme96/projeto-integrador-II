@@ -13,9 +13,9 @@
 <body>
     <?php include "../nav.php"?>
     <div class="container ">
-        <div class="row">
+        <div class="row cor-letra">
             <div class="col-12">
-                <a href="../index.php">Home</a> / <a href="index.php">Cinema</a> / <a href="literatura.php">Literatura</a> / <a href="artigo-literatura.php">Artigo</a> 
+                <a href="../index.php" class="cor-letra">Home</a> / <a href="index.php" class="cor-letra">Cinema</a> / <a href="literatura.php" class="cor-letra">Literatura</a> / <a href="artigo-literatura.php" class="cor-letra">Artigo</a> 
             </div>
         </div>
         <div class="row justify-content-center pt-1">
@@ -44,7 +44,7 @@
                         <div class="col-lg-5">
                             <h4 class="cor-letra">Jogador Nº 1 | Crítica </h4>
                             <h5 class="cor-letra">A volta do Steven Spielberg moleque</h5>
-                            <h6>Por <a href="">ÉRICO BORGO</a>  19/03/2018</h6>
+                            <h6>Por <a href="../autores.php?erico-borgo">ÉRICO BORGO</a>  19/03/2018</h6>
                         </div>
                         <div class="col-lg-3">
                             <div class="row ">
@@ -91,12 +91,6 @@
                         </div>
                     </div>
                 </div>
-                <div class="row justify-content-center">
-                    <div class="col-8">
-                        <h3 class="cor-letra">Referências Bibliograficas</h3>
-                        <a href="https://www.omelete.com.br/filmes/criticas/jogador-no-1-critica">https://www.omelete.com.br/filmes/criticas/jogador-no-1-critica</a>
-                    </div>
-                </div>
                 </section>
                 <?php }?>
                 <?php
@@ -116,7 +110,7 @@
                         <div class="col-lg-5">
                             <h4 class="cor-letra">Harry Potter</h4>
                             <h5 class="cor-letra">Harry Potter é a a saga do órfão bruxo criada por J.K. Rowling e iniciada em 1997.</h5>
-                            <h6>Por <a href="">Omelete</a>  19/03/2018</h6>
+                            <h6>Por <a href="../autores.php?omelete">Omelete</a>  19/03/2018</h6>
                         </div>
                         <div class="col-lg-3">
                             <div class="row ">
@@ -165,12 +159,6 @@
                                 <i class="bi bi-share fs-1 cor-letra"></i>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-8">
-                        <h3 class="cor-letra">Referências Bibliograficas</h3>
-                        <a href="https://www.omelete.com.br/harry-potter?gclid=EAIaIQobChMI3Kaew5_g-wIVFWSRCh0sSAh2EAAYASAAEgLR_vD_BwE"  target="blank">https://www.omelete.com.br/harry-potter?gclid=EAIaIQobChMI3Kaew5_g-wIVFWSRCh0sSAh2EAAYASAAEgLR_vD_BwE</a>
                     </div>
                 </div>
                 </section>
@@ -249,12 +237,6 @@
                                 <i class="bi bi-share fs-1 cor-letra"></i>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-8">
-                        <h3 class="cor-letra">Referências Bibliograficas</h3>
-                        <a href="https://www.omelete.com.br/filmes/jennifer-lawrence-franquias-velha"  target="blank">https://www.omelete.com.br/filmes/jennifer-lawrence-franquias-velha</a>
                     </div>
                 </div>
                 </section>
@@ -338,12 +320,6 @@
                                 
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-8">
-                        <h3 class="cor-letra">Referências Bibliograficas</h3>
-                        <a href="https://www.omelete.com.br/o-senhor-dos-aneis/aneis-do-poder-novas-escalacoes-fio"  target="blank">https://www.omelete.com.br/o-senhor-dos-aneis/aneis-do-poder-novas-escalacoes-fio</a>
                     </div>
                 </div>
                 </section>

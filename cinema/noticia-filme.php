@@ -30,6 +30,7 @@
         <div class="row text-center">
             <div class="col-12 col-sm-12 col-lg-12">
             <img src="img/banner-cinema.jpg" class="img-fluid" alt="Capa Filme">
+            <figcaption class="">Fonte imagem em https://www.nerdview.com.br/2022/12/asista-ao-trailer-oficial-de-indiana.html</figcaption>
             </div>
         </div>
         <section>
@@ -87,16 +88,7 @@
                 </div>
             </div>
         </div>-->
-        <div class="row justify-content-center">
-            <div class="col-8">
-                <h3>Referências Bibliograficas</h3>
-                <p>
-                <a href="https://www.omelete.com.br/ccxp/indiana-jones-5-e-o-chamado-do-destino-trailer-ccxp22">
-                    https://www.omelete.com.br/ccxp/indiana-jones-5-e-o-chamado-do-destino-trailer-ccxp22
-                </a>
-                </p>
-            </div>
-        </div>
+        
         <div class="row justify-content-center">
             <div class="col-8">
                 <p>  </p>
@@ -108,15 +100,18 @@
         <?php  if($_GET['cod']==2){?>
             <div class="row text-center">
             <div class="col-12 col-sm-12 col-lg-12">
+                <figure>
             <img src="img/filmes/banner-marvel.jpg" class="img-fluid" alt="Capa Filme">
-            </div>
+            <figcaption>Fonte imagem em : https://www.omelete.com.br/ccxp/ccxp22-marvel-studios-2023-luto</figcaption>
+            <figure>    
+        </div>
         </div>
             <section>
         <div class="row justify-content-center">
                 <div class="col-lg-8 py-3">
                     <h4 class="cor-letra">CCXP22: painel do Marvel Studios promete um 2023 cheio de despedidas</h4>
                     <h5 class="cor-letra">Apresentação do estúdio no Palco Thunder mostrou prévias de Homem-Formiga e a Vespa: Quantumania e Guardiões da Galáxia vol. 3</h5>
-                    <h6>Por <a href="../autores.php">NICO GARÓFALO</a>  01/12/2022</h6>
+                    <h6>Por <a href="../autores.php?nicolas-garofalo">NICO GARÓFALO</a>  01/12/2022</h6>
                     <!--https://www.omelete.com.br/autores/nico-garofalo -->
                 </div>
                
@@ -161,16 +156,6 @@
         </div>-->
         <div class="row justify-content-center">
             <div class="col-8">
-                <h3>Referências Bibliograficas</h3>
-                <p>
-                <a href="https://www.omelete.com.br/ccxp/ccxp22-marvel-studios-2023-luto">
-                https://www.omelete.com.br/ccxp/ccxp22-marvel-studios-2023-luto
-                </a>
-                </p>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-8">
                 <p>  </p>
             </div>
         </div>  
@@ -179,8 +164,11 @@
         <?php  if($_GET['cod']==3){?>
             <div class="row text-center">
             <div class="col-12 col-sm-12 col-lg-12">
+                <figure>
             <img src="img/filmes/filme-the-last-of-us .jpg" class="img-fluid" alt="Capa Filme">
-            </div>
+            <figcaption> Fonte imagem em :https://thelastofus.com.br/noticias/novo-filme-de-schwarzenegger-inspirado-em-the-last-of-us/</figcaption>    
+        </figure>
+        </div>
         </div>
             <section>
         <div class="row justify-content-center">
@@ -223,16 +211,6 @@
         </div>-->
         <div class="row justify-content-center">
             <div class="col-8">
-                <h3>Referências Bibliograficas</h3>
-                <p>
-                <a href="https://www.omelete.com.br/ccxp/ccxp22-the-last-of-us-trailer-2">
-                https://www.omelete.com.br/ccxp/ccxp22-the-last-of-us-trailer-2
-                </a>
-                </p>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-8">
                 <p>  </p>
             </div>
         </div>  
@@ -243,6 +221,7 @@
             <div class="row text-center">
             <div class="col-12 col-sm-12 col-lg-12">
             <img src="img/streaming/deep.png" class="img-fluid" alt="Capa Filme">
+            <figcaption>https://www.omelete.com.br/filmes/criticas/aguas-profundas-amazon-prime-video</figcaption>
             </div>
         </div>
             <section>
@@ -306,8 +285,11 @@
         <?php  if($_GET['cod']==5){?>
             <div class="row text-center">
             <div class="col-12 col-sm-12 col-lg-12">
+            <figure>
             <img src="img/streaming/agente-oculto.jpg" class="img-fluid" alt="Capa Filme">
-            </div>
+            <figcaption>Fonte imagem em : https://www.omelete.com.br/filmes/netflix-divulga-imagens-e-data-de-estreia-de-agente-ocult</figcaption>
+            </figure>    
+        </div>
         </div>
             <section>
         <div class="row justify-content-center">
