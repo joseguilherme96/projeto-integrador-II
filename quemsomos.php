@@ -15,7 +15,7 @@
     <section class="row pt-5 "> 
 
       <div class="col-12 col-sm-6 col-lg-6 text-center pt-5 "> 
-      <img src="/projeto-integrador-II/jose.jpg.jfif" class="img-fluid "alt="Aqui temos a imagem do José" >
+      <img src="/projeto-integrador-II/jose1.jpg" class="img-fluid "alt="Aqui temos a imagem do José" >
       </div>  
 
       <div class="col-12 col-sm-6 col-lg-6 pt-5 pb-5 text-start "> 
@@ -35,7 +35,7 @@
       </div>
    
       <div class="col-12 col-sm-6 col-lg-6 pt-5 text-center"> 
-        <img src="/projeto-integrador-II/melissa.jpg..jfif" class="img-fluid " alt="Aqui temos a imagem da Melissa.">
+        <img src="/projeto-integrador-II/melissa.jpg.jpg" class="img-fluid " alt="Aqui temos a imagem da Melissa.">
       </div>  
 
       <div class="col-12 col-sm-6 col-lg-6  pt-5 pb-5 text-start " > 
@@ -59,7 +59,7 @@
     <section class="row pt-5 "> 
 
       <div class="col-12 col-sm-6 col-lg-6 pt-5 text-center" > 
-        <img src="/projeto-integrador-II/gilberto.jpg.jfif" class="img-fluid " alt="Aqui temos a imagem do Gilberto">
+        <img src="/projeto-integrador-II/gilberto.jpg" class="img-fluid " alt="Aqui temos a imagem do Gilberto">
       </div>
 
       <div class="col-12 col-sm-6 col-lg-6 pt-5 pb-5 text-start" > 
@@ -77,7 +77,8 @@
       </div>
 
 
-      <div class="col-12 col-sm-6 col-lg-6 pt-5 text-center" > <img src="/projeto-integrador-II/yasmin.jpg.jfif" class="img-fluid " alt="Aqui temos a imagem da Yasmin">
+      <div class="col-12 col-sm-6 col-lg-6 pt-5 text-center" > 
+        <img src="/projeto-integrador-II/yasmin1.jpg.jfif" class="img-fluid " alt="Aqui temos a imagem da Yasmin">
       </div>
     
       <div class="col-12 col-sm-6 col-lg-6 pt-5 pb-5 text-start " > 

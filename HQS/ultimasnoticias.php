@@ -23,7 +23,7 @@
   <section class="row pt-5 "> 
 
 <div class="col-12 col-sm-12 col-lg-6 text-center pt-5 "> 
-<img src="u1.jpg" class="img-fluid" alt="Aqui temos a imagem do ultimo desenhão"  width="400px" height="400px">
+<img src="/projeto-integrador-II/HQS/img/u1.jpg" class="img-fluid" alt="Aqui temos a imagem do ultimo desenhão" >
 </div>  
 
 <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start "> 
@@ -40,7 +40,7 @@
 </div>
 
 <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
-   <img src="u2.jpg" class="img-fluid" alt="Formosa Márcia vence o Prêmio Jabuti na categoria História em Quadrinhos" width="400px" height="400px">
+   <img src="/projeto-integrador-II/HQS/img/u2.jpg" class="img-fluid" alt="Formosa Márcia vence o Prêmio Jabuti na categoria História em Quadrinhos" >
 </div>  
 
 <div class="col-12 col-sm-12 col-lg-6  pt-5 pb-5 text-start " > 
@@ -66,7 +66,8 @@
 
 <section class="row pt-5 "> 
 
-<div class="col-12 col-sm-12 col-lg-6 pt-5 text-center" > <img src="u3.jpg" class="img-fluid"alt="História em quadrinhos sobre Paulo Freire em campanha no Catarse" width="400px" height="400px">
+<div class="col-12 col-sm-12 col-lg-6 pt-5 text-center" > 
+  <img src="/projeto-integrador-II/HQS/img/u3.jpg" class="img-fluid"alt="História em quadrinhos sobre Paulo Freire em campanha no Catarse" >
 </div>
 
 <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start" >

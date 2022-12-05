@@ -24,30 +24,24 @@
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="..." class="d-block w-100" alt="...">
+        <img src="/projeto-integrador-II/HQS/img/a1.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
-          <h5>First slide label</h5>
-          <p>Some representative placeholder content for the first slide.</p>
+          <h5>Mauricio de Sousa</h5>
+          <p>Autor</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="..." class="d-block w-100" alt="...">
+        <img src="/projeto-integrador-II/HQS/img/a2.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
-          <h5>Second slide label</h5>
-          <p>Some representative placeholder content for the second slide.</p>
+          <h5>Katsuhiro Otomo</h5>
+          <p>Autor</p>
         </div>
       </div>
-      <div class="carousel-item">
-        <img src="..." class="d-block w-100" alt="...">
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Third slide label</h5>
-          <p>Some representative placeholder content for the third slide.</p>
-        </div>
-      </div>
+      
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Previous</span>
+      <span class="visually-hidden">Prev</span>
     </button>
     <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
@@ -60,7 +54,7 @@
     <section class="row pt-5 "> 
 
       <div class="col-12 col-sm-12 col-lg-6 text-center pt-5 "> 
-      <img src="a1.jpg" class="img-fluid" width="400px" height="400px"alt="Mauricio de Sousa" >
+      <img src="/projeto-integrador-II/HQS/img/a1.jpg" class="img-fluid" alt="Mauricio de Sousa" >
       </div>  
 
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start "> 
@@ -78,7 +72,8 @@
      
     <section class="row pt-5 "> 
 
-      <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center" > <img src="a2.jpg" width="400px" height="400px" class="img-fluid" alt="Katsuhiro Otomo">
+      <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center" >
+         <img src="/projeto-integrador-II/HQS/img/a2.jpg" class="img-fluid" alt="Katsuhiro Otomo">
       </div>
 
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start" > 
