@@ -47,7 +47,7 @@
                 O Prime Video aproveitou a manhã de hoje (1) para anunciar as novas adições do elenco de O Senhor dos Anéis: Os Anéis de Poder. Em formato de fio, a plataforma, aos poucos, revelou o nome dos 7 atores que se juntarão à produção na a próxima temporada.
                 </p>
                 <div class="text-end pb-3">
-                <a class="btn" style="background-color:#E03616" href="/projeto-integrador-II/cinema/index.php" role="button">Ver mais</a>
+                <a class="btn text-decoration-none text-light" style="background-color:#E03616" href="/projeto-integrador-II/cinema/index.php" role="button">Ver mais</a>
             </div>
             </div>
         </div>
@@ -101,7 +101,7 @@
             </div>  
         </div>
     </section>
-    <section class="cosplay">
+    <section class="cosplay cor-fundo">
     <h2 class=" py-1 cor-letra">COSPLAY</h2>
     <section class="row pt-1 "> 
 
@@ -122,6 +122,11 @@ Deadpool e Arlequina juntos em incrivel cosplay feito por fã, quem conhece sabe
       <div class="col-12 col-sm-6 col-lg-3  pt-2 pb-5 text-start " > 
         <p> <h6 class="cor-letra">Deadpool e Arlequina </h6> Deadpool e Arlequina juntos em incrivel cosplay feito por fã, quem conhece sabe que os dois personagem são de casas de super-herois diferentes, então essa amizade é bem improvavel acontecer um dia, em algum filme, mas os fãs quebram barreiras. </p>
       </div>
+      <div class="col-12">
+      <div class="text-end pb-3">
+                <a class="btn text-decoration-none text-light" style="background-color:#E03616" href="/projeto-integrador-II/cosplay/cosplay.php" role="button">Ver mais</a>
+            </div>
+        </div>
 
     </section>
     
