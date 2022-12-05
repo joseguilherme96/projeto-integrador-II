@@ -102,8 +102,30 @@
         </div>
     </section>
     <section class="cosplay">
-    <h2 class=" py-3 cor-letra">COSPLAY</h2>
-        <div class="row cor-fundo mt-5">
+    <h2 class=" py-1 cor-letra">COSPLAY</h2>
+    <section class="row pt-1 "> 
+
+      <div class="col-12 col-sm-6 col-lg-3 text-center pt-2 "> 
+      <img src="/projeto-integrador-II/imgcosplay//kodia.jpg " alt="Ahsoka Tano - Star Wars
+Incrivel Cosplay do personagem Ahsoka Tano feita por uma fã da grande série Star Wars surpreendeu nas redes sociais, a fã descreve *Esse cosplay foi um verdadeiro desafio pra mim, principalmente a maquiagem, e aprendi muito fazendo.Mal posso esperar para usá-la na Star Wars Celebration em Londres no ano que vem." >
+      </div>  
+
+      <div class="col-12 col-sm-6 col-lg-3 pt-2 pb-5 text-start "> 
+        <p> <h6 class="cor-letra"> Ahsoka Tano - Star Wars </h6> Incrivel Cosplay do personagem "Ahsoka Tano" feita por uma fã da grande série Star Wars surpreendeu nas redes sociais, a fã descreve "Esse cosplay foi um verdadeiro desafio pra mim, principalmente a maquiagem, e aprendi muito fazendo.Mal posso esperar para usá-la na Star Wars Celebration em Londres no ano que vem. 
+        </p>
+      </div>
+   
+      <div class="col-12 col-sm-6 col-lg-3 pt-2 text-center"> <img src="/projeto-integrador-II/imgcosplay//arlequina.jpg" alt="Deadpool e Arlequina
+Deadpool e Arlequina juntos em incrivel cosplay feito por fã, quem conhece sabe que os dois personagem são de casas de super-herois diferentes, então essa amizade é bem improvavel acontecer um dia, em algum filme, mas os fãs quebram barreiras. ">
+      </div>  
+
+      <div class="col-12 col-sm-6 col-lg-3  pt-2 pb-5 text-start " > 
+        <p> <h6 class="cor-letra">Deadpool e Arlequina </h6> Deadpool e Arlequina juntos em incrivel cosplay feito por fã, quem conhece sabe que os dois personagem são de casas de super-herois diferentes, então essa amizade é bem improvavel acontecer um dia, em algum filme, mas os fãs quebram barreiras. </p>
+      </div>
+
+    </section>
+    
+        <!--<div class="row cor-fundo mt-5">
             <div class="col-12 col-sm-12 col-lg-12">
                 <p>
                     Lorem ipsum dolor sit amet, consecteturLorem ipsum
@@ -135,8 +157,8 @@
                 <div class="text-end pb-3">
                 <a class="btn" style="background-color:#E03616" href="/projeto-integrador-II/cinema/index.php" role="button">Ver mais</a>
             </div>
-            </div>
-        </div>
+            </div>-->
+        
     </section>
     <section>
         <h2 class="cor-letra py-3">SERIES & TV</h2>
@@ -182,6 +204,7 @@
         <div class="text-end pb-3">
         <a class="btn" style="background-color:#E03616" href="/projeto-integrador-II/cinema/index.php" role="button">Ver mais</a>
             </div>
+</div>
 </div>
     </section>
 </div>
