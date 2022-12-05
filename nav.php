@@ -26,7 +26,7 @@
     
 
     
-  <nav class="navbar navbar-expand-lg  sticky-top border">
+  <nav class="navbar navbar-expand-lg border">
   <div class="container">
     <a class="navbar-brand" href="#"><span class="text-warning">PM</span>A&M</a> <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbarSupportedContent" data-bs-toggle="collapse" type="button"><span class="navbar-toggler-icon"></span></button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -105,7 +105,7 @@
               <a class="nav-link" href="/projeto-integrador-II/normasdeutilização.php">Normas de Utilização</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/projeto-integrador-II/autores.php">Autores</a>
+              <a class="nav-link" href="/projeto-integrador-II/autores.php">Referências</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/projeto-integrador-II/wireframes-html">Wireframes</a>
