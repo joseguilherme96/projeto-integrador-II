@@ -20,7 +20,7 @@
     <section class="row pt-5 "> 
 
       <div class="col-12 col-sm-12 col-lg-12 text-center pt-5 "> 
-        <img src="m1.jpg" class="img-fluid" alt="Guia dos lançamentos de quadrinhos na CCXP22
+        <img src="/projeto-integrador-II/HQS/img/m1.jpg" class="img-fluid" alt="Guia dos lançamentos de quadrinhos na CCXP22
         " >
       </div>  
 
@@ -39,7 +39,8 @@
         </p>
       </div>
    
-      <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center"> <img src="m2.jpg" class="img-fluid" alt="Do Cruzeiro Novo ao Real: 50 anos de economia brasileira com a revista Mônica">
+      <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
+         <img src="/projeto-integrador-II/HQS/img/m2.jpg" class="img-fluid" alt="Do Cruzeiro Novo ao Real: 50 anos de economia brasileira com a revista Mônica">
       </div>  
 
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start " > 
@@ -59,7 +60,8 @@
      
     <section class="row pt-5 "> 
 
-      <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center" > <img src="m3.jpg" class="img-fluid" alt="Relembrando as HQs do Mestre de Kung Fu" width="400px" height="400px">
+      <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center" > 
+        <img src="/projeto-integrador-II/HQS/img/m3.jpg" class="img-fluid" alt="Relembrando as HQs do Mestre de Kung Fu" >
       </div>
 
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start" > 
