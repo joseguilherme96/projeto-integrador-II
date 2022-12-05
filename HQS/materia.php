@@ -5,7 +5,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-</head>
+    <link href="style.css" rel="stylesheet">
+
+  </head>
+
+
+
 <body>
 
   <div class="container">
@@ -15,39 +20,64 @@
     <section class="row pt-5 "> 
 
       <div class="col-12 col-sm-12 col-lg-12 text-center pt-5 "> 
-      <img src="https://via.placeholder.com/200x200 " alt="" >
+        <img src="/projeto-integrador-II/HQS/img/m1.jpg" class="img-fluid" alt="Guia dos lançamentos de quadrinhos na CCXP22
+        " >
       </div>  
 
       <div class="col-12 col-sm-12 col-lg-12 pt-5 pb-5 text-start "> 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, placeat? Quis minima alias natus praesentium, eos perspiciatis, quisquam numquam, ab reiciendis explicabo eius! Exercitationem ex nesciunt officia quo provident vero! 
+        <h1>Guia dos lançamentos de quadrinhos na CCXP22
+        </h1>
+        <p>Após três anos, a CCXP volta a ser presencial e é aguardada com ansiedade por fãs e profissionais. O evento ocorre entre 1º e 4 de dezembro e, como sempre, um dos destaques será o Artists' Valley (antigo Artists' Alley), que receberá mais de 482 autores de todo o Brasil e do exterior, divididos em 356 mesas vendendo seus trabalhos. E vários deles serão lançados na CCXP.
+
+          Diversas editoras também marcarão presença com estandes próprios e no novo espaço Mercado Medieval.
+          
+          Como sempre faz, o Universo HQ apresenta um guia com a lista compilada de tudo que nos foi informado para ajudar você, leitor, a saber algumas das novidades que poderá encontrar na área de exposição da São Paulo Expo. São mais de XXXXXX títulos e quase XXXX imagens dos lançamentos. Use o guia para começar seu planejamento de compras!
+          
+          Os títulos estão separados em ordem de mesas e estandes nos links abaixo. Caso tenha alguma dificuldade, clique no mapa do Artists’ Alley para ampliá-lo e se localizar melhor e visite o site da CCXP para mais informações.
+          
+          Como muitas pessoas pelo Brasil não poderão ir à CCXP, sempre que possível incluímos links de lojas online ou contatos de autores para comprar as publicações pela internet, e assim também aproveitar os materiais.
         </p>
       </div>
    
-      <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center"> <img src="https://via.placeholder.com/200x200" alt="">
+      <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
+         <img src="/projeto-integrador-II/HQS/img/m2.jpg" class="img-fluid" alt="Do Cruzeiro Novo ao Real: 50 anos de economia brasileira com a revista Mônica">
       </div>  
 
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start " > 
-        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia error tempore, consequatur aliquid sit similique. Corporis deleniti, est quae saepe voluptates, quibusdam esse facere ducimus voluptas modi, hic incidunt maxime? </p>
+        <h1>Do Cruzeiro Novo ao Real: 50 anos de economia brasileira com a revista Mônica</h1>
+        <p>Comemorando 50 anos em 2020, Mônica é o gibi há mais tempo publicado ininterruptamente no Brasil. São mais de 600 edições, sem deixar de estar nas bancas nem um único mês. A revista possui uma estabilidade que impressiona: praticamente não mudou desde sua estreia, salvo um aumento de 64 para 80 páginas, em 1984.
+
+          Por isso, por meio de seus preços de capa dá para ter uma ideia da trajetória da economia brasileira no período. Por exemplo, Mônica foi vendida em sete moedas diferentes: Cruzeiro Novo (NCr$), Cruzeiro (Cr$), Cruzado (Cz$), Cruzado Novo (NCz$), novamente Cruzeiro (Cr$), Cruzeiro Real (CR$) e, finalmente, Real (R$).
+          
+          Mônica # 1, em maio de 1970, custou NCr$ 0,90. O Cruzeiro Novo havia sido instituído pela ditadura militar em 1967, substituindo o Cruzeiro, que estava na praça desde 1942. A primeira edição pegou exatamente o último mês da moeda: ainda em maio, ela seria trocada de novo pelo Cruzeiro.
+          
+          Naquele mês, Mônica custava 0,48% do salário mínimo, cujo valor era de NCr$ 187,20. Como o dólar estava cotado a NCr$ 4,53, o gibi custava o equivalente a US$ 0,20.
+          
+          O primeiro aumento da revista veio no # 9 (janeiro de 1971), e foi de 10 centavos: o gibi passou a custar 1 cruzeiro. A partir daí, o preço passou a ser reajustado praticamente todos os anos: foi a Cr$ 1,20 (em janeiro de 1972), a Cr$ 1,50 (dezembro de 1972) e Cr$ 2,00 (dezembro de 1973).</p>
       </div>
 
     </section>
      
     <section class="row pt-5 "> 
 
-      <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center" > <img src="https://via.placeholder.com/200x200" alt="">
+      <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center" > 
+        <img src="/projeto-integrador-II/HQS/img/m3.jpg" class="img-fluid" alt="Relembrando as HQs do Mestre de Kung Fu" >
       </div>
 
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start" > 
-        <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error quis quisquam hic praesentium consectetur iusto excepturi rerum voluptatibus neque repellat deserunt quae necessitatibus, labore explicabo est ex molestiae illum asperiores!</p> 
+        <h1>Relembrando as HQs do Mestre de Kung Fu</h1>
+        <p> Shang Chi, o Mestre do Kung Fu, surgiu em dezembro de 1973, nas páginas da revista bimestral Special Marvel Edition # 15, da Marvel Comics.
+
+          Para colocar o personagem em contexto, as artes marciais haviam se tornado uma mania no mundo inteiro, graças a filmes de Bruce Lee como: Dragão Chinês (The Big Boss), de 1971; A Fúria do Dragão (Fist of Fury), de 1972; O Voo do Dragão (The Way of the Dragon), contracenando com os caratecas Robert Wall e Chuck Norris (cuja luta contra Lee no Coliseu, em Roma, é emblemática), de 1972; e o clássico Operação Dragão (Enter the Dragon), ao lado de Jim Kelly e Bolo Yeung.
+          
+          Além disso, David Carradine fazia o papel de Kwai Chang Caine no seriado Kung Fu, exibido originalmente entre 1972 e 1975. Outro sucesso da televisão era o desenho animado Sawamu – O Demolidor, um animê de 1970, exibido no Brasil pela TV Record, em 1976 – e mais tarde na TV Gazeta – que narrava as aventuras de um lutador de “chute-boxe”.
+          
+          As academias de caratê e kung fu pipocavam por todos os lados. Naquela época, cada lutador defendia sua arte marcial contra outras escolas e estilos de combate. Ainda não existia o “vale tudo” ou as mixed martial arts.
+          
+          Diante desse cenário, não foi estranho as editoras norte-americanas apostarem nas artes marciais como uma das tendências para atrair novos leitores.</p> 
       </div>
 
 
-      <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center" > <img src="https://via.placeholder.com/200x200" alt="">
-      </div>
-    
-      <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start " > 
-        <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptates consequatur nemo eveniet quod molestiae esse culpa maiores facere dolorem itaque iure dignissimos obcaecati amet, voluptate facilis laboriosam. Repudiandae, ipsam exercitationem? </p>
-      </div>
 
     </section>
 

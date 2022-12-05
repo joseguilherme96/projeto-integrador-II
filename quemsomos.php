@@ -15,39 +15,84 @@
     <section class="row pt-5 "> 
 
       <div class="col-12 col-sm-6 col-lg-6 text-center pt-5 "> 
-      <img src="https://via.placeholder.com/200x200 " alt="" >
+      <img src="/projeto-integrador-II/jose1.jpg" class="img-fluid "alt="Aqui temos a imagem do José" >
       </div>  
 
       <div class="col-12 col-sm-6 col-lg-6 pt-5 pb-5 text-start "> 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, placeat? Quis minima alias natus praesentium, eos perspiciatis, quisquam numquam, ab reiciendis explicabo eius! Exercitationem ex nesciunt officia quo provident vero! 
-        </p>
+        <p> José Guilherme Guimãres Campos:
+          <ul><li>RA: 2650832213006 <li>
+          <li>Biografia: Integrante do grupo Pirulito Malignos de açucar e mel, reside em Mairinque, tem 25 anos e está cursando o segundo Semestre de Sistemas para internet na FATEC de São Roque. <li>
+          <li>Função no Grupo: Gerente<li>
+          <li>Responsável: Cinema <li>
+          <li><a href="/projeto-integrador-II/cinema/index.php">Cinema</a> <li>
+          <li><a href="/projeto-integrador-II/cinema/entrevista.php">Entrevistas</a> <li>
+          <li><a href="/projeto-integrador-II/cinema/filmes.php">Filmes</a> <li>
+          <li><a href="/projeto-integrador-II/cinema/literatura.php">Literatura</a> <li>
+          <li><a href="/projeto-integrador-II/cinema/noticia-filme.php">Noticias</a> <li>
+          <li><a href="/projeto-integrador-II/cinema/streaming.php">Streaming</a> <li>
+          </ul></p> 
+          
       </div>
    
-      <div class="col-12 col-sm-6 col-lg-6 pt-5 text-center"> <img src="https://via.placeholder.com/200x200" alt="">
+      <div class="col-12 col-sm-6 col-lg-6 pt-5 text-center"> 
+        <img src="/projeto-integrador-II/melissa.jpg.jpg" class="img-fluid " alt="Aqui temos a imagem da Melissa.">
       </div>  
 
       <div class="col-12 col-sm-6 col-lg-6  pt-5 pb-5 text-start " > 
-        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia error tempore, consequatur aliquid sit similique. Corporis deleniti, est quae saepe voluptates, quibusdam esse facere ducimus voluptas modi, hic incidunt maxime? </p>
+        <p> Melissa Raineri Godoy:
+          <ul><li>RA: 2650832213005 <li>
+          <li>Biografia: Integrante do grupo Pirulito Malignos de açucar e mel, reside em Vargem Grande Paulista, tem 23 anos e está cursando o segundo Semestre de Sistemas para internet na FATEC de São Roque. <li>
+          <li>Função no Grupo: Designer<li>
+          <li>Responsável: Página Series e TV <li>
+          <li><a href="/projeto-integrador-II/Seriesetv.php/atores.php">Atores</a> <li>
+          <li><a href="/projeto-integrador-II/Seriesetv.php/criticas.php">Criticas</a> <li>
+          <li><a href="/projeto-integrador-II/Seriesetv.php/lançamentos.php">Lançamentos</a> <li>
+          <li><a href="/projeto-integrador-II/Seriesetv.php/resenha.php">Resenha</a> <li>
+          <li><a href="/projeto-integrador-II/Seriesetv.php/noticias.php">Noticias</a> <li>
+          <li><a href="/projeto-integrador-II/Seriesetv.php/serieshome.php">Series e TV</a> <li>
+          </ul></p> 
+
       </div>
 
     </section>
      
     <section class="row pt-5 "> 
 
-      <div class="col-12 col-sm-6 col-lg-6 pt-5 text-center" > <img src="https://via.placeholder.com/200x200" alt="">
+      <div class="col-12 col-sm-6 col-lg-6 pt-5 text-center" > 
+        <img src="/projeto-integrador-II/gilberto.jpg" class="img-fluid " alt="Aqui temos a imagem do Gilberto">
       </div>
 
       <div class="col-12 col-sm-6 col-lg-6 pt-5 pb-5 text-start" > 
-        <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error quis quisquam hic praesentium consectetur iusto excepturi rerum voluptatibus neque repellat deserunt quae necessitatibus, labore explicabo est ex molestiae illum asperiores!</p> 
+        <p> Gilberto Giliarde Bueno Camargo :
+          <ul><li>RA: 2650832213006 <li>
+          <li>Biografia: Integrante do grupo Pirulito Malignos de açucar e mel, reside em Mairinque, tem 25 anos e está cursando o segundo Semestre de Sistemas para internet na FATEC de São Roque. <li>
+          <li>Função no Grupo: Coder<li>
+          <li>Responsável: Página Cosplay <li>
+          <li><a href="/projeto-integrador-II/cosplay/animes.php">Animes</a> <li>
+          <li><a href="/projeto-integrador-II/cosplay/cosplay.php">Cosplay</a> <li>
+          <li><a href="/projeto-integrador-II/cosplay/eventos.php">Eventos</a> <li>
+          <li><a href="/projeto-integrador-II/cosplay/games.php">Games</a> <li>
+          <li><a href="/projeto-integrador-II/cosplay/noticias.php">Noticias</a> <li>
+          </ul></p> 
       </div>
 
 
-      <div class="col-12 col-sm-6 col-lg-6 pt-5 text-center" > <img src="https://via.placeholder.com/200x200" alt="">
+      <div class="col-12 col-sm-6 col-lg-6 pt-5 text-center" > 
+        <img src="/projeto-integrador-II/yasmin1.jpg.jfif" class="img-fluid " alt="Aqui temos a imagem da Yasmin">
       </div>
     
       <div class="col-12 col-sm-6 col-lg-6 pt-5 pb-5 text-start " > 
-        <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptates consequatur nemo eveniet quod molestiae esse culpa maiores facere dolorem itaque iure dignissimos obcaecati amet, voluptate facilis laboriosam. Repudiandae, ipsam exercitationem? </p>
-      </div>
+        <p><p> Yasmin do Nascimento :
+          <ul><li>RA: 2650832213008 <li>
+          <li>Biografia: Integrante do grupo Pirulito Malignos de açucar e mel, reside em Vargem Grande Paulista, tem 18 anos e está cursando o segundo Semestre de Sistemas para internet na FATEC de São Roque. <li>
+          <li>Função no Grupo: Coder<li>
+          <li>Responsavél: Página HQS <li>
+          <li><a href="/projeto-integrador-II/HQS/autores.php">Autores</a> <li>
+          <li><a href="/projeto-integrador-II/HQS/critica.php">Criticas</a> <li>
+          <li><a href="/projeto-integrador-II/HQS/pg.php">HQS</a> <li>
+          <li><a href="/projeto-integrador-II/HQS/topfive.php">Top Five</a> <li>
+          <li><a href="/projeto-integrador-II/HQS/ultimasnoticias.php">Noticias</a> <li>
+          <li><a href="/projeto-integrador-II/HQS/materia.php">Materia</a> <li>
 
     </section>
 

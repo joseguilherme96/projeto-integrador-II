@@ -17,16 +17,16 @@
     
     <div class="col-12 col-sm-6 col-lg-5 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
    
-      <img src="https://via.placeholder.com/250x350" class="img-fluid" alt=" AQUI TEMOS UMA IMAGEM ">
-      <h3>Super</h3>
+      <img src="/projeto-integrador-II/HQS/img/a1.jpg" class="img-fluid" alt=" Autores">
+      <a href= "/projeto-integrador-II/HQS/autores.php"> <h3>Autor</h3></a>  
     
     
     </div>
     
 
     <div class="col-12 col-sm-6 col-lg-7 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
-      <img src="https://via.placeholder.com/250x350" class="img-fluid" alt=" AQUI TEMOS UMA IMAGEM ">
-      <h3>STREAMING</h3>
+      <img src="/projeto-integrador-II/HQS/img/c1.jpg" class="img-fluid" alt=" Critica">
+     <a href= "/projeto-integrador-II/HQS/critica.php"> <h3>Critica</h3></a>
     </div>
    
 
@@ -36,15 +36,14 @@
     <div class="row">
 
     <div class="col-12 col-sm-6 col-lg-2 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
-      <img src="https://via.placeholder.com/250x350" class="img-fluid"  alt=" AQUI TEMOS UMA IMAGEM ">
-      <h3>ENTREVISTAS</h3>
+      <img src="/projeto-integrador-II/HQS/img/t1.jpg"class="img-fluid"  alt=" Top Five ">
+      <a href= "/projeto-integrador-II/HQS/topfive.php"> <h3>Top Five</h3></a>
     </div>
 
 
     <div class="col-12 col-sm-6 col-lg-2 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
-      <img src="https://via.placeholder.com/250x350" class="img-fluid"  alt=" AQUI TEMOS UMA IMAGEM ">
-      <h3>LITERATURA</h3>
-
+      <img src="/projeto-integrador-II/HQS/img/u1.jpg" class="img-fluid"  alt=" Ultimas Noticias ">
+      <a href= "/projeto-integrador-II/HQS/ultimasnoticias.php"> <h3>Ultimas Noticias</h3></a>
       
     </div>
     <div class="col-12 col-sm-12 col-lg-8 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->

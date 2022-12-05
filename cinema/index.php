@@ -141,103 +141,114 @@
   <section id="literatura">
       <div class="row">
         <div class="col-12">
-          <h2>LITERATURA</h2>
+          <h2 class="cor-letra">LITERATURA - FILMES INSPIRADOS EM LIVROS</h2>
         </div>
       </div>
       <div class="row">
         <div class="col-12 col-sm-6 col-lg-3 p-1">
           <div class="text-center">
             <figure>
-              <img src="https://via.placeholder.com/250x350" alt="Capa Livro">
-              <figcaption>Maze Runner</figcaption>
+              <img src="img/jogador-n1.jpg" alt="Capa Livro">
+              <figcaption>Jogador Nº 1</figcaption>
             </figure>
           </div>
           <div class="text-left">
-            <h5>
-              Lorem ipsum dolor sit amet, consectetur 
+            <h4 class="cor-letra">
+            Jogador Nº 1 | Crítica
+           
+            </h4>
+            <h5 class="cor-letra-D2D2D2">
+            A volta do Steven Spielberg moleque
             </h5>
             <h6>
-              Por <a href="">Yasmin</a>  28/10/20222
+              Por <a href="../autores.php">ÉRICO BORGO</a>  19/03/2018
+              <!--https://www.omelete.com.br/filmes/criticas/jogador-no-1-critica-->
             </h6>
             <p>
-            Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit amet,
+            Ninguém melhor que Steven Spielberg para levar às telas a adaptação de Jogador Nº 1 de Ernest Cline.
+             O cineasta, afinal, é a maior influência (o maior responsável, na verdade) 
+             por tudo aquilo que inspirou o autor.
             </p>
           </div>
-          <div class="text-right">
-            <a href="artigo-literatura.php">Ler Mais</a>
+          <div class="text-end">
+            <a href="artigo-literatura.php?cod=1">Ler Mais</a>
           </div>
         </div>
         <div class="col-12 col-sm-6 col-lg-3 p-1">
           <div class="text-center">
             <figure>
-              <img src="https://via.placeholder.com/250x350" alt="Capa Livro">
-              <figcaption>Maze Runner</figcaption>
+              <img src="img/harry-potter.jpg" alt="Capa Livro">
+              <figcaption>Harry Potter</figcaption>
             </figure>
           </div>
           <div class="text-left">
-            <h5>
-              Lorem ipsum dolor sit amet, consectetur 
+            <h5 class="cor-letra">
+            Harry Potter é a a saga do órfão bruxo criada por J.K. Rowling e iniciada em 1997.
             </h5>
             <h6>
-              Por <a href="">Yasmin</a>  28/10/20222
+              Por <a href="../autores.php/#omelete">Omelete</a>  04/12/20222
             </h6>
+            <!-- https://www.omelete.com.br/harry-potter?gclid=EAIaIQobChMI3Kaew5_g-wIVFWSRCh0sSAh2EAAYASAAEgLR_vD_BwE -->
             <p>
-            Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit amet,
+            Depois dos oito filmes baseados nos livros, a franquia agora se prepara para 
+            lançar Animais Fantásticos e Onde Habitam, que adapta o livro didático 
+            no mundo de Harry Potter que cataloga 75 espécies de criaturas 
+            mágicas pelos cinco continentes.
             </p>
-            <div class="text-right">
-            <a href="artigo-literatura.php">Ler Mais</a>
+            <div class="text-end">
+            <a href="artigo-literatura.php?cod=2">Ler Mais</a>
             </div>
           </div>
         </div>
         <div class="col-12 col-sm-6 col-lg-3 p-1">
           <div class="text-center">
             <figure>
-              <img src="https://via.placeholder.com/250x350" alt="Capa Livro">
-              <figcaption>Maze Runner</figcaption>
+              <img src="img/jogos-vorazes.jpg" alt="Capa Livro">
+              <figcaption>Jogos Vorazes</figcaption>
             </figure>
           </div>
           <div class="text-left">
-            <h5>
-              Lorem ipsum dolor sit amet, consectetur 
+            <h4 class="cor-letra">
+            Jennifer Lawrence descarta papéis em grandes franquias: "Velha demais"
+            </h4>
+            <h5 class="cor-letra-D2D2D2">
+            Estrela de X-Men e Jogos Vorazes deve se concentrar em títulos independentes
             </h5>
             <h6>
-              Por <a href="">Yasmin</a>  28/10/20222
+              Por <a href="../autores.php?#caio-coletti">Caio Coletti</a>  08/10/20222
             </h6>
+            <!-- https://www.omelete.com.br/autores/caio-coletti-->
             <p>
-            Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit amet,
+            Não espere ver Jennifer Lawrence de volta às grandes franquias hollywoodianas. Participando do BFI London Film Festival [via Deadline], ela explicou por que deve se concentrar em projetos independentes daqui em diante.
             </p>
-            <div class="text-right">
-            <a href="artigo-literatura.php">Ler Mais</a>
+            <div class="text-end">
+            <a href="artigo-literatura.php?cod=3">Ler Mais</a>
             </div>
           </div>
         </div>
         <div class="col-12 col-sm-6 col-lg-3 p-1">
           <div class="text-center">
             <figure>
-              <img src="https://via.placeholder.com/250x350" alt="Capa Livro">
-              <figcaption>Maze Runner</figcaption>
+              <img src="img/senhor-dos-aneis.jpg" alt="Capa Livro">
+              <figcaption>Senhor dos Anéis</figcaption>
             </figure>
           </div>
           <div class="text-left">
-            <h5>
-              Lorem ipsum dolor sit amet, consectetur 
+            <h4 class="cor-letra">
+                Os Anéis de Poder | Prime Video anuncia novas escalações do elenco; veja
+            </h4>
+            <h5 class="cor-letra-D2D2D2">
+            Personagens dos atores não foram revelados
             </h5>
             <h6>
-              Por <a href="">Yasmin</a>  28/10/20222
+              Por <a href="../autores.php?flavio-pinto">Flávio Pinto</a>  28/10/20222
             </h6>
+            <!-- https://www.omelete.com.br/autores/flavio-pinto-->
             <p>
-            Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit amet,
+            O Prime Video aproveitou a manhã de hoje (1) para anunciar as novas adições do elenco de O Senhor dos Anéis: Os Anéis de Poder. Em formato de fio, a plataforma, aos poucos, revelou o nome dos 7 atores que se juntarão à produção na a próxima temporada. 
             </p>
-            <div class="text-right">
-            <a href="artigo-literatura.php">Ler Mais</a>
+            <div class="text-end">
+            <a href="artigo-literatura.php?cod=4">Ler Mais</a>
             </div>
           </div>
         </div>
@@ -246,71 +257,64 @@
   <section id="entrevistas">
     <div class="row">
       <div class="col-12">
-        <h2>ENTREVISTAS</h2>
+        <h2 class="cor-letra">ENTREVISTAS</h2>
       </div>
     </div>
     <div class="row">
       <div class="col-12 col-sm-6 col-lg-3">
         <div class="row">
-          <h6>Ator 1</h6>
+        <h2 class="cor-letra">Jason Stham</h2>
         </div>
         <div class="row">
-          <img src="https://via.placeholder.com/294x160" alt="Foto Autor">
+          <img src="img/jason-statham.jpg" alt="Foto Autor">
         </div>
         <div class="row">
-          <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit ame</p>
+          <p>Conhecido como o cara durão de Carga Explosiva, Os Mercenários e Velozes & Furiosos 7, Jason Statham fez poucas comédias em sua carreira. </p>
         </div>
-        <div class="row">
+        <div class="row text-end">
         <a href="entrevista-com-autores.php">Ler Mais</a>
         </div>
       </div>
       <div class="col-12 col-sm-6 col-lg-3">
         <div class="row">
-          <h6>Ator 1</h6>
+          <h2 class="cor-letra">Camille Rowe</h2>
         </div>
         <div class="row">
-          <img src="https://via.placeholder.com/294x160" alt="Foto Autor">
+          <img src="img/camille-rowe.jpg" alt="Foto Autor">
         </div>
         <div class="row">
-          <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit ame</p>
+          <p>Camille Rowe a protagonista do primeiro fashion film Journeys by Mango a apresentar a coleção feminina mais em</p>
+        </div>
+        <div class="row text-end">
+        <a href="entrevista-com-autores.php">Ler Mais</a>
+        </div>
+      </div>
+      
+      <div class="col-12 col-sm-6 col-lg-3">
+        <div class="row">
+          <h2 class="cor-letra">Vin Diesel</h2>
         </div>
         <div class="row">
+          <img src="img/vin-diesel.jpg" alt="Foto Autor">
+        </div>
+        <div class="row">
+          <p>Vin diesel fala sobre o filme Reativado que estreiou no dia 19 de janeiro.</p>
+        </div>
+        <div class="row text-end">
         <a href="entrevista-com-autores.php">Ler Mais</a>
         </div>
       </div>
       <div class="col-12 col-sm-6 col-lg-3">
         <div class="row">
-          <h6>Ator 1</h6>
+          <h2 class="cor-letra">Audrey Tautou</h2>
         </div>
         <div class="row">
-          <img src="https://via.placeholder.com/294x160" alt="Foto Autor">
+          <img src="img/audrey-tautou.jpg" alt="Foto Autor">
         </div>
         <div class="row">
-          <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit ame</p>
+          <p>Audrey Justine Tautou é uma atriz francesa. Reconhecida na França por sua atuação em Vénus beauté que lhe rendeu o prêmio César de Atriz Revelação</p>
         </div>
-        <div class="row">
-        <a href="entrevista-com-autores.php">Ler Mais</a>
-        </div>
-      </div>
-      <div class="col-12 col-sm-6 col-lg-3">
-        <div class="row">
-          <h6>Ator 1</h6>
-        </div>
-        <div class="row">
-          <img src="https://via.placeholder.com/294x160" alt="Foto Autor">
-        </div>
-        <div class="row">
-          <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum
-            dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-            consecteturLorem ipsum dolor sit ame</p>
-        </div>
-        <div class="row">
+        <div class="row text-end">
         <a href="entrevista-com-autores.php">Ler Mais</a>
         </div>
       </div>

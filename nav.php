@@ -26,7 +26,7 @@
     
 
     
-  <nav class="navbar navbar-expand-lg border">
+  <nav class="navbar navbar-expand-lg  sticky-top border ">
   <div class="container">
     <a class="navbar-brand" href="#"><span class="text-warning">PM</span>A&M</a> <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbarSupportedContent" data-bs-toggle="collapse" type="button"><span class="navbar-toggler-icon"></span></button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -56,7 +56,7 @@
            HQS
             </a>
             <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/index.php">HQS</a></li>
+            <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/pg.php">HQS</a></li>
               <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/materia.php">Materias</a></li>
               <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/topfive.php">Top Five</a></li>
               <li><a class="dropdown-item" href="/projeto-integrador-II/HQS/critica.php">Criticas</a></li>
