@@ -175,7 +175,7 @@
                 <div class="col-lg-8 py-3">
                     <h4 class="cor-letra">The Last of Us ganha trailer inédito e emocionante na CCXP22</h4>
                     <h5 class="cor-letra">Série estreia na HBO Max em 15 de janeiro</h5>
-                    <h6>Por <a href="../autores.php?giovannabreve">GIOVANNA BREVE E NICOLAOS GARÓFALO</a>  03/12/2022</h6>
+                    <h6>Por <a href="../autores.php?#giovannabreve">GIOVANNA BREVE E NICOLAOS GARÓFALO</a>  03/12/2022</h6>
                     <!--https://www.omelete.com.br/autores/nico-garofalo -->
                 </div>
                

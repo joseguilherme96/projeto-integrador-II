@@ -29,7 +29,7 @@
             <h6>
               Por <a href="../autores.php?#caiocolleti">Caio Coletti</a>  08/10/20222
             </h6>
-            <p class="text-end"><a href="projeto-integrador-II/cinema/artigo-literatura.php?cod=3" > Ver mais</a></p>
+            <p class="text-end"><a href="/projeto-integrador-II/cinema/artigo-literatura.php?cod=3" > Ver mais</a></p>
             </div>
         </div>
         <div class="row justify-content-center">
@@ -67,7 +67,7 @@
           Série estreia na HBO Max em 15 de janeiro
           </h5>
           <h6>
-              Por <a href="../autores.php?#giovannabreve">GIOVANNA BREVE E NICOLAOS GARÓFAL</a>  03/12/2022
+              Por <a href="../autores.php?#giovannabreve">GIOVANNA BREVE</a> E <a href="../autores.php?#nicogarofalo">NICOLAOS GARÓFAL</a>  03/12/2022
               <!--https://www.omelete.com.br/filmes/criticas/jogador-no-1-critica-->
             </h6>
             <p class="text-end"><a href="/projeto-integrador-II/cinema/noticia-filme.php?cod=3" > Ver mais</a></p>

@@ -44,7 +44,7 @@
                         <div class="col-lg-5">
                             <h4 class="cor-letra">Jogador Nº 1 | Crítica </h4>
                             <h5 class="cor-letra">A volta do Steven Spielberg moleque</h5>
-                            <h6>Por <a href="../autores.php?omelete">ÉRICO BORGO</a>  19/03/2018</h6>
+                            <h6>Por <a href="../autores.php?#omelete">ÉRICO BORGO</a>  19/03/2018</h6>
                         </div>
                         <div class="col-lg-3">
                             <div class="row ">
@@ -110,7 +110,7 @@
                         <div class="col-lg-5">
                             <h4 class="cor-letra">Harry Potter</h4>
                             <h5 class="cor-letra">Harry Potter é a a saga do órfão bruxo criada por J.K. Rowling e iniciada em 1997.</h5>
-                            <h6>Por <a href="../autores.php?omelete">Omelete</a>  19/03/2018</h6>
+                            <h6>Por <a href="../autores.php?#omelete">Omelete</a>  19/03/2018</h6>
                         </div>
                         <div class="col-lg-3">
                             <div class="row ">
