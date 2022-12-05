@@ -196,7 +196,8 @@
                            
                             <h5 class="cor-letra">Jennifer Lawrence descarta papéis em grandes franquias: "Velha demais"</h5>
                             <h5 class="cor-letra-D2D2D2">Estrela de X-Men e Jogos Vorazes deve se concentrar em títulos independentes</h5>
-                            <h6>Por <a href="../autores.php?#caio-colletti">Caio Coletti</a>  08/10/2022</h6>
+                            <h6>Por <a href="../autores.php?#caiocolleti">Caio Coletti</a>  08/10/2022</h6>
+                            
                         </div>
                 </div>
                 <div class="row justify-content-center">
