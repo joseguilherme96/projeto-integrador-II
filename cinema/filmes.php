@@ -69,7 +69,7 @@
           Apresentação do estúdio no Palco Thunder mostrou prévias de Homem-Formiga e a Vespa: Quantumania e Guardiões da Galáxia vol. 3
           </h5>
             <h6>
-              Por <a href="../autores.php">NICO GARÓFALO</a>  01/12/2022
+              Por <a href="../autores.php?#nicogarofalo">NICO GARÓFALO</a>  01/12/2022
               <!--https://www.omelete.com.br/filmes/criticas/jogador-no-1-critica-->
             </h6>
             <p>
@@ -88,7 +88,7 @@
           Série estreia na HBO Max em 15 de janeiro
           </h5>
             <h6>
-              Por <a href="../autores.php">GIOVANNA BREVE E NICOLAOS GARÓFAL</a>  03/12/2022
+              Por <a href="../autores.php?#giovannabreve">GIOVANNA BREVE</a> E <a href="../autores.php?#nicogarofalo">NICOLAOS GARÓFAL</a>  03/12/2022
               <!--https://www.omelete.com.br/filmes/criticas/jogador-no-1-critica-->
             </h6>
             <p>

@@ -217,7 +217,7 @@
             Estrela de X-Men e Jogos Vorazes deve se concentrar em títulos independentes
             </h5>
             <h6>
-              Por <a href="../autores.php?#caio-coletti">Caio Coletti</a>  08/10/20222
+              Por <a href="../autores.php?#caiocoletti">Caio Coletti</a>  08/10/20222
             </h6>
             <!-- https://www.omelete.com.br/autores/caio-coletti-->
             <p>

@@ -37,7 +37,7 @@
         <div class="row justify-content-center">
                 <div class="col-lg-5 py-3">
                     <h5>Indiana Jones e o Chamado do Destino ganha título e trailer na CCXP22</h5>
-                    <h6>Por <a href="../autores.php">NICO GARÓFALO</a>  01/12/2022</h6>
+                    <h6>Por <a href="../autores.php?#nicogarofalo">NICO GARÓFALO</a>  01/12/2022</h6>
                     <!--https://www.omelete.com.br/autores/nico-garofalo -->
                 </div>
                 <div class="col-lg-3 py-4">
@@ -111,7 +111,7 @@
                 <div class="col-lg-8 py-3">
                     <h4 class="cor-letra">CCXP22: painel do Marvel Studios promete um 2023 cheio de despedidas</h4>
                     <h5 class="cor-letra">Apresentação do estúdio no Palco Thunder mostrou prévias de Homem-Formiga e a Vespa: Quantumania e Guardiões da Galáxia vol. 3</h5>
-                    <h6>Por <a href="../autores.php?nicolas-garofalo">NICO GARÓFALO</a>  01/12/2022</h6>
+                    <h6>Por <a href="../autores.php?#nicogarofalo">NICO GARÓFALO</a>  01/12/2022</h6>
                     <!--https://www.omelete.com.br/autores/nico-garofalo -->
                 </div>
                
@@ -175,7 +175,7 @@
                 <div class="col-lg-8 py-3">
                     <h4 class="cor-letra">The Last of Us ganha trailer inédito e emocionante na CCXP22</h4>
                     <h5 class="cor-letra">Série estreia na HBO Max em 15 de janeiro</h5>
-                    <h6>Por <a href="../autores.php">GIOVANNA BREVE E NICOLAOS GARÓFALO</a>  03/12/2022</h6>
+                    <h6>Por <a href="../autores.php?giovannabreve">GIOVANNA BREVE E NICOLAOS GARÓFALO</a>  03/12/2022</h6>
                     <!--https://www.omelete.com.br/autores/nico-garofalo -->
                 </div>
                
@@ -229,7 +229,7 @@
                 <div class="col-lg-8 py-3">
                     <h4 class="cor-letra">Como thriller erótico, Águas Profundas é uma ótima comédia de costumes</h4>
                     <h5 class="cor-letra">Adrian Lyne está menos interessado em cenas de sexo do que está em tirar sarro dos ricos</h5>
-                    <h6>Por <a href="../autores.php">CAIO COLETTI</a>  18/03/2022</h6>
+                    <h6>Por <a href="../autores.php?caiocolleti">CAIO COLETTI</a>  18/03/2022</h6>
                     <!--https://www.omelete.com.br/autores/nico-garofalo -->
                 </div>
                
@@ -296,7 +296,7 @@
                 <div class="col-lg-8 py-3">
                     <h4 class="cor-letra">The Last of Us ganha trailer inédito e emocionante na CCXP22</h4>
                     <h5 class="cor-letra">Série estreia na HBO Max em 15 de janeiro</h5>
-                    <h6>Por <a href="../autores.php">BIA VACCARI</a>  26/04/2022</h6>
+                    <h6>Por <a href="../autores.php?#omelete">BIA VACCARI</a>  26/04/2022</h6>
                     <!--https://www.omelete.com.br/autores/nico-garofalo -->
                 </div>
                

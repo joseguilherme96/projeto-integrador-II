@@ -44,7 +44,7 @@
                         <div class="col-lg-5">
                             <h4 class="cor-letra">Jogador Nº 1 | Crítica </h4>
                             <h5 class="cor-letra">A volta do Steven Spielberg moleque</h5>
-                            <h6>Por <a href="../autores.php?erico-borgo">ÉRICO BORGO</a>  19/03/2018</h6>
+                            <h6>Por <a href="../autores.php?omelete">ÉRICO BORGO</a>  19/03/2018</h6>
                         </div>
                         <div class="col-lg-3">
                             <div class="row ">
@@ -196,7 +196,7 @@
                            
                             <h5 class="cor-letra">Jennifer Lawrence descarta papéis em grandes franquias: "Velha demais"</h5>
                             <h5 class="cor-letra-D2D2D2">Estrela de X-Men e Jogos Vorazes deve se concentrar em títulos independentes</h5>
-                            <h6>Por <a href="../autores.php?#caio-colletti">Caio Coletti</a>  08/10/2022</h6>
+                            <h6>Por <a href="../autores.php?#caiocolleti">Caio Coletti</a>  08/10/2022</h6>
                         </div>
                 </div>
                 <div class="row justify-content-center">
@@ -273,7 +273,7 @@
                            
                             <h5 class="cor-letra">Os Anéis de Poder | Prime Video anuncia novas escalações do elenco; veja</h5>
                             <h5 class="cor-letra-D2D2D2">Personagens dos atores não foram revelados</h5>
-                            <h6>Por <a href="../autores.php?#flavio-pinto">Flávio Pinto</a>  01/12/2022</h6>
+                            <h6>Por <a href="../autores.php?#omelete">Flávio Pinto</a>  01/12/2022</h6>
                         </div>
                 </div>
                 <div class="row justify-content-center">
