@@ -5,94 +5,107 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-</head>
+    <link rel="stylesheet" href="node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="css/tema.css">
+  </head>
 <body>
-
+<?php include "nav.php"?>
   <div class="container">
-    <nav>
-    <?php include "nav.php"?>
-</nav>
+    
     <section class="row pt-5 "> 
-
-      <div class="col-12 col-sm-6 col-lg-6 text-center pt-5 "> 
+    <section class="text-center cor-fundo">
+  <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
+    <h1 class="d-inline cor-letra">QUEM SOMOS</h1>
+</section>
+      <div class="col-12 col-sm-6 col-lg-6 text-center pt-5 cor-fundo"> 
       <img src="/projeto-integrador-II/jose1.jpg" class="img-fluid "alt="Aqui temos a imagem do José" >
       </div>  
 
-      <div class="col-12 col-sm-6 col-lg-6 pt-5 pb-5 text-start "> 
-        <p> José Guilherme Guimãres Campos:
-          <ul><li>RA: 2650832213006 <li>
-          <li>Biografia: Integrante do grupo Pirulito Malignos de açucar e mel, reside em Mairinque, tem 25 anos e está cursando o segundo Semestre de Sistemas para internet na FATEC de São Roque. <li>
-          <li>Função no Grupo: Gerente<li>
-          <li>Responsável: Cinema <li>
-          <li><a href="/projeto-integrador-II/cinema/index.php">Cinema</a> <li>
-          <li><a href="/projeto-integrador-II/cinema/entrevista.php">Entrevistas</a> <li>
-          <li><a href="/projeto-integrador-II/cinema/filmes.php">Filmes</a> <li>
-          <li><a href="/projeto-integrador-II/cinema/literatura.php">Literatura</a> <li>
-          <li><a href="/projeto-integrador-II/cinema/noticia-filme.php">Noticias</a> <li>
-          <li><a href="/projeto-integrador-II/cinema/streaming.php">Streaming</a> <li>
-          </ul></p> 
+      <div class="col-12 col-sm-6 col-lg-6 pt-5 pb-5 text-start cor-fundo"> 
+      <p>José Guilherme Guimãres Campos:</p>
+      <p>RA: 2650832213006</p>
+      <p>Biografia: Integrante do grupo Pirulito Malignos de açucar e mel, reside em Mairinque, tem 25 anos e está cursando o segundo Semestre de Sistemas para internet na FATEC de São Roque. </p>
+      <p>Função no Grupo: Gerente</p>
+      <p>Responsável pelo desenvovimento das seguintes páginas relacionadas a cinema : </p>
+        <ul class="list-unstyled">
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/cinema/index.php">Cinema</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/cinema/entrevistas.php">Entrevistas</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/cinema/filmes.php">Filmes</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/cinema/literatura.php">Literatura</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/cinema/streaming.php">Streaming</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/contato.php">Contato</a> </li>
+          </ul> 
           
       </div>
-   
-      <div class="col-12 col-sm-6 col-lg-6 pt-5 text-center"> 
+      <div class="row pt-5">
+      <div class="col-12 col-sm-6 col-lg-6 text-center cor-fundo pt-5 "> 
         <img src="/projeto-integrador-II/melissa.jpg.jpg" class="img-fluid " alt="Aqui temos a imagem da Melissa.">
       </div>  
 
-      <div class="col-12 col-sm-6 col-lg-6  pt-5 pb-5 text-start " > 
-        <p> Melissa Raineri Godoy:
-          <ul><li>RA: 2650832213005 <li>
-          <li>Biografia: Integrante do grupo Pirulito Malignos de açucar e mel, reside em Vargem Grande Paulista, tem 23 anos e está cursando o segundo Semestre de Sistemas para internet na FATEC de São Roque. <li>
-          <li>Função no Grupo: Designer<li>
-          <li>Responsável: Página Series e TV <li>
-          <li><a href="/projeto-integrador-II/Seriesetv.php/atores.php">Atores</a> <li>
-          <li><a href="/projeto-integrador-II/Seriesetv.php/criticas.php">Criticas</a> <li>
-          <li><a href="/projeto-integrador-II/Seriesetv.php/lançamentos.php">Lançamentos</a> <li>
-          <li><a href="/projeto-integrador-II/Seriesetv.php/resenha.php">Resenha</a> <li>
-          <li><a href="/projeto-integrador-II/Seriesetv.php/noticias.php">Noticias</a> <li>
-          <li><a href="/projeto-integrador-II/Seriesetv.php/serieshome.php">Series e TV</a> <li>
-          </ul></p> 
-
+    
+      <div class="col-12 col-sm-6 col-lg-6 text-start cor-fundo py-5 " > 
+      
+        <p> Melissa Raineri Godoy:</p>
+        <p>RA: 2650832213005 </p>
+        <p>Biografia: Integrante do grupo Pirulito Malignos de açucar e mel, reside em Vargem Grande Paulista, tem 23 anos e está cursando o segundo Semestre de Sistemas para internet na FATEC de São Roque. </p>
+        <p>Função no Grupo: Designer</p>
+        <p>Responsável pelo desenvolvimento das seguintes páginas relacionadas a Series e TV : </p>
+        <ul class="list-unstyled">
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/Seriesetv.php/atores.php">Atores</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/Seriesetv.php/criticas.php">Criticas</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/Seriesetv.php/lançamentos.php">Lançamentos</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/Seriesetv.php/resenha.php">Resenha</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/Seriesetv.php/noticias.php">Noticias</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/Seriesetv.php/serieshome.php">Series e TV</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/autores.php">Autores</a> </li>
+          </ul> 
+          
       </div>
-
-    </section>
+</div>
+   
      
     <section class="row pt-5 "> 
 
-      <div class="col-12 col-sm-6 col-lg-6 pt-5 text-center" > 
+      <div class="col-12 col-sm-6 col-lg-6 text-center cor-fundo cor-fundo py-5" > 
         <img src="/projeto-integrador-II/gilberto.jpg" class="img-fluid " alt="Aqui temos a imagem do Gilberto">
       </div>
 
-      <div class="col-12 col-sm-6 col-lg-6 pt-5 pb-5 text-start" > 
-        <p> Gilberto Giliarde Bueno Camargo :
-          <ul><li>RA: 2650832213006 <li>
-          <li>Biografia: Integrante do grupo Pirulito Malignos de açucar e mel, reside em Mairinque, tem 25 anos e está cursando o segundo Semestre de Sistemas para internet na FATEC de São Roque. <li>
-          <li>Função no Grupo: Coder<li>
-          <li>Responsável: Página Cosplay <li>
-          <li><a href="/projeto-integrador-II/cosplay/animes.php">Animes</a> <li>
-          <li><a href="/projeto-integrador-II/cosplay/cosplay.php">Cosplay</a> <li>
-          <li><a href="/projeto-integrador-II/cosplay/eventos.php">Eventos</a> <li>
-          <li><a href="/projeto-integrador-II/cosplay/games.php">Games</a> <li>
-          <li><a href="/projeto-integrador-II/cosplay/noticias.php">Noticias</a> <li>
-          </ul></p> 
+      <div class="col-12 col-sm-6 col-lg-6 text-start cor-fundo py-5" > 
+        <p> Gilberto Giliarde Bueno Camargo :</p>
+        <p>RA: 2650832213006 </p>
+        <p>Biografia: Integrante do grupo Pirulito Malignos de açucar e mel, reside em Mairinque, tem 25 anos e está cursando o segundo Semestre de Sistemas para internet na FATEC de São Roque. </p>
+        <p>Função no Grupo: Coder</p>
+        <p>Responsável pelo desenvolvimento das seguintes páginas relacionadas a Cosplay : </p>
+        <ul class="list-unstyled">
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/cosplay/animes.php">Animes</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/cosplay/cosplay.php">Cosplay</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/cosplay/eventos.php">Eventos</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/cosplay/games.php">Games</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/cosplay/noticias.php">Noticias</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/normasdeutilização.php">Normas de Utilização</a> </li>
+          </ul> 
       </div>
+</section>
+<section class="row pt-5 pb-5">
 
-
-      <div class="col-12 col-sm-6 col-lg-6 pt-5 text-center" > 
-        <img src="/projeto-integrador-II/yasmin1.jpg.jfif" class="img-fluid " alt="Aqui temos a imagem da Yasmin">
+      <div class="col-12 col-sm-6 col-lg-6 text-center cor-fundo py-5" > 
+        <img src="/projeto-integrador-II/yasmin1.jpg" class="img-fluid " alt="Aqui temos a imagem da Yasmin">
       </div>
     
-      <div class="col-12 col-sm-6 col-lg-6 pt-5 pb-5 text-start " > 
-        <p><p> Yasmin do Nascimento :
-          <ul><li>RA: 2650832213008 <li>
-          <li>Biografia: Integrante do grupo Pirulito Malignos de açucar e mel, reside em Vargem Grande Paulista, tem 18 anos e está cursando o segundo Semestre de Sistemas para internet na FATEC de São Roque. <li>
-          <li>Função no Grupo: Coder<li>
-          <li>Responsavél: Página HQS <li>
-          <li><a href="/projeto-integrador-II/HQS/autores.php">Autores</a> <li>
-          <li><a href="/projeto-integrador-II/HQS/critica.php">Criticas</a> <li>
-          <li><a href="/projeto-integrador-II/HQS/pg.php">HQS</a> <li>
-          <li><a href="/projeto-integrador-II/HQS/topfive.php">Top Five</a> <li>
-          <li><a href="/projeto-integrador-II/HQS/ultimasnoticias.php">Noticias</a> <li>
-          <li><a href="/projeto-integrador-II/HQS/materia.php">Materia</a> <li>
+      <div class="col-12 col-sm-6 col-lg-6  text-start cor-fundo py-5" > 
+        <p>Yasmin do Nascimento :</p>
+        <p>RA: 2650832213008 </p>
+        <p>Biografia: Integrante do grupo Pirulito Malignos de açucar e mel, reside em Vargem Grande Paulista, tem 18 anos e está cursando o segundo Semestre de Sistemas para internet na FATEC de São Roque. </p>
+          <p>Função no Grupo: Coder</p>
+          <p>Responsavél pelo desenvolvimento das seguintes páginas relacionadas a HQS :</p>
+          <ul class="list-unstyled">
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/HQS/autores.php">Autores</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/HQS/critica.php">Criticas</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/HQS/pg.php">HQS</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/HQS/topfive.php">Top Five</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/HQS/ultimasnoticias.php">Noticias</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/HQS/materia.php">Materia</a> </li>
+          <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="/projeto-integrador-II/quemsomos.php">Quem Somos</a> </li>
 
     </section>
 
