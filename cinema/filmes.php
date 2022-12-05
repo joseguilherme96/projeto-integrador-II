@@ -31,8 +31,10 @@
       <picture >
         <source srcset="img/banner-cinema.jpg" class="img-fluid" media="(min-width:992px)">
         <img src="img/indiana-jones.jpg" class="img-fluid" alt="Banner Cinema">
+        </a>
+        <figcaption class="d-none d-lg-block">Fonte imagem em https://www.nerdview.com.br/2022/12/asista-ao-trailer-oficial-de-indiana.html</figcaption>
       </picture>
-      </a>
+      
     </div>
     <div class="col-12 col-sm-5 col-lg-12">
       <div class="row ">

@@ -30,6 +30,7 @@
         <div class="row text-center">
             <div class="col-12 col-sm-12 col-lg-12">
             <img src="img/banner-cinema.jpg" class="img-fluid" alt="Capa Filme">
+            <figcaption class="">Fonte imagem em https://www.nerdview.com.br/2022/12/asista-ao-trailer-oficial-de-indiana.html</figcaption>
             </div>
         </div>
         <section>
@@ -87,16 +88,7 @@
                 </div>
             </div>
         </div>-->
-        <div class="row justify-content-center">
-            <div class="col-8">
-                <h3>Referências Bibliograficas</h3>
-                <p>
-                <a href="https://www.omelete.com.br/ccxp/indiana-jones-5-e-o-chamado-do-destino-trailer-ccxp22">
-                    https://www.omelete.com.br/ccxp/indiana-jones-5-e-o-chamado-do-destino-trailer-ccxp22
-                </a>
-                </p>
-            </div>
-        </div>
+        
         <div class="row justify-content-center">
             <div class="col-8">
                 <p>  </p>
@@ -108,15 +100,18 @@
         <?php  if($_GET['cod']==2){?>
             <div class="row text-center">
             <div class="col-12 col-sm-12 col-lg-12">
+                <figure>
             <img src="img/filmes/banner-marvel.jpg" class="img-fluid" alt="Capa Filme">
-            </div>
+            <figcaption>Fonte imagem em : https://www.omelete.com.br/ccxp/ccxp22-marvel-studios-2023-luto</figcaption>
+            <figure>    
+        </div>
         </div>
             <section>
         <div class="row justify-content-center">
                 <div class="col-lg-8 py-3">
                     <h4 class="cor-letra">CCXP22: painel do Marvel Studios promete um 2023 cheio de despedidas</h4>
                     <h5 class="cor-letra">Apresentação do estúdio no Palco Thunder mostrou prévias de Homem-Formiga e a Vespa: Quantumania e Guardiões da Galáxia vol. 3</h5>
-                    <h6>Por <a href="../autores.php">NICO GARÓFALO</a>  01/12/2022</h6>
+                    <h6>Por <a href="../autores.php?nicolas-garofalo">NICO GARÓFALO</a>  01/12/2022</h6>
                     <!--https://www.omelete.com.br/autores/nico-garofalo -->
                 </div>
                
@@ -161,16 +156,6 @@
         </div>-->
         <div class="row justify-content-center">
             <div class="col-8">
-                <h3>Referências Bibliograficas</h3>
-                <p>
-                <a href="https://www.omelete.com.br/ccxp/ccxp22-marvel-studios-2023-luto">
-                https://www.omelete.com.br/ccxp/ccxp22-marvel-studios-2023-luto
-                </a>
-                </p>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-8">
                 <p>  </p>
             </div>
         </div>  
@@ -179,8 +164,11 @@
         <?php  if($_GET['cod']==3){?>
             <div class="row text-center">
             <div class="col-12 col-sm-12 col-lg-12">
+                <figure>
             <img src="img/filmes/filme-the-last-of-us .jpg" class="img-fluid" alt="Capa Filme">
-            </div>
+            <figcaption> Fonte imagem em :https://thelastofus.com.br/noticias/novo-filme-de-schwarzenegger-inspirado-em-the-last-of-us/</figcaption>    
+        </figure>
+        </div>
         </div>
             <section>
         <div class="row justify-content-center">
@@ -223,16 +211,6 @@
         </div>-->
         <div class="row justify-content-center">
             <div class="col-8">
-                <h3>Referências Bibliograficas</h3>
-                <p>
-                <a href="https://www.omelete.com.br/ccxp/ccxp22-the-last-of-us-trailer-2">
-                https://www.omelete.com.br/ccxp/ccxp22-the-last-of-us-trailer-2
-                </a>
-                </p>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-8">
                 <p>  </p>
             </div>
         </div>  
@@ -240,13 +218,78 @@
 
         <?php }?>
         <?php  if($_GET['cod']==4){?>
+            <div class="row text-center">
+            <div class="col-12 col-sm-12 col-lg-12">
+            <img src="img/streaming/deep.png" class="img-fluid" alt="Capa Filme">
+            <figcaption>https://www.omelete.com.br/filmes/criticas/aguas-profundas-amazon-prime-video</figcaption>
+            </div>
+        </div>
+            <section>
+        <div class="row justify-content-center">
+                <div class="col-lg-8 py-3">
+                    <h4 class="cor-letra">Como thriller erótico, Águas Profundas é uma ótima comédia de costumes</h4>
+                    <h5 class="cor-letra">Adrian Lyne está menos interessado em cenas de sexo do que está em tirar sarro dos ricos</h5>
+                    <h6>Por <a href="../autores.php">CAIO COLETTI</a>  18/03/2022</h6>
+                    <!--https://www.omelete.com.br/autores/nico-garofalo -->
+                </div>
+               
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-8">
+            <p>Águas Profundas era uma proposição bizarra desde o começo: um thriller erótico inspirado por um livro da autora de Carol (Patricia Highsmith), escrito pelos roteiristas de Mais Estranho que a Ficção (Zach Helm) e Euphoria (Sam Levinson), dirigido pelo responsável por Proposta Indecente e Atração Fatal (Adrian Lyne) e protagonizado pelo (já ex-)casal da vida real Ben Affleck e Ana de Armas. Como diria Natasha Lyonne naquela cena de Boneca Russa eternizada em memes no Twitter: “Que conceito”.</p>
 
+            <p>A surpresa, portanto, é constatar, agora que o filme chegou ao Amazon Prime Video brasileiro, que Águas Profundas é ainda mais estranho do que parecia no papel. A trama acompanha o casal Vic (Affleck) e Melinda (Armas), que vive uma espécie de casamento aberto: ele deixa ela se envolver com outros homens, ao menos em um primeiro momento, mas também tem uma tendência a botá-los para correr com ameaças de assassinato disparadas casualmente durante as reuniões sociais do círculo de amigos ricos do casal.</p>
+
+            <p>Dizer mais do que isso seria estragar os caminhos deliciosamente estúpidos que Águas Profundas toma a partir do seu segundo ato. Os furos de lógica são muitos e imensos, e as vacilantes regras internas do relacionamento de Vic e Melinda, ora cúmplices ora adversários mortais, são tão dramaticamente mal resolvidas que o espectador precisa rir das decisões cada vez mais incompreensíveis que eles tomam. Em suma, Helm e Levinson não parecem se importar muito com seus personagens, enquanto Lyne, bom… ele abertamente os despreza.</p>
+
+            <p>Nunca isso transparece mais do que na forma como o cineasta estrutura e filma as “festinhas” do grupo de amigos de Vic e Melinda. Nas mãos de Lyne, elas são a tentativa meio patética de um grupo de ricaços de meia-idade de se agarrarem à sua juventude - não é à toa que ele escala, para o elenco coadjuvante, nomes fortes da comédia, como Lil Rel Howery (Free Guy) e Rachel Blanchard (Peep Show). A forma como eles berram, conversam, se movem e dançam, a decoração meio decadente e até as atrações musicais que parecem saídas de uma rádio easy listening qualquer, tudo é calculado por Lyne e seus colaboradores para parecer um luxo vazio, descerebrado, e acima de tudo terrivelmente entediante (para eles, é claro - a gente se diverte pacas rindo da situação).</p>
+
+            <p>Adicionando uma camada a mais de sátira, proposital ou não, ao procedimento todo, Affleck e Armas não parecem entender exatamente o tipo de filme em que estão. Ele até ensaia um sorriso cínico ou outro, espremidos entre momentos profundamente sérios em que tenta balancear imponência física e perturbação mental para nos fazer duvidar o tempo todo do seu Vic. Já ela se mostra plenamente entregue a uma personagem tão inconstante que mal se sustenta como material sólido em tela, escapando pelos dedos sempre que o roteiro exige que ela mude de ideia - é um testamento ao comprometimento de Armas que cada emoção de Melinda pareça genuína, ainda que não passemos nem perto de entendê-la de verdade.</p>
+
+            <p>É curioso, inclusive, que esse escárnio de Águas Profundas pelos costumes e perturbações de toda uma classe social acabe consumindo até mesmo a sexualidade que ele propõe. As cenas de sexo do filme são poucas, rápidas e espaçadas, mas elas estão aqui muito mais para realçar a insipidez da vida desses adultos desocupados e desmoralizados do que para instigar ou excitar o espectador. Ninguém em Águas Profundas transa bem, ou mesmo transa por prazer. Se há tesão aqui, é tesão causado pelo tédio e sublimado em violência, e não na cama.</p>
+
+            <p>É verdade que, nos 20 anos que Adrian Lyne passou afastado das telas desde Infidelidade (2002), o thriller erótico como gênero se esvaziou em uma Hollywood cada vez mais estéril. Também é verdade, no entanto, que o diretor sempre foi muito mais interessado em dinâmicas de classe do que em dinâmicas de gênero ou em jogos psicossexuais - é sobre isso que Proposta Indecente, Atração Fatal e até Lolita versam, por baixo da superfície. Não deveria ser surpresa que Águas Profundas seja o que é, mas o marketing e o discurso cultural deixaram o público preparado para outra coisa (e posicionado para a decepção).</p>
+
+            <p>Se visto com o coração aberto e a disposição venenosa de rir de e com ele, o filme oferece 2h de entretenimento de qualidade.</p>
+
+
+             </div>
+        </div>
+        <!--<div class="row justify-content-center">
+            <div class="col-8">
+                <p>Disponíveis</p>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-8">
+                <div class="row justify-content-start">
+                    <div class="col-8 border">
+                        <img src="https://via.placeholder.com/50x50" class="img-fluid" alt="Logo Prime Video">
+                        <img src="https://via.placeholder.com/50x50" class="img-fluid" alt="Logo Prime Netflix">
+                        <img src="https://via.placeholder.com/50x50" class="img-fluid" alt="Logo Disney Plus">
+                    </div>
+                    <div class="col-4 text-end">
+                        <i class="bi bi-share"></i>
+                    </div>
+                </div>
+            </div>
+        </div>-->
+        
+        <div class="row justify-content-center">
+            <div class="col-8">
+                <p>  </p>
+            </div>
+        </div>  
+        </section>
         <?php }?>
         <?php  if($_GET['cod']==5){?>
             <div class="row text-center">
             <div class="col-12 col-sm-12 col-lg-12">
+            <figure>
             <img src="img/streaming/agente-oculto.jpg" class="img-fluid" alt="Capa Filme">
-            </div>
+            <figcaption>Fonte imagem em : https://www.omelete.com.br/filmes/netflix-divulga-imagens-e-data-de-estreia-de-agente-ocult</figcaption>
+            </figure>    
+        </div>
         </div>
             <section>
         <div class="row justify-content-center">
@@ -299,43 +342,7 @@
         <?php } ?>
 
         </article>
-        <section class="row justify-content-center">
-        
-            <div class="col-8">
-                <h2>Ver Mais</h2>
-            </div>
-        
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-            </div>
-        </div>
-        </section>
+        <?php include "mais-noticias.php"; ?>
     </div>
     <?php include "../rodape.php";?>
 </body>
