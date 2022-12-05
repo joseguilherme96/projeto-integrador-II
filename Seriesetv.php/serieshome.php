@@ -20,9 +20,11 @@
             </div>
             <section>
                 <div class="row text-start cor-fundo">
-                    <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                    <a class="text-decoration-none d-inline cor-letra" href="/projeto-integrador-II/Seriesetv.php/noticias.php"><h2>Globo de Ouro negocia para voltar à TV em 2023</h2></a>
-                    <a class="text-dark text-decoration-none" href="/projeto-integrador-II/Seriesetv.php/noticias.php"><p>Depois de acontecer em uma cerimônia privada em 2022, o Globo de Ouro negocia sua volta à TV...</p></a>  
+                    <div class="col 12">
+                        <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
+                        <a class="text-decoration-none d-inline cor-letra" href="/projeto-integrador-II/Seriesetv.php/noticias.php"><h2 class="d-inline">Globo de Ouro negocia para voltar à TV em 2023</h2></a>
+                    </div>
+                        <a class="text-dark text-decoration-none" href="/projeto-integrador-II/Seriesetv.php/noticias.php"><p>Depois de acontecer em uma cerimônia privada em 2022, o Globo de Ouro negocia sua volta à TV...</p></a>  
                 </div>
                 <div class="row">
                     <div class="text-center">
