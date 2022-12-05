@@ -41,7 +41,7 @@
                             que recentemente deixou a produção.
                             A Casa do Dragão é exibida aos domingos, na HBO e no streaming HBO Max.
                         </p>
-                        <p>Giovanna Breve,03/10/2022.</p>
+                        <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#giovannabreve"><p>Giovanna Breve,03/10/2022.</p></a>
                     </div>
                 </div>
             </section>

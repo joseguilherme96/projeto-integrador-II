@@ -50,7 +50,7 @@
                     </div>
                         <p>A série Wandinha, focada na personagem da Família Addams, ganhou uma nova prévia no Tudum. A produção da Netflix tem estreia confirmada para 23 de novembro.</p>
                         <p>Além de Ortega, o elenco de Wandinha ainda conta com Catherine Zeta-Jones, Luis Guzmán, Gwendoline Christie, Christina Ricci e muito mais. A história é descrita como "um mistério com toques sobrenaturais que acompanha a trajetória de Wandinha como aluna da Escola Nunca Mais."</p>
-                        <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#pedrohenriqueribeiro"><p>Pedro Henrique Ribeiro</p></a>
+                        <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#pedrohenriqueribeiro"><p>Pedro Henrique Ribeiro,24/09/2022.</p></a>
                 </section>
             </div>
             <div class="text-end p-3">

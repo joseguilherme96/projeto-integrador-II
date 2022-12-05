@@ -20,10 +20,10 @@
             <section class="cor-fundo">
                 <div class="text-start cor-letra">
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                    <h2 class="d-inline">Resenha da Série The Act</h2>
+                    <h2 class="d-inline">Resenha La casa de Papel</h2>
                 </div>
                 <div class="row text-center">
-                    <img src="../img/lacasa.png"  class="img-fluid" alt="imagem tal e tal">
+                    <img src="../img/lacasa5.jpg"  class="img-fluid" alt="imagem tal e tal">
                     <p class="p-3">La Casa de Papel, da Netflix, conta a história de nove habilidosos ladrões (Nairóbi, Berlim, Tókyo, Rio, Helsinki, Oslo, Professor, Denver e Moscou) 
                     que se trancam na Casa da Moeda da Espanha, com o ambicioso plano de realizar o maior roubo da história.</p>
                     <p>Possuindo a meta de imprimir 2,4 bilhões de euros, a gangue precisa lidar com as dezenas de pessoas que foram mantidas reféns e com os agentes da força de elite da polícia,
@@ -34,7 +34,7 @@
                     <p>O elenco conta com Álvaro Morte, Úrsula Corberó, Itzar Ituño, Pedro Alonso, Alba Flores, Miguel Herrán, Jaime Lorente, Esther Acebo e outros.</p>
                     <p>Direção por: Jesús Colmenar, Koldo Serra, Álex Rodrigo e Javier Quintas.</p>
                     <p>A trama é dividida em 5 partes sendo todas disponibilizadas na Netflix.</p>
-                    <p>Natalia NiNi,15/12/2021</p>
+                    <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#natalianini"><p>Natalia NiNi,15/12/2021.</p></a>
                 </div>       
             </section>
             <div class="text-end p-3">

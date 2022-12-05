@@ -169,7 +169,7 @@ Deadpool e Arlequina juntos em incrivel cosplay feito por fã, quem conhece sabe
         <h2 class="cor-letra py-3">SERIES & TV</h2>
         <div class="row cor-fundo my-5">
             <div class="col-12 col-sm-12 col-lg-6  p-1">
-                <img src="https://via.placeholder.com/600x350" class="img-fluid ">
+                <img src="img/casaescuro.png" class="img-fluid ">
             </div>
             <div class="col-12 col-sm-12 col-lg-6 p-1">
             <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
@@ -194,11 +194,11 @@ Deadpool e Arlequina juntos em incrivel cosplay feito por fã, quem conhece sabe
             </div>
             <div class=" col-sm-12 col-lg-12 text-center p-1">
                 <picture >
-                    <source srcset="https://via.placeholder.com/1700x320" class="img-fluid" media="(min-width:992px)">
-                    <source srcset="https://via.placeholder.com/821x229" class="img-fluid" media="(min-width:576px)">
-                    <img src="https://via.placeholder.com/299x119" class="img-fluid">
+                    <source srcset="img/globoouro.png" class="img-fluid" media="(min-width:992px)">
+                    <source srcset="img/globoouro.png" class="img-fluid" media="(min-width:576px)">
+                    <img src="img/globoouro.png" class="img-fluid">
                 </picture>
-</div>
+            </div>
         <div class="col-12 col-sm-12 col-lg-12">
                 <p>
                     Lorem ipsum dolor sit amet, consecteturLorem ipsum
