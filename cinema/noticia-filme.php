@@ -243,7 +243,58 @@
 
         <?php }?>
         <?php  if($_GET['cod']==5){?>
+            <div class="row text-center">
+            <div class="col-12 col-sm-12 col-lg-12">
+            <img src="img/streaming/agente-oculto.jpg" class="img-fluid" alt="Capa Filme">
+            </div>
+        </div>
+            <section>
+        <div class="row justify-content-center">
+                <div class="col-lg-8 py-3">
+                    <h4 class="cor-letra">The Last of Us ganha trailer inédito e emocionante na CCXP22</h4>
+                    <h5 class="cor-letra">Série estreia na HBO Max em 15 de janeiro</h5>
+                    <h6>Por <a href="../autores.php">BIA VACCARI</a>  26/04/2022</h6>
+                    <!--https://www.omelete.com.br/autores/nico-garofalo -->
+                </div>
+               
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-8">
+            <p>A Netflix liberou nesta terça-feira (26) novas imagens de seu mais novo filme original, Agente Oculto, mostrando os personagens de Chris Evans, Ryan Gosling, Ana de Armas e Regé-Jean Page</p>
 
+            <p>Na trama, Ryan Gosling é o agente da CIA Court Gentry, também conhecido como Agente Oculto e Sierra Six, enquanto Chris Evans é seu adversário psicopata Lloyd Hansen. O longa é baseado no livro The Gray Man, de Mark Greaney.</p>
+
+            <p>Leia a sinopse do título: "Arrancado de uma penitenciária federal e recrutado por Donald Fitzroy (Billy Bob Thornton), Gentry já foi um mercenário altamente qualificado e sancionado pela Agência. Mas agora a situação virou e ele é o alvo, caçado em todo o mundo por Hansen, um ex-membro da CIA que não vai parar por nada até derrubá-lo. A seu favor, Six conta com a ajuda da agente Dani Miranda (Ana de Armas). Ele vai precisar."</p>
+
+            <p>Dirigido pelos irmãos Anthony e Joe Russo, o filme ainda conta com Billy Bob Thornton, Jessica Henwick, Dhanush, Alfred Woodard e o brasileiro Wagner Moura no elenco.
+             </div>
+        </div>
+        <!--<div class="row justify-content-center">
+            <div class="col-8">
+                <p>Disponíveis</p>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-8">
+                <div class="row justify-content-start">
+                    <div class="col-8 border">
+                        <img src="https://via.placeholder.com/50x50" class="img-fluid" alt="Logo Prime Video">
+                        <img src="https://via.placeholder.com/50x50" class="img-fluid" alt="Logo Prime Netflix">
+                        <img src="https://via.placeholder.com/50x50" class="img-fluid" alt="Logo Disney Plus">
+                    </div>
+                    <div class="col-4 text-end">
+                        <i class="bi bi-share"></i>
+                    </div>
+                </div>
+            </div>
+        </div>-->
+        
+        <div class="row justify-content-center">
+            <div class="col-8">
+                <p>  </p>
+            </div>
+        </div>  
+        </section>
         <?php }?>
         <?php } ?>
 
