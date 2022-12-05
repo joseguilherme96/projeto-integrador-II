@@ -342,43 +342,7 @@
         <?php } ?>
 
         </article>
-        <section class="row justify-content-center">
-        
-            <div class="col-8">
-                <h2>Ver Mais</h2>
-            </div>
-        
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <h5>Lorem ipsum dolor sit amet, consectetur </h5>
-                <h6>Por <a href="">Yasmin</a>  28/10/2022</h6>
-            </div>
-        </div>
-        </section>
+        <?php include "mais-noticias.php"; ?>
     </div>
     <?php include "../rodape.php";?>
 </body>
