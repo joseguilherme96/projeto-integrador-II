@@ -268,7 +268,7 @@
         <h2 class="cor-letra">Jason Stham</h2>
         </div>
         <div class="row">
-          <img src="img/jason-statham.jpg" alt="Foto Autor">
+            <img src="img/jason-statham.jpg" alt="Foto Autor">
         </div>
         <div class="row">
           <p>Conhecido como o cara durão de Carga Explosiva, Os Mercenários e Velozes & Furiosos 7, Jason Statham fez poucas comédias em sua carreira. </p>
