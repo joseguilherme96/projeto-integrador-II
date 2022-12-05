@@ -19,7 +19,9 @@
    
       <img src="/projeto-integrador-II/HQS/img/a1.jpg" class="img-fluid" alt=" Autores">
       <a href= "/projeto-integrador-II/HQS/autores.php"> <h3>Autor</h3></a>  
-    
+      <div class="text-end pb-3">
+                        <a class="btn btn-primary" href="/projeto-integrador-II/HQS/index.php" role="button">Ver mais</a>
+                    </div>
     
     </div>
     
@@ -28,6 +30,9 @@
       <img src="/projeto-integrador-II/HQS/img/c1.jpg" class="img-fluid" alt=" Critica">
      <a href= "/projeto-integrador-II/HQS/critica.php"> <h3>Critica</h3></a>
     </div>
+    <div class="text-end pb-3">
+                        <a class="btn btn-primary" href="/projeto-integrador-II/HQS/index.php" role="button">Ver mais</a>
+                    </div>
    
 
 </section>
@@ -39,11 +44,16 @@
       <img src="/projeto-integrador-II/HQS/img/t1.jpg"class="img-fluid"  alt=" Top Five ">
       <a href= "/projeto-integrador-II/HQS/topfive.php"> <h3>Top Five</h3></a>
     </div>
-
+    <div class="text-end pb-3">
+                        <a class="btn btn-primary" href="/projeto-integrador-II/HQS/index.php" role="button">Ver mais</a>
+                    </div>
 
     <div class="col-12 col-sm-6 col-lg-2 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
       <img src="/projeto-integrador-II/HQS/img/u1.jpg" class="img-fluid"  alt=" Ultimas Noticias ">
       <a href= "/projeto-integrador-II/HQS/ultimasnoticias.php"> <h3>Ultimas Noticias</h3></a>
+      <div class="text-end pb-3">
+                        <a class="btn btn-primary" href="/projeto-integrador-II/HQS/index.php" role="button">Ver mais</a>
+                    </div>
       
     </div>
     <div class="col-12 col-sm-12 col-lg-8 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
