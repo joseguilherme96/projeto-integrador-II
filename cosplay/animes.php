@@ -10,7 +10,9 @@
 <body>
   <?php include "../nav.php"?>
   <div class="container  ">
-
+    <div class="col-12 text-center pt-5">
+      <h1 class="cor-letra"> ANIMES </h1>
+    </div>
 
     <div class="row text-start">
       <div class="col-12 m-5 col-sm-12 col-lg-12 col-xl-3"> <h6 class="cor-letra"> Boruto </h6><img src="/projeto-integrador-II/imgcosplay//boruto.png" alt=" Uzumaki Boruto, filho de Uzumaki Naruto, o Sétimo Hokage, se inscreveu na Academia Ninja para aprender a ser um verdadeiro ninja. Os outros estudantes o ignoram por ser apenas o filho do Hokage mas a paixão e a personalidade do Boruto vai acabar com todos esses preconceitos.
