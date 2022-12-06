@@ -169,50 +169,44 @@ Deadpool e Arlequina juntos em incrivel cosplay feito por fã, quem conhece sabe
         <h2 class="cor-letra py-3">SERIES & TV</h2>
         <div class="row cor-fundo my-5">
             <div class="col-12 col-sm-12 col-lg-6  p-1">
-                <img src="img/casaescuro.png" class="img-fluid ">
+                <img src="img/casaescuro.png" class="img-fluid mt-4">
             </div>
             <div class="col-12 col-sm-12 col-lg-6 p-1">
             <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                <h2 class="d-inline cor-letra text-start">Lorem ipsum</h2>
-                <p>Lorem ipsum dolor sit amet, consecteturLorem ipsum
-                    dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-                    consecteturLorem ipsum dolor sit amet, consectetur
-                    Lorem ipsum dolor sit amet, consecteturLorem ipsum
-                    dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-                    consecteturLorem ipsum dolor sit amet, consectetur
+                <h2 class="d-inline cor-letra text-start">A Casa do Dragão: fãs reclamam de episódio escuro...</h2>
+                <p>Os fãs de Game of Thrones tiveram um déjà vu nada agradável ao assistirem o sétimo episódio de A Casa do Dragão, 
+                isso porque muitos comentaram que as cenas estavam pouco iluminadas, causando dificuldade de enxergar...
                 </p>
+                <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#giovannabreve"><p>Giovanna Breve,03/10/2022.</p></a>
             </div> 
             <div class="text-end pb-3">
-            <a class="btn" style="background-color:#E03616" href="/projeto-integrador-II/cinema/index.php" role="button">Ver mais</a>
+                <a class="btn text-decoration-none text-light" style="background-color:#E03616" href="/projeto-integrador-II/seriesetv.php/criticas.php" role="button">Ver mais</a>
             </div>
             <div class="col-12 col-sm-12 col-lg-12">
-                <p>
-                    Lorem ipsum dolor sit amet, consecteturLorem ipsum
-                    dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-                    consecteturLorem ipsum dolor sit amet, consectetur
-                </p>
+                <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
+                <h2 class="d-inline cor-letra text-start">Katherine McNamara revela paixão pela comunidade e fãs brasileiros na CCXP22...</h2>
             </div>
             <div class=" col-sm-12 col-lg-12 text-center p-1">
                 <picture >
-                    <source srcset="img/globoouro.png" class="img-fluid" media="(min-width:992px)">
-                    <source srcset="img/globoouro.png" class="img-fluid" media="(min-width:576px)">
-                    <img src="img/globoouro.png" class="img-fluid">
+                    <source srcset="img/katherine.png" class="img-fluid" media="(min-width:992px)">
+                    <source srcset="img/katherine.png" class="img-fluid" media="(min-width:576px)">
+                    <img src="img/katherine.png" class="img-fluid">
                 </picture>
             </div>
-        <div class="col-12 col-sm-12 col-lg-12">
+            <div class="col-12 col-sm-12 col-lg-12">
                 <p>
-                    Lorem ipsum dolor sit amet, consecteturLorem ipsum
-                    dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-                    consecteturLorem ipsum dolor sit amet, consectetur
+                Katherine McNamara trouxe simpatia e encantou o público do Palco Thunder by Cinemark Club durante a CCXP22. 
+                Em uma conversa com Maria Bopp, a artista contou sobre a carreira, a paixão pelo Brasil...
                 </p>
-        </div>
-        <div class="text-end pb-3">
-        <a class="btn" style="background-color:#E03616" href="/projeto-integrador-II/cinema/index.php" role="button">Ver mais</a>
+                <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#giovannabreve"><p>Giovanna Breve,03/12/2022.</p></a>
             </div>
-</div>
-</div>
+        
+            <div class="text-end pb-3">
+                <a class="btn text-decoration-none text-light" style="background-color:#E03616" href="/projeto-integrador-II/seriesetv.php/atores.php" role="button">Ver mais</a>
+            </div>
+        </div>
     </section>
-</div>
-</body>
+    </div>
 <?php include "rodape.php"?>
+</body>
 </html>

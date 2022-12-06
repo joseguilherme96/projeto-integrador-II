@@ -11,8 +11,9 @@
     <title>Séries e TV</title>
 </head>
 <body>
+    
+    <?php include "../nav.php"?>
     <div class="container">
-        <?php include "../nav.php"?>
         <article>
             <div class= "row text-center">
                 <h1>Séries e TV</h1>
@@ -49,7 +50,7 @@
                 <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
             </div>
         </article>
-        <?php include "../rodape.php"?>
     </div>
+    <?php include "../rodape.php"?>
 </body>
 </html>
