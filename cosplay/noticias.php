@@ -8,7 +8,7 @@
     <link href="/projeto-integrador-II/css//tema.css" rel="stylesheet" >
   </head>
 <body>
-<nav><?php include "../nav.php"?></nav> 
+    <?php include "../nav.php"?>
     <div class="col-12 text-center pt-5">
       <h1 class="cor-letra"> NOTÍCIAS </h1>
     </div>   

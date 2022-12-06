@@ -12,8 +12,9 @@
     <title>Séries e TV</title>
 </head>
 <body>
+    
+    <?php include "../nav.php"?>
     <div class="container">
-        <?php include "../nav.php"?>
         <article>
             <div class="row text-center">
                 <h1 >Séries e TV</h1>
@@ -36,23 +37,24 @@
                 <section class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-6 col-sm-12 pt-5">
-                            <a href="/projeto-integrador-II/Seriesetv.php/noticias.php"><img src="../img/globoouro.png" class="img-fluid" alt="imagem tal e tal"></a> 
+                            <a href="/projeto-integrador-II/Seriesetv.php/noticias.php"><img src="../img/seubarriga.png" class="img-fluid" alt="imagem tal e tal"></a> 
                         </div>
                         <div class="col-6 col-sm-12 pt-3 text-start cor-fundo">
                             <div class="col 12">
                                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                                 <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/Seriesetv.php/resenha.php"><h2 class="d-inline">Atores</h2></a>
                             </div>
-                                <a class="text-dark text-decoration-none" href="/projeto-integrador-II/Seriesetv.php/resenha.php"><p>Na CCXP22,Katherine McNamara revela paixão pela comunidade e fãs brasileiros e Seu Barriga emociona CCXP22 em painel com tom de despedida...</p></a>
+                                <a class="text-dark text-decoration-none" href="/projeto-integrador-II/Seriesetv.php/resenha.php"><p>Na CCXP22 Seu Barriga emociona CCXP22 em painel com tom de despedida...</p></a>
                         </div>
                     </div>
                 </section>
                 <section class="col-12 col-sm-6">
                     <div class="row">
-                        <div class="col-6 col-sm-12 pt-5">
-                            <a href="/projeto-integrador-II/Seriesetv.php/noticias.php"><img src="../img/lacasa.png" class="img-fluid" alt="imagem tal e tal"></a>
+                        <div class="col-6 col-sm-12 pt-5 text-center">
+                            <a href="/projeto-integrador-II/Seriesetv.php/noticias.php"><img src="../img/lacasa.png" class="img-fluid mt-3" alt="imagem tal e tal"></a>
+                            <div class="col 12 my-2"></div>
                         </div>
-                        <div class="col-6 col-sm-12 pt-3 text-start cor-fundo mt-4">
+                        <div class="col-6 col-sm-12 pt-3 text-start cor-fundo mt-4 ms-3">
                             <div class="col 12">
                                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                                 <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/Seriesetv.php/lançamentos.php"><h2 class="d-inline">Resenha da série La casa de Papel</h2></a>
@@ -63,11 +65,11 @@
                 </section>
                 <section class="col-12 col-sm-6">
                     <div class="row">
-                        <div class="col-6 col-sm-12 pt-5">
+                        <div class="col-6 col-sm-12 pt-5 text-center">
                             <a href="/projeto-integrador-II/Seriesetv.php/noticias.php"><img src="../img/casaescuro.png" class="img-fluid" alt="imagem tal e tal"></a>
                         </div>
                         
-                        <div class="col-6 col-sm-12 pt-3 text-start cor-fundo p-2 m-3">
+                        <div class="col-6 col-sm-12 pt-3 text-start cor-fundo p-2 ">
                             <div class="col 12">
                                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                                 <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/Seriesetv.php/atores.php"><h2 class="d-inline">Crítica à série Game of Thrones:A Casa do Dragão</h2></a>
@@ -78,21 +80,21 @@
                 </section>
                 <section class="col-12 col-sm-6">
                     <div class="row">
-                        <div class="col-6 col-sm-12 pt-5">
-                        <a href="/projeto-integrador-II/Seriesetv.php/criticas.php"><img src="https://via.placeholder.com/300x200" class="img-fluid" alt="imagem tal e tal"></a>
+                        <div class="col-6 col-sm-12 pt-5 text-center">
+                        <a href="/projeto-integrador-II/Seriesetv.php/criticas.php"><img src="../img/you.png" class="img-fluid" alt="imagem tal e tal"></a>
                         </div>
-                        <div class="col-6 col-sm-12 pt-3 text-start cor-fundo m-3">
+                        <div class="col-6 col-sm-12 pt-3 text-start cor-fundo m-3 ms-4">
                             <div class="col 12">
                                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                                 <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/Seriesetv.php/criticas.php"><h2 class="d-inline">Lançamentos</h2></a>
                             </div>
-                            <a class="text-dark text-decoration-none" href="/projeto-integrador-II/Seriesetv.php/criticas.php"><p>Lançamentos exclusivos da Netflix como a 4ª Temporada de You e a Série de nome Wandinha,prometem impressionar o público,a primeira com data de lançamento prevista para 10 de fevereiro de 2023 e a segunda para 23 de novembro de 2022...</p></a>
+                            <a class="text-dark text-decoration-none" href="/projeto-integrador-II/Seriesetv.php/criticas.php"><p>Lançamentos exclusivos da Netflix como a 4ª Temporada de You,prometem impressionar o público,a primeira com data de lançamento prevista para 10 de fevereiro de 2023</p></a>
                         </div>
                     </div>
                 </section>
             </div>  
         </article>
-        <?php include "../rodape.php"?> 
-    </div>     
+    </div> 
+    <?php include "../rodape.php"?>     
 </body>
 </html>

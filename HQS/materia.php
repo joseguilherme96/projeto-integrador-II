@@ -13,11 +13,8 @@
 
 
 <body>
-
-  <div class="container">
-    <nav>
     <?php include "../nav.php"?>
-</nav>
+    <div class="container">
     <section class="row pt-5 "> 
 
       <div class="col-12 col-sm-12 col-lg-12 text-center pt-5 "> 

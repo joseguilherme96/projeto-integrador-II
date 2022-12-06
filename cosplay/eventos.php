@@ -47,8 +47,10 @@
         <p> Maior evento gamer da América Latina, a Game XP 2021 é realizada neste fim de semana, pela primeira vez de forma virtual para o público. O festival contará com duas disputas de esports: a Taça Game XP de Free Fire no sábado e a Grrrls League</p>
           
         </div>
-      
+      </div>
     </div>
+  </div>
+  
 
 
   <?php include "../rodape.php"?>

@@ -254,8 +254,7 @@
                         <img src="./img/omelete.jpg" class="img-fluid" alt="imagem tal e tal">
                     </div>
                     <div class="col-12 col-sm-6 p-3 cor-fundo">
-                        <p>Site destinado a notícias,matérias e entrevistas sobre filmes,séries,HQs e outors....</p>
-                        https://www.omelete.com.br/filmes/criticas/jogador-no-1-critica
+                        <p>Site destinado a notícias,matérias e entrevistas sobre filmes,séries,HQs e outros....</p>
                         <a class="text-decoration-none cor-letra" href="https://www.omelete.com.br/filmes/criticas/jogador-no-1-critica"><p>https://www.omelete.com.br/filmes/criticas/jogador-no-1-critica</p></a>
                         <a class="text-decoration-none cor-letra" href="https://www.omelete.com.br/harry-potter?gclid=EAIaIQobChMI3Kaew5_g-wIVFWSRCh0sSAh2EAAYASAAEgLR_vD_BwE"><p>https://www.omelete.com.br/harry-potter?gclid=EAIaIQobChMI3Kaew5_g-wIVFWSRCh0sSAh2EAAYASAAEgLR_vD_BwE</p></a>
                         <a class="text-decoration-none cor-letra" href="https://www.omelete.com.br/ccxp/ccxp22-the-last-of-us-trailer-2"><p>https://www.omelete.com.br/ccxp/ccxp22-the-last-of-us-trailer-2</p></a>
