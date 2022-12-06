@@ -24,7 +24,9 @@
                     <h2 class="d-inline">Resenha La casa de Papel</h2>
                 </div>
                 <div class="row text-center">
-                    <img src="../img/lacasa5.jpg"  class="img-fluid" alt="imagem tal e tal">
+                    <div class="col-12">
+                        <img src="../img/lacasa22.jpg"  class="img-fluid" alt="imagem tal e tal">
+                    </div>
                     <p class="p-3">La Casa de Papel, da Netflix, conta a história de nove habilidosos ladrões (Nairóbi, Berlim, Tókyo, Rio, Helsinki, Oslo, Professor, Denver e Moscou) 
                     que se trancam na Casa da Moeda da Espanha, com o ambicioso plano de realizar o maior roubo da história.</p>
                     <p>Possuindo a meta de imprimir 2,4 bilhões de euros, a gangue precisa lidar com as dezenas de pessoas que foram mantidas reféns e com os agentes da força de elite da polícia,

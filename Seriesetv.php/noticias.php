@@ -23,20 +23,20 @@
                     <h2 class="d-inline cor-letra">Globo de Ouro negocia para voltar à TV em 2023</h2>
                 </div>
                 <div class="row cor-fundo">
-                    <div class="col-12 col-sm-6 text-center pb-3">
+                    <div class="col-12 col-sm-12 text-center pb-3">
                         <img src="../img/globoouro.png"  class="img-fluid" alt="imagem tal e tal">
                     </div>
-                    <div class="col-12 col-sm-6">
+                    <div class="col-12 col-sm-12">
                         <p>Depois de acontecer em uma cerimônia privada em 2022, o Globo de Ouro negocia sua volta à TV. Segundo o The Wrap, o destino seria a emissora americana NBC, responsável por transmitir a premiação entre 1996 e 2021.</p>
                         <p>O canal tem um contrato de oito anos de exibição do prêmio firmado em 2018, que ficou suspenso durante o ano passado.</p>
                         <p>A notícia chega depois que a Associação de Imprensa Estrangeira de Hollywood, responsável pelo Globo de Outo, anunciou planos para vender sua participação no evento e privatizá-lo.</p>
                     </div>
                 </div>
                 <div class="row cor-fundo">
-                    <div class="col-12 col-sm-6 text-center">
+                    <div class="col-12 col-sm-12 text-center">
                         <img src="../img/globoouro2.jpg" class="img-fluid" alt="imagem tal e tal">  
                     </div>
-                    <div class="col-12 col-sm-6">
+                    <div class="col-12 col-sm-12">
                         <p>A edição de 2022 do prêmio foi cancelada depois que um artigo publicado pelo Los Angeles Times expôs que a HFPA não tinha membros negros em sua organização, entre 87 pessoas, resultando em ultraje e num boicote da indústria.</p>
                         <p>Como parte de medidas de reforma, 102 novos membros foram admitidos à organização, mas só seis deles negros, o que gerou ainda mais críticas.</p>
                         <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#"><p>Eduardo Pereira,09/08/2022.</p></a>

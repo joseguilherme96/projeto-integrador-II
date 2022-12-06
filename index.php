@@ -42,7 +42,7 @@
                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                 <h2 class="cor-letra d-inline">Os Anéis de Poder | Prime Video anuncia novas escalações do elenco; veja</h2>
                             <h5 class="cor-letra-D2D2D2">Personagens dos atores não foram revelados</h5>
-                            <h6>Por <a href="autores.php?#flavio-pinto">Flávio Pinto</a>  01/12/2022</h6>
+                            <h6>Por <a href="autores.php?#omelete">Flávio Pinto</a>  01/12/2022</h6>
                 <p class="">
                 O Prime Video aproveitou a manhã de hoje (1) para anunciar as novas adições do elenco de O Senhor dos Anéis: Os Anéis de Poder. Em formato de fio, a plataforma, aos poucos, revelou o nome dos 7 atores que se juntarão à produção na a próxima temporada.
                 </p>

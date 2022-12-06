@@ -22,7 +22,7 @@
                 <br>
                 <br>
                 <br>
-                <div>
+                <div class="col-lg-6 col-sm-12 col-12">
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2 class="d-inline">Pedro Henrique Ribeiro</h2>
                 </div>
@@ -236,7 +236,7 @@
                     </div>
                     <div class="col-12 col-sm-6 p-3 cor-fundo">
                         <p>Jornalista com 10 anos de experiência nas áreas de tecnologia e games, gosta de estar por dentro das últimas tendências e novidades. Dedica boa parte do tempo livre a jogar (representante da PC Master Race), mas também arranja um tempo para a vida social, leituras e dar passeiros com seu cachorro.</p>
-                        <a class="text-decoration-none cor-letra" href="https://adrenaline.com.br/noticias/v/80731/8-de-junho-summer-game-fest-2023-acontecera-dias-antes-da-e3-2023"><p></p></a>
+                        <a class="text-decoration-none cor-letra" href="https://adrenaline.com.br/noticias/v/80731/8-de-junho-summer-game-fest-2023-acontecera-dias-antes-da-e3-2023"><p>https://adrenaline.com.br/noticias/v/80731/8-de-junho-summer-game-fest-2023-acontecera-dias-antes-da-e3-2023</p></a>
                         <p>Acesso em: 20 nov. 2022.</p>
                     </div>
                 </div>
@@ -266,7 +266,7 @@
                 </div>
             </section>
         </article>
-        <?php include "./rodape.php"?>    
     </div>
+        <?php include "./rodape.php"?>    
 </body>
 </html>

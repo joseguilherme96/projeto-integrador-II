@@ -116,8 +116,8 @@
 
 
 
-
-                              <footer>
+  </div>
+      <footer>
 <?php include "../rodape.php"?>
 </footer>
 
