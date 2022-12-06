@@ -7,68 +7,124 @@
     <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="../css/tema.css">
   </head>
   <body>
     <?php include "../nav.php"?>
-<div class="container text-center">
+
+
+
+
+    <div class="container text-center">
   
- <section>
-  <div class="row">
-    
-    <div class="col-12 col-sm-6 col-lg-5 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
-   
-      <img src="/projeto-integrador-II/HQS/img/a1.jpg" class="img-fluid" alt=" Autores">
-      <a href= "/projeto-integrador-II/HQS/autores.php"> <h3>Autor</h3></a>  
-      <div class="text-end pb-3">
-                        <a class="btn btn-primary" href="/projeto-integrador-II/HQS/index.php" role="button">Ver mais</a>
+  <section>
+      <div class="row">
+  
+  
+       
+                      </div>
                     </div>
-    
-    </div>
-    
-
-    <div class="col-12 col-sm-6 col-lg-7 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
-      <img src="/projeto-integrador-II/HQS/img/c1.jpg" class="img-fluid" alt=" Critica">
-     <a href= "/projeto-integrador-II/HQS/critica.php"> <h3>Critica</h3></a>
-    </div>
-    <div class="text-end pb-3">
-                        <a class="btn btn-primary" href="/projeto-integrador-II/HQS/index.php" role="button">Ver mais</a>
                     </div>
-   
+                    <section class="portfolio section-padding" id="portfolio">
+                      <div class="container">
+                        <div class="row">
+                          <div class="col-md-12">
+                            <div class="section-header text-center pb-5">
+                              <h2>HQS</h2>
+                    
+                            </div>
+                          </div>
+                        </div>
+                        <section class="portfolio section-padding" id="portfolio">
+                          <div class="container">
+                        <div class="row">
+                          <div class="col-12 col-md-6 col-lg-6">
+                            <div class="card text-light text-center bg-white pb-2">
+                              <div class="card-body text-dark">
+                                <div class="img-area mb-3"><img alt="Noticias" class="img-fluid" src="/projeto-integrador-II/HQS/img/u1.jpg"></div>
+                   
+                                <a href="/projeto-integrador-II/HQS/ultimasnoticias.php"><h3 class="card-title">Noticia</h3></a>
+                              </div>
+                            </div>
+                          </div>
+  
+                          
+                          <div class="col-12 col-md-6 col-lg-6">
+                            <div class="card text-light text-center bg-white pb-2">
+                              <div class="card-body text-dark">
+                                <div class="img-area mb-3"><img alt="Top Five" class="img-fluid" src="/projeto-integrador-II/HQS/img/t1.jpg" height="225px" width="225px"></div>
+                         
+                     
+                                <a href="/projeto-integrador-II/HQS/topfive.php"><h3 class="card-title">Top Five</h3></a>
+                              </div>
+                            </div>
+                          </div>
+                          </section>
+  
+                          
+                              <section class="portfolio section-padding" id="portfolio">
+                                <div class="container">
+                              <div class="row">
+                                <div class="col-12 col-md-6 col-lg-4">
+                                  <div class="card text-light text-center bg-white pb-2">
+                                    <div class="card-body text-dark">
+                                      <div class="img-area mb-3"><img alt="Critica" class="img-fluid" src="/projeto-integrador-II/HQS/img/c1.jpg" height="400px" width="400px"></div>
+                                      <h3 class="card-title">Critica</h3>
+                                  
+                                      <a href="/projeto-integrador-II/HQS/critica.php"><h3 class="card-title">Critica</h3></a>
+                                    </div>
+                                  </div>
+                                </div>
+  
+                          
+                          
+                        
+                                
+                                <div class="col-12 col-md-6 col-lg-4">
+                                  <div class="card text-light text-center bg-white pb-2">
+                                    <div class="card-body text-dark">
+                                      <div class="img-area mb-3"><img alt="Materia" class="img-fluid" src="m1.jpg" height="225px" width="225px"></div>
+                        
+                                      <a href="/projeto-integrador-II/HQS/materia.php"><h3 class="card-title">Materia</h3></a>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                                </div>
+                              </section>
+  
+  
 
-</section>
 
-<section>
-    <div class="row">
 
-    <div class="col-12 col-sm-6 col-lg-2 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
-      <img src="/projeto-integrador-II/HQS/img/t1.jpg"class="img-fluid"  alt=" Top Five ">
-      <a href= "/projeto-integrador-II/HQS/topfive.php"> <h3>Top Five</h3></a>
-    </div>
-    <div class="text-end pb-3">
-                        <a class="btn btn-primary" href="/projeto-integrador-II/HQS/index.php" role="button">Ver mais</a>
-                    </div>
 
-    <div class="col-12 col-sm-6 col-lg-2 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
-      <img src="/projeto-integrador-II/HQS/img/u1.jpg" class="img-fluid"  alt=" Ultimas Noticias ">
-      <a href= "/projeto-integrador-II/HQS/ultimasnoticias.php"> <h3>Ultimas Noticias</h3></a>
-      <div class="text-end pb-3">
-                        <a class="btn btn-primary" href="/projeto-integrador-II/HQS/index.php" role="button">Ver mais</a>
-                    </div>
-      
-    </div>
-    <div class="col-12 col-sm-12 col-lg-8 p-1"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
-        <h5> Lorem ipsum dolor sit amet, Integer vel hendrerit magna. Etiam ac urna a enim vulputate mattis a ut erat. Donec vel feugiat ex, eu accumsan nunc.</h5>
-      </div>
 
-   
- 
-</section>
 
-</div>
 
-<footer>
-   <?php include "../rodape.php"?>
-      </footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              <footer>
+<?php include "../rodape.php"?>
+</footer>
 
 </body>
 </html>
+
+
+
+
+

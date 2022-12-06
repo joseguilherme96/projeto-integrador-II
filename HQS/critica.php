@@ -8,6 +8,7 @@
     <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="../css/tema.css">
   </head>
 <body>
   <body>
@@ -31,8 +32,8 @@
           
           Drama foi publicado originalmente em 2012. A protagonista é Callie, uma garota que trabalha nos cenários das peças de sua escola. A história é sobre sua paixão pelo teatro, enquanto vive seus primeiros amores.
           Já Coragem, lançado nos EUA em 2019, é um retorno da autora às HQs autobiográficas. Ela fala dos muitos medos que sentia em determinado momento da adolescência, que se refletiam em dores físicas e se revelaram problemas de ansiedade.
-         
-        </p>
+          <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#pedrohenriqueribeiro"><p>Pedro Henrique Ribeiro,24/09/2022.</p></a>  
+          <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#renatofelix"><p>Renato Felix,08/09/2020.</p></a> </p>
       </div>
    
       <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center"> 
@@ -45,10 +46,9 @@
 
           Esta entrevista foi realizada por e-mail no final de 2018, e trata principalmente pelo trabalho do escritor na série Arquivo X Clássicos, lançada atualmente no Brasil pela New Order Editora.
         
-          Essas histórias, algumas delas publicadas pela primeira por aqui na década de 1990 pela Myhtos Editora, são consideradas um ponto importante em publicações de franquias licenciadas exatamente por ter um trabalho cuidadoso e apresentar temas e acontecimentos próprios, afastando-se da ideia de serem meras adaptações de episódios. Além de Petrucha nos roteiros, a série contou com Charles Adlard, conhecido no Brasil pelo por ser o artista de The Walking Dead.
-          
-          Neste momento em que a New Order Editora está lançando o segundo volume de Arquivo X Clássicos, um encadernado em cada dura com 258 páginas, conversamos com Petrucha sobre levar o cultuado seriado de ficção científica para os quadrinhos e criar suas próprias histórias para os agentes Mulder e Scully.</p>
-      </div>
+          Essas histórias, algumas delas publicadas pela primeira por aqui na década de 1990 pela Myhtos Editora, são consideradas um ponto importante em publicações de franquias licenciadas exatamente por ter um trabalho cuidadoso e apresentar temas e acontecimentos próprios, afastando-se da ideia de serem meras adaptações de episódios. .</p>
+          <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#renatofelix"><p>Renato Felix,06/09/2020.</p></a>
+        </div>
 
     </section>
      
@@ -66,10 +66,8 @@
           
           A notoriedade alcançada pelo autor no meio indie resultou no reconhecimento traduzido em dezenas de prêmios, dentre eles dez Eisner Awards e 11 Harvey Awards, extrapolando também as fronteiras mercadológicas – tão raras para os independentes –, superando a marca de mais de um milhão de cópias em 15 idiomas ao redor do globo.
           
-          Um desses idiomas é o bom e velho português: no Brasil, a Via Lettera começou a publicar álbuns (com uma média de 80 páginas por edição) em dezembro de 1998, lançando até 2010, com uma periodicidade irregular, um total de 14 volumes da série e um spin-off – Estúpidas, Estúpidas Caudas-de-Ratazanas (arte de Smith com roteiros de Tom Sniegoski e Stan Sakai, criador de Usagi Yojimbo).
-          
-          Em 2006, houve o episódio em que a Devir chegou a imprimir o primeiro tomo em cores (que tinha começado a sair nos Estados Unidos no ano anterior), mas foi impedida de lançar em virtude da renovação de contrato pela Via Lettera.</p> 
-      </div>
+       
+          <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#sergiocodespoti"><p>Sergio Codespoti,24/09/2019.</p></a></div>
 
 
       

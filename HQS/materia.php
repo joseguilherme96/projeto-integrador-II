@@ -4,9 +4,10 @@
     <title>HQS</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-    <link href="style.css" rel="stylesheet">
-
+    <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="../css/tema.css">
   </head>
 
 
@@ -36,7 +37,7 @@
           Os títulos estão separados em ordem de mesas e estandes nos links abaixo. Caso tenha alguma dificuldade, clique no mapa do Artists’ Alley para ampliá-lo e se localizar melhor e visite o site da CCXP para mais informações.
           
           Como muitas pessoas pelo Brasil não poderão ir à CCXP, sempre que possível incluímos links de lojas online ou contatos de autores para comprar as publicações pela internet, e assim também aproveitar os materiais.
-        </p>
+          <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#samirnaliato"><p>Samir Naliato,02/12/2022.</p></a> </p>
       </div>
    
       <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
@@ -51,10 +52,13 @@
           
           Mônica # 1, em maio de 1970, custou NCr$ 0,90. O Cruzeiro Novo havia sido instituído pela ditadura militar em 1967, substituindo o Cruzeiro, que estava na praça desde 1942. A primeira edição pegou exatamente o último mês da moeda: ainda em maio, ela seria trocada de novo pelo Cruzeiro.
           
-          Naquele mês, Mônica custava 0,48% do salário mínimo, cujo valor era de NCr$ 187,20. Como o dólar estava cotado a NCr$ 4,53, o gibi custava o equivalente a US$ 0,20.
+          Naquele mês, Mônica custava 0,48% do salário mínimo, cujo valor era de NCr$ 187,20. Como o dólar estava cotado a NCr$ 4,53, o gibi custava o equivalente a US$ 0,20. <p>
           
-          O primeiro aumento da revista veio no # 9 (janeiro de 1971), e foi de 10 centavos: o gibi passou a custar 1 cruzeiro. A partir daí, o preço passou a ser reajustado praticamente todos os anos: foi a Cr$ 1,20 (em janeiro de 1972), a Cr$ 1,50 (dezembro de 1972) e Cr$ 2,00 (dezembro de 1973).</p>
-      </div>
+    
+          <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#renatofelix"><p>Renato Felix,29/12/2020.</a>  </p>
+       
+      
+        </div>
 
     </section>
      
@@ -72,9 +76,12 @@
           
           Além disso, David Carradine fazia o papel de Kwai Chang Caine no seriado Kung Fu, exibido originalmente entre 1972 e 1975. Outro sucesso da televisão era o desenho animado Sawamu – O Demolidor, um animê de 1970, exibido no Brasil pela TV Record, em 1976 – e mais tarde na TV Gazeta – que narrava as aventuras de um lutador de “chute-boxe”.
           
-          As academias de caratê e kung fu pipocavam por todos os lados. Naquela época, cada lutador defendia sua arte marcial contra outras escolas e estilos de combate. Ainda não existia o “vale tudo” ou as mixed martial arts.
-          
-          Diante desse cenário, não foi estranho as editoras norte-americanas apostarem nas artes marciais como uma das tendências para atrair novos leitores.</p> 
+          As academias de caratê e kung fu pipocavam por todos os lados. 
+          Diante desse cenário, não foi estranho as editoras norte-americanas apostarem nas artes marciais como uma das tendências para atrair novos leitores.
+        
+          <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#sergiocodespoti"><p>Sergio Codespoti,05/08/2018.</a>  </p>
+        
+        </p> 
       </div>
 
 

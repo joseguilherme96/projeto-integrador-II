@@ -8,6 +8,7 @@
     <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="../css/tema.css">
   </head>
 <body>
   <body>
@@ -30,7 +31,7 @@ A webcomic evoluiu para uma minissérie em seis edições, da qual os dois últi
 Animadora da Disney (está na equipe de Enrolados, Zootopia e outros), ela entrega um visual detalhado, muito expressivo e deliciosamente cartunesco.
 
 Os dois capítulos finais deste volume são os que abrem o título mensal. O ilustrador passou a ser Max Sarin, com desenhos menos sofisticados e inspirados – tanto nas expressões, como nos cenários. Não é um mau trabalho, mas a comparação com a primeira metade do álbum é desfavorável.
-        </p>
+<a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#renatofelix"><p>Renato Felix,16/08/2021.</a>  </p>
       </div>
    
       <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center"> <img src="/projeto-integrador-II/img/t2.jpg" alt="TOP2">
@@ -51,7 +52,9 @@ A arte de Pazienza é graficamente linda, mas sempre carregada com um humor disf
 
 A narrativa se limita a contar a vida mundana e o submundo em que vivia Pompeo. A trama não acrescenta nenhuma informação nova sobre a trajetória e a obra do protagonista, se resumindo em retratar a sua relação com o vício da heroína, causa de sua morte prematura, aos 32 anos.
 
-Dessa forma, a história não alcança o mesmo mérito do reconhecimento artístico de Pazienza, e nem o próprio personagem faz jus ao que, na trama, foi sua figura emblemática no cenário cultural italiano. O que se tem é a revelação de uma figura pusilânime sofrendo de uma apatia diante da vida e da sua própria arte.</p>
+Dessa forma, a história não alcança o mesmo mérito do reconhecimento artístico de Pazienza, e nem o próprio personagem faz jus ao que, na trama, foi sua figura emblemática no cenário cultural italiano. O que se tem é a revelação de uma figura pusilânime sofrendo de uma apatia diante da vida e da sua própria arte.
+
+<a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#samirnaliato"><p>Samir Naliato,25/07/2022.</p></a></p>
       </div>
 
     </section>
@@ -70,8 +73,12 @@ O roteiro funciona bem, porém é bastante conciso. O leitor poderia conhecer ma
 
 Tendo isso em vista, vale o questionamento pela opção de um roteiro sem diálogos. A história se beneficiaria muito com textos, que iriam enriquecer o roteiro e poderiam tornar os personagens mais cativantes.
 
-A narrativa, porém, é excepcional. Mesmo com a ausência do texto, a arte da Melissa Garabeli conduz o ritmo de leitura de maneira impecável, com páginas duplas lindíssimas, construídas de forma muito orgânica e leve. O traço, apenas com lápis e giz pastel, é bonito e possibilita que o leitor se afeiçoe pela protagonista.</p>
-      </div>
+A narrativa, porém, é excepcional. Mesmo com a ausência do texto, a arte da Melissa Garabeli conduz o ritmo de leitura de maneira impecável, com páginas duplas lindíssimas, construídas de forma muito orgânica e leve. O traço, apenas com lápis e giz pastel, é bonito e possibilita que o leitor se afeiçoe pela protagonista.
+<a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#sergiocodespoti"><p>Sergio Codespoti,10/03/2022.</p></a>
+</p>
+    
+
+</div>
 
 
       <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center" > <img src="/projeto-integrador-II/img/t4.jpg" alt="TOP4">
@@ -90,7 +97,10 @@ Outra decisão acertada é a intercalação entre quadrinhos e diário, refletin
 
 A edição da Nemo é ótima. Destaque para o letreiramento, se adaptando perfeitamente à arte do quadrinho. A obra, inclusive, ganhou o HQ Mix de Melhor Publicação Infantil de 2018.
 
-A série teve início em 2012 e, até o momento, tem seis álbuns, sendo o último publicado em 2018. Infelizmente, até agora, não foi anunciado o lançamento de nenhum outro no Brasil. </p>
+A série teve início em 2012 e, até o momento, tem seis álbuns, sendo o último publicado em 2018. Infelizmente, até agora, não foi anunciado o lançamento de nenhum outro no Brasil. 
+<a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#samirnaliato"><p>Samir Naliato,17/11/2022.</p></a>
+
+</p>
       </div>
 
     </section>
