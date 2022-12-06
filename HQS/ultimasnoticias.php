@@ -4,18 +4,20 @@
     <meta charset="UTF-8">
     <title>Ultimas noticias</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-</head>
-<body>
-<header>
+  
+
+
+<link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="../css/tema.css">
 
- 
+    </head>
+    <body>
 
-</header>
 
-  <body>
+
+
 <?php include "../nav.php"?>
   <div class="container">
    
@@ -36,7 +38,7 @@
     Além da batalha, haverá uma pequena exposição com cartuns e tirinhas sobre autocuidado produzidas pelos oito artistas convidados, a partir de temas sensíveis às marcas parceiras do evento, que são Listerine, Sempre Livre e Carefree.
     
     O evento acontecerá na Dona Sonia Bar e Hamburgueria (Rua Júlio Rebollo Perez, 489 - Jardim Peri Peri), em São Paulo/SP, próximo ao Butantã Gibicon, um evento gratuito que tem como objetivo fomentar o cenário das histórias em quadrinhos nacionais e a diversidade de autores brasileiros
-  </p>
+    <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#samirnaliato"><p>Samir Naliato,2/11/2022.</p></a> </p>
 </div>
 
 <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
@@ -60,6 +62,8 @@
     Risca Faca (Monstra), de André Kitagawa.
     
     O Jabuti é a mais importante premiação literária do Brasil. O vencedor de cada categoria recebe o valor de R$ 5 mil, e o vencedor do Livro do Ano recebe R$ 100 mil. </p>
+
+    <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#marcelonaranjo"><p>Marcelon Aranjo,25/11/2022.</p></a>
 </div>
 
 </section>
@@ -80,7 +84,10 @@
     De 1930 até os dias atuais, passando por Brasil, Chile, Genebra e Guiné-Bissau, descobrindo um ser humano generoso, que dedicou sua teoria e sua prática para mudar as vidas das pessoas, mudar o mundo.
     
     Com prefácio do Padre Júlio Lancellotti e posfácio da professora Eneide Araujo, o projeto foi contemplado pelo ProAC-SP 2021, contando com apoio do Governo do Estado de São Paulo, por meio da Secretaria de Cultura e Economia Criativa.
-    </p> 
+    
+    <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#samirnaliato"><p>Samir Naliato,17/11/2022.</p></a>
+  
+  </p> 
 </div>
 
 
@@ -92,6 +99,8 @@
 
 </section>
 </div>
+<footer>
 <?php include "../rodape.php"?>
+</footer>
 </body>
 </html>

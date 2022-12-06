@@ -4,8 +4,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>HQS</title>
-      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  </head>
+    <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="../css/tema.css">
+  
+    </head>
   <body>
 <?php include "../nav.php"?>
 
@@ -75,9 +79,9 @@
 
           A Gun Report, de 1973, foi sua primeira obra e foi um grande sucesso, se tornando um dos mangás mais vendidos na época. Fireball, lançado em 1979, o consagrou em definitivo como autor de estilo mais ‘cult’. No começo dos anos 1980, Otomo começou a publicar sua obra mais famosa. Akira foi iniciado em 1982 nas páginas da Young Magazine e seria finalizado apenas em 1990, depois do lançamento da versão animada, de 1988, nos cinemas.
           
-          Depois do sucesso avassalador de Akira, Katsuhiro Otomo lançou Domu, obra essa que lhe rendeu o Grande Prêmio de Ficção Científica Japonês em 1983, feito até então inédito no mundo dos mangás. Entre outros trabalhos é possível destacar Mother Sarah (1990-2004) que foi escrito por Otomo com ilustrações de Takumi Nagayasu. Este mangá de sucesso no exterior foi completo em 7 volumes nas páginas da revista Young, publicação da editora Kodansha.
+          Depois do sucesso avassalador de Akira, Katsuhiro Otomo lançou Domu, obra essa que lhe rendeu o Grande Prêmio de Ficção Científica Japonês em 1983, feito até então inédito no mundo dos mangás. 
           
-          Otomo é autor de mais de 10 mangás e contos, além de trabalhar como produtor e diretor de inúmeras animações de sucesso. Em sua filmografia, além de Akira, constam longas como , Metropolis (2001), Memories (1995) e Steamboy (2004) no qual ele transporta para as telas uma das mais famosas obras de Osamu Tezuka.</p> 
+       </p> 
       </div>
 
 
