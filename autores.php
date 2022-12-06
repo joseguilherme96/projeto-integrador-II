@@ -11,17 +11,20 @@
         <title>Autores</title>
     </head>
 <body>
+<?php include "./nav.php"?>
     <div class="container">
-        <?php include "./nav.php"?>
         <article>
             <div class="text-center">
                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                 <h1 class="d-inline">Nossas Referências</h1>
             </div>
-            <section class="mt-5">
+            <section id="Pedrohenriqueribeiro" class="mt-5">
+                <br>
+                <br>
+                <br>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                    <h2 id="Pedrohenriqueribeiro" class="d-inline">Pedro Henrique Ribeiro</h2>
+                    <h2 class="d-inline">Pedro Henrique Ribeiro</h2>
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
@@ -36,10 +39,13 @@
                     </div>
                 </div>
             </section>
-            <section class="mt-5">
+            <section id="giovannabreve" class="mt-5">
+                <br>
+                <br>
+                <br>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                    <h2 id="giovannabreve" class="d-inline">Giovanna Breve</h2>
+                    <h2  class="d-inline">Giovanna Breve</h2>
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
@@ -54,10 +60,13 @@
                     </div>
                 </div>
             </section>
-            <section class="mt-5">
+            <section id="juliasabbaga" class="mt-5">
+                <br>
+                <br>
+                <br>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                    <h2 id="juliasabbaga" class="d-inline">Julia Sabbaga</h2>
+                    <h2  class="d-inline">Julia Sabbaga</h2>
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
@@ -71,10 +80,13 @@
                     </div>
                 </div>
             </section>
-            <section class="mt-5">
+            <section id="natalianini" class="mt-5">
+                <br>
+                <br>
+                <br>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                    <h2 id="natalianini" class="d-inline">Natalia Nini</h2>
+                    <h2 class="d-inline">Natalia Nini</h2>
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
@@ -87,10 +99,13 @@
                     </div>
                 </div>
             </section>
-            <section class="mt-5">
+            <section id="marcelonaranjo" class="mt-5">
+                <br>
+                <br>
+                <br>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                    <h2 id="marcelonaranjo" class="d-inline">Marcelo Naranjo</h2>
+                    <h2  class="d-inline">Marcelo Naranjo</h2>
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
@@ -103,10 +118,13 @@
                     </div>
                 </div>
             </section>
-            <section class="mt-5">
+            <section id="samirnaliato" class="mt-5">
+                <br>
+                <br>
+                <br>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                    <h2 id="samirnaliato" class="d-inline">Samir Naliato</h2>
+                    <h2  class="d-inline">Samir Naliato</h2>
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
@@ -126,10 +144,13 @@
                     </div>
                 </div>
             </section>
-            <section class="mt-5">
+            <section id="renatofelix" class="mt-5">
+                <br>
+                <br>
+                <br>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                    <h2 id="renatofelix"class="d-inline">Renato Félix</h2>
+                    <h2 class="d-inline">Renato Félix</h2>
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
@@ -142,10 +163,13 @@
                     </div>
                 </div>
             </section>
-            <section class="mt-5">
+            <section id="sergiocodespoti" class="mt-5">
+                <br>
+                <br>
+                <br>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                    <h2 id="sergiocodespoti" class="d-inline">Sérgio Codespoti</h2>
+                    <h2  class="d-inline">Sérgio Codespoti</h2>
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
@@ -160,10 +184,13 @@
                     </div>
                 </div>
             </section>
-            <section class="mt-5">
+            <section id="nicogarofalo" class="mt-5">
+                <br>
+                <br>
+                <br>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                    <h2 id="nicogarofalo" class="d-inline">Nico Garófalo</h2>
+                    <h2  class="d-inline">Nico Garófalo</h2>
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
@@ -178,10 +205,13 @@
                     </div>
                 </div>
             </section>
-            <section class="mt-5">
+            <section id="caiocolleti" class="mt-5">
+                <br>
+                <br>
+                <br>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                    <h2 id="caiocolleti" class="d-inline">Caio Colleti</h2>
+                    <h2  class="d-inline">Caio Colleti</h2>
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
@@ -211,10 +241,13 @@
                     </div>
                 </div>
             </section>
-            <section class="mt-5">
+            <section id="omelete" class="mt-5">
+                <br>
+                <br>
+                <br>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                    <h2 id="omelete" class="d-inline">Omelete</h2>
+                    <h2  class="d-inline">Omelete</h2>
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
