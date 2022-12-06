@@ -17,7 +17,7 @@
     <section class="row pt-5 "> 
       
       <div class="col-12 col-sm-6 col-lg-3 text-center pt-5 "> 
-      <a href="imagem - https://www.instagram.com/p/ClEcb9ojfda/?utm_source=ig_embed&ig_rid=ec94feb5-a4f1-49f9-bc25-1625c4ae9ef5"><img src="/projeto-integrador-II/imgcosplay//kodia.jpg " alt="Ahsoka Tano - Star Wars
+      <a href="https://www.instagram.com/p/ClEcb9ojfda/?utm_source=ig_embed&ig_rid=ec94feb5-a4f1-49f9-bc25-1625c4ae9ef5"><img src="/projeto-integrador-II/imgcosplay//kodia.jpg " alt="Ahsoka Tano - Star Wars
 Incrivel Cosplay do personagem Ahsoka Tano feita por uma fã da grande série Star Wars surpreendeu nas redes sociais, a fã descreve *Esse cosplay foi um verdadeiro desafio pra mim, principalmente a maquiagem, e aprendi muito fazendo.Mal posso esperar para usá-la na Star Wars Celebration em Londres no ano que vem." > </a>
       </div>  
 
