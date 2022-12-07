@@ -28,7 +28,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
-                        <img src="./img/pedroH.jpg"  class="img-fluid" alt="imagem tal e tal">
+                        <img src="./img/pedroH.jpg"  class="img-fluid" alt="imagem de Pedro">
                     </div>
                     <div class="col-12 col-sm-6 p-3 cor-fundo">
                         <p>Repórter apaixonado por shonen de lutinha e música brasileira, mas se me perguntarem sobre o primeiro item, eu nego. Acredito em um mundo nerd que abrace a criança que eu era em 2000 e também o adulto que sou hoje. 
@@ -49,7 +49,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
-                        <img src="./img/GiovannaB.jpg"  class="img-fluid" alt="imagem tal e tal">
+                        <img src="./img/GiovannaB.jpg"  class="img-fluid" alt="imagem da Giovanna Breve">
                     </div>
                     <div class="col-12 col-sm-6 p-3 cor-fundo">
                         <p>Repórter e magical girl nas horas vagas, apaixonada por histórias de vida e cultura pop (principalmente quando as narrativas se mesclam). Infelizmente gamer, mas compensa indicando séries e filmes de qualidade duvidosa.</p>
@@ -70,7 +70,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
-                        <img src="./img/JuliaS.jpg"  class="img-fluid" alt="imagem tal e tal">
+                        <img src="./img/JuliaS.jpg"  class="img-fluid" alt="imagem da Júlia Sabbaga">
                     </div>
                     <div class="col-12 col-sm-6 p-3 cor-fundo">
                         <p>Editora adjunta, hater de filme de herói e ao mesmo tempo inexplicável defensora da DC. Apaixonada por Simon Pegg e filmes de terror, adorei o revival de Pretty Little Liars e indico a série Gaslit para todo mundo que quiser 
@@ -90,7 +90,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
-                        <img src="./img/nataliaN.jpeg"  class="img-fluid" alt="imagem tal e tal">
+                        <img src="./img/nataliaN.jpeg"  class="img-fluid" alt="imagem da Natália Nini">
                     </div>
                     <div class="col-12 col-sm-6 p-3 cor-fundo">
                         <p>Natalia Nini tem 23 anos.É formada em jornalismo e nutri um amor profundo por cultura pop, música, filmes, séries e games.</p>
@@ -109,7 +109,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
-                        <img src="./img/MarceloN.jpg" class="img-fluid" alt="imagem tal e tal">
+                        <img src="./img/MarceloN.jpg" class="img-fluid" alt="imagem do Marcelo Naranjo">
                     </div>
                     <div class="col-12 col-sm-6 p-3 cor-fundo">
                         <p>Formado em Administração de empresas e Direito. Coleciona HQs desde garoto e aprendeu a ler e a sonhar com Tio Patinhas, Turma da Mônica e os super-heróis. Talvez por isso goste tanto de gibis antigos e virou o “arqueólogo” do Universo HQ.</p>
@@ -128,7 +128,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
-                        <img src="./img/SamirM.jpg" class="img-fluid" alt="imagem tal e tal">
+                        <img src="./img/SamirM.jpg" class="img-fluid" alt="imagem do Samir Naliato">
                     </div>
                     <div class="col-12 col-sm-6 p-3 cor-fundo">
                         <p>Nasceu em Petrópolis/RJ, e aprendeu a ler com os quadrinhos da Turma da Mônica. Nunca mais abandonou o hábito, expandindo sua leitura para diversos outros gêneros.</p>
@@ -154,7 +154,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
-                        <img src="./img/RenatoF.jpg" class="img-fluid" alt="imagem tal e tal">
+                        <img src="./img/RenatoF.jpg" class="img-fluid" alt="imagem do Renato Félix">
                     </div>
                     <div class="col-12 col-sm-6 p-3 cor-fundo">
                         <p>Autor de materias do site UniversoHQ</p>
@@ -173,7 +173,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
-                        <img src="./img/SergioC.jpg" class="img-fluid" alt="imagem tal e tal">
+                        <img src="./img/SergioC.jpg" class="img-fluid" alt="imagem do Sérgio Codespoti">
                     </div>
                     <div class="col-12 col-sm-6 p-3 cor-fundo">
                         <p>Formado em Comunicação Visual, começou a ler e colecionar quadrinhos com Pato Donald e Tintim.</p>
@@ -194,7 +194,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
-                        <img src="./img/nicog.jpg" class="img-fluid" alt="imagem tal e tal">
+                        <img src="./img/nicog.jpg" class="img-fluid" alt="imagem do Nico Garófalo">
                     </div>
                     <div class="col-12 col-sm-6 p-3 cor-fundo">
                         <p>Repórter, apaixonado por gibis, Avatar (o desenho), Star Wars e Doctor Who. Vou elogiar coisas bobas, criticar seriedade em excesso e exaltar Scott Pilgrim sempre que possível. De vez em quando, meus textos vão fazer algum sentido, mas não prometo nada, mantenham as expectativas baixas.</p>
@@ -215,7 +215,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
-                        <img src="./img/caioc.jpg" class="img-fluid" alt="imagem tal e tal">
+                        <img src="./img/caioc.jpg" class="img-fluid" alt="imagem do Caio Colleti">
                     </div>
                     <div class="col-12 col-sm-6 p-3 cor-fundo">
                         <p>Repórter, doido por música pop (do mundo todo), completista de franquias nerds, aquele amigo que só te indica série boa que ninguém vê. Sou do contra e escrevo uns títulos provocativos de propósito. Ter prazer culpado é para os fracos, então gosto de muita coisa trash sem ironia ou culpa nenhuma.</p>
@@ -232,7 +232,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
-                        <img src="./img/felipeg.jpg" class="img-fluid" alt="imagem tal e tal">
+                        <img src="./img/felipeg.jpg" class="img-fluid" alt="imagem do Felipe Gulgemin">
                     </div>
                     <div class="col-12 col-sm-6 p-3 cor-fundo">
                         <p>Jornalista com 10 anos de experiência nas áreas de tecnologia e games, gosta de estar por dentro das últimas tendências e novidades. Dedica boa parte do tempo livre a jogar (representante da PC Master Race), mas também arranja um tempo para a vida social, leituras e dar passeiros com seu cachorro.</p>
@@ -252,7 +252,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12 col-sm-6 p-3">
-                        <img src="./img/omelete.jpg" class="img-fluid" alt="imagem tal e tal">
+                        <img src="./img/omelete.jpg" class="img-fluid" alt="imagem do site Omelete">
                     </div>
                     <div class="col-12 col-sm-6 p-3 cor-fundo">
                         <p>Site destinado a notícias,matérias e entrevistas sobre filmes,séries,HQs e outros....</p>

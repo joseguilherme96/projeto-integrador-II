@@ -25,7 +25,7 @@
                 </div>
                 <div class="row text-center">
                     <div class="col-12">
-                        <img src="../img/lacasa22.jpg"  class="img-fluid" alt="imagem tal e tal">
+                        <img src="../img/lacasa22.jpg"  class="img-fluid" alt="imagem de la casa de papel">
                     </div>
                     <p class="p-3">La Casa de Papel, da Netflix, conta a história de nove habilidosos ladrões (Nairóbi, Berlim, Tókyo, Rio, Helsinki, Oslo, Professor, Denver e Moscou) 
                     que se trancam na Casa da Moeda da Espanha, com o ambicioso plano de realizar o maior roubo da história.</p>

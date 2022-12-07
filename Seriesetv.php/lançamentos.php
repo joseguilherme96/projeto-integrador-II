@@ -31,7 +31,7 @@
                         <h3 class="d-inline">4ª temporada de You</h3>
                     </div>
                     <div class="text-center p-3">
-                        <img src="../img/you.png"height="400" width="300" class="img-fluid" alt="imagem tal e tal">
+                        <img src="../img/you.png" class="img-fluid" alt="imagem tal e tal">
                     </div>
                         <p>A Netflix anunciou no Tudum,evento de anúncios da Netflix, a data de estreia da 4ª Temporada, que será dividida em duas partes: a primeira leva de episódios está marcada para 10 de fevereiro, 
                             e a segunda parte chega em 10 de março de 2023.

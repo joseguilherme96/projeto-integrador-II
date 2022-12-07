@@ -66,6 +66,7 @@
                              Chapolin Colorado e Cidadão Gómez - que não chegou ao Brasil. "Mas Chaves foi um sucesso tremendo", afirmou.
                         </p>
                         <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#Pedrohenriqueribeiro"><p>Pedro Henrique Ribeiro 04/12/2022</p></a>
+                    </div>
                 </section>
             </div>
             <div class="text-end pb-3">
