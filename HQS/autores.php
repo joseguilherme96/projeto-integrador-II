@@ -21,17 +21,22 @@
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="/projeto-integrador-II/HQS/img/a1.jpg" class="d-block w-100" alt="...">
+        <img src="/projeto-integrador-II/HQS/img/a22.jpg" class="d-block w-100" alt="Quadrinhos">
         <div class="carousel-caption d-none d-md-block">
-          <h5>Mauricio de Sousa</h5>
-          <p>Autor</p>
+         
         </div>
       </div>
       <div class="carousel-item">
-        <img src="/projeto-integrador-II/HQS/img/a2.jpg" class="d-block w-100" alt="...">
+        <img src="/projeto-integrador-II/HQS/img/a23.jpg" class="d-block w-100" alt="Quadrinhos">
         <div class="carousel-caption d-none d-md-block">
-          <h5>Katsuhiro Otomo</h5>
-          <p>Autor</p>
+          
+        </div>
+      </div>
+
+      <div class="carousel-item">
+        <img src="/projeto-integrador-II/HQS/img/a24.jpg" class="d-block w-100" alt="Quadrinhos">
+        <div class="carousel-caption d-none d-md-block">
+         
         </div>
       </div>
       
@@ -55,7 +60,8 @@
       </div>  
 
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start "> 
-        <h1>Mauricio de Sousa</h1>
+      <div class="cor-fundo">
+        <h1  class="cor-letra">Mauricio de Sousa</h1>
         <p>Mauricio de Sousa é desenhista, empresário, o mais premiado autor brasileiro de quadrinhos e membro da Academia Paulista de Letras. Nasceu em 27 de outubro de 1935, numa família de poetas e contadores de histórias em Santa Isabel, no interior de São Paulo. Ainda criança, mudou-se para Mogi das Cruzes, onde descobriu sua paixão pelo desenho e começou a criar os primeiros personagens. Com 19 anos, foi para São Paulo tentar trabalhar como ilustrador na Folha da Manhã (hoje Folha de S.Paulo). No entanto, conseguiu apenas uma vaga de repórter policial.
 
 
@@ -66,15 +72,16 @@
         </p>
  
       </div>
-     
+      </div>
     <section class="row pt-5 "> 
 
       <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center" >
          <img src="/projeto-integrador-II/HQS/img/a2.jpg" class="img-fluid" alt="Katsuhiro Otomo">
       </div>
 
-      <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start" > 
-        <h1>Katsuhiro Otomo</h1>
+      <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start" >
+      <div class="cor-fundo"> 
+        <h1  class="cor-letra">Katsuhiro Otomo</h1>
         <p>Mundialmente famoso por ser o autor tanto do mangá quanto da animação de Akira, Katsuhiro Otomo nasceu na província de Miyagi, Japão no ano de 1954.
 
           A Gun Report, de 1973, foi sua primeira obra e foi um grande sucesso, se tornando um dos mangás mais vendidos na época. Fireball, lançado em 1979, o consagrou em definitivo como autor de estilo mais ‘cult’. No começo dos anos 1980, Otomo começou a publicar sua obra mais famosa. Akira foi iniciado em 1982 nas páginas da Young Magazine e seria finalizado apenas em 1990, depois do lançamento da versão animada, de 1988, nos cinemas.
@@ -83,7 +90,7 @@
           
        </p> 
       </div>
-
+      </div>
 
      
 
