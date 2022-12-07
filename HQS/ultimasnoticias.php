@@ -29,7 +29,7 @@
 </div>  
 
 <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start "> 
-  <h1>Desenhão: batalha de desenhos ao vivo premiará artista com um iPad Pro</h1>
+  <h1 class="cor-letra">Desenhão: batalha de desenhos ao vivo premiará artista com um iPad Pro</h1>
   
   <p class="texto">No próximo sábado, 26 de novembro, a partir das 19h, acontece o Desenhão, uma festa que vai reunir artistas, fãs dos quadrinhos nacionais e amantes da cultura geek no geral numa oportunidade de juntar as pessoas para celebrar, debater assuntos e fazer arte.
 
@@ -46,7 +46,7 @@
 </div>  
 
 <div class="col-12 col-sm-12 col-lg-6  pt-5 pb-5 text-start " > 
-  <h1>Formosa Márcia vence o Prêmio Jabuti na categoria História em Quadrinhos</h1>
+  <h1 class="cor-letra">Formosa Márcia vence o Prêmio Jabuti na categoria História em Quadrinhos</h1>
   <p class="texto"> Foi divulgado na data de ontem o vencedor da 64ª edição do Prêmio Jabuti na categoria História em Quadrinhos.
 
     O prêmio foi para Escuta, Formosa Márcia, de Marcello Quintanilha (Editora Veneta). Na trama, a enfermeira Márcia, mãe solteira, nascida e criada em uma comunidade do Estado do Rio, vem travando uma verdadeira batalha doméstica para disciplinar sua filha, a insubordinada Jaqueline. Quando a jovem se vê envolvida até o pescoço com o crime organizado, Márcia estará disposta a chegar às últimas consequências para livrá-la dessa enrascada.
@@ -76,7 +76,7 @@
 
 <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start" >
   
-  <h1>História em quadrinhos sobre Paulo Freire em campanha no Catarse</h1>
+  <h1 class="cor-letra">História em quadrinhos sobre Paulo Freire em campanha no Catarse</h1>
   <p class="texto"> A obra busca apresentar o educador a uma nova geração, mas também permitir um reencontro àqueles que conhecem sua história, com quatro narrativas criadas por Rogério Faria (Marighella #LIVRE), Ricardo Sousa (ZéMurai), Jefferson Costa (Jeremias - Pele) e Ren Nolasco (Só Ana), com 20 páginas.
 
     As histórias seguem Paulo Freire da infância ao legado nos dias de hoje, destacando-se a experiência de alfabetização em Angicos-RN, a escrita da obra Pedagogia do Oprimido no exílio no Chile, sua contribuição a uma África recém-independente, seu retorno ao país e sua participação no debate sobre políticas públicas de educação, quando chegou a ser secretário de educação no município de São Paulo.
