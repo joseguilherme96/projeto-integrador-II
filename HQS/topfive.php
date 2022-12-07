@@ -17,7 +17,7 @@
     <section class="row pt-5 "> 
 
       <div class="col-12 col-sm-6 col-lg-12 text-center pt-5 "> 
-      <img src="/projeto-integrador-II/HQS/img/t1.jpg"  alt="TOP1" >
+      <img src="/projeto-integrador-II/HQS/img/t1.jpg"  class="img-fluid" alt="TOP1" >
       </div>  
 
       <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start "> 
@@ -31,7 +31,7 @@ Os dois capítulos finais deste volume são os que abrem o título mensal. O ilu
 <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#renatofelix"><p>Renato Felix,16/08/2021.</a>  </p>
       </div>
    
-      <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center"> <img src="/projeto-integrador-II/HQS/img/t2.jpg" alt="TOP2">
+      <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center"> <img src="/projeto-integrador-II/HQS/img/t2.jpg" class="img-fluid" alt="TOP2">
       </div>  
 
       <div class="col-12 col-sm-6 col-lg-12  pt-5 pb-5 text-start " > 
@@ -58,7 +58,7 @@ Dessa forma, a história não alcança o mesmo mérito do reconhecimento artíst
      
     <section class="row pt-5 "> 
 
-      <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center" > <img src="/projeto-integrador-II/HQS/img/t3.jpg"alt="TOP3">
+      <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center" > <img src="/projeto-integrador-II/HQS/img/t3.jpg" class="img-fluid" alt="TOP3">
       </div>
 
       <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start" > 
@@ -78,7 +78,7 @@ A narrativa, porém, é excepcional. Mesmo com a ausência do texto, a arte da M
 </div>
 
 
-      <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center" > <img src="/projeto-integrador-II/HQS/img/t4.jpg" alt="TOP4">
+      <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center" > <img src="/projeto-integrador-II/HQS/img/t4.jpg" class="img-fluid" alt="TOP4">
       </div>
     
       <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start " > 
