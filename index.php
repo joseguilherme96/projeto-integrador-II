@@ -78,7 +78,8 @@
                 <h2 class="d-inline cor-letra text-start">Desenhão: batalha de desenhos ao vivo premiará artista com um iPad Pro</h2>
                 <p>
                 No próximo sábado, 26 de novembro, a partir das 19h, acontece o Desenhão, uma festa que vai reunir artistas, fãs dos quadrinhos nacionais e amantes da cultura geek no geral numa oportunidade de juntar as pessoas para celebrar, debater assuntos e fazer arte.
-                </p>
+                <h6>Por <a href="autores.php?#omelete">Samir Naliato</a>  01/12/2022</h6> 
+            </p>
             </div>  
             <div class=" col-sm-12 col-lg-12 text-center p-1">
                 <picture >
