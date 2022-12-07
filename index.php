@@ -61,44 +61,33 @@
             </div>
             <div class="col-12 col-sm-12 col-lg-6 p-1 text-start">
                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                <h2 class="d-inline cor-letra text-start">Lorem ipsum</h2>
+                <h2 class="d-inline cor-letra text-start">Guia dos lançamentos de quadrinhos na CCXP22</h2>
                 <p>
-                    Lorem ipsum dolor sit amet, consecteturLorem ipsum
-                    dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-                    consecteturLorem ipsum dolor sit amet, consectetur
-                    Lorem ipsum dolor sit amet, consecteturLorem ipsum
-                    dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-                    consecteturLorem ipsum dolor sit amet, consectetur
+                Após três anos, a CCXP volta a ser presencial e é aguardada com ansiedade por fãs e profissionais. 
+                O evento ocorre entre 1º e 4 de dezembro e, como sempre, um dos destaques será o Artists' Valley (antigo Artists' Alley), que receberá mais de 482 autores de todo o Brasil e do exterior, divididos em 356 mesas vendendo seus trabalhos. 
+
                 </p>
                 <div class="text-end pb-3">
-                    <a class="btn" style="background-color:#E03616" href="/projeto-integrador-II/cinema/index.php" role="button">Ver mais</a>
+                    <a class="btn" style="background-color:#E03616" href="/projeto-integrador-II/HQS/pg.php" role="button">Ver mais</a>
                 </div>
             </div>
         </div>
         <div class="row my-3 cor-fundo">
             <div class=" text-start col-12 col-sm-12 col-lg-12">
             <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                <h2 class="d-inline cor-letra text-start">Lorem ipsum</h2>
+                <h2 class="d-inline cor-letra text-start">Desenhão: batalha de desenhos ao vivo premiará artista com um iPad Pro</h2>
                 <p>
-                    Lorem ipsum dolor sit amet, consecteturLorem ipsum
-                    dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-                    consecteturLorem ipsum dolor sit amet, consectetur
+                No próximo sábado, 26 de novembro, a partir das 19h, acontece o Desenhão, uma festa que vai reunir artistas, fãs dos quadrinhos nacionais e amantes da cultura geek no geral numa oportunidade de juntar as pessoas para celebrar, debater assuntos e fazer arte.
                 </p>
             </div>  
             <div class=" col-sm-12 col-lg-12 text-center p-1">
                 <picture >
-                    <source srcset="https://via.placeholder.com/1700x320" class="img-fluid" media="(min-width:992px)">
-                    <source srcset="https://via.placeholder.com/821x229" class="img-fluid" media="(min-width:576px)">
-                    <img src="https://via.placeholder.com/299x119" class="img-fluid">
+                    <source srcset="/projeto-integrador-II/HQS/img/u1.jpg" class="img-fluid" media="(min-width:992px)">
+                    <source srcset="/projeto-integrador-II/HQS/img/u1.jpg"  class="img-fluid" media="(min-width:576px)">
+                    <img src="/projeto-integrador-II/HQS/img/u1.jpg"  class="img-fluid">
                 </picture>
             </div>
-            <div class=" text-start col-12 col-sm-12 col-lg-12">
-                <p>
-                    Lorem ipsum dolor sit amet, consecteturLorem ipsum
-                    dolor sit amet, consectetur Lorem ipsum dolor sit amet, 
-                    consecteturLorem ipsum dolor sit amet, consectetur
-                </p>
-            </div>  
+             
         </div>
     </section>
     <section class="cosplay cor-fundo">
