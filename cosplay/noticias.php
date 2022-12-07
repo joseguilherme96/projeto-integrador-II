@@ -25,7 +25,7 @@
         <source srcset="/projeto-integrador-II/imgcosplay//bannernoticias6.png" media="(min-width:850px)"  class="img-fluid">
         <source srcset="/projeto-integrador-II/imgcosplay//bannernoticias7.png" media="(min-width:750px)"  class="img-fluid">
         <source srcset="/projeto-integrador-II/imgcosplay//bannernoticias8.png" media="(min-width:600px)"  class="img-fluid">
-        <img src="/projeto-integrador-II/imgcosplay//bannernoticias9.png" alt="Aqui você fica por dentro de todas as novidades no mundo gamer, nesta imagem é mostrado um conjunto de aparelhos gamers e tecnologias.">
+        <img src="/projeto-integrador-II/imgcosplay//bannernoticias9.png" alt="Aqui você fica por dentro de todas as novidades no mundo gamer, nesta imagem é mostrado um conjunto de aparelhos gamers e tecnologias."  class="img-fluid">>
         <link href="/projeto-integrador-II/css//tema.css" rel="stylesheet" >
       </picture>
     </div>
