@@ -25,7 +25,7 @@
         <source srcset="/projeto-integrador-II/imgcosplay//bannernoticias6.png" media="(min-width:850px)"  class="img-fluid">
         <source srcset="/projeto-integrador-II/imgcosplay//bannernoticias7.png" media="(min-width:750px)"  class="img-fluid">
         <source srcset="/projeto-integrador-II/imgcosplay//bannernoticias8.png" media="(min-width:600px)"  class="img-fluid">
-        <img src="/projeto-integrador-II/imgcosplay//bannernoticias9.png" alt="Aqui você fica por dentro de todas as novidades no mundo gamer, nesta imagem é mostrado um conjunto de aparelhos gamers e tecnologias."  class="img-fluid">
+        <img src="/projeto-integrador-II/imgcosplay//bannernoticias9.png" alt="Aqui você fica por dentro de todas as novidades no mundo gamer, nesta imagem é mostrado um conjunto de aparelhos gamers e tecnologias."  class="img-fluid" >
         <link href="/projeto-integrador-II/css//tema.css" rel="stylesheet" >
       </picture>
     </div>
@@ -35,7 +35,7 @@
 é um enorme lançamento, um dos mais bem sucedidos da historia. O sucesso do game foi tão grande, que ele ganhou uma série animada na Netflix que já está na terceira temporada."> </a>
         
         </div>
-        <div class="col-12  col-sm-12 col-lg-2 "> 
+        <div class="col-12  col-sm-12 col-lg-2 text-start "> 
         <p>  <h6 class="cor-letra"> Cuphead </h6> É um enorme lançamento, um dos mais bem sucedidos da historia. O sucesso do game foi tão grande, que ele ganhou uma série animada na Netflix que já está na terceira temporada.</p>
       </div> 
 
@@ -44,7 +44,7 @@ Evento acontecerá dias antes do grande evento E3 2023. A próxima edição do S
 
       </div>
       
-      <div class="col-12  col-sm-12 col-lg-2 "> 
+      <div class="col-12  col-sm-12 col-lg-2 text-start"> 
         <p>  <h6 class="cor-letra"> Summer Game Fast </h6>  Evento acontecerá dias antes do grande evento E3 2023. A próxima edição do Summer Game Fest já está marcada para acontecer a partir do dia 8 de junho.</p>
       </div>
   
@@ -55,7 +55,7 @@ Cosplay surpreende fãs da grande franquia. Principalmente com o recém lançame
         
       </div>
 
-      <div class="col-12  col-sm-12 col-lg-2 "> 
+      <div class="col-12  col-sm-12 col-lg-2 text-start"> 
         <p><h6 class="cor-letra" >God of War Ragnarök</h6> Cosplay surpreende fãs da grande franquia. Principalmente com o recém lançamendo do jogo God of War Ragnarök,que está sendo um sucesso absurdo. </p>
       </div>
 
@@ -64,7 +64,7 @@ Com evento historico ingressos se esgotam na CCXP22. Com muito conteudo, além d
           
       </div>
 
-      <div class="col-12  col-sm-12 col-lg-2 "> 
+      <div class="col-12  col-sm-12 col-lg-2 text-start "> 
         <p><h6 class="cor-letra"> CCXP</h6> Com evento historico ingressos se esgotam na CCXP22. Com muito conteudo, além de diversos idolos como Keanu Reeves, Bruna Marquezine, Xolo Maridueña e diversos outros. </p>
       </div>
     </div>
