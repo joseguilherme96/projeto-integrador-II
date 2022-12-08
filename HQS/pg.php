@@ -69,8 +69,7 @@
                                   <div class="card text-light text-center bg-white pb-2">
                                     <div class="card-body text-dark">
                                       <div class="img-area mb-3"><img alt="Critica" class="img-fluid" src="/projeto-integrador-II/HQS/img/c1.jpg" height="400px" width="400px"></div>
-                                      <h3 class="card-title">Critica</h3>
-                                  
+                                   
                                       <a href="/projeto-integrador-II/HQS/critica.php"><h3 class="card-title">Critica</h3></a>
                                     </div>
                                   </div>
@@ -83,7 +82,7 @@
                                 <div class="col-12 col-md-6 col-lg-4">
                                   <div class="card text-light text-center bg-white pb-2">
                                     <div class="card-body text-dark">
-                                      <div class="img-area mb-3"><img alt="Materia" class="img-fluid" src="m1.jpg" height="225px" width="225px"></div>
+                                      <div class="img-area mb-3"><img alt="Materia" class="img-fluid" src="/projeto-integrador-II/HQS/img/m1.jpg" height="225px" width="225px"></div>
                         
                                       <a href="/projeto-integrador-II/HQS/materia.php"><h3 class="card-title">Materia</h3></a>
                                     </div>
