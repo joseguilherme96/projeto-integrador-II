@@ -34,7 +34,7 @@ Salve a pasta projeto-integrador-II dentro da pasta www
 Inicialize um dos servidores de sua preferência e acesse o projeto no seu navegador.
 
 ## Contribuidores
-[link](https://github.com/joseguilherme96/projeto-integrador-II/blob/main/img/IMG-20221204-WA0101.jpg)
+[Gilberto](https://github.com/joseguilherme96/projeto-integrador-II/blob/main/img/IMG-20221204-WA0101.jpg)
 
 
 
