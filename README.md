@@ -33,6 +33,9 @@ Salve a pasta projeto-integrador-II dentro da pasta www
 
 Inicialize um dos servidores de sua preferência e acesse o projeto no seu navegador.
 
+## Contribuidores
+![Gilberto](IMG-20221204-WA0101.jpg)
+
 
 
 
