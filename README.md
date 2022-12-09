@@ -35,6 +35,11 @@ Inicialize um dos servidores de sua preferência e acesse o projeto no seu naveg
 
 ## Contribuidores
 ![Gilberto](https://github.com/joseguilherme96/projeto-integrador-II/blob/main/img/IMG-20221204-WA0101.jpg)
+![José Guilherme](https://github.com/joseguilherme96/projeto-integrador-II/blob/main/img/IMG_20220922_071956875.jpg)
+![Melissa](https://github.com/joseguilherme96/projeto-integrador-II/blob/main/img/Screenshot_20221204-094744.png)
+![Yasmin](https://github.com/joseguilherme96/projeto-integrador-II/blob/main/img/IMG-20221204-WA0097.jpg)
+<img src="https://github.com/joseguilherme96/projeto-integrador-II/blob/main/img/IMG-20221204-WA0097.jpg" width="100" height="100">
+
 
 
 
