@@ -1,4 +1,4 @@
-# projeto-integrador-II PORTAL DE NOTICIAS
+# Projeto Integrador II - PORTAL DE NOTICIAS
 Projeto foi desenvolvido para o curso de Sistemas da Internet - Fatec São Roque.
 ## Objetivo Do Projeto
 Integrar todos os conhecimentos adiquiridos no curso para desenvolvimento de uma aplicação completa web. 
@@ -13,7 +13,8 @@ O portal de noticias de noticia foi elaborado com base no tema Cultura Pop, onde
 * PHP - Hypertext Preprocessor
 
 ## Instalação
-Baixe a pasta do projeto, pode ser baixado de duas formas :
+A pasta do projeto pode ser baixado de duas formas :
+
 ## Via Terminal
 Execute o comando git clone https://github.com/joseguilherme96/projeto-integrador-II.git
 
@@ -24,13 +25,13 @@ A pasta precisa ser renomeada para projeto-integrador-II, para que os links do m
 
 Após renomeado a pasta, projeto precisa ser executado dentro de um servidor, como XAMPP ou WAMP SERVER, devido todos os arquivos estarem em php.
 
-## Servidor XAMMP
+## Servidor XAMPP
 Salve a pasta projeto-integrador-II dentro da pasta htdocs
 
 ## Servidor WAMP SERVER
 Salve a pasta projeto-integrador-II dentro da pasta www
 
-Inicialize um dos servidores de sua preferência, e acesse o projeto no seu navegador.
+Inicialize um dos servidores de sua preferência e acesse o projeto no seu navegador.
 
 
 
