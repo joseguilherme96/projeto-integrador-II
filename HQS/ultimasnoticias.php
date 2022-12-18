@@ -10,13 +10,16 @@
   <link rel="stylesheet" href="../css/tema.css">
 </head>
 <body>
+  <nav>
   <?php include "../nav.php" ?>
+</nav>
+
   <div class="container">
     <section class="row pt-5 ">
-      <div class="col-12 col-sm-12 col-lg-6 text-center pt-5 ">
-        <img src=" ../HQS/img/u1.jpg" class="img-fluid" alt="Aqui temos a imagem do ultimo desenhão">
+       <div class="col-12 col-sm-12 col-lg-6 text-center pt-5 ">
+          <img src=" ../HQS/img/u1.jpg" class="img-fluid" alt="Aqui temos a imagem do ultimo desenhão">
       </div>
-      <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start ">
+          <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start ">
         <h1 class="cor-letra">Desenhão: batalha de desenhos ao vivo premiará artista com um iPad Pro</h1>
         <p class="texto">No próximo sábado, 26 de novembro, a partir das 19h, acontece o Desenhão, uma festa que vai reunir artistas, fãs dos quadrinhos nacionais e amantes da cultura geek no geral numa oportunidade de juntar as pessoas para celebrar, debater assuntos e fazer arte.
           O atrativo principal da festa é a batalha de desenho. Oito artistas de quadrinhos serão convidados a duelar e desenhar sobre temas sorteados na hora. Eles terão cerca de dois minutos para concluir o desenho e o público decide quem é o(a) vencedor(a), valendo um Ipad Pro na etapa final. Participam Helô D’Angelo, Marilia Marz, Felipe Portugal, Jefferson Costa, Gabú Britto, Flávia Borges, Diego Sanchez e Aline Zouvi.
@@ -45,11 +48,12 @@
         </a>
       </div>
     </section>
+
     <section class="row pt-5 ">
       <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
         <img src=" ../HQS/img/u3.jpg" class="img-fluid" alt="História em quadrinhos sobre Paulo Freire em campanha no Catarse">
-      </div>
-      <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start">
+          </div>
+             <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start">
         <h1 class="cor-letra">História em quadrinhos sobre Paulo Freire em campanha no Catarse</h1>
         <p class="texto"> A obra busca apresentar o educador a uma nova geração, mas também permitir um reencontro àqueles que conhecem sua história, com quatro narrativas criadas por Rogério Faria (Marighella #LIVRE), Ricardo Sousa (ZéMurai), Jefferson Costa (Jeremias - Pele) e Ren Nolasco (Só Ana), com 20 páginas.
           As histórias seguem Paulo Freire da infância ao legado nos dias de hoje, destacando-se a experiência de alfabetização em Angicos-RN, a escrita da obra Pedagogia do Oprimido no exílio no Chile, sua contribuição a uma África recém-independente, seu retorno ao país e sua participação no debate sobre políticas públicas de educação, quando chegou a ser secretário de educação no município de São Paulo.
@@ -61,7 +65,7 @@
         </p>
       </div>
     </section>
-    </section>
+
   </div>
   <footer>
     <?php include "../rodape.php" ?>

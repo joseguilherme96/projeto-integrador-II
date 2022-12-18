@@ -9,27 +9,33 @@
   <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
   <link rel="stylesheet" href="../css/tema.css">
 </head>
-<body>
+
   <body>
+  <nav>
     <?php include "../nav.php" ?>
+</nav>
+
     <div class="container">
-      <section class="row pt-5 ">
-        <div class="col-12 col-sm-6 col-lg-12 text-center pt-5 ">
+        <section class="row pt-5 ">
+      <div class="col-12 col-sm-6 col-lg-12 text-center pt-5 ">
           <img src=" ../HQS/img/c1.jpg" class="img-fluid" alt="Raina Telgemeier: um mergulho na adolescência com Drama e Coragem">
-        </div>
-        <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start ">
+      </div>
+        
+      <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start ">
           <h1 class="cor-letra">Raina Telgemeier: um mergulho na adolescência com Drama e Coragem</h1>
           <p>No final de julho deste ano, a quadrinhista Raina Telgemeier (20/05/1977) foi laureada com dois Eisner Awards: Melhor roteirista e artista e Melhor publicação infantil, por Guts, da Scholastic Graphix. Ela tem se destacado no diálogo com o público jovem. Boa parte de seu trabalho é autobiográfico, com foco em aspectos de sua vida na adolescência. Isso, aliado a traços limpos e carismáticos, reforçam a identificação com os leitores. Nos últimos meses, dois de seus álbuns chegaram ao Brasil: Drama (Devir) e Coragem (Intrínseca).
             Antes, saíram aqui Sorria (lançado originalmente nos Estados Unidos em 2010, seu primeiro álbum como roteirista e desenhista), que a mostrava em um tratamento dentário que complicava sua vida social; e Irmãs (de 2014), sobre o relacionamento com a irmã mais nova – ambos pela Devir.
             Drama foi publicado originalmente em 2012. A protagonista é Callie, uma garota que trabalha nos cenários das peças de sua escola. A história é sobre sua paixão pelo teatro, enquanto vive seus primeiros amores.
             Já Coragem, lançado nos EUA em 2019, é um retorno da autora às HQs autobiográficas. Ela fala dos muitos medos que sentia em determinado momento da adolescência, que se refletiam em dores físicas e se revelaram problemas de ansiedade.
+            
             <a class="text-decoration-none cor-letra" href=" ../autores.php?#pedrohenriqueribeiro">
               <p>Pedro Henrique Ribeiro,24/09/2022.</p>
             </a>
+
             <a class="text-decoration-none cor-letra" href=" ../autores.php?#renatofelix">
               <p>Renato Felix,08/09/2020.</p>
             </a>
-          </p>
+          
         </div>
         <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center">
           <img src=" ../HQS/img/c2.jpg" class="img-fluid" alt="Stefan Petrucha: a verdade está nas páginas dos quadrinhos">
@@ -44,6 +50,7 @@
           </a>
         </div>
       </section>
+      
       <section class="row pt-5 ">
         <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center">
           <img src=" ../HQS/img/c3.jpg" class="img-fluid" alt="Jeff Smith: Bone e a longa jornada épica do “faça você mesmo”">
