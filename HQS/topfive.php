@@ -18,7 +18,7 @@
     <div class="container">
       <section class="row pt-5 ">
         <div class="col-12 col-sm-6 col-lg-12 text-center pt-5 ">
-          <img src=" ../HQS/img/t1.jpg" class="img-fluid" alt="TOP1">
+          <img src=" ../HQS/img./t1.jpg" class="img-fluid" alt="TOP1">
         </div>
         <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start ">
           <p>Dias Gigantes começou como uma webcomic, derivada de uma HQ anterior escrita e desenhada por Allison: Scary-Go-Round. Esther fazia parte do elenco coadjuvante da anterior e se tornou uma das protagonistas aqui, e seguiu por um tom diferente, trocando o sobrenatural pelo humor cotidiano.
@@ -30,7 +30,7 @@
             </a>
           </p>
         </div>
-        <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center"> <img src=" ../HQS/img/t2.jpg" class="img-fluid" alt="TOP2">
+        <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center"> <img src=" ../HQS/img./t2.jpg" class="img-fluid" alt="TOP2">
         </div>
         <div class="col-12 col-sm-6 col-lg-12  pt-5 pb-5 text-start ">
           <p> Esta graphic novel é um dos últimos trabalhos de Pazienza, um dos criadores da revista italiana Frigidaire, antes de sua morte. O leitor brasileiro viu algumas de suas HQs curtas na revista Animal, da VHD Diffusion, no final dos anos 1980.
@@ -48,7 +48,7 @@
         </div>
       </section>
       <section class="row pt-5 ">
-        <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center"> <img src=" ../HQS/img/t3.jpg" class="img-fluid" alt="TOP3">
+        <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center"> <img src=" ../HQS/img./t3.jpg" class="img-fluid" alt="TOP3">
         </div>
         <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start">
           <p> Uma experiência pessoal serviu de base para a escrita do roteiro: Mylle Silva fez um intercâmbio no Japão durante seis meses. Na volta, após ter colecionado tantos momentos, sentiu a necessidade de contar essa história.
@@ -61,7 +61,7 @@
             </a>
           </p>
         </div>
-        <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center"> <img src=" ../HQS/img/t4.jpg" class="img-fluid" alt="TOP4">
+        <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center"> <img src=" ../HQS/img./t4.jpg" class="img-fluid" alt="TOP4">
         </div>
         <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start ">
           <p> Os Diários de Amora é um quadrinho claramente destinado ao público infantil. Não há nada de mais na história, mas é justamente por sua simplicidade que pode conquistar um leitor mais experiente.
