@@ -68,7 +68,6 @@
               <div class="card text-light text-center bg-white pb-2">
                 <div class="card-body text-dark">
                   <div class="img-area mb-3"><img alt="Materia" class="img-fluid" src="../HQS/img/m1.jpg" height="225px" width="225px"></div>
-
                   <a href=" HQS/materia.php">
                     <h3 class="card-title">Materia</h3>
                   </a>
