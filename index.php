@@ -96,7 +96,7 @@
     <section class="row pt-1 "> 
 
       <div class="col-12 col-sm-6 col-lg-3 text-center pt-2 "> 
-      <img src="  imgcosplay/kodia.jpg " alt="Ahsoka Tano - Star Wars
+      <img src="cosplay/imgcosplay/kodia.jpg " alt="Ahsoka Tano - Star Wars
 Incrivel Cosplay do personagem Ahsoka Tano feita por uma fã da grande série Star Wars surpreendeu nas redes sociais, a fã descreve *Esse cosplay foi um verdadeiro desafio pra mim, principalmente a maquiagem, e aprendi muito fazendo.Mal posso esperar para usá-la na Star Wars Celebration em Londres no ano que vem." >
       </div>  
 
@@ -105,7 +105,7 @@ Incrivel Cosplay do personagem Ahsoka Tano feita por uma fã da grande série St
         </p>
       </div>
    
-      <div class="col-12 col-sm-6 col-lg-3 pt-2 text-center"> <img src="  imgcosplay//arlequina.jpg" alt="Deadpool e Arlequina
+      <div class="col-12 col-sm-6 col-lg-3 pt-2 text-center"> <img src="cosplay/imgcosplay/arlequina.jpg" alt="Deadpool e Arlequina
 Deadpool e Arlequina juntos em incrivel cosplay feito por fã, quem conhece sabe que os dois personagem são de casas de super-herois diferentes, então essa amizade é bem improvavel acontecer um dia, em algum filme, mas os fãs quebram barreiras. ">
       </div>  
 
