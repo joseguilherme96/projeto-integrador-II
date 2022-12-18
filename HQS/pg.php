@@ -39,7 +39,7 @@
               <div class="card text-light text-center bg-white pb-2">
                 <div class="card-body text-dark">
                   <div class="img-area mb-3"><img alt="Noticias" class="img-fluid" src="../HQS/img/u1.jpg"></div>
-                  <a href=" HQS/ultimasnoticias.php">
+                  <a href="ultimasnoticias.php">
                     <h3 class="card-title">Noticia</h3>
                   </a>
                 </div>
@@ -49,7 +49,7 @@
               <div class="card text-light text-center bg-white pb-2">
                 <div class="card-body text-dark">
                   <div class="img-area mb-3"><img alt="Top Five" class="img-fluid" src="../HQS/img/t1.jpg" height="225px" width="225px"></div>
-                  <a href=" HQS/topfive.php">
+                  <a href="topfive.php">
                     <h3 class="card-title">Top Five</h3>
                   </a>
                 </div>
@@ -63,7 +63,7 @@
               <div class="card text-light text-center bg-white pb-2">
                 <div class="card-body text-dark">
                   <div class="img-area mb-3"><img alt="Critica" class="img-fluid" src="../HQS/img/c1.jpg" height="400px" width="400px"></div>
-                  <a href=" HQS/critica.php">
+                  <a href="critica.php">
                     <h3 class="card-title">Critica</h3>
                   </a>
                 </div>
@@ -73,7 +73,7 @@
               <div class="card text-light text-center bg-white pb-2">
                 <div class="card-body text-dark">
                   <div class="img-area mb-3"><img alt="Materia" class="img-fluid" src="../HQS/img/m1.jpg" height="225px" width="225px"></div>
-                  <a href=" HQS/materia.php">
+                  <a href="materia.php">
                     <h3 class="card-title">Materia</h3>
                   </a>
                 </div>
