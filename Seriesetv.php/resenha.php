@@ -37,11 +37,11 @@
                     <p>O elenco conta com Álvaro Morte, Úrsula Corberó, Itzar Ituño, Pedro Alonso, Alba Flores, Miguel Herrán, Jaime Lorente, Esther Acebo e outros.</p>
                     <p>Direção por: Jesús Colmenar, Koldo Serra, Álex Rodrigo e Javier Quintas.</p>
                     <p>A trama é dividida em 5 partes sendo todas disponibilizadas na Netflix.</p>
-                    <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#natalianini"><p>Natalia NiNi,15/12/2021.</p></a>
+                    <a class="text-decoration-none cor-letra" href="../autores.php?#natalianini"><p>Natalia NiNi,15/12/2021.</p></a>
                 </div>       
             </section>
             <div class="text-end p-3">
-                <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
+                <a class="btn btn-primary" href="../Seriesetv.php/serieshome.php" role="button">Voltar</a>
             </div>
         </article>
     </div>

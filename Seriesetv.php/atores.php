@@ -45,7 +45,7 @@
                         <p>Durante o painel, McNamara disse achar incrível como os eventos como CCXP são importantes para os fãs de franquias e atores e artistas. "Eu aprendi como a comunidade de 
                             convenções é incrível, a gente conta essas histórias porque a gente se empodera e traz um sentimento de pertencimento"
                         </p>
-                        <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#giovannabreve"><p>Giovanna Breve,03/12/2022.</p></a>
+                        <a class="text-decoration-none cor-letra" href="../autores.php?#giovannabreve"><p>Giovanna Breve,03/12/2022.</p></a>
                     </div>
                 </section>
                 <section class="col-12 col-sm-6">
@@ -65,12 +65,12 @@
                         <p>Relembrando o início da produção, Vivar disse que antes mesmo de saberem se os projetos de Roberto Gomez Bolaños (o Chaves) daria certo, o elenco gravou, em duas semanas, vários episódios de A Turma do Chavez,
                              Chapolin Colorado e Cidadão Gómez - que não chegou ao Brasil. "Mas Chaves foi um sucesso tremendo", afirmou.
                         </p>
-                        <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#Pedrohenriqueribeiro"><p>Pedro Henrique Ribeiro 04/12/2022</p></a>
+                        <a class="text-decoration-none cor-letra" href="../autores.php?#Pedrohenriqueribeiro"><p>Pedro Henrique Ribeiro 04/12/2022</p></a>
                     </div>
                 </section>
             </div>
             <div class="text-end pb-3">
-                <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
+                <a class="btn btn-primary" href="../Seriesetv.php/serieshome.php" role="button">Voltar</a>
             </div> 
         </article>
     </div> 

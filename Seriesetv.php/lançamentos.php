@@ -39,7 +39,7 @@
                             Desde então, nomes como Elizabeth Lail, Shay Mitchell, Victoria Pedretti e Jenna Ortega já passaram pela série. 
                             As três primeiras temporadas de You estão disponíveis na Netflix.
                         </p>
-                        <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#juliasabbaga"><p>Júlia Sabbaga 24/09/2022.</p></a>
+                        <a class="text-decoration-none cor-letra" href="../autores.php?#juliasabbaga"><p>Júlia Sabbaga 24/09/2022.</p></a>
                 </section>
                 <section class="col-12 col-sm-6 cor-fundo p-3">
                     <div class="text-center cor-letra">
@@ -51,11 +51,11 @@
                     </div>
                         <p>A série Wandinha, focada na personagem da Família Addams, ganhou uma nova prévia no Tudum. A produção da Netflix tem estreia confirmada para 23 de novembro.</p>
                         <p>Além de Ortega, o elenco de Wandinha ainda conta com Catherine Zeta-Jones, Luis Guzmán, Gwendoline Christie, Christina Ricci e muito mais. A história é descrita como "um mistério com toques sobrenaturais que acompanha a trajetória de Wandinha como aluna da Escola Nunca Mais."</p>
-                        <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#pedrohenriqueribeiro"><p>Pedro Henrique Ribeiro,24/09/2022.</p></a>
+                        <a class="text-decoration-none cor-letra" href="../autores.php?#pedrohenriqueribeiro"><p>Pedro Henrique Ribeiro,24/09/2022.</p></a>
                 </section>
             </div>
             <div class="text-end p-3">
-                <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
+                <a class="btn btn-primary" href="../Seriesetv.php/serieshome.php" role="button">Voltar</a>
             </div>
         </article>
     </div>

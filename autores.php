@@ -261,6 +261,7 @@
                         <a class="text-decoration-none cor-letra" href="https://www.omelete.com.br/ccxp/ccxp22-the-last-of-us-trailer-2"><p>https://www.omelete.com.br/ccxp/ccxp22-the-last-of-us-trailer-2</p></a>
                         <a class="text-decoration-none cor-letra" href="https://www.omelete.com.br/o-senhor-dos-aneis/aneis-do-poder-novas-escalacoes-fio"><p>https://www.omelete.com.br/o-senhor-dos-aneis/aneis-do-poder-novas-escalacoes-fio</p></a>
                         <a class="text-decoration-none cor-letra" href="https://www.omelete.com.br/filmes/netflix-divulga-imagens-e-data-de-estreia-de-agente-oculto"><p>https://www.omelete.com.br/filmes/netflix-divulga-imagens-e-data-de-estreia-de-agente-oculto</p></a>
+                        <a class="text-decoration-none cor-letra" href="https://www.omelete.com.br/filmes/globo-de-ouro-tv-2023"><p>https://www.omelete.com.br/filmes/globo-de-ouro-tv-2023</p></a>
                         <p>Acesso em: 25 nov. 2022.</p>
                     </div>
                 </div>

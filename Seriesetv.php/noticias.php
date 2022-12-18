@@ -39,12 +39,12 @@
                     <div class="col-12 col-sm-12">
                         <p>A edição de 2022 do prêmio foi cancelada depois que um artigo publicado pelo Los Angeles Times expôs que a HFPA não tinha membros negros em sua organização, entre 87 pessoas, resultando em ultraje e num boicote da indústria.</p>
                         <p>Como parte de medidas de reforma, 102 novos membros foram admitidos à organização, mas só seis deles negros, o que gerou ainda mais críticas.</p>
-                        <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#"><p>Eduardo Pereira,09/08/2022.</p></a>
+                        <a class="text-decoration-none cor-letra" href="../autores.php?#omelete"><p>Omelete.</p></a>
                     </div>
                 </div>
             </section>
             <div class="text-end p-3">
-                <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
+                <a class="btn btn-primary" href="../Seriesetv.php/serieshome.php" role="button">Voltar</a>
             </div>
         </div>
         <div class="container d-none d-sm-none d-lg-block">
@@ -63,7 +63,7 @@
                     <div class="col-lg-6 text-center">
                         <p>A edição de 2022 do prêmio foi cancelada depois que um artigo publicado pelo Los Angeles Times expôs que a HFPA não tinha membros negros em sua organização, entre 87 pessoas, resultando em ultraje e num boicote da indústria.</p>
                         <p>Como parte de medidas de reforma, 102 novos membros foram admitidos à organização, mas só seis deles negros, o que gerou ainda mais críticas.</p>
-                        <a class="text-decoration-none cor-letra" href="/projeto-integrador-II/autores.php?#"><p>Eduardo Pereira,09/08/2022.</p></a>
+                        <a class="text-decoration-none cor-letra" href="../autores.php?#omelete"><p>Omelete.</p></a>
                     </div>
                 </div>
                 <div class="row cor-fundo">
@@ -79,7 +79,7 @@
                 </div>
             </section>
             <div class="text-end p-3">
-                <a class="btn btn-primary" href="/projeto-integrador-II/Seriesetv.php/serieshome.php" role="button">Voltar</a>
+                <a class="btn btn-primary" href="../Seriesetv.php/serieshome.php" role="button">Voltar</a>
             </div>
         </div>
     </article>
