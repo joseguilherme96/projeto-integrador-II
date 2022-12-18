@@ -11,35 +11,34 @@
     <link rel="stylesheet" href="../css/tema.css">
 </head>
 <body>
-<?php include "../nav.php"?>
+    <?php include "../nav.php" ?>
     <div class="container ">
         <div class="row">
             <div class="col-12">
-                <a href="../index.php">Home</a> / <a href="index.php">Cinema</a> / <a href="entrevistas.php">Entrevistas</a> / <a href="entrevista-com-autores.php">Entrevista</a> 
+                <a href="../index.php">Home</a> / <a href="index.php">Cinema</a> / <a href="entrevistas.php">Entrevistas</a> / <a href="entrevista-com-autores.php">Entrevista</a>
             </div>
         </div>
-        <?php include "../barra-de-pesquisa.php";?>
+        <?php include "../barra-de-pesquisa.php"; ?>
         <article>
             <h1 class="row d-block text-center cor-letra">Entrevistas</h1>
-            <section>
+            <section id="vindiesel">
                 <h2 class="cor-letra">Vin Diesel</h2>
                 <div class="row text-center">
-                    <div class="col-12 col-sm-12 col-lg-12" >
-                    <iframe class="col-12"  src="https://www.youtube.com/embed/yQ9QkFxC0sc" title="VIN DIESEL | Entrevista Exclusiva com Carol Moreira" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div class="col-12 col-sm-12 col-lg-12">
+                        <iframe class="col-12" src="https://www.youtube.com/embed/yQ9QkFxC0sc" title="VIN DIESEL | Entrevista Exclusiva com Carol Moreira" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="row justify-content-start">
                     <div class="col-lg-12">
                         <p>Vin diesel fala sobre o filme Reativado que estreiou no dia 19 de janeiro. </p>
                     </div>
-                
                 </div>
             </section>
-            <section>
+            <section id="camillerowe">
                 <h2 class="cor-letra">Camile Rowe</h2>
                 <div class="row text-center">
                     <div class="col-12 col-sm-12 col-lg-12">
-                    <iframe class="col-12"src="https://www.youtube.com/embed/BO80Rdh_PbE" title="Mango: entrevista a Camille Rowe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe class="col-12" src="https://www.youtube.com/embed/BO80Rdh_PbE" title="Mango: entrevista a Camille Rowe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="row justify-content-center">
@@ -48,11 +47,11 @@
                     </div>
                 </div>
             </section>
-            <section>
+            <section id="jasonsthan">
                 <h2 class="cor-letra">Jason Statham</h2>
                 <div class="row text-center">
                     <div class="col-12 col-sm-12 col-lg-12">
-                    <iframe class="col-12" src="https://www.youtube.com/embed/Q7pTtHIcZuU" title="Entrevista a Jason Statham - El Especialista: Resurrección" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe class="col-12" src="https://www.youtube.com/embed/Q7pTtHIcZuU" title="Entrevista a Jason Statham - El Especialista: Resurrección" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="row justify-content-center">
@@ -61,11 +60,11 @@
                     </div>
                 </div>
             </section>
-            <section>
+            <section id="audreytautou">
                 <h2 class="cor-letra">Audrey Tautou</h2>
                 <div class="row text-center">
                     <div class="col-12 col-sm-12 col-lg-12">
-                    <iframe class="col-12" src="https://www.youtube.com/embed/GwqbAE6ir1w" title="Audrey Tautou live at the "Jonathan Ross Show" (2013) - TV excerpt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe class="col-12" src="https://www.youtube.com/embed/GwqbAE6ir1w" title="Audrey Tautou live at the " Jonathan Ross Show" (2013) - TV excerpt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="row justify-content-center">
@@ -75,8 +74,7 @@
                 </div>
             </section>
         </article>
-       
     </div>
-    <?php include "../rodape.php";?>
+    <?php include "../rodape.php"; ?>
 </body>
 </html>
