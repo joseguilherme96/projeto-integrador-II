@@ -15,7 +15,7 @@
             <h6>
               Por <a href="../autores.php?#omelete">Flávio Pinto</a>  28/10/20222
             </h6>
-            <p class="text-end"><a href="/projeto-integrador-II/cinema/artigo-literatura.php?cod=4" > Ver mais</a></p>
+            <p class="text-end"><a href="/projeto-integrador-II-main/cinema/artigo-literatura.php?cod=4" > Ver mais</a></p>
             </div>
         </div>
         <div class="row justify-content-center">
@@ -29,7 +29,7 @@
             <h6>
               Por <a href="../autores.php?#caiocolleti">Caio Coletti</a>  08/10/20222
             </h6>
-            <p class="text-end"><a href="/projeto-integrador-II/cinema/artigo-literatura.php?cod=3" > Ver mais</a></p>
+            <p class="text-end"><a href="/projeto-integrador-II-main/cinema/artigo-literatura.php?cod=3" > Ver mais</a></p>
             </div>
         </div>
         <div class="row justify-content-center">
@@ -40,7 +40,7 @@
             <h6>
               Por <a href="../autores.php/#omelete">Omelete</a>  04/12/20222
             </h6>
-            <p class="text-end"><a href="/projeto-integrador-II/cinema/artigo-literatura.php?cod=2" > Ver mais</a></p>
+            <p class="text-end"><a href="/projeto-integrador-II-main/cinema/artigo-literatura.php?cod=2" > Ver mais</a></p>
             </div>
         </div>
         <div class="row justify-content-center">
@@ -55,7 +55,7 @@
               Por <a href="../autores.php?#nicogarofalo">NICO GARÓFALO</a>  01/12/2022
               <!--https://www.omelete.com.br/filmes/criticas/jogador-no-1-critica-->
             </h6>
-            <p class="text-end"><a href="/projeto-integrador-II/cinema/noticia-filme.php?cod=2" > Ver mais</a></p>
+            <p class="text-end"><a href="/projeto-integrador-II-main/cinema/noticia-filme.php?cod=2" > Ver mais</a></p>
             </div>
         </div>
         <div class="row justify-content-center">
@@ -70,7 +70,7 @@
               Por <a href="../autores.php?#giovannabreve">GIOVANNA BREVE</a> E <a href="../autores.php?#nicogarofalo">NICOLAOS GARÓFAL</a>  03/12/2022
               <!--https://www.omelete.com.br/filmes/criticas/jogador-no-1-critica-->
             </h6>
-            <p class="text-end"><a href="/projeto-integrador-II/cinema/noticia-filme.php?cod=3" > Ver mais</a></p>
+            <p class="text-end"><a href="/projeto-integrador-II-main/cinema/noticia-filme.php?cod=3" > Ver mais</a></p>
             </div>
         </div>
         </section>
