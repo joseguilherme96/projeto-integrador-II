@@ -17,7 +17,7 @@
   <div class="container">
     <section class="row pt-5 ">
        <div class="col-12 col-sm-12 col-lg-6 text-center pt-5 ">
-          <img src=" ../HQS/img./u1.jpg" class="img-fluid" alt="Aqui temos a imagem do ultimo desenhão">
+          <img src=" ../HQS/img/u1.jpg" class="img-fluid" alt="Aqui temos a imagem do ultimo desenhão">
       </div>
           <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start ">
         <h1 class="cor-letra">Desenhão: batalha de desenhos ao vivo premiará artista com um iPad Pro</h1>
@@ -31,7 +31,7 @@
         </p>
       </div>
       <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
-        <img src=" ../HQS/img./u2.jpg" class="img-fluid" alt="Formosa Márcia vence o Prêmio Jabuti na categoria História em Quadrinhos">
+        <img src=" ../HQS/img/u2.jpg" class="img-fluid" alt="Formosa Márcia vence o Prêmio Jabuti na categoria História em Quadrinhos">
       </div>
       <div class="col-12 col-sm-12 col-lg-6  pt-5 pb-5 text-start ">
         <h1 class="cor-letra">Formosa Márcia vence o Prêmio Jabuti na categoria História em Quadrinhos</h1>
@@ -51,7 +51,7 @@
 
     <section class="row pt-5 ">
       <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
-        <img src=" ../HQS/img./u3.jpg" class="img-fluid" alt="História em quadrinhos sobre Paulo Freire em campanha no Catarse">
+        <img src=" ../HQS/img/u3.jpg" class="img-fluid" alt="História em quadrinhos sobre Paulo Freire em campanha no Catarse">
           </div>
              <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start">
         <h1 class="cor-letra">História em quadrinhos sobre Paulo Freire em campanha no Catarse</h1>
