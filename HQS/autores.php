@@ -22,17 +22,17 @@
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src=" ../HQS/img/a22.jpg" class="d-block w-100" alt="Quadrinhos">
+        <img src=" ../HQS/img./a22.jpg" class="d-block w-100" alt="Quadrinhos">
         <div class="carousel-caption d-none d-md-block">
         </div>
       </div>
       <div class="carousel-item">
-        <img src=" ../HQS/img/a23.jpg" class="d-block w-100" alt="Quadrinhos">
+        <img src=" ../HQS/img./a23.jpg" class="d-block w-100" alt="Quadrinhos">
         <div class="carousel-caption d-none d-md-block">
         </div>
       </div>
       <div class="carousel-item">
-        <img src=" ../HQS/img/a24.jpg" class="d-block w-100" alt="Quadrinhos">
+        <img src=" ../HQS/img./a24.jpg" class="d-block w-100" alt="Quadrinhos">
         <div class="carousel-caption d-none d-md-block">
         </div>
       </div>
@@ -49,7 +49,7 @@
   <div class="container">
     <section class="row pt-5 ">
       <div class="col-12 col-sm-12 col-lg-6 text-center pt-5 ">
-        <img src=" ../HQS/img/a1.jpg" class="img-fluid" alt="Mauricio de Sousa">
+        <img src=" ../HQS/img./a1.jpg" class="img-fluid" alt="Mauricio de Sousa">
       </div>
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start ">
         <div class="cor-fundo">
@@ -63,7 +63,7 @@
       </div>
       <section class="row pt-5 ">
         <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
-          <img src=" ../HQS/img/a2.jpg" class="img-fluid" alt="Katsuhiro Otomo">
+          <img src=" ../HQS/img./a2.jpg" class="img-fluid" alt="Katsuhiro Otomo">
         </div>
         <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start">
           <div class="cor-fundo">
