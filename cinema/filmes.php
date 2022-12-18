@@ -34,7 +34,6 @@
         </a>
         <figcaption class="d-none d-lg-block">Fonte imagem em https://www.nerdview.com.br/2022/12/asista-ao-trailer-oficial-de-indiana.html</figcaption>
       </picture>
-      
     </div>
     <div class="col-12 col-sm-5 col-lg-12">
       <div class="row ">
@@ -99,7 +98,6 @@
             </div>
         </div>
     </div>
-    
     </div>
   </div>
 </section>

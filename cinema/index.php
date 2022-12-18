@@ -12,7 +12,6 @@
 <body>
 <?php include "../nav.php"?>
   <div class="container">
-  
     <div class="row">
       <div class="col-12 cor-letra">
         <a href="../index.php" class="text-decoration-none cor-letra">Home</a> / <a href="index.php" class="text-decoration-none cor-letra">Cinema</a>

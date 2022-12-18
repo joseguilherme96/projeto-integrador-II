@@ -9,7 +9,7 @@
   </head>
 <body>
   <?php include "../nav.php"?>
-  <div class="container "> 
+  <section class="container "> 
     <div class="col-12 text-center pt-5 ">
       <h1 class="cor-letra"> GAMES </h1>
     </div>
@@ -21,7 +21,7 @@
       <div class="col-12 col-sm-4 col-lg-4 pt-5" > <h6 class="cor-letra"> The Last of Us 2    </h6>  <a href="https://store.playstation.com/pt-br/product/UP9000-CUSA07820_00-THELASTOFUSPART2"><img src="imgcosplay/thelastofusgames.png" alt="The Last of Us Part II é um jogo eletrônico de ação-aventura desenvolvido pela Naughty Dog e publicado pela Sony Interactive Entertainment. É o segundo jogo da franquia e foi lançado em 19 de junho de 2020 exclusivamente para PlayStation 4."></a></div>
       <div class="col-12  col-sm-4 col-lg-4 pt-5 pb-5" > <h6 class="cor-letra" > Days Gone   </h6> <a href="https://www.playstation.com/pt-br/games/days-gone/"> <img src="imgcosplay/daysgonegames.png" alt="Days Gone é um jogo eletrônico de ação-aventura e sobrevivência desenvolvido pela Bend Studio e publicado pela Sony Interactive Entertainment. O jogo se passa no Oregon pós-apocalíptico, dois anos após o início de uma pandemia. O ex-fora-da-lei que se tornou um vagabundo, o diácono St."> </a> </div>
     </div>
-  </div>
+</section>
 <?php include "../rodape.php"?>
 </body>
 </html>
