@@ -163,7 +163,7 @@
             A volta do Steven Spielberg moleque
             </h5>
             <h6>
-              Por <a href="../autores.php?#omelete">ÉRICO BORGO</a>  19/03/2018
+              Por <a href="../autores.php?#omelete">Omelete</a> 19/03/2018
               <!--https://www.omelete.com.br/filmes/criticas/jogador-no-1-critica-->
             </h6>
             <p>
@@ -188,7 +188,7 @@
             Harry Potter é a a saga do órfão bruxo criada por J.K. Rowling e iniciada em 1997.
             </h5>
             <h6>
-              Por <a href="../autores.php?#omelete">Omelete</a>  04/12/20222
+              Por <a href="../autores.php?#omelete">Omelete.</a>  04/12/20222
             </h6>
             <!-- https://www.omelete.com.br/harry-potter?gclid=EAIaIQobChMI3Kaew5_g-wIVFWSRCh0sSAh2EAAYASAAEgLR_vD_BwE -->
             <p>
@@ -243,7 +243,7 @@
             Personagens dos atores não foram revelados
             </h5>
             <h6>
-              Por <a href="../autores.php?#omelete">Flávio Pinto</a>  28/10/20222
+              Por <a href="../autores.php?#omelete">Omelete.</a>28/10/20222
             </h6>
             <!-- https://www.omelete.com.br/autores/flavio-pinto-->
             <p>

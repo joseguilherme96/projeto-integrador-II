@@ -38,7 +38,7 @@
           <p>Conhecido como o cara durão de Carga Explosiva, Os Mercenários e Velozes & Furiosos 7, Jason Statham fez poucas comédias em sua carreira. </p>
         </div>
         <div class="row text-end">
-        <a href="entrevista-com-autores.php">Ler Mais</a>
+        <a href="entrevista-com-autores.php?#jasonsthan">Ler Mais</a>
         </div>   
             </section>
             <section class="col-12 col-sm-6 col-lg-4 p-1">
@@ -52,7 +52,7 @@
           <p>Vin diesel fala sobre o filme Reativado que estreiou no dia 19 de janeiro.</p>
         </div>
         <div class="row text-end">
-        <a href="entrevista-com-autores.php">Ler Mais</a>
+        <a href="entrevista-com-autores.php?#vindiesel">Ler Mais</a>
         </div>
             </section>
             <section class="col-12 col-sm-6 col-lg-4 p-1">
@@ -66,7 +66,7 @@
           <p>Camille Rowe a protagonista do primeiro fashion film Journeys by Mango a apresentar a coleção feminina mais em</p>
         </div>
         <div class="row text-end">
-        <a href="entrevista-com-autores.php">Ler Mais</a>
+        <a href="entrevista-com-autores.php?#camillerowe">Ler Mais</a>
         </div>
             </section>
             <section class="col-12 col-sm-12 col-lg-12 p-1">
@@ -80,7 +80,7 @@
           <p>Audrey Justine Tautou é uma atriz francesa. Reconhecida na França por sua atuação em Vénus beauté que lhe rendeu o prêmio César de Atriz Revelação</p>
         </div>
         <div class="row text-end">
-        <a href="entrevista-com-autores.php">Ler Mais</a>
+        <a href="entrevista-com-autores.php?#audreytautou">Ler Mais</a>
         </div>
             </section>  
         </div>
