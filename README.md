@@ -19,11 +19,7 @@ A pasta do projeto pode ser baixado de duas formas :
 Execute o comando git clone https://github.com/joseguilherme96/projeto-integrador-II.git
 
 ## Através do site GitHub
-Baixe a pasta na opção Code -> Download ZIP
-Por padrão do git hub, a pasta é baixada como projeto-integrador-II-main
-A pasta precisa ser renomeada para projeto-integrador-II, para que os links do menu funcione corretamente.
-
-Após renomeado a pasta, projeto precisa ser executado dentro de um servidor, como XAMPP ou WAMP SERVER, devido todos os arquivos estarem em php.
+Baixe a pasta na opção Code -> Download ZIP e descompacte.
 
 ## Servidor XAMPP
 Salve a pasta projeto-integrador-II dentro da pasta htdocs

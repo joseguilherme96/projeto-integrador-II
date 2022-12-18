@@ -18,7 +18,7 @@
     <div class="container">
         <section class="row pt-5 ">
       <div class="col-12 col-sm-6 col-lg-12 text-center pt-5 ">
-          <img src=" ../HQS/img/c1.jpg" class="img-fluid" alt="Raina Telgemeier: um mergulho na adolescência com Drama e Coragem">
+          <img src=" ../HQS/img./c1.jpg" class="img-fluid" alt="Raina Telgemeier: um mergulho na adolescência com Drama e Coragem">
       </div>
         
       <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start ">
@@ -38,7 +38,7 @@
           
         </div>
         <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center">
-          <img src=" ../HQS/img/c2.jpg" class="img-fluid" alt="Stefan Petrucha: a verdade está nas páginas dos quadrinhos">
+          <img src=" ../HQS/img./c2.jpg" class="img-fluid" alt="Stefan Petrucha: a verdade está nas páginas dos quadrinhos">
         </div>
         <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start ">
           <h1 class="cor-letra">Stefan Petrucha: a verdade está nas páginas dos quadrinhos</h1>
@@ -50,10 +50,10 @@
           </a>
         </div>
       </section>
-      
+
       <section class="row pt-5 ">
         <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center">
-          <img src=" ../HQS/img/c3.jpg" class="img-fluid" alt="Jeff Smith: Bone e a longa jornada épica do “faça você mesmo”">
+          <img src=" ../HQS/img./c3.jpg" class="img-fluid" alt="Jeff Smith: Bone e a longa jornada épica do “faça você mesmo”">
         </div>
         <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start">
           <h1 class="cor-letra">Jeff Smith: Bone e a longa jornada épica do “faça você mesmo”</h1>

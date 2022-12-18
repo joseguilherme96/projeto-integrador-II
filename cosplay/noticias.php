@@ -33,32 +33,32 @@
       <div class="col-12 col-sm-3 col-lg-2 text-center"> <a href="https://www.animeunited.com.br/blog/ultimos-artigos/conheca-mais-sobre-a-historia-de-cuphead-e-sua-serie-animada-da-netflix/"><img src="imgcosplay/cuphead.jpeg" alt="Cuphead
 é um enorme lançamento, um dos mais bem sucedidos da historia. O sucesso do game foi tão grande, que ele ganhou uma série animada na Netflix que já está na terceira temporada."> </a>
       </div>
-      <div class="col-12  col-sm-12 col-lg-2 text-start ">
+      <section class="col-12  col-sm-12 col-lg-2 text-start ">
         <p>
         <h6 class="cor-letra"> Cuphead </h6> É um enorme lançamento, um dos mais bem sucedidos da historia. O sucesso do game foi tão grande, que ele ganhou uma série animada na Netflix que já está na terceira temporada.</p>
-      </div>
+      </section>
       <div class="col-12 col-sm-12 col-lg-2 "> <a href="https://adrenaline.com.br/noticias/v/80731/8-de-junho-summer-game-fest-2023-acontecera-dias-antes-da-e3-2023"><img src="imgcosplay/summergamerfast.jpg" alt="Summer Game Fast
 Evento acontecerá dias antes do grande evento E3 2023. A próxima edição do Summer Game Fest já está marcada para acontecer a partir do dia 8 de junho."> </a>
       </div>
-      <div class="col-12  col-sm-12 col-lg-2 text-start">
+      <section class="col-12  col-sm-12 col-lg-2 text-start">
         <p>
         <h6 class="cor-letra"> Summer Game Fast </h6> Evento acontecerá dias antes do grande evento E3 2023. A próxima edição do Summer Game Fest já está marcada para acontecer a partir do dia 8 de junho.</p>
-      </div>
+      </section>
       <div class="row pt-5 pb-5 justify-content-center">
-        <div class="col-12  col-sm-12 col-lg-2 text-center"> <a href="https://animenew.com.br/god-of-war-ragnarok-cosplay-impecavel-deixa-fas-surpresos/"><img src="imgcosplay/gowragnarok.png" alt="God of War Ragnarök
+        <section class="col-12  col-sm-12 col-lg-2 text-center"> <a href="https://animenew.com.br/god-of-war-ragnarok-cosplay-impecavel-deixa-fas-surpresos/"><img src="imgcosplay/gowragnarok.png" alt="God of War Ragnarök
 Cosplay surpreende fãs da grande franquia. Principalmente com o recém lançamendo do jogo God of War Ragnarök,que está sendo um sucesso absurdo."> </a>
-        </div>
-        <div class="col-12  col-sm-12 col-lg-2 text-start">
+        </section>
+        <section class="col-12  col-sm-12 col-lg-2 text-start">
           <p>
           <h6 class="cor-letra">God of War Ragnarök</h6> Cosplay surpreende fãs da grande franquia. Principalmente com o recém lançamendo do jogo God of War Ragnarök,que está sendo um sucesso absurdo. </p>
-        </div>
-        <div class="col-12  col-sm-12 col-lg-2 text-center"> <a href="https://www.ccxp.com.br"> <img src="imgcosplay/ccxp.png" alt="CCXP
+        </section>
+        <section class="col-12  col-sm-12 col-lg-2 text-center"> <a href="https://www.ccxp.com.br"> <img src="imgcosplay/ccxp.png" alt="CCXP
 Com evento historico ingressos se esgotam na CCXP22. Com muito conteudo, além de diversos idolos como Keanu Reeves, Bruna Marquezine, Xolo Maridueña e diversos outros."> </a>
-        </div>
-        <div class="col-12  col-sm-12 col-lg-2 text-start ">
+        </section>
+        <section class="col-12  col-sm-12 col-lg-2 text-start ">
           <p>
           <h6 class="cor-letra"> CCXP</h6> Com evento historico ingressos se esgotam na CCXP22. Com muito conteudo, além de diversos idolos como Keanu Reeves, Bruna Marquezine, Xolo Maridueña e diversos outros. </p>
-        </div>
+        </section>
       </div>
     </div>
   </div>

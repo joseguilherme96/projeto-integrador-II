@@ -13,7 +13,7 @@
   <?php include "../nav.php"?>
   <div class="container justify-content-center">
     <div class="row text-center">
-      <div class="col-12 pt-5">
+      <section class="col-12 pt-5">
         <h1 class="cor-letra"> ANIMES </h1>
         <div class="row justify-content-center ">
           <div class="col-12  col-sm-12 col-lg-4 col-xl-4 text-center  pt-5"> <h6 class="cor-letra"> Boruto </h6><a href="https://www.crunchyroll.com/pt-br/series/GR75Q020Y/boruto-naruto-next-generations"> <img src=" imgcosplay/boruto.png" alt=" Uzumaki Boruto, filho de Uzumaki Naruto, o Sétimo Hokage, se inscreveu na Academia Ninja para aprender a ser um verdadeiro ninja. Os outros estudantes o ignoram por ser apenas o filho do Hokage mas a paixão e a personalidade do Boruto vai acabar com todos esses preconceitos.Quando uma série de misteriosos eventos começa a se desenrolar, cabe a Boruto e seus novos amigos a investigá-los. Como um tornado, Boruto entra no coração de todos: sua história está prestes a começar!"> </a></div>  
@@ -26,7 +26,7 @@
           <div class="col-12  col-sm-12 col-lg-4 col-xl-4 text-center pt-5" > <h6 class="cor-letra"> Tokyo Revengers </h6> <a href="https://www.crunchyroll.com/pt-br/series/G3KHEVMN1/tokyo-revengers"> <img src=" imgcosplay/tokyorevengers.png" alt="Takemichi Hanagaki é um desempregado que sobrevive de bicos e está na fossa. Ele descobriu que Hinata Tachibana, sua primeira e última namorada, com quem namorou no fundamental, foi morta pela impiedosa Gangue Manji de Tóquio. No dia seguinte à notícia, ele está na beira da plataforma do trem e é empurrado pela multidão. Ele fecha os olhos se preparando para morrer, mas ao abrir, ele voltou no tempo para quando tinha 12 anos de idade. Agora que ele está na melhor época de sua vida, Takemichi decide se vingar de sua vida, salvando sua namorada e parando de fugir de si mesmo."> </a> </div>
           <div class="col-12  col-sm-12 col-lg-4 col-xl-4 text-center pt-5 pb-5" > <h6 class="cor-letra"> Bleach </h6> <a href="https://www.crunchyroll.com/pt-br/series/GG5H5XK80/bleach-international-dubs"> <img src=" imgcosplay/bleach.png" alt="O jovem Ichigo é surpreendido com indesejadas habilidades de ceifeiro de almas e quer devolver os poderes. Mas deve executar algumas tarefas antes."></div>
         </div>
-      </div>
+      </section>
     </div>
   </div>
   <?php include "../rodape.php"?>
