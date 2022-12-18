@@ -13,7 +13,7 @@
             Personagens dos atores não foram revelados
             </h5>
             <h6>
-              Por <a href="../autores.php?#omelete">Flávio Pinto</a>  28/10/20222
+              Por <a href="../autores.php?#omelete">Omelete</a>  28/10/20222
             </h6>
             <p class="text-end"><a href="/projeto-integrador-II-main/cinema/artigo-literatura.php?cod=4" > Ver mais</a></p>
             </div>
@@ -38,7 +38,7 @@
             Harry Potter é a a saga do órfão bruxo criada por J.K. Rowling e iniciada em 1997.
             </h5>
             <h6>
-              Por <a href="../autores.php/#omelete">Omelete</a>  04/12/20222
+              Por <a href="../autores.php?#omelete">Omelete</a>  04/12/20222
             </h6>
             <p class="text-end"><a href="/projeto-integrador-II-main/cinema/artigo-literatura.php?cod=2" > Ver mais</a></p>
             </div>

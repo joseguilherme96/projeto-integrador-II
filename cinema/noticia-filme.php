@@ -229,7 +229,7 @@
                 <div class="col-lg-8 py-3">
                     <h4 class="cor-letra">Como thriller erótico, Águas Profundas é uma ótima comédia de costumes</h4>
                     <h5 class="cor-letra">Adrian Lyne está menos interessado em cenas de sexo do que está em tirar sarro dos ricos</h5>
-                    <h6>Por <a href="../autores.php?caiocolleti">CAIO COLETTI</a>  18/03/2022</h6>
+                    <h6>Por <a href="../autores.php?#caiocolleti">CAIO COLETTI</a>  18/03/2022</h6>
                     <!--https://www.omelete.com.br/autores/nico-garofalo -->
                 </div>
                
@@ -296,7 +296,7 @@
                 <div class="col-lg-8 py-3">
                     <h4 class="cor-letra">The Last of Us ganha trailer inédito e emocionante na CCXP22</h4>
                     <h5 class="cor-letra">Série estreia na HBO Max em 15 de janeiro</h5>
-                    <h6>Por <a href="../autores.php?#omelete">BIA VACCARI</a>  26/04/2022</h6>
+                    <h6>Por <a href="../autores.php?#omelete">Omelete.</a>  26/04/2022</h6>
                     <!--https://www.omelete.com.br/autores/nico-garofalo -->
                 </div>
                
