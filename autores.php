@@ -19,9 +19,6 @@
                 <h1 class="d-inline">Nossas Referências</h1>
             </div>
             <section id="Pedrohenriqueribeiro" class="mt-5">
-                <br>
-                <br>
-                <br>
                 <div class="col-lg-6 col-sm-12 col-12">
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2 class="d-inline">Pedro Henrique Ribeiro</h2>
@@ -40,9 +37,6 @@
                 </div>
             </section>
             <section id="giovannabreve" class="mt-5">
-                <br>
-                <br>
-                <br>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2  class="d-inline">Giovanna Breve</h2>
@@ -61,9 +55,6 @@
                 </div>
             </section>
             <section id="juliasabbaga" class="mt-5">
-                <br>
-                <br>
-                <br>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2  class="d-inline">Julia Sabbaga</h2>
@@ -81,9 +72,6 @@
                 </div>
             </section>
             <section id="natalianini" class="mt-5">
-                <br>
-                <br>
-                <br>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2 class="d-inline">Natalia Nini</h2>
@@ -100,9 +88,6 @@
                 </div>
             </section>
             <section id="marcelonaranjo" class="mt-5">
-                <br>
-                <br>
-                <br>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2  class="d-inline">Marcelo Naranjo</h2>
@@ -119,9 +104,6 @@
                 </div>
             </section>
             <section id="samirnaliato" class="mt-5">
-                <br>
-                <br>
-                <br>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2  class="d-inline">Samir Naliato</h2>
@@ -145,9 +127,6 @@
                 </div>
             </section>
             <section id="renatofelix" class="mt-5">
-                <br>
-                <br>
-                <br>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2 class="d-inline">Renato Félix</h2>
@@ -164,9 +143,6 @@
                 </div>
             </section>
             <section id="sergiocodespoti" class="mt-5">
-                <br>
-                <br>
-                <br>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2  class="d-inline">Sérgio Codespoti</h2>
@@ -185,9 +161,6 @@
                 </div>
             </section>
             <section id="nicogarofalo" class="mt-5">
-                <br>
-                <br>
-                <br>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2  class="d-inline">Nico Garófalo</h2>
@@ -206,9 +179,6 @@
                 </div>
             </section>
             <section id="caiocolleti" class="mt-5">
-                <br>
-                <br>
-                <br>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2  class="d-inline">Caio Colleti</h2>
@@ -242,10 +212,6 @@
                 </div>
             </section>
             <section id="omelete" class="mt-5">
-                <br>
-                <br>
-                <br>
-                
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2  class="d-inline">Omelete</h2>
