@@ -11,7 +11,7 @@
 <body>
 <?php include "nav.php"?>
   <div class="container">
-    <section class="row pt-5 "> 
+    <section class="row pt-5" id="joseguilherme"> 
       <section class="text-center cor-fundo">
         <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
         <h1 class="d-inline cor-letra">QUEM SOMOS</h1>
@@ -35,7 +35,7 @@
         </ul>   
       </div>
     </section>
-    <section class="row pt-5">
+    <section class="row pt-5" id="melissa">
       <div class="col-12 col-sm-6 col-lg-6 text-center cor-fundo pt-5 "> 
         <img src="img/melissa.jpg.jpg" class="img-fluid " alt="Aqui temos a imagem da Melissa.">
       </div>  
@@ -56,7 +56,7 @@
         </ul>  
       </div>
     </section> 
-    <section class="row pt-5 "> 
+    <section class="row pt-5 "  id="gilberto"> 
       <div class="col-12 col-sm-6 col-lg-6 text-center cor-fundo cor-fundo py-5" > 
         <img src="img/gilberto.jpg" class="img-fluid " alt="Aqui temos a imagem do Gilberto">
       </div>
@@ -76,7 +76,7 @@
           </ul> 
       </div>
     </section>
-    <section class="row pt-5 pb-5">
+    <section class="row pt-5 pb-5" id="yasmin">
       <div class="col-12 col-sm-6 col-lg-6 text-center cor-fundo py-5" > 
         <img src="img/yasmin1.jpg" class="img-fluid " alt="Aqui temos a imagem da Yasmin">
       </div>

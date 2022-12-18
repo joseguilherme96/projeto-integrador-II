@@ -49,26 +49,34 @@
                    <div class="row">
                         <div class="col-3 col-lg-3">
                             <figure>
-                                <img src="/projeto-integrador-II-main/img/IMG-20221204-WA0101.jpg" class="img-fluid" >
-                                <figcaption class="text-center" >Gilberto</figcaption>
+                                <a href="/projeto-integrador-II-main/quemsomos.php?#gilberto" class="text-decoration-none text-light">
+                                    <img src="/projeto-integrador-II-main/img/IMG-20221204-WA0101.jpg" class="img-fluid" >
+                                    <figcaption class="text-center" >Gilberto</figcaption>
+                                </a>
                             </figure>
                         </div>
                         <div class="col-3 col-lg-3 ">
-                        <figure>
-                                <img src="/projeto-integrador-II-main/img/IMG_20220922_071956875.jpg" class="img-fluid">
-                                <figcaption class="text-center">José Guilherme</figcaption>
-                            </figure>
-                        </div>
-                        <div class="col-3 col-lg-3">
-                        <figure>
-                                <img src="/projeto-integrador-II-main/img/Screenshot_20221204-094744.png" class="img-fluid">
-                                <figcaption class="text-center">Melissa</figcaption>
+                            <figure>
+                                <a href="/projeto-integrador-II-main/quemsomos.php?#joseguilherme" class="text-decoration-none text-light">
+                                    <img src="/projeto-integrador-II-main/img/IMG_20220922_071956875.jpg" class="img-fluid">
+                                    <figcaption class="text-center">José Guilherme</figcaption>
+                                </a>
                             </figure>
                         </div>
                         <div class="col-3 col-lg-3">
                             <figure>
-                                <img src="/projeto-integrador-II-main/img/IMG-20221204-WA0097.jpg" class="img-fluid">
-                                <figcaption class="text-center">Yasmin</figcaption>
+                                <a href="/projeto-integrador-II-main/quemsomos.php?#melissa" class="text-decoration-none text-light">
+                                    <img src="/projeto-integrador-II-main/img/Screenshot_20221204-094744.png" class="img-fluid">
+                                    <figcaption class="text-center">Melissa</figcaption>
+                                </a>
+                            </figure>
+                        </div>
+                        <div class="col-3 col-lg-3">
+                            <figure>
+                                <a href="/projeto-integrador-II-main/quemsomos.php?#yasmin" class="text-decoration-none text-light">
+                                    <img src="/projeto-integrador-II-main/img/IMG-20221204-WA0097.jpg" class="img-fluid">
+                                    <figcaption class="text-center">Yasmin</figcaption>
+                                </a>
                             </figure>
                         </div>
                     </div>
