@@ -37,7 +37,7 @@
                 <section class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-12 col-sm-12 pt-5 mt-sm-3" height="300">
-                            <a href="atores.php"><img src="../img/seubarriga.png" class="img-fluid" alt="Seu barriga"></a> 
+                            <a href="atores.php"><img src="../img/seubarriga.png" class="img-fluid" alt="imagem do Seu barriga"></a> 
                         </div>
                         <div class="col-12 col-sm-12 pt-3 text-start cor-fundo pb-3">
                             <div class="col-12">

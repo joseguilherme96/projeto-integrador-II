@@ -24,7 +24,7 @@
                 </div>
                 <div class="row cor-fundo">
                     <div class="col-12 col-sm-12 text-center pb-3">
-                        <img src="../img/globoouro.png"  class="img-fluid" alt="imagem tal e tal">
+                        <img src="../img/globoouro.png"  class="img-fluid" alt="imagem do prêmio globo de ouro">
                     </div>
                     <div class="col-12 col-sm-12">
                         <p>Depois de acontecer em uma cerimônia privada em 2022, o Globo de Ouro negocia sua volta à TV. Segundo o The Wrap, o destino seria a emissora americana NBC, responsável por transmitir a premiação entre 1996 e 2021.</p>
@@ -34,7 +34,7 @@
                 </div>
                 <div class="row cor-fundo">
                     <div class="col-12 col-sm-12 text-center">
-                        <img src="../img/globoouro2.jpg" class="img-fluid" alt="imagem tal e tal">  
+                        <img src="../img/globoouro2.jpg" class="img-fluid" alt="outra imagem do prêmio globo de ouro">  
                     </div>
                     <div class="col-12 col-sm-12">
                         <p>A edição de 2022 do prêmio foi cancelada depois que um artigo publicado pelo Los Angeles Times expôs que a HFPA não tinha membros negros em sua organização, entre 87 pessoas, resultando em ultraje e num boicote da indústria.</p>
@@ -58,7 +58,7 @@
                 </div>
                 <div class="row cor-fundo">
                     <div class="col-lg-6 text-center pb-3">
-                        <img src="../img/globoouro.png"  class="img-fluid" alt="imagem tal e tal">
+                        <img src="../img/globoouro.png"  class="img-fluid" alt="iagem do prêmio globo de ouro">
                     </div>
                     <div class="col-lg-6 text-center">
                         <p>A edição de 2022 do prêmio foi cancelada depois que um artigo publicado pelo Los Angeles Times expôs que a HFPA não tinha membros negros em sua organização, entre 87 pessoas, resultando em ultraje e num boicote da indústria.</p>
@@ -74,7 +74,7 @@
                         
                     </div>
                     <div class="col-lg-6 text-center">
-                        <img src="../img/globoouro2.jpg" class="img-fluid" alt="imagem tal e tal">  
+                        <img src="../img/globoouro2.jpg" class="img-fluid" alt="outra imagem do prêmio globo de ouro">  
                     </div>
                 </div>
             </section>

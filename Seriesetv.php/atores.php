@@ -28,7 +28,7 @@
                         <h3 class="d-inline">Katherine McNamara revela paixão pela comunidade e fãs brasileiros na CCXP22</h3>
                     </div>
                     <div class="text-center cor-fundo p-3">
-                        <img src="../img/katherine.png" class="img-fluid" alt="imagem tal e tal">
+                        <img src="../img/katherine.png" class="img-fluid" alt="imagem katherine">
                         <p>Katherine McNamara trouxe simpatia e encantou o público do Palco Thunder by Cinemark Club durante a CCXP22. 
                             Em uma conversa com Maria Bopp, a artista contou sobre a carreira, a paixão pelo Brasil e o carinho dos fãs das franquias que já atuou.
                         </p>
@@ -54,7 +54,7 @@
                         <h3 class="d-inline">Seu Barriga emociona CCXP22 em painel com tom de despedida</h3>
                     </div>
                     <div class="text-center p-3">
-                        <img src="../img/seubarriga.png" class="img-fluid" alt="imagem tal e tal">
+                        <img src="../img/seubarriga.png" class="img-fluid" alt="imagem seu barriga">
                         <p> O consagrado ator Edgar Vivar emocionou o público do Palco Thunder by Cinemark Club compartilhando com o público histórias de bastidores que envolvem o amado personagem Seu Barriga. 
                             O ator mexicano interpretou o dono da vila do Chaves e ficou famoso no Brasil com seu bordão: "pague os 14 meses de aluguel!"
                         </p>

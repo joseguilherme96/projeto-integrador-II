@@ -3,7 +3,7 @@
         background-color: #363636;
     }
 </style>
-<footer class="row border text-light">
+<footer class="row  col-12 p-0 m-0 text-light">
     <div class="col-sm-3 col-lg-1 d-none d-sm-inline">
         <ul>
             <li><a href="/projeto-integrador-II-main/cinema/index.php" class="text-decoration-none text-light">Cinema</a></li>

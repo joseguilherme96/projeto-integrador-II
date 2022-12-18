@@ -20,7 +20,7 @@
             </div>
             <div class="row p-3">
                 <div class= col-12>
-                <img src="../img/casaescuro.png" class="img-fluid" alt="imagem tal e tal">
+                <img src="../img/casaescuro.png" class="img-fluid" alt="imagem de cena escura da qual os fãs reclamaram">
                 </div>
             </div>
             <section>

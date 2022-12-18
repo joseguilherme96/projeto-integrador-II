@@ -31,7 +31,7 @@
                         <h3 class="d-inline">4ª temporada de You</h3>
                     </div>
                     <div class="text-center p-3">
-                        <img src="../img/you.png" class="img-fluid" alt="imagem tal e tal">
+                        <img src="../img/you.png" class="img-fluid" alt="imagem da série You">
                     </div>
                         <p>A Netflix anunciou no Tudum,evento de anúncios da Netflix, a data de estreia da 4ª Temporada, que será dividida em duas partes: a primeira leva de episódios está marcada para 10 de fevereiro, 
                             e a segunda parte chega em 10 de março de 2023.
@@ -47,7 +47,7 @@
                         <h3 class="d-inline">Wandinha</h3>
                     </div>
                     <div class="text-center p-3">
-                        <img src="../img/wandinha.jpg"height="300" width="300" class="img-fluid" alt="imagem tal e tal">
+                        <img src="../img/wandinha.jpg"height="300" width="300" class="img-fluid" alt="imagem da série wandinha">
                     </div>
                         <p>A série Wandinha, focada na personagem da Família Addams, ganhou uma nova prévia no Tudum. A produção da Netflix tem estreia confirmada para 23 de novembro.</p>
                         <p>Além de Ortega, o elenco de Wandinha ainda conta com Catherine Zeta-Jones, Luis Guzmán, Gwendoline Christie, Christina Ricci e muito mais. A história é descrita como "um mistério com toques sobrenaturais que acompanha a trajetória de Wandinha como aluna da Escola Nunca Mais."</p>

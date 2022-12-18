@@ -123,7 +123,7 @@
             <h2 class="cor-letra py-3">SERIES & TV</h2>
             <div class="row cor-fundo my-5">
                 <div class="col-12 col-sm-12 col-lg-6  p-1">
-                    <img src="img/casaescuro.png" class="img-fluid mt-4">
+                    <img src="img/casaescuro.png" class="img-fluid mt-4" alt="imagem da cena escura">
                 </div>
                 <div class="col-12 col-sm-12 col-lg-6 p-1">
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
@@ -144,7 +144,7 @@
                     <picture>
                         <source srcset="img/katherine.png" class="img-fluid" media="(min-width:992px)">
                         <source srcset="img/katherine.png" class="img-fluid" media="(min-width:576px)">
-                        <img src="img/katherine.png" class="img-fluid">
+                        <img src="img/katherine.png" class="img-fluid" alt="imagem da katherine">
                     </picture>
                 </div>
                 <div class="col-12 col-sm-12 col-lg-12">
