@@ -10,7 +10,12 @@
   <link rel="stylesheet" href="../css/tema.css">
 </head>
 <body>
+
+
+<nav>
   <?php include "../nav.php" ?>
+</nav>
+
   <div class="container text-center">
     <section>
       <div class="row">

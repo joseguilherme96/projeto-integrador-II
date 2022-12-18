@@ -10,9 +10,13 @@
   <link rel="stylesheet" href="../css/tema.css">
 </head>
 <body>
+  <nav>
   <?php include "../nav.php" ?>
+</nav>
+
   <div class="container">
     <section class="row pt-5 ">
+      
       <div class="col-12 col-sm-12 col-lg-12 text-center pt-5 ">
         <img src=" ../HQS/img/m1.jpg" class="img-fluid" alt="Guia dos lançamentos de quadrinhos na CCXP22
         ">
