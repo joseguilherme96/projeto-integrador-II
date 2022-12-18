@@ -14,8 +14,8 @@
     <?php include "../nav.php" ?>
     <div class="container ">
         <div class="row">
-            <div class="col-12">
-                <a href="../index.php">Home</a> / <a href="index.php">Cinema</a> / <a href="entrevistas.php">Entrevistas</a> / <a href="entrevista-com-autores.php">Entrevista</a>
+            <div class="col-12 cor-letra">
+                <a href="../index.php" class="cor-letra">Home</a> / <a href="index.php" class="cor-letra">Cinema</a> / <a href="entrevistas.php" class="cor-letra">Entrevistas</a> / <a href="entrevista-com-autores.php" class="cor-letra">Entrevista</a>
             </div>
         </div>
         <?php include "../barra-de-pesquisa.php"; ?>
