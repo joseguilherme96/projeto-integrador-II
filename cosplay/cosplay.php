@@ -31,7 +31,7 @@ Deadpool e Arlequina juntos em incrivel cosplay feito por fã, quem conhece sabe
       </div>
     </section>
     <section class="row pt-5 ">
-      <div class="col-12 col-sm-6 col-lg-3 pt-5 text-center"> <a href="https: //animenew.com.br/god-of-war-ragnarok-cosplay-impecavel-deixa-fas-surpresos/"><img src=" imgcosplay /gowcosplay.jpg" alt="God of War Ragnarök
+      <div class="col-12 col-sm-6 col-lg-3 pt-5 text-center"> <a href="https://animenew.com.br/god-of-war-ragnarok-cosplay-impecavel-deixa-fas-surpresos/"><img src=" imgcosplay /gowcosplay.jpg" alt="God of War Ragnarök
 Cosplay surpreende fãs da grande franquia, com o recém lançamendo do jogo God of War Ragnarök, que está sendo um sucesso absurdo, aclamada em todo o mundo, alguns comentarios positivos surgiram como este *A equipe envolvida na construção desses cosplays é simplesmente incrível*"> </a>
       </div>
 
@@ -41,7 +41,7 @@ Cosplay surpreende fãs da grande franquia, com o recém lançamendo do jogo God
       </div>
 
 
-      <div class="col-12 col-sm-6 col-lg-3 pt-5 text-center"> <a href="https: //twitter.com/omelete/status/1144281826183327744"><img src=" imgcosplay /capitaoamerica.jpeg" alt="Capitão America
+      <div class="col-12 col-sm-6 col-lg-3 pt-5 text-center"> <a href="https://twitter.com/omelete/status/1144281826183327744"><img src=" imgcosplay /capitaoamerica.jpeg" alt="Capitão America
 Incrivel cosplay de capitão america surpreende na CCXP, diretamente de guerra infinita, um dos herois mais queridos do mundo dos cinemas."> </a>
       </div>
 
