@@ -47,7 +47,7 @@
                 O Prime Video aproveitou a manhã de hoje (1) para anunciar as novas adições do elenco de O Senhor dos Anéis: Os Anéis de Poder. Em formato de fio, a plataforma, aos poucos, revelou o nome dos 7 atores que se juntarão à produção na a próxima temporada.
                 </p>
                 <div class="text-end pb-3">
-                <a class="btn text-decoration-none text-light" style="background-color:#E03616" href="  cinema/index.php" role="button">Ver mais</a>
+                <a class="btn text-decoration-none text-light" style="background-color:#E03616" href="cinema/artigo-literatura.php?cod=4" role="button">Ver mais</a>
             </div>
             </div>
         </div>
@@ -68,7 +68,7 @@
 
                 </p>
                 <div class="text-end pb-3">
-                    <a class="btn" style="background-color:#E03616" href="  HQS/pg.php" role="button">Ver mais</a>
+                    <a class="btn text-light" style="background-color:#E03616" href="HQS/materia.php" role="button">Ver mais</a>
                 </div>
             </div>
         </div>
@@ -80,6 +80,7 @@
                 No próximo sábado, 26 de novembro, a partir das 19h, acontece o Desenhão, uma festa que vai reunir artistas, fãs dos quadrinhos nacionais e amantes da cultura geek no geral numa oportunidade de juntar as pessoas para celebrar, debater assuntos e fazer arte.
                 <h6>Por <a href="autores.php?#samirnaliato">Samir Naliato</a>  01/12/2022</h6> 
             </p>
+                
             </div>  
             <div class=" col-sm-12 col-lg-12 text-center p-1">
                 <picture >
@@ -87,6 +88,9 @@
                     <source srcset="  HQS/img/u1.jpg"  class="img-fluid" media="(min-width:576px)">
                     <img src="  HQS/img/u1.jpg"  class="img-fluid">
                 </picture>
+            </div>
+            <div class="text-end pb-3">
+                <a class="btn text-light"  style="background-color:#E03616" href="HQS/ultimasnoticias.php" role="button">Ver mais</a>
             </div>
              
         </div>
@@ -114,7 +118,7 @@ Deadpool e Arlequina juntos em incrivel cosplay feito por fã, quem conhece sabe
       </div>
       <div class="col-12">
       <div class="text-end pb-3">
-                <a class="btn text-decoration-none text-light" style="background-color:#E03616" href="  cosplay/cosplay.php" role="button">Ver mais</a>
+                <a class="btn text-decoration-none text-light" style="background-color:#E03616" href="cosplay/cosplay.php" role="button">Ver mais</a>
             </div>
         </div>
 
@@ -167,10 +171,10 @@ Deadpool e Arlequina juntos em incrivel cosplay feito por fã, quem conhece sabe
                 <p>Os fãs de Game of Thrones tiveram um déjà vu nada agradável ao assistirem o sétimo episódio de A Casa do Dragão, 
                 isso porque muitos comentaram que as cenas estavam pouco iluminadas, causando dificuldade de enxergar...
                 </p>
-                <a class="text-decoration-none cor-letra" href="  autores.php?#giovannabreve"><p>Giovanna Breve,03/10/2022.</p></a>
+                <a class="text-decoration-none cor-letra" href="autores.php?#giovannabreve"><p>Giovanna Breve,03/10/2022.</p></a>
             </div> 
             <div class="text-end pb-3">
-                <a class="btn text-decoration-none text-light" style="background-color:#E03616" href="  seriesetv.php/criticas.php" role="button">Ver mais</a>
+                <a class="btn text-decoration-none text-light" style="background-color:#E03616" href="seriesetv.php/criticas.php" role="button">Ver mais</a>
             </div>
             <div class="col-12 col-sm-12 col-lg-12">
                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
@@ -188,11 +192,11 @@ Deadpool e Arlequina juntos em incrivel cosplay feito por fã, quem conhece sabe
                 Katherine McNamara trouxe simpatia e encantou o público do Palco Thunder by Cinemark Club durante a CCXP22. 
                 Em uma conversa com Maria Bopp, a artista contou sobre a carreira, a paixão pelo Brasil...
                 </p>
-                <a class="text-decoration-none cor-letra" href="  autores.php?#giovannabreve"><p>Giovanna Breve,03/12/2022.</p></a>
+                <a class="text-decoration-none cor-letra" href="autores.php?#giovannabreve"><p>Giovanna Breve,03/12/2022.</p></a>
             </div>
         
             <div class="text-end pb-3">
-                <a class="btn text-decoration-none text-light" style="background-color:#E03616" href="  seriesetv.php/atores.php" role="button">Ver mais</a>
+                <a class="btn text-decoration-none text-light" style="background-color:#E03616" href="seriesetv.php/atores.php" role="button">Ver mais</a>
             </div>
         </div>
     </section>

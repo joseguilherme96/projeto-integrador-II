@@ -34,7 +34,7 @@
         </p>
       </div>
       <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
-        <img src=" ../HQS/img/m2.jpg" class="img-fluid" alt="Do Cruzeiro Novo ao Real: 50 anos de economia brasileira com a revista Mônica">
+        <img src="img/m2.jpg" class="img-fluid" alt="Do Cruzeiro Novo ao Real: 50 anos de economia brasileira com a revista Mônica">
       </div>
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start ">
         <h1 class="cor-letra">Do Cruzeiro Novo ao Real: 50 anos de economia brasileira com a revista Mônica</h1>
@@ -51,7 +51,7 @@
     </section>
     <section class="row pt-5 ">
       <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
-        <img src=" ../HQS/img/m3.jpg" class="img-fluid" alt="Relembrando as HQs do Mestre de Kung Fu">
+        <img src="img/m3.jpg" class="img-fluid" alt="Relembrando as HQs do Mestre de Kung Fu">
       </div>
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start">
         <h1 class="cor-letra">Relembrando as HQs do Mestre de Kung Fu</h1>
