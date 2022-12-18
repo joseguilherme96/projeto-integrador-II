@@ -41,7 +41,7 @@
             A volta do Steven Spielberg moleque
             </h5>
             <h6>
-              Por <a href="../autores.php?#omelete">ÉRICO BORGO</a>  19/03/2018
+              Por <a href="../autores.php?#omelete">Omelete</a>  19/03/2018
               <!--https://www.omelete.com.br/filmes/criticas/jogador-no-1-critica-->
             </h6>
             <p>
@@ -69,7 +69,7 @@
             Estrela de X-Men e Jogos Vorazes deve se concentrar em títulos independentes
             </h5>
             <h6>
-              Por <a href="../autores.php?#caiocoleti">Caio Coletti</a>  08/10/20222
+              Por <a href="../autores.php?#caiocolleti">Caio Coletti</a>  08/10/20222
             </h6>
             <!-- https://www.omelete.com.br/autores/caio-coletti-->
             <p>
@@ -121,7 +121,7 @@
             Personagens dos atores não foram revelados
             </h5>
             <h6>
-              Por <a href="../autores.php?#omelete">Flávio Pinto</a>  28/10/20222
+              Por <a href="../autores.php?#omelete">Omelete</a>  28/10/20222
             </h6>
             <!-- https://www.omelete.com.br/autores/flavio-pinto-->
             <p>

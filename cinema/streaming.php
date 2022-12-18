@@ -68,7 +68,7 @@
             <div class="col-lg-9">
               <h4 class="cor-letra">Como thriller erótico, Águas Profundas é uma ótima comédia de costumes </h4>
               <h5 class="cor-letra">Adrian Lyne está menos interessado em cenas de sexo do que está em tirar sarro dos ricos</h5>
-              <h6>Por <a href="../autores.php?#caio-colletti">CAIO COLLETI</a>  28/10/2022</h6>
+              <h6>Por <a href="../autores.php?#caiocolleti">CAIO COLLETI</a>  28/10/2022</h6>
             </div>
             <div class="col-lg-3">
               <div class="row justify-content-center cor-botao">
@@ -94,7 +94,7 @@
                 <div class="col-lg-8">
                     <h4 class="cor-letra">Netflix divulga imagens e data de estreia de Agente Oculto</h4>
                     <h5 class="cor-letra">Filme é estrelado por Ryan Gosling, Ana de Armas, Chris Evans e dirigido pelos irmãos Russo</h5>
-                    <h6>Por <a href="../autores.php?#omelete">BIA VACCARI</a>  26/04/2022</h6>
+                    <h6>Por <a href="../autores.php?#omelete">omelete</a>  26/04/2022</h6>
                 </div>
                 <div class="col-lg-3">
                     <div class="row justify-content-center cor-botao">
