@@ -19,8 +19,8 @@
                 <h1>Séries e TV</h1>
             </div>
             <div class="row p-3">
-                <div class= col-12>
-                <img src="../img/casaescuro.png" class="img-fluid" alt="imagem de cena escura da qual os fãs reclamaram">
+                <div class= "col-12 text-center">
+                    <img src="../img/casaescuro.png" class="img-fluid" alt="imagem de cena escura da qual os fãs reclamaram">
                 </div>
             </div>
             <section>
