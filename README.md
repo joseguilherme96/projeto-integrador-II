@@ -17,6 +17,7 @@ A pasta do projeto pode ser baixado de duas formas :
 
 ## Via Terminal
 Execute o comando git clone https://github.com/joseguilherme96/projeto-integrador-II.git
+Renomeie a pasta para projeto-integrador-II-main.
 
 ## Através do site GitHub
 Baixe a pasta na opção Code -> Download ZIP e descompacte.
