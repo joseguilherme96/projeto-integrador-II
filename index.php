@@ -12,15 +12,15 @@
 </head>
 <body>
     <?php include "nav.php" ?>
-    <div class="container">
-        <div class="row">
+    <main class="container">
+        <section class="row">
             <div class="col-12 cor-letra">
                 <a href="index.php" class="text-decoration-none cor-letra">Home</a> /
             </div>
-        </div>
+        </section>
         <?php include "barra-de-pesquisa.php"; ?>
         <section class="cinemamt-5">
-            <div class="row  mt-5">
+            <article class="row  mt-5">
                 <div class="col-12 col-sm-12 col-lg-12">
                     <h2 class="cor-letra text-start py-3">CINEMA</h2>
                 </div>
@@ -29,14 +29,12 @@
                         Aqui vamos trazer noticias, materias e entrevistas exclusivas sobre o mundo do cimema. As noticias sobre filmes incluem lançamentos, noticias de streaming focado nos principais filmes exclusivos da plataforma streamming, entrevistas.
                     </p>
                 </div>
-            </div>
-            <div class="row cor-fundo">
-                <div class="col-12 col-sm-12 col-lg-6 py-lg-5 ">
-                    <figure>
-                        <img src="cinema/img/artigos/banner-senhor-dos-aneis.jpg" class="img-fluid ">
-                        <figcaption class="fs-6"><b>Fonte imagem</b> : https://www.omelete.com.br/o-senhor-dos-aneis/aneis-do-poder-novas-escalacoes-fio</figcaption>
-                    </figure>
-                </div>
+            </article>
+            <article class="row cor-fundo">
+                <figure class="col-12 col-sm-12 col-lg-6 py-lg-5">
+                    <img src="cinema/img/artigos/banner-senhor-dos-aneis.jpg" class="img-fluid ">
+                    <figcaption class="fs-6"><b>Fonte imagem</b> : https://www.omelete.com.br/o-senhor-dos-aneis/aneis-do-poder-novas-escalacoes-fio</figcaption>
+                </figure>
                 <div class="cor-fundo col-12 col-sm-12 col-lg-6 ">
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2 class="cor-letra d-inline">Os Anéis de Poder | Prime Video anuncia novas escalações do elenco; veja</h2>
@@ -49,15 +47,14 @@
                         <a class="btn text-decoration-none text-light" style="background-color:#E03616" href="cinema/artigo-literatura.php?cod=4" role="button">Ver mais</a>
                     </div>
                 </div>
-            </div>
+            </article>  
         </section>
         <section>
             <h2 class="py-3 cor-letra">HQS</h2>
-            <div class="row text-center cor-fundo mt-5">
-
-                <div class="col-12 col-sm-12 col-lg-6 p-1">
+            <article class="row text-center cor-fundo mt-5">
+                <figure class="col-12 col-sm-12 col-lg-6 p-1">
                     <img src="img/hqs.jpg" class="img-fluid ">
-                </div>
+                </figure>
                 <div class="col-12 col-sm-12 col-lg-6 p-1 text-start">
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2 class="d-inline cor-letra text-start">Guia dos lançamentos de quadrinhos na CCXP22</h2>
@@ -69,16 +66,14 @@
                         <a class="btn text-light" style="background-color:#E03616" href="HQS/materia.php" role="button">Ver mais</a>
                     </div>
                 </div>
-            </div>
-            <div class="row my-3 cor-fundo">
-                <div class=" text-start col-12 col-sm-12 col-lg-12">
-                    <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                    <h2 class="d-inline cor-letra text-start">Desenhão: batalha de desenhos ao vivo premiará artista com um iPad Pro</h2>
-                    <p>
-                        No próximo sábado, 26 de novembro, a partir das 19h, acontece o Desenhão, uma festa que vai reunir artistas, fãs dos quadrinhos nacionais e amantes da cultura geek no geral numa oportunidade de juntar as pessoas para celebrar, debater assuntos e fazer arte.
-                    </p>
-                    <h6>Por <a href="autores.php?#samirnaliato">Samir Naliato</a> 01/12/2022</h6>
-                </div>
+            </article>
+            <article class="row my-3 cor-fundo text-start">
+                <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
+                <h2 class="d-inline cor-letra text-start">Desenhão: batalha de desenhos ao vivo premiará artista com um iPad Pro</h2>
+                <p>
+                    No próximo sábado, 26 de novembro, a partir das 19h, acontece o Desenhão, uma festa que vai reunir artistas, fãs dos quadrinhos nacionais e amantes da cultura geek no geral numa oportunidade de juntar as pessoas para celebrar, debater assuntos e fazer arte.
+                </p>
+                <h6>Por <a href="autores.php?#samirnaliato">Samir Naliato</a><time datetime="2022-12-01">01/12/2022</time></h6>
                 <div class=" col-sm-12 col-lg-12 text-center p-1">
                     <picture>
                         <source srcset="  HQS/img/u1.jpg" class="img-fluid" media="(min-width:992px)">
@@ -89,76 +84,73 @@
                 <div class="text-end pb-3">
                     <a class="btn text-light" style="background-color:#E03616" href="HQS/ultimasnoticias.php" role="button">Ver mais</a>
                 </div>
-            </div>
+            </article>
         </section>
         <section class="cosplay ">
             <h2 class=" py-1 cor-letra">COSPLAY</h2>
-            <section class="row pt-1 cor-fundo">
-                <div class="col-12 col-sm-6 col-lg-3 text-center pt-2 ">
+            <div class="row pt-1 cor-fundo">
+                <figure class="col-12 col-sm-6 col-lg-3 text-center pt-2 ">
                     <img src="cosplay/imgcosplay/kodia.jpg " alt="Ahsoka Tano - Star Wars Incrivel Cosplay do personagem Ahsoka Tano feita por uma fã da grande série Star Wars surpreendeu nas redes sociais, a fã descreve *Esse cosplay foi um verdadeiro desafio pra mim, principalmente a maquiagem, e aprendi muito fazendo.Mal posso esperar para usá-la na Star Wars Celebration em Londres no ano que vem.">
-                </div>
-                <div class="col-12 col-sm-6 col-lg-3 pt-2 pb-5 text-start ">
+                </figure>
+                <article class="col-12 col-sm-6 col-lg-3 pt-2 pb-5 text-start ">
                     <h6 class="cor-letra"> Ahsoka Tano - Star Wars </h6> 
                     <p>
                         Incrivel Cosplay do personagem "Ahsoka Tano" feita por uma fã da grande série Star Wars surpreendeu nas redes sociais, a fã descreve "Esse cosplay foi um verdadeiro desafio pra mim, principalmente a maquiagem, e aprendi muito fazendo.Mal posso esperar para usá-la na Star Wars Celebration em Londres no ano que vem.
                     </p>
-                </div>
-                <div class="col-12 col-sm-6 col-lg-3 pt-2 text-center"> <img src="cosplay/imgcosplay/arlequina.jpg" alt="Deadpool e Arlequina
+                </article>
+                <figure class="col-12 col-sm-6 col-lg-3 pt-2 text-center"> 
+                    <img src="cosplay/imgcosplay/arlequina.jpg" alt="Deadpool e Arlequina
                     Deadpool e Arlequina juntos em incrivel cosplay feito por fã, quem conhece sabe que os dois personagem são de casas de super-herois diferentes, então essa amizade é bem improvavel acontecer um dia, em algum filme, mas os fãs quebram barreiras. ">
-                </div>
-                <div class="col-12 col-sm-6 col-lg-3  pt-2 pb-5 text-start ">
+                </figure>
+                <article class="col-12 col-sm-6 col-lg-3  pt-2 pb-5 text-start ">
                     <h6 class="cor-letra">Deadpool e Arlequina </h6>    
                     <p>
                         Deadpool e Arlequina juntos em incrivel cosplay feito por fã, quem conhece sabe que os dois personagem são de casas de super-herois diferentes, então essa amizade é bem improvavel acontecer um dia, em algum filme, mas os fãs quebram barreiras. 
                     </p>
-                </div>
+                </article>
                 <div class="col-12">
                     <div class="text-end pb-3">
                         <a class="btn text-decoration-none text-light" style="background-color:#E03616" href="cosplay/cosplay.php" role="button">Ver mais</a>
                     </div>
                 </div>
-            </section>
+            </div>
         </section>
         <section>
             <h2 class="cor-letra py-3">SERIES & TV</h2>
             <div class="row cor-fundo my-5">
-                <div class="col-12 col-sm-12 col-lg-6  p-1">
+                <figure class="col-12 col-sm-12 col-lg-6  p-1">
                     <img src="img/casaescuro.png" class="img-fluid mt-4" alt="imagem da cena escura">
-                </div>
-                <div class="col-12 col-sm-12 col-lg-6 p-1">
+                </figure>
+                <article class="col-12 col-sm-12 col-lg-6 p-1">
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2 class="d-inline cor-letra text-start">A Casa do Dragão: fãs reclamam de episódio escuro...</h2>
                     <p>Os fãs de Game of Thrones tiveram um déjà vu nada agradável ao assistirem o sétimo episódio de A Casa do Dragão,
                         isso porque muitos comentaram que as cenas estavam pouco iluminadas, causando dificuldade de enxergar...
                     </p>
-                    <p><a class="text-decoration-none cor-letra" href="autores.php?#giovannabreve">Giovanna Breve,03/10/2022.</a></p>
-                </div>
+                    <p><a class="text-decoration-none cor-letra" href="autores.php?#giovannabreve">Giovanna Breve,<time datetime="2022-10-03">03/10/2022.</time></a></p>
+                </article>
                 <div class="text-end pb-3">
                     <a class="btn text-decoration-none text-light" style="background-color:#E03616" href="seriesetv.php/criticas.php" role="button">Ver mais</a>
                 </div>
-                <div class="col-12 col-sm-12 col-lg-12">
+                <article class="col-12 col-sm-12 col-lg-12 text-center">
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2 class="d-inline cor-letra text-start">Katherine McNamara revela paixão pela comunidade e fãs brasileiros na CCXP22...</h2>
-                </div>
-                <div class=" col-sm-12 col-lg-12 text-center p-1">
-                    <picture>
+                    <picture class=" col-sm-12 col-lg-12 text-center p-1">
                         <source srcset="img/katherine.png" class="img-fluid" media="(min-width:992px)">
                         <source srcset="img/katherine.png" class="img-fluid" media="(min-width:576px)">
                         <img src="img/katherine.png" class="img-fluid" alt="imagem da katherine">
                     </picture>
-                </div>
-                <div class="col-12 col-sm-12 col-lg-12">
                     <p>
                         Katherine McNamara trouxe simpatia e encantou o público do Palco Thunder by Cinemark Club durante a CCXP22.
                         Em uma conversa com Maria Bopp, a artista contou sobre a carreira, a paixão pelo Brasil...
                     </p>
-                    <p><a class="text-decoration-none cor-letra" href="autores.php?#giovannabreve">Giovanna Breve,03/12/2022.</a></p>
-                </div>
+                    <p><a class="text-decoration-none cor-letra" href="autores.php?#giovannabreve">Giovanna Breve, <time datetime="2022-12-03">03/12/2022</time>.</a></p>
+                </article>
                 <div class="text-end pb-3">
                     <a class="btn text-decoration-none text-light" style="background-color:#E03616" href="seriesetv.php/atores.php" role="button">Ver mais</a>
                 </div>
             </div>
-        </section>
+        </main>
     </div>
     <?php include "rodape.php" ?>
 </body>
