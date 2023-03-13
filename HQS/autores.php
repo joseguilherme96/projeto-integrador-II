@@ -9,11 +9,14 @@
   <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
   <link rel="stylesheet" href="../css/tema.css">
 </head>
+
 <body>
+  
+<main>
+
   <nav>
   <?php include "../nav.php" ?>
 </nav>
-<section>
 
   <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
     <div class="carousel-indicators">
@@ -47,24 +50,25 @@
       <span class="visually-hidden">Next</span>
     </button>
   </div>
-</section>
 
-<section>
 
-<article>
   <div class="container">
-    <section class="row pt-5 ">
-      <div class="col-12 col-sm-12 col-lg-6 text-center pt-5 ">
 
-      <figure>
-             <img src=" ../HQS/img/a1.jpg" class="img-fluid" alt=" Aqui temos a imagem do Mauricio de Sousa">
-          <figcaption>Mauricio de Souza</figcaption>
-      </figure>
-  </div>
-</article>
+    <section class="row pt-5 ">
+
+
+    <h1>Autores</h1>
 
 
 <article>
+
+      <div class="col-12 col-sm-12 col-lg-6 text-center pt-5 ">
+        <figure>
+        <img src=" ../HQS/img/a1.jpg" class="img-fluid" alt="Aqui temos a imagem do Mauricio de Sousa">
+        <figcaption> Mauricio de Sousa </figcaption>
+        </figure>
+      </div>
+
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start ">
         <div class="cor-fundo">
           <h2 class="cor-letra">Mauricio de Sousa</h2>
@@ -75,19 +79,17 @@
           </p>
         </div>
       </div>
+
 </article>
-</section>
+      
+<article class="row pt-5 ">
 
-
-      <article class="row pt-5 ">
-          <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
-          <figure>
+        <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
+ <figure>
           <img src=" ../HQS/img/a2.jpg" class="img-fluid" alt=" Aqui temos a imagem do Katsuhiro Otomo">
-          <figcaption>Katsuhiro Otomo</figcaption>
-          </figure>
-          </div>
-
-
+          <figcaption> Katsuhiro Otomo</figcaption>
+</figure>
+        
         <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start">
           <div class="cor-fundo">
             <h2 class="cor-letra">Katsuhiro Otomo</h2>
@@ -97,14 +99,13 @@
             </p>
           </div>
         </div>
-    </article>
-
-
+</article>
 
   <footer>
     <?php include "../rodape.php" ?>
   </footer>
+  </div>
 
-
+</main>
 </body>
 </html>
