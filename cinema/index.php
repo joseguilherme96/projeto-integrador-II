@@ -17,32 +17,35 @@
         <a href="../index.php" class="text-decoration-none cor-letra">Home</a> / <a href="index.php" class="text-decoration-none cor-letra">Cinema</a>
       </div>
     </div>
+    <section>
     <?php include "../barra-de-pesquisa.php";?>
-  <section class="row">
-    <div class="col-12 text-center">
-      <h2 class="cor-letra">CINEMA</h2>
-    </div>
-  <div class="row">
-    <div class="col-12 text-center">
-      <p>
-        Aqui vamos trazer noticias, materias e entrevistas exclusivas sobre o mundo do cimema. 
-        As noticias sobre filmes incluem lançamentos, noticias de streaming focado nos 
-        principais filmes exclusivos da plataforma streamming, entrevistas com os autores mais 
-        famosos dos filmes e filmes que foram inspirados na literatura.
-      </p>
-    </div>
-  </div>
-      <div class="row">
+    </section>
+    <section class="row">
+      <article>
+        <h2 class="col-12 cor-letra text-center">CINEMA</h2>
+          <p class="text-center">
+            Aqui vamos trazer noticias, materias e entrevistas exclusivas sobre o mundo do cimema. 
+            As noticias sobre filmes incluem lançamentos, noticias de streaming focado nos 
+            principais filmes exclusivos da plataforma streamming, entrevistas com os autores mais 
+            famosos dos filmes e filmes que foram inspirados na literatura.
+          </p>
+      </article>
+    </section>
+    <section class="row">
         <div class="col-6 col-sm-3 col-lg-3 p-1 "><!--col <= 576px; col-sm >=576px col-lg >=992px -->
-          <img src="img/filmes.jpg" class="img-fluid" alt="Capa Filmes">
+          <figure>
+            <img src="img/filmes.jpg" class="img-fluid" alt="Capa Filmes">
+          </figure>
           <div class="row justify-content-center">
-          <div class="cor-botao col-5 col-sm-10 col-lg-3 text-center   mt-2">
-            <a href="filmes.php" class="text-decoration-none text-light">FILMES</a>
-          </div>
+            <div class="cor-botao col-5 col-sm-10 col-lg-3 text-center   mt-2">
+              <a href="filmes.php" class="text-decoration-none text-light">FILMES</a>
+            </div>
           </div>
         </div>
         <div class="col-6 col-sm-3 col-lg-3 p-1">
-          <img src="img/streaming.png" class="img-fluid" alt="Capa Streaming">
+          <figure>
+            <img src="img/streaming.png" class="img-fluid" alt="Capa Streaming">
+          </figure>
           <div class="row justify-content-center">
           <div class="cor-botao col-5 col-lg-5 text-center col-sm-10 mt-2">
             <a href="streaming.php" class="text-decoration-none text-light">STREAMING</a>
@@ -50,7 +53,9 @@
           </div>
         </div>
         <div class="col-6 col-sm-3 col-lg-3 p-1">
-          <img src="img/entrevistas.png" class="img-fluid" alt="Capa Entrevistas">
+          <figure>
+            <img src="img/entrevistas.png" class="img-fluid" alt="Capa Entrevistas">
+          </figure>
           <div class="row justify-content-center">
           <div class="cor-botao col-6 col-lg-5 text-center col-sm-10 mt-2">
             <a href="entrevistas.php" class="text-decoration-none text-light">ENTREVISTAS</a>
@@ -58,21 +63,19 @@
           </div>
         </div>
         <div class="col-6 col-sm-3 col-lg-3 p-1">
-          <img src="img/literatura.png" class="img-fluid" alt=" Capa Literatura">
+          <figure>
+            <img src="img/literatura.png" class="img-fluid" alt=" Capa Literatura">
+          </figure>
           <div class="row justify-content-center">
           <div class="cor-botao col-5 col-lg-5 text-center col-sm-10 mt-2">
             <a href="literatura.php" class="text-decoration-none text-light">LITERATURA</a>
           </div>
           </div>
         </div>
-      </div>
-  </section>
+    </section>
   <section id="cinema">
-  <div class="row">
-    <div class="col-12">
+    <article>
       <h2 class="cor-letra">CINEMA</h2>
-    </div> 
-  </div>
   <div class="row text-center">
     <div class=" col-sm-5 col-lg-12">
     <a href="noticia-filme.php?cod=1">
@@ -105,6 +108,7 @@
       </div>
     </div>
   </div>
+  </article>
 </section>
 <section id="streamming">
   <div class="row ">
