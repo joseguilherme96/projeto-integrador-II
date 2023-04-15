@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="pt-br">
   <head>
     <title>Eventos</title>
     <meta charset="utf-8">
@@ -9,35 +9,28 @@
 </head>
 <body>
   <?php include "../nav.php"?>
-  <section class="container">
-    <div class="col-12 text-center pt-5">
-      <h1 class="cor-letra "> EVENTOS </h1>
-    </div>
-    <div class="row text-center">
-      <div class="col-12 col-sm-12 col-lg-12 text-center  pb-5 pt-5"> 
-        <picture>
-          <source srcset=" imgcosplay/eventos.png" class="img-fluid" media="(min-width:960px)">
-          <img src=" imgcosplay/eventos2.png" alt="Esta é uma imagem vazia" class="img-fluid">
-        </picture>
-      </div>
-    </div> 
-    <div class="row text-center pb-5 pt-5"> 
-      <div class="col-6 col-sm-6 col-lg-6"> <h6 class="cor-letra" > E3 </h6 > <a href="https://e3expo.com"><img src=" imgcosplay /E3evento.png" alt=""></a>
-        <p>A Electronic Entertainment Expo, mais conhecida como E3, é uma feira internacional dedicada a jogos eletrônicos. É considerada a mais importante do gênero, por reunir novidades relativas a lançamentos e tendências de mercado de várias empresas do setor dos jogos.</p>
-      </div>
-      <div class="col-6 col-sm-6 col-lg-6" > <h6 class="cor-letra"> CCXP </h6> <a href="https://www.ccxp.com.br"> <img src=" imgcosplay//ccxp.png" alt=""> </a>
-        <p>CCXP é um evento brasileiro de cultura pop nos moldes da San Diego Comic-Con cobrindo as principais áreas dessa indústria como: vídeo-games, histórias em quadrinhos, filmes e séries para TV. </p>
-      </div>
-    </div>
-    <div class="row text-center">
-      <div class="col-6 col-sm-6 col-lg-6 pb-5 pt-5" > <h6 class="cor-letra" > Summer Game Fast </h6 > <a href="https://www.summergamefest.com"> <img src=" imgcosplay /summergamerfast.jpg" alt=""> </a>
-        <p>Summer Game Fest é mais um dos grandes eventos recheados de anúncios e novidades do mundo gamer. Com o cancelamento da E3, o showcase se tornou um dos mais esperados do ano no mercado de jogos. </p>
-      </div>
-      <div class="col-6 col-sm-6 col-lg-6 pt-5 pb-5 " > <h6 class="cor-letra" > Game XP </h6 > <a href=" https://www.gamexp.com.br" > <img src=" imgcosplay /gamexp.png" alt=""> </a>
-        <p> Maior evento gamer da América Latina, a Game XP 2021 é realizada neste fim de semana, pela primeira vez de forma virtual para o público. O festival contará com duas disputas de esports: a Taça Game XP de Free Fire no sábado e a Grrrls League</p>
-      </div>
-    </div>
-</section>
-  <?php include "../rodape.php"?>
+  <main>
+      <article>
+      <h1> EVENTOS </h1>
+      <figure><figcaption><img src="" alt="Esta é uma imagem vazia"></figcaption><figure>
+      </article>
+      <article>
+      <h2>E3</h2> <a href=""><figure> <figcaption><img src=" " alt=""></a></figcaption></figure>
+      <p>A Electronic Entertainment Expo, mais conhecida como E3, é uma feira internacional dedicada a jogos eletrônicos. É considerada a mais importante do gênero, por reunir novidades relativas a lançamentos e tendências de mercado de várias empresas do setor dos jogos.</p>
+      </article>
+      <article>
+      <h2>CCXP</h2> <a href=""> <figure> <figcaption><img src=" " alt=""> </a></figcaption></figure>
+      <p>CCXP é um evento brasileiro de cultura pop nos moldes da San Diego Comic-Con cobrindo as principais áreas dessa indústria como: vídeo-games, histórias em quadrinhos, filmes e séries para TV. </p>
+      </article>
+      <article>
+      <h2>Summer Game Fast  </h2> <a href=""><figure> <figcaption> <img src=" " alt=""> </a></figcaption></figure>
+      <p>Summer Game Fest é mais um dos grandes eventos recheados de anúncios e novidades do mundo gamer. Com o cancelamento da E3, o showcase se tornou um dos mais esperados do ano no mercado de jogos. </p>
+      </article>
+      <article>
+      <h2>Game XP</h2> <a href=" "><figure> <figcaption> <img src="" alt=""> </a></figcaption></figure><article>
+      <p> Maior evento gamer da América Latina, a Game XP 2021 é realizada neste fim de semana, pela primeira vez de forma virtual para o público. O festival contará com duas disputas de esports: a Taça Game XP de Free Fire no sábado e a Grrrls League</p>
+      </article>
+  </main>
+ <?php include "../rodape.php"?>
 </body>
 </html>
