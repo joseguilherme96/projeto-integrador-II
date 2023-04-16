@@ -9,13 +9,15 @@
   <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
   <link rel="stylesheet" href="../css/tema.css">
 </head>
-<body>
-  <nav>
-  <?php include "../nav.php" ?>
-</nav>
 
+<body>
+  <main>
+  <nav>
+  <?php include "../nav.php" ?></nav>
+
+  <section class="row pt-5 ">
   <div class="container">
-    <section class="row pt-5 ">
+    
       
       <div class="col-12 col-sm-12 col-lg-12 text-center pt-5 ">
         <img src=" ../HQS/img/m1.jpg" class="img-fluid" alt="Guia dos lançamentos de quadrinhos na CCXP22
@@ -49,6 +51,8 @@
         </p>
       </div>
     </section>
+
+
     <section class="row pt-5 ">
       <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
         <img src="../HQS/img/m3.jpg" class="img-fluid" alt="Relembrando as HQs do Mestre de Kung Fu">
@@ -59,15 +63,15 @@
           Para colocar o personagem em contexto, as artes marciais haviam se tornado uma mania no mundo inteiro, graças a filmes de Bruce Lee como: Dragão Chinês (The Big Boss), de 1971; A Fúria do Dragão (Fist of Fury), de 1972; O Voo do Dragão (The Way of the Dragon), contracenando com os caratecas Robert Wall e Chuck Norris (cuja luta contra Lee no Coliseu, em Roma, é emblemática), de 1972; e o clássico Operação Dragão (Enter the Dragon), ao lado de Jim Kelly e Bolo Yeung.
           Além disso, David Carradine fazia o papel de Kwai Chang Caine no seriado Kung Fu, exibido originalmente entre 1972 e 1975. Outro sucesso da televisão era o desenho animado Sawamu – O Demolidor, um animê de 1970, exibido no Brasil pela TV Record, em 1976 – e mais tarde na TV Gazeta – que narrava as aventuras de um lutador de “chute-boxe”.
           As academias de caratê e kung fu pipocavam por todos os lados.
-          Diante desse cenário, não foi estranho as editoras norte-americanas apostarem nas artes marciais como uma das tendências para atrair novos leitores.
+          Diante desse cenário, não foi estranho as editoras norte-americanas apostarem nas artes marciais como uma das tendências para atrair novos leitores. </p>
           <a class="text-decoration-none cor-letra" href=" ../autores.php?#sergiocodespoti">
-            <p>Sergio Codespoti,05/08/2018.
-          </a>
-        </p>
-        </p>
+            <p>Sergio Codespoti,05/08/2018. </a></p>
+        
       </div>
     </section>
+    
   </div>
   <footer><?php include "../rodape.php" ?></footer>
+</main>
 </body>
 </html>

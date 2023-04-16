@@ -51,10 +51,11 @@
     </button>
   </div>
 
-
+  <section class="row pt-5 ">
+    
   <div class="container">
 
-    <section class="row pt-5 ">
+
 
 
     <h1>Autores</h1>

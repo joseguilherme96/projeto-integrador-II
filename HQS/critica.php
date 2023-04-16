@@ -18,9 +18,10 @@
     <?php include "../nav.php" ?>
 </nav>
 
+<section class="row pt-5 ">
     <div class="container">
 
-        <section class="row pt-5 ">
+       
              <h1> Criticas </h1>
 <article>
       <div class="col-12 col-sm-6 col-lg-12 text-center pt-5 ">
@@ -92,6 +93,7 @@
 
 </div>
     <footer><?php include "../rodape.php" ?></footer>
-  </body>
+
+</body>
 </main>
 </html>

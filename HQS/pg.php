@@ -11,29 +11,20 @@
 </head>
 <body>
 
+<main>
 
 <nav>
   <?php include "../nav.php" ?>
 </nav>
 
+<section>
   <div class="container text-center">
-    <section>
-      <div class="row">
-      </div>
-  </div>
-  </div>
-  <section class="portfolio section-padding" id="portfolio">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="section-header text-center pb-5">
+  
             <h2>HQS</h2>
 
-          </div>
-        </div>
-      </div>
-      <section class="portfolio section-padding" id="portfolio">
-        <div class="container">
+       
+            <article class="portfolio section-padding" id="portfolio">
+
           <div class="row">
             <div class="col-12 col-md-6 col-lg-6">
               <div class="card text-light text-center bg-white pb-2">
@@ -86,5 +77,6 @@
     <footer>
       <?php include "../rodape.php" ?>
     </footer>
+    </main.
 </body>
 </html>
