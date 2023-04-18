@@ -16,12 +16,15 @@
 </nav>
 
 <section>
-  <h1> </h1>
+  <h1> Ultimas Noticias </h1>
 
   <div class="container">
     <article class="row pt-5 ">
        <div class="col-12 col-sm-12 col-lg-6 text-center pt-5 ">
+        <figure>
           <img src=" ../HQS/img/u1.jpg" class="img-fluid" alt="Aqui temos a imagem do ultimo desenhão">
+          <figcaption>desenhão </figcaption>
+         </figure>
       </div>
 
           <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start ">
@@ -38,8 +41,11 @@
       </div>
 
       <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
-        <img src=" ../HQS/img/u2.jpg" class="img-fluid" alt="Formosa Márcia vence o Prêmio Jabuti na categoria História em Quadrinhos">
-      </div>
+        <figure>
+       <img src=" ../HQS/img/u2.jpg" class="img-fluid" alt="Formosa Márcia vence o Prêmio Jabuti na categoria História em Quadrinhos">
+      <figcaption> premio jabuti </figcaption>
+      
+    </div>
 </article>
 
       <article>
@@ -61,7 +67,10 @@
 
     <article class="row pt-5 ">
       <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
+        <figure>
         <img src=" ../HQS/img/u3.jpg" class="img-fluid" alt="História em quadrinhos sobre Paulo Freire em campanha no Catarse">
+        <figcaption>paulo freire </figcaption>
+      </figure>
           </div>
              <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start">
         <h1 class="cor-letra">História em quadrinhos sobre Paulo Freire em campanha no Catarse</h1>
@@ -80,6 +89,8 @@
   <footer>
     <?php include "../rodape.php" ?>
   </footer>
+
+  
 </main>
 </body>
 </html>

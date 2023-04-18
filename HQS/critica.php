@@ -11,25 +11,27 @@
 </head>
 
   <body>
-
   <main>
     
   <nav>
     <?php include "../nav.php" ?>
 </nav>
 
+
+
 <section class="row pt-5 ">
     <div class="container">
-
-       
              <h1> Criticas </h1>
+
 <article>
+
       <div class="col-12 col-sm-6 col-lg-12 text-center pt-5 ">
 <figure>
           <img src=" ../HQS/img/c1.jpg" class="img-fluid" alt=" Aqui temos a imagem de Raina Telgemeier: um mergulho na adolescência com Drama e Coragem">
-          <figcaption>Raina Telgemeier: um mergulho na adolescência com Drama e Coragem</figcaption>
-          </div>    
+          <figcaption>Raina Telgemeier: um mergulho na adolescência com Drama e Coragem</figcaption>       
 </figure>
+     </div> 
+
       <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start ">
           <h1 class="cor-letra">Raina Telgemeier: um mergulho na adolescência com Drama e Coragem</h1>
           <p>No final de julho deste ano, a quadrinhista Raina Telgemeier (20/05/1977) foi laureada com dois Eisner Awards: Melhor roteirista e artista e Melhor publicação infantil, por Guts, da Scholastic Graphix. Ela tem se destacado no diálogo com o público jovem. Boa parte de seu trabalho é autobiográfico, com foco em aspectos de sua vida na adolescência. Isso, aliado a traços limpos e carismáticos, reforçam a identificação com os leitores. Nos últimos meses, dois de seus álbuns chegaram ao Brasil: Drama (Devir) e Coragem (Intrínseca).
@@ -82,13 +84,12 @@
             <h2 class="cor-letra">Jeff Smith: Bone e a longa jornada épica do “faça você mesmo”</h2>
             <p> No começo dos anos 1990, o título Bone instigou e fomentou o mercado de autopublicação norte-americano numa época em que a toda poderosa indústria dos super-heróis inflava cada vez mais a bolha especulativa com suas sagas caça-níqueis e as coleções de graphic novels – termo criado por Will Eisner (1917-2005) no final dos anos 1970 para “elevar” o status das HQs – estavam crescendo nas prateleiras.
             Criação do então desconhecido Jeff Smith, um jovem do Meio-Oeste dos Estados Unidos, experiente no campo dos desenhos animados, a longa aventura em preto e branco dos primos Fone Bone, Phoney Bone e Smiley Bone começou em 1991 e terminou em 2004, com 55 edições, dois especiais e mais de 1.300 páginas envolvendo humor, aventura épica e fantasia.
-            A notoriedade alcançada pelo autor no meio indie resultou no reconhecimento traduzido em dezenas de prêmios, dentre eles dez Eisner Awards e 11 Harvey Awards, extrapolando também as fronteiras mercadológicas – tão raras para os independentes –, superando a marca de mais de um milhão de cópias em 15 idiomas ao redor do globo.
+            A notoriedade alcançada pelo autor no meio indie resultou no reconhecimento traduzido em dezenas de prêmios, dentre eles dez Eisner Awards e 11 Harvey Awards, extrapolando também as fronteiras mercadológicas – tão raras para os independentes –, superando a marca de mais de um milhão de cópias em 15 idiomas ao redor do globo.</p>
             <a class="text-decoration-none cor-letra" href=" ../autores.php?#sergiocodespoti">
             <p>Sergio Codespoti,24/09/2019.</p>
             </a>
         </div>
      
- 
 </article>
 
 </div>

@@ -20,8 +20,11 @@
     
       
       <div class="col-12 col-sm-12 col-lg-12 text-center pt-5 ">
-        <img src=" ../HQS/img/m1.jpg" class="img-fluid" alt="Guia dos lançamentos de quadrinhos na CCXP22
-        ">
+        <figure>
+        <img src=" ../HQS/img/m1.jpg" class="img-fluid" alt="Guia dos lançamentos de quadrinhos na CCXP22">
+        <figcaption> CCXP22 </figcaption>
+        </figure>
+
       </div>
       <div class="col-12 col-sm-12 col-lg-12 pt-5 pb-5 text-start ">
         <h1 class="cor-letra">Guia dos lançamentos de quadrinhos na CCXP22</h1>
@@ -29,12 +32,13 @@
           Diversas editoras também marcarão presença com estandes próprios e no novo espaço Mercado Medieval.
           Como sempre faz, o Universo HQ apresenta um guia com a lista compilada de tudo que nos foi informado para ajudar você, leitor, a saber algumas das novidades que poderá encontrar na área de exposição da São Paulo Expo. São mais de XXXXXX títulos e quase XXXX imagens dos lançamentos. Use o guia para começar seu planejamento de compras!
           Os títulos estão separados em ordem de mesas e estandes nos links abaixo. Caso tenha alguma dificuldade, clique no mapa do Artists’ Alley para ampliá-lo e se localizar melhor e visite o site da CCXP para mais informações.
-          Como muitas pessoas pelo Brasil não poderão ir à CCXP, sempre que possível incluímos links de lojas online ou contatos de autores para comprar as publicações pela internet, e assim também aproveitar os materiais.
+          Como muitas pessoas pelo Brasil não poderão ir à CCXP, sempre que possível incluímos links de lojas online ou contatos de autores para comprar as publicações pela internet, e assim também aproveitar os materiais. </p>
           <a class="text-decoration-none cor-letra" href=" ../autores.php?#samirnaliato">
             <p>Samir Naliato,02/12/2022.</p>
           </a>
-        </p>
       </div>
+
+
       <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
         <img src="../HQS/img/m2.jpg" class="img-fluid" alt="Do Cruzeiro Novo ao Real: 50 anos de economia brasileira com a revista Mônica">
       </div>
@@ -44,19 +48,22 @@
           Por isso, por meio de seus preços de capa dá para ter uma ideia da trajetória da economia brasileira no período. Por exemplo, Mônica foi vendida em sete moedas diferentes: Cruzeiro Novo (NCr$), Cruzeiro (Cr$), Cruzado (Cz$), Cruzado Novo (NCz$), novamente Cruzeiro (Cr$), Cruzeiro Real (CR$) e, finalmente, Real (R$).
           Mônica # 1, em maio de 1970, custou NCr$ 0,90. O Cruzeiro Novo havia sido instituído pela ditadura militar em 1967, substituindo o Cruzeiro, que estava na praça desde 1942. A primeira edição pegou exatamente o último mês da moeda: ainda em maio, ela seria trocada de novo pelo Cruzeiro.
           Naquele mês, Mônica custava 0,48% do salário mínimo, cujo valor era de NCr$ 187,20. Como o dólar estava cotado a NCr$ 4,53, o gibi custava o equivalente a US$ 0,20.
-        <p>
+         </p>
           <a class="text-decoration-none cor-letra" href=" ../autores.php?#renatofelix">
-            <p>Renato Felix,29/12/2020.
-          </a>
-        </p>
+            <p>Renato Felix,29/12/2020.</p> </a>
       </div>
     </section>
 
 
     <section class="row pt-5 ">
+
       <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
+        <figure>
         <img src="../HQS/img/m3.jpg" class="img-fluid" alt="Relembrando as HQs do Mestre de Kung Fu">
+        <figcaption>mestre kung fu </figcaption>
+       </figure>
       </div>
+
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start">
         <h1 class="cor-letra">Relembrando as HQs do Mestre de Kung Fu</h1>
         <p> Shang Chi, o Mestre do Kung Fu, surgiu em dezembro de 1973, nas páginas da revista bimestral Special Marvel Edition # 15, da Marvel Comics.
@@ -65,7 +72,7 @@
           As academias de caratê e kung fu pipocavam por todos os lados.
           Diante desse cenário, não foi estranho as editoras norte-americanas apostarem nas artes marciais como uma das tendências para atrair novos leitores. </p>
           <a class="text-decoration-none cor-letra" href=" ../autores.php?#sergiocodespoti">
-            <p>Sergio Codespoti,05/08/2018. </a></p>
+            <p>Sergio Codespoti,05/08/2018. </p> </a>
         
       </div>
     </section>

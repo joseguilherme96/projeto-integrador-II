@@ -11,12 +11,14 @@
 </head>
 
 <body>
-  
 <main>
 
   <nav>
   <?php include "../nav.php" ?>
 </nav>
+
+<section>
+  <h1>Autores </h1>
 
   <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
     <div class="carousel-indicators">
@@ -24,38 +26,48 @@
       <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
       <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
     </div>
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img src=" ../HQS/img/a22.jpg" class="d-block w-100" alt="Quadrinhos">
-        <div class="carousel-caption d-none d-md-block">
-        </div>
-      </div>
-      <div class="carousel-item">
-        <img src=" ../HQS/img/a23.jpg" class="d-block w-100" alt="Quadrinhos">
-        <div class="carousel-caption d-none d-md-block">
-        </div>
-      </div>
-      <div class="carousel-item">
-        <img src=" ../HQS/img/a24.jpg" class="d-block w-100" alt="Quadrinhos">
-        <div class="carousel-caption d-none d-md-block">
-        </div>
-      </div>
-    </div>
-    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Prev</span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+
+       <div class="carousel-inner">
+         <div class="carousel-item active">
+          <figure>
+         <img src=" ../HQS/img/a22.jpg" class="d-block w-100" alt="Quadrinhos">
+           <figcaption> quadrinhos</figcaption>
+            </figure>
+               <div class="carousel-caption d-none d-md-block">
+                 </div>
+                   </div>
+                      <div class="carousel-item">
+                          <figure>
+                               <img src=" ../HQS/img/a23.jpg" class="d-block w-100" alt="Quadrinhos">
+                                  <figcaption> quadrinhos</figcaption>
+                                      </figure>
+                                         <div class="carousel-caption d-none d-md-block">
+                                            </div>
+                                               </div>
+                                                  <div class="carousel-item">
+                                               <figure>
+                                              <img src=" ../HQS/img/a24.jpg" class="d-block w-100" alt="Quadrinhos">
+                                          <figcaption> quadrinhos</figcaption>
+                                       </figure>
+                                     <div class="carousel-caption d-none d-md-block">
+                                  </div>
+                               </div>
+                             </div>
+                           <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Prev</span>
+                  </button>
+               <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+           <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Next</span>
     </button>
   </div>
 
+</section>
+
   <section class="row pt-5 ">
     
   <div class="container">
-
-
 
 
     <h1>Autores</h1>
@@ -64,6 +76,7 @@
 <article>
 
       <div class="col-12 col-sm-12 col-lg-6 text-center pt-5 ">
+
         <figure>
         <img src=" ../HQS/img/a1.jpg" class="img-fluid" alt="Aqui temos a imagem do Mauricio de Sousa">
         <figcaption> Mauricio de Sousa </figcaption>

@@ -29,8 +29,13 @@
             <div class="col-12 col-md-6 col-lg-6">
               <div class="card text-light text-center bg-white pb-2">
                 <div class="card-body text-dark">
-                  <div class="img-area mb-3"><img alt="Noticias" class="img-fluid" src="../HQS/img/u1.jpg"></div>
-                  <a href="ultimasnoticias.php">
+                  <div class="img-area mb-3">
+                    <figure>
+                    <img alt="Noticias" class="img-fluid" src="../HQS/img/u1.jpg">
+                      <figcaption> noticias </figcaption>
+                      </figure>
+                      </div>
+                        <a href="ultimasnoticias.php">
                     <h3 class="card-title">Noticia</h3>
                   </a>
                 </div>
@@ -39,21 +44,35 @@
             <div class="col-12 col-md-6 col-lg-6">
               <div class="card text-light text-center bg-white pb-2">
                 <div class="card-body text-dark">
-                  <div class="img-area mb-3"><img alt="Top Five" class="img-fluid" src="../HQS/img/t1.jpg" height="225px" width="225px"></div>
+                  <div class="img-area mb-3">
+                    <figure>
+                      <img alt="Top Five" class="img-fluid" src="../HQS/img/t1.jpg" height="225px" width="225px">
+                        <figcaption>top five </figcaption>
+                        </figure>
+                      </div>
                   <a href="topfive.php">
                     <h3 class="card-title">Top Five</h3>
                   </a>
                 </div>
               </div>
             </div>
-      </section>
-      <section class="portfolio section-padding" id="portfolio">
+          </article>
+
+
+      <article class="portfolio section-padding" id="portfolio">
         <div class="container">
           <div class="row">
             <div class="col-12 col-md-6 col-lg-4">
               <div class="card text-light text-center bg-white pb-2">
                 <div class="card-body text-dark">
-                  <div class="img-area mb-3"><img alt="Critica" class="img-fluid" src="../HQS/img/c1.jpg" height="400px" width="400px"></div>
+                  <div class="img-area mb-3">
+                    <figure>
+                    <img alt="Critica" class="img-fluid" src="../HQS/img/c1.jpg" height="400px" width="400px">
+                    <figcaption>critica</figcaption>
+                       </figure>
+
+                  </div>
+
                   <a href="critica.php">
                     <h3 class="card-title">Critica</h3>
                   </a>
@@ -63,7 +82,12 @@
             <div class="col-12 col-md-6 col-lg-4">
               <div class="card text-light text-center bg-white pb-2">
                 <div class="card-body text-dark">
-                  <div class="img-area mb-3"><img alt="Materia" class="img-fluid" src="../HQS/img/m1.jpg" height="225px" width="225px"></div>
+                  <div class="img-area mb-3">
+                    <figure>
+                  <img alt="Materia" class="img-fluid" src="../HQS/img/m1.jpg" height="225px" width="225px">
+                <figcaption>materia </figcaption>
+                  </figure>
+                </div>
                   <a href="materia.php">
                     <h3 class="card-title">Materia</h3>
                   </a>
@@ -72,7 +96,8 @@
             </div>
           </div>
         </div>
-      </section>
+    </article>
+     </section>
     </div>
     <footer>
       <?php include "../rodape.php" ?>

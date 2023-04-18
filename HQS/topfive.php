@@ -11,17 +11,21 @@
 </head>
 
 <body>
+<main>
 
 <nav>
     <?php include "../nav.php" ?>
 </nav>
 
 <section>
-  <h1> </h1>
+  <h1> TOP Five</h1>
 <article class="row pt-5 ">
     <div class="container">
         <div class="col-12 col-sm-6 col-lg-12 text-center pt-5 ">
+          <figure>
           <img src=" ../HQS/img/t1.jpg" class="img-fluid" alt="TOP1">
+          <figcaption> top five </figcaption>
+          </figure>
         </div>
 
         <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start ">
@@ -30,8 +34,7 @@
             Animadora da Disney (está na equipe de Enrolados, Zootopia e outros), ela entrega um visual detalhado, muito expressivo e deliciosamente cartunesco.
             Os dois capítulos finais deste volume são os que abrem o título mensal. O ilustrador passou a ser Max Sarin, com desenhos menos sofisticados e inspirados – tanto nas expressões, como nos cenários. Não é um mau trabalho, mas a comparação com a primeira metade do álbum é desfavorável. </p>
             <a class="text-decoration-none cor-letra" href=" ../autores.php?#renatofelix">
-              <p>Renato Felix,16/08/2021.
-            </a>
+              <p>Renato Felix,16/08/2021.</p> </a>
         </div>
 
 </article>
