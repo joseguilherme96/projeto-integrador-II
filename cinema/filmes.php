@@ -13,15 +13,15 @@
 <body>
 <?php include "../nav.php"?>
   <div class="container">
-    <div class="row">
+    <section class="row">
       <div class="col-12 cor-letra">
         <a href="../index.php" class="cor-letra">Home</a> / <a href="index.php" class="cor-letra">Cinema</a> / <a href="filmes.php" class="cor-letra">Filmes</a> 
       </div>
-    </div>
+    </section>
     <?php include "../barra-de-pesquisa.php";?>
   <section class="row text-center" id="cimema">
-  <article class=" col-sm-5 col-lg-12">
-    <h2 class="cor-letra row">CINEMA</h2>
+    <article class=" col-sm-5 col-lg-12">
+      <h2 class="cor-letra row">CINEMA</h2>
       <a href="noticia-filme.php?cod=1">
         <picture>
           <source srcset="img/banner-cinema.jpg" class="img-fluid" media="(min-width:992px)">
@@ -47,8 +47,7 @@
         </div>
     </article>
   </section>
-<section>
-    <div class="row">
+<section class="row">
         <article class="col-12 col-sm-6 col-lg-6">
           <img src="img/filmes/banner-marvel-menor.jpg" alt="Capa de Filmes">
           <h4 class="cor-letra">
@@ -87,10 +86,8 @@
               <a href="noticia-filme.php?cod=3">Ler Mais</a>
             </div>
         </article>
-    </div>
-    </div>
-  </div>
-</section>
+  </section>
+</div>
   <?php include "../rodape.php"?>
 </body>
 </html>

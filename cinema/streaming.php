@@ -19,99 +19,78 @@
       </div>
     </section>
     <?php include "../barra-de-pesquisa.php";?>
-    <div class="row">
-        <div class="col-12 text-center">
-          <h1 class="cor-letra">STREAMING</h1>
-        </div> 
-    </div>
-    <div class="row">
-      <div class="col-12 text-center">
-        <p>Noticias exclusivas de filmes das principais plataformas de Streaming </p>
-      </div> 
-    </div>
-    <section id="streamming">
-  <div class="row text-center">
-    <div class="col-12 col-sm-4 col-lg-4 "><!--col <= 576px; col-sm >=576px col-lg >=992px -->
-      <img src="img/prime-video.png " class="img-fluid border" alt="Capa Prime Video">
-      <div class="row justify-content-center">
-      <div class="cor-botao col-5 col-lg-5 text-center col-sm-10 m-1">
-            <a href="streaming.php" class="text-decoration-none text-light">PRIME VIDEO</a>
-          </div>
-      </div>
-    </div>
-    <div class="col-12 col-sm-4 col-lg-4 ">
-      <img src="img/netflix.png" class="img-fluid border" alt="Capa Netflix">
-      <div class="row justify-content-center">
-      <div class="cor-botao col-5 col-lg-5 text-center col-sm-10 m-1">
-            <a href="streaming.php" class="text-decoration-none text-light">NETFLIX</a>
-          </div>
-      </div>
-    </div>
-    <div class="col-12 col-sm-4 col-lg-4 ">
-      <img src="img/disney-plus.png" class="img-fluid border " alt="Capa Disney Plus">
-      <div class="row justify-content-center">
-      <div class="cor-botao col-5 col-lg-5 text-center col-sm-10 m-1">
+    <section class="row justify-content-center">
+      <article class="row ">
+        <hgroup class=" col-12 text-center">
+          <h2 class="cor-letra">STREAMING</h2>
+          <h3>Noticias exclusivas de filmes das principais plataformas de Streaming </h3>
+        </hgroup>
+        <figure class="col-12 col-sm-4 col-lg-4"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
+          <img src="img/prime-video.png " class="img-fluid border" alt="Capa Prime Video">
+          <figcaption class="cor-botao col-5 col-lg-5 text-center col-sm-10 m-1">
+                <a href="streaming.php" class="text-decoration-none text-light text-center ">PRIME VIDEO</a>
+          </figcaption>
+        </figure>
+        <figure class="col-12 col-sm-4 col-lg-4 ">
+          <img src="img/netflix.png" class="img-fluid border" alt="Capa Netflix">
+          <figcaption class="cor-botao col-5 col-lg-5 text-center col-sm-10 m-1">
+                <a href="streaming.php" class="text-decoration-none text-light">NETFLIX</a>
+          </figcaption>
+        </figure>
+        <figure class="col-12 col-sm-4 col-lg-4 ">
+          <img src="img/disney-plus.png" class="img-fluid border " alt="Capa Disney Plus">
+          <figcaption class="cor-botao col-5 col-lg-5 text-center col-sm-10 m-1">
             <a href="streaming.php" class="text-decoration-none text-light">DISNEY PLUS</a>
-          </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-    <div class="row">
-      <section class="col-12 col-sm-6 col-lg-6 p-1">
-        <div class="text-center">
+          </figcaption>
+        </figure>
+      </article>
+    </section>
+    <section class="row">
+      <article class="col-12 col-sm-6 col-lg-6">
+        <figure class="text-center">
             <img src="img/streaming/deep.png" class="img-fluid" alt="Capa do Filme" >
-        </div>
+        </figure>
         <div class=" row text-left ">
           <div class="row">
-            <div class="col-lg-9">
+            <hgroup class="col-lg-9">
               <h4 class="cor-letra">Como thriller erótico, Águas Profundas é uma ótima comédia de costumes </h4>
               <h5 class="cor-letra">Adrian Lyne está menos interessado em cenas de sexo do que está em tirar sarro dos ricos</h5>
               <h6>Por <a href="../autores.php?#caiocolleti">CAIO COLLETI</a>  28/10/2022</h6>
-            </div>
+            </hgroup>
             <div class="col-lg-3">
-              <div class="row justify-content-center cor-botao">
-              <div class="col-12 border text-light">PRIME VIDEO</div>
+              <h6 class="col-12 border text-light cor-botao text-center ">PRIME VIDEO</h6 >
             </div>
           </div>
         </div>
-        </div>
-        <p>
-        Águas Profundas era uma proposição bizarra desde o começo: um thriller erótico inspirado por um livro da autora de Carol (Patricia Highsmith), escrito pelos roteiristas de Mais Estranho que a Ficção (Zach Helm) e Euphoria (Sam Levinson), dirigido pelo responsável por Proposta Indecente e Atração Fatal (Adrian Lyne) e protagonizado pelo (já ex-)casal da vida real Ben Affleck e Ana de Armas. Como diria Natasha Lyonne naquela cena de Boneca Russa eternizada em memes no Twitter: “Que conceito”.
-        </p>
+        <p>Águas Profundas era uma proposição bizarra desde o começo: um thriller erótico inspirado por um livro da autora de Carol (Patricia Highsmith), escrito pelos roteiristas de Mais Estranho que a Ficção (Zach Helm) e Euphoria (Sam Levinson), dirigido pelo responsável por Proposta Indecente e Atração Fatal (Adrian Lyne) e protagonizado pelo (já ex-)casal da vida real Ben Affleck e Ana de Armas. Como diria Natasha Lyonne naquela cena de Boneca Russa eternizada em memes no Twitter: “Que conceito”.</p>
         <div class="text-end">
             <a href="noticia-filme.php?cod=4">Ler Mais</a>
         </div>
-      </section>
-        <section class="col-12 col-sm-6 col-lg-6 p-1">
-            <div class="text-center">
-            <picture>
+      </article>
+      <article class="col-12 col-sm-6 col-lg-6">
+          <figure class="p-1">
               <img src="img/streaming/agente-oculto.jpg" class="img-fluid" alt="Capa do Filme" >
-          </div>
+          </figure>
           <div class="text-left">
             <div class="row">
-                <div class="col-lg-8">
+                <hgroup class="col-lg-8">
                     <h4 class="cor-letra">Netflix divulga imagens e data de estreia de Agente Oculto</h4>
                     <h5 class="cor-letra">Filme é estrelado por Ryan Gosling, Ana de Armas, Chris Evans e dirigido pelos irmãos Russo</h5>
                     <h6>Por <a href="../autores.php?#omelete">omelete</a>  26/04/2022</h6>
-                </div>
+                </hgroup>
                 <div class="col-lg-3">
                     <div class="row justify-content-center cor-botao">
-                        <div class="col-6 text-light">NETFLIX</div>
+                        <h6 class="col-6 text-light text-center p-1">NETFLIX</h6>
                     </div>
                 </div>
             </div>
-            <p>
-            Na trama, Ryan Gosling é o agente da CIA Court Gentry, também conhecido como Agente Oculto e Sierra Six, enquanto Chris Evans é seu adversário psicopata Lloyd Hansen. O longa é baseado no livro The Gray Man, de Mark Greaney.
-            </p>
+            <p>Na trama, Ryan Gosling é o agente da CIA Court Gentry, também conhecido como Agente Oculto e Sierra Six, enquanto Chris Evans é seu adversário psicopata Lloyd Hansen. O longa é baseado no livro The Gray Man, de Mark Greaney.</p>
           </div>
           <div class="text-end">
             <a href="noticia-filme.php?cod=5">Ler Mais</a>
           </div>
-        </section>
-</div>
-  </div>
+      </article>
+    </section>
     <?php include "../rodape.php";?>
 </body>
 </html>
