@@ -14,19 +14,20 @@
     
     <?php include "../nav.php"?>
     <div class="container">
-        <article>
-            <div class="row text-center">
-                <h1>Séries e TV</h1>
-            </div>
-            <section class="cor-fundo">
+        <section>
+            
+                <h2 class="text-center">Séries e TV</h2>
+            
+            <article class="cor-fundo">
                 <div class="text-start cor-letra">
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2 class="d-inline">Resenha La casa de Papel</h2>
                 </div>
                 <div class="row text-center">
-                    <div class="col-12">
-                        <img src="../img/lacasa22.jpg"  class="img-fluid" alt="imagem de la casa de papel">
-                    </div>
+                    <figure class="col-12">
+                        <img src="../img/lacasa22.jpg"  class="img-fluid" alt="Capa da série La casa de papel">
+                        <figcaption>La Casa de Papel,história de habilidosos Ladrões mascarados</figcaption>
+                    </figure>
                     <p class="p-3">La Casa de Papel, da Netflix, conta a história de nove habilidosos ladrões (Nairóbi, Berlim, Tókyo, Rio, Helsinki, Oslo, Professor, Denver e Moscou) 
                     que se trancam na Casa da Moeda da Espanha, com o ambicioso plano de realizar o maior roubo da história.</p>
                     <p>Possuindo a meta de imprimir 2,4 bilhões de euros, a gangue precisa lidar com as dezenas de pessoas que foram mantidas reféns e com os agentes da força de elite da polícia,
@@ -39,11 +40,11 @@
                     <p>A trama é dividida em 5 partes sendo todas disponibilizadas na Netflix.</p>
                     <a class="text-decoration-none cor-letra" href="../autores.php?#natalianini"><p>Natalia NiNi,15/12/2021.</p></a>
                 </div>       
-            </section>
+            </article>
             <div class="text-end p-3">
                 <a class="btn btn-primary" href="../Seriesetv.php/serieshome.php" role="button">Voltar</a>
             </div>
-        </article>
+        </section>  
     </div>
     <?php include "../rodape.php"?>
 </body>

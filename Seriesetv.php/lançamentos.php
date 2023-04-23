@@ -14,9 +14,9 @@
     <?php include "../nav.php"?>
     <div class="container">
         <section>
-            <div class="row text-center">
-                <h1>Séries e TV</h1>
-            </div>
+            
+                <h2 class="text-center">Séries e TV</h2>
+        
             <div class="text-start cor-letra">
                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                 <h2 class="d-inline">Lançamentos</h2>

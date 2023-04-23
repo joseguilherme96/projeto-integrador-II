@@ -14,9 +14,9 @@
     <?php include "../nav.php"?>
     <section>
         <div class="container d-lg-none">
-            <div class="row text-center">
-                <h2>Séries e TV</h2>
-            </div>
+           
+                <h2 class="text-center">Séries e TV</h2>
+    
             <article>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
@@ -50,9 +50,9 @@
             </div>
         </div>
         <div class="container d-none d-sm-none d-lg-block">
-            <div class="row text-center">
-                <h2>Séries e TV</h2>
-            </div>
+            
+                <h2 class="text-center">Séries e TV</h2>
+            
             <article>
 
                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>

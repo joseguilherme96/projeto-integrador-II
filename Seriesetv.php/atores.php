@@ -14,9 +14,9 @@
     <?php include "../nav.php"?>
     <div class="container">
         <section>
-            <div class="row text-center">
-                <h2>Séries e TV</h2>
-            </div>
+            
+                <h2 class= "text-center">Séries e TV</h2>
+            
             
             <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
             <h2 class="d-inline cor-letra">Atores</h2>
@@ -30,7 +30,7 @@
                     <div class="text-center cor-fundo p-3">
                         <figure>
                             <img src="../img/katherine.png" class="img-fluid" alt="katherine McNamara na CCXP22,usando uma jaqueta vermelha,segurando o microfone, sorrindo e acessenando.">
-                            <figcaption>alt="Katherine McNamara revela paixão pela comunidade e fãs brasileiros na CCXP22"</figcaption>
+                            <figcaption>Katherine McNamara revela paixão pela comunidade e fãs brasileiros na CCXP22</figcaption>
                         </figure>
                         <p>Katherine McNamara trouxe simpatia e encantou o público do Palco Thunder by Cinemark Club durante a CCXP22. 
                             Em uma conversa com Maria Bopp, a artista contou sobre a carreira, a paixão pelo Brasil e o carinho dos fãs das franquias que já atuou.
