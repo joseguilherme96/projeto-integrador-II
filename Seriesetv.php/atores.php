@@ -15,7 +15,7 @@
     <div class="container">
         <article>
             <div class="row text-center">
-                <h1>Séries e TV</h1>
+                <h1>Sem DP agora </h1>
             </div>
             <section>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
