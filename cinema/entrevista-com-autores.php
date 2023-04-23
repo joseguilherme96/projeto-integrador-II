@@ -13,15 +13,15 @@
 <body>
     <?php include "../nav.php" ?>
     <div class="container ">
-        <div class="row">
+        <section class="row">
             <div class="col-12 cor-letra">
                 <a href="../index.php" class="cor-letra">Home</a> / <a href="index.php" class="cor-letra">Cinema</a> / <a href="entrevistas.php" class="cor-letra">Entrevistas</a> / <a href="entrevista-com-autores.php" class="cor-letra">Entrevista</a>
             </div>
-        </div>
+        </section>
         <?php include "../barra-de-pesquisa.php"; ?>
-        <article>
+        <section>
             <h1 class="row d-block text-center cor-letra">Entrevistas</h1>
-            <section id="vindiesel">
+            <article id="vindiesel">
                 <h2 class="cor-letra">Vin Diesel</h2>
                 <div class="row text-center">
                     <div class="col-12 col-sm-12 col-lg-12">
@@ -33,8 +33,8 @@
                         <p>Vin diesel fala sobre o filme Reativado que estreiou no dia 19 de janeiro. </p>
                     </div>
                 </div>
-            </section>
-            <section id="camillerowe">
+            </article>
+            <article id="camillerowe">
                 <h2 class="cor-letra">Camile Rowe</h2>
                 <div class="row text-center">
                     <div class="col-12 col-sm-12 col-lg-12">
@@ -46,8 +46,8 @@
                         <p>Camille Rowe a protagonista do primeiro fashion film Journeys by Mango a apresentar a coleção feminina mais em</p>
                     </div>
                 </div>
-            </section>
-            <section id="jasonsthan">
+            </article>
+            <article id="jasonsthan">
                 <h2 class="cor-letra">Jason Statham</h2>
                 <div class="row text-center">
                     <div class="col-12 col-sm-12 col-lg-12">
@@ -59,8 +59,8 @@
                         <p>Conhecido como o cara durão de Carga Explosiva, Os Mercenários e Velozes & Furiosos 7, Jason Statham fez poucas comédias em sua carreira.</p>
                     </div>
                 </div>
-            </section>
-            <section id="audreytautou">
+            </article>
+            <article id="audreytautou">
                 <h2 class="cor-letra">Audrey Tautou</h2>
                 <div class="row text-center">
                     <div class="col-12 col-sm-12 col-lg-12">
@@ -72,8 +72,8 @@
                         <p>Audrey Justine Tautou é uma atriz francesa. Reconhecida na França por sua atuação em Vénus beauté que lhe rendeu o prêmio César de Atriz Revelação</p>
                     </div>
                 </div>
-            </section>
-        </article>
+            </article>
+        </section>
     </div>
     <?php include "../rodape.php"; ?>
 </body>
