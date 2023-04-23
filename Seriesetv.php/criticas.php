@@ -15,9 +15,9 @@
     <?php include "../nav.php"?>
     <div class="container">
         <section>
-            <div class= "row text-center">
-                <h2>Séries e TV</h2>
-            </div>
+        
+                <h2 class= "text-center">Séries e TV</h2>
+        
             <article>
                 <div class="row p-3">
                     <figure class= "col-12 text-center">

@@ -13,12 +13,12 @@
 <body>
 <?php include "./nav.php"?>
     <div class="container">
-        <article>
+        <section>
             <div class="text-center">
                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                <h1 class="d-inline">Nossas Referências</h1>
+                <h2 class="d-inline">Nossas Referências</h2>
             </div>
-            <section id="Pedrohenriqueribeiro" class="mt-5">
+            <article id="Pedrohenriqueribeiro" class="mt-5">
                 <div class="col-lg-6 col-sm-12 col-12">
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2 class="d-inline">Pedro Henrique Ribeiro</h2>
@@ -35,8 +35,8 @@
                         <p>Acesso em: 4 nov. 2022.</p>
                     </div>
                 </div>
-            </section>
-            <section id="giovannabreve" class="mt-5">
+            </article>
+            <article id="giovannabreve" class="mt-5">
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2  class="d-inline">Giovanna Breve</h2>
@@ -53,8 +53,8 @@
                         <p>Acesso em: 7 nov. 2022.</p>
                     </div>
                 </div>
-            </section>
-            <section id="juliasabbaga" class="mt-5">
+            </article>
+            <article id="juliasabbaga" class="mt-5">
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2  class="d-inline">Julia Sabbaga</h2>
@@ -70,8 +70,8 @@
                         <p>Acesso em: 14 nov. 2022.</p>    
                     </div>
                 </div>
-            </section>
-            <section id="natalianini" class="mt-5">
+            </article>
+            <article id="natalianini" class="mt-5">
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2 class="d-inline">Natalia Nini</h2>
@@ -86,8 +86,8 @@
                         <p>Acesso em: 12 nov. 2022.</p>
                     </div>
                 </div>
-            </section>
-            <section id="marcelonaranjo" class="mt-5">
+            </article>
+            <article id="marcelonaranjo" class="mt-5">
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2  class="d-inline">Marcelo Naranjo</h2>
@@ -102,8 +102,8 @@
                         <p>Acesso em: 5 dez. 2022.</p>
                     </div>
                 </div>
-            </section>
-            <section id="samirnaliato" class="mt-5">
+            </article>
+            <article id="samirnaliato" class="mt-5">
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2  class="d-inline">Samir Naliato</h2>
@@ -125,8 +125,8 @@
                         <p>Acesso em: 5 dez. 2022</p>
                     </div>
                 </div>
-            </section>
-            <section id="renatofelix" class="mt-5">
+            </article>
+            <article id="renatofelix" class="mt-5">
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2 class="d-inline">Renato Félix</h2>
@@ -141,8 +141,8 @@
                         <p>Acesso em: 5 dez. 2022.</p>
                     </div>
                 </div>
-            </section>
-            <section id="sergiocodespoti" class="mt-5">
+            </article>
+            <article id="sergiocodespoti" class="mt-5">
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2  class="d-inline">Sérgio Codespoti</h2>
@@ -159,8 +159,8 @@
                         <p>Acesso em: 5 dez. 2022.</p>
                     </div>
                 </div>
-            </section>
-            <section id="nicogarofalo" class="mt-5">
+            </article>
+            <article id="nicogarofalo" class="mt-5">
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2  class="d-inline">Nico Garófalo</h2>
@@ -176,9 +176,9 @@
                         <a class="text-decoration-none cor-letra" href="https://www.omelete.com.br/ccxp/ccxp22-the-last-of-us-trailer-2"><p>https://www.omelete.com.br/ccxp/ccxp22-the-last-of-us-trailer-2</p></a>
                         <p>Acesso em: 6 nov. 2022.</p>
                     </div>
-                </div>
-            </section>
-            <section id="caiocolleti" class="mt-5">
+                </div>       
+            </article>
+            <article id="caiocolleti" class="mt-5">
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2  class="d-inline">Caio Colleti</h2>
@@ -194,8 +194,8 @@
                         <p>Acesso em: 15 nov. 2022.</p>
                     </div>
                 </div>
-            </section>
-            <section class="mt-5">
+            </article>
+            <article class="mt-5">
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2 id="Felipegulgemin" class="d-inline">Felipe Gulgemin</h2>
@@ -210,8 +210,8 @@
                         <p>Acesso em: 20 nov. 2022.</p>
                     </div>
                 </div>
-            </section>
-            <section id="omelete" class="mt-5">
+            </article>
+            <article id="omelete" class="mt-5">
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2  class="d-inline">Omelete</h2>
@@ -231,8 +231,8 @@
                         <p>Acesso em: 25 nov. 2022.</p>
                     </div>
                 </div>
-            </section>
-        </article>
+            </article>
+        </section>
     </div>
         <?php include "./rodape.php"?>    
 </body>

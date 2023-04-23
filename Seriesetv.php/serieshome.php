@@ -15,11 +15,9 @@
     
     <?php include "../nav.php"?>
     <div class="container">
-        <article>
-            <div class="row text-center">
-                <h1>Séries e TV</h1>
-            </div>
-            <section>
+        <section>
+                <h2 class="text-center">Séries e TV</h1>
+            <article>
                 <div class="row text-start cor-fundo">
                     <div class="col 12">
                         <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
@@ -28,17 +26,20 @@
                         <a class="text-dark text-decoration-none" href="noticias.php"><p>Depois de acontecer em uma cerimônia privada em 2022, o Globo de Ouro negocia sua volta à TV...</p></a>  
                 </div>
                 <div class="row">
-                    <div class="text-center">
-                        <a href="noticias.php"><img src="../img/globoouro.png" class="img-fluid" alt="imagem do troféu globo de ouro"></a>
-                    </div>
+                    <figure class="text-center">
+                        <a href="noticias.php"><img src="../img/globoouro.png" class="img-fluid" alt="Prêmio globo de ouro"></a>
+                        <figcaption>Troféus do Globo de Ouro</figcaption>
+                    </figure>
                 </div>
-            </section>
+            </article>
+
             <div class="row">
-                <section class="col-12 col-sm-6">
+                <article class="col-12 col-sm-6">
                     <div class="row">
-                        <div class="col-12 col-sm-12 pt-5 mt-sm-3" height="300">
-                            <a href="atores.php"><img src="../img/seubarriga.png" class="img-fluid" alt="imagem do Seu barriga"></a> 
-                        </div>
+                        <figure class="col-12 col-sm-12 pt-5 mt-sm-3" height="300">
+                            <a href="atores.php"><img src="../img/seubarriga.png" class="img-fluid" alt="Édgar Vivar na CCXP22"></a> 
+                            <figcaption>No Palco Thunder by Cinemark Club, Edgar Vivar falou sobre carreira na Turma do Chaves</figcaption>
+                        </figure>
                         <div class="col-12 col-sm-12 pt-3 text-start cor-fundo pb-3">
                             <div class="col-12">
                                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
@@ -47,12 +48,13 @@
                                 <a class="text-dark text-decoration-none" href="atores.php"><p>Na CCXP22 Seu Barriga emociona CCXP22 em painel com tom de despedida...O ator mexicano interpretou o dono da vila do Chaves e ficou famoso no Brasil com seu bordão: "pague os 14 meses de aluguel!".Diz ele:"Vim muitas vezes para cá, sou praticamente brasileiro."</p></a>
                         </div>
                     </div>
-                </section>
-                <section class="col-12 col-sm-6">
+                </article>
+                <article class="col-12 col-sm-6">
                     <div class="row">
-                        <div class="col-12 col-sm-12 pt-5 text-center ms-3 col-lg-12">
-                            <a href="resenha.php"><img src="../img/lacasa22.jpg" class="img-fluid mt-3" alt="imagem imagem la casa de papel"></a>
-                        </div>
+                        <figure class="col-12 col-sm-12 pt-5 text-center ms-3 col-lg-12">
+                            <a href="resenha.php"><img src="../img/lacasa22.jpg" class="img-fluid mt-3" alt="Capa da série La casa de papel"></a>
+                            <figcaption>La Casa de Papel,história de habilidosos Ladrões mascarados</figcaption>
+                        </figure>
                         <div class="col-12 col-sm-12 pt-3 text-start cor-fundo ms-3 col-lg-12">
                             <div class="col 12">
                                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
@@ -61,12 +63,13 @@
                             <a class="text-dark text-decoration-none " href="resenha.php"><p>La Casa de Papel, da Netflix, conta a história de nove habilidosos ladrões,que se trancam na Casa da Moeda da Espanha, com o ambicioso plano de realizar o maior roubo da história...</p></a>
                         </div>
                     </div>
-                </section>
-                <section class="col-12 col-sm-6">
+                </article>
+                <article class="col-12 col-sm-6">
                     <div class="row">
-                        <div class="col-12 col-sm-12 pt-5 text-center">
-                            <a href="criticas.php"><img src="../img/casaescuro.png" class="img-fluid" alt="imagem escura da série"></a>
-                        </div>
+                        <figure class="col-12 col-sm-12 pt-5 text-center">
+                            <a href="criticas.php"><img src="../img/casaescuro.png" class="img-fluid" alt="Cena criticada por fãs por ser escura demais"></a>
+                            <figcaption>Game of Thrones: episódio escuro</figcaption>
+                        </figure>
                         <div class="col-12 col-sm-12 pt-3 text-start cor-fundo p-2 ">
                             <div class="col 12">
                                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
@@ -75,12 +78,13 @@
                             <a class="text-dark text-decoration-none" href="criticas.php"><p>Fãs de Game of Thrones criticam o epsódio A casa do Dragão, declarando que as cenas estavam pouco iluminadas, causando dificuldade de enxergar...</p></a>
                         </div>
                     </div>
-                </section>
-                <section class="col-12 col-sm-6">
+                </article>
+                <article class="col-12 col-sm-6">
                     <div class="row">
-                        <div class="col-12 col-sm-12 pt-5 text-center ms-4">
-                            <a href="lançamentos.php"><img src="../img/you2.jpg" class="img-fluid" alt="imagem da série you"></a>
-                        </div>
+                        <figure class="col-12 col-sm-12 pt-5 text-center ms-4">
+                            <a href="lançamentos.php"><img src="../img/you2.jpg" class="img-fluid" alt="Capa da série You"></a>
+                            <figcaption>Capa da Série You disponível na Netflix.</figcaption>
+                        </figure>
                         <div class="col-12 col-sm-12 pt-3 text-start cor-fundo ms-4 mb-3">
                             <div class="col 12">
                                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
@@ -89,9 +93,9 @@
                             <a class="text-dark text-decoration-none" href="lançamentos.php"><p>Lançamentos exclusivos da Netflix como a 4ª Temporada de You,prometem impressionar o público,a primeira com data de lançamento prevista para 10 de fevereiro de 2023. Estrelada por Penn Badgley You teve sua estreia em 2018 e acompanha um carismático psicopata stalke...</p></a>
                         </div>
                     </div>
-                </section>
+                </article>
             </div>  
-        </article>
+        </section>
     </div> 
     <?php include "../rodape.php"?>     
 </body>
