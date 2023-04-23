@@ -12,20 +12,21 @@
 </head>
 <body>
     <?php include "../nav.php"?>
-    <article>
+    <section>
         <div class="container d-lg-none">
             <div class="row text-center">
-                <h1>Séries e TV</h1>
+                <h2>Séries e TV</h2>
             </div>
-            <section>
+            <article>
                 <div>
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     <h2 class="d-inline cor-letra">Globo de Ouro negocia para voltar à TV em 2023</h2>
                 </div>
                 <div class="row cor-fundo">
-                    <div class="col-12 col-sm-12 text-center pb-3">
-                        <img src="../img/globoouro.png"  class="img-fluid" alt="imagem do prêmio globo de ouro">
-                    </div>
+                    <figure class="col-12 col-sm-12 text-center pb-3">
+                        <img src="../img/globoouro.png"  class="img-fluid" alt="Troféus do Globo de Ouro">
+                        <figcaption>Prêmio globo de ouro</figcaption>
+                    </figure>
                     <div class="col-12 col-sm-12">
                         <p>Depois de acontecer em uma cerimônia privada em 2022, o Globo de Ouro negocia sua volta à TV. Segundo o The Wrap, o destino seria a emissora americana NBC, responsável por transmitir a premiação entre 1996 e 2021.</p>
                         <p>O canal tem um contrato de oito anos de exibição do prêmio firmado em 2018, que ficou suspenso durante o ano passado.</p>
@@ -33,33 +34,35 @@
                     </div>
                 </div>
                 <div class="row cor-fundo">
-                    <div class="col-12 col-sm-12 text-center">
-                        <img src="../img/globoouro2.jpg" class="img-fluid" alt="outra imagem do prêmio globo de ouro">  
-                    </div>
+                    <figure class="col-12 col-sm-12 text-center">
+                        <img src="../img/globoouro2.jpg" class="img-fluid" alt="Troféus do Globo de Ouro">
+                        <figcaption>Prêmio globo de ouro</figcaption>
+                    </figure>
                     <div class="col-12 col-sm-12">
                         <p>A edição de 2022 do prêmio foi cancelada depois que um artigo publicado pelo Los Angeles Times expôs que a HFPA não tinha membros negros em sua organização, entre 87 pessoas, resultando em ultraje e num boicote da indústria.</p>
                         <p>Como parte de medidas de reforma, 102 novos membros foram admitidos à organização, mas só seis deles negros, o que gerou ainda mais críticas.</p>
                         <a class="text-decoration-none cor-letra" href="../autores.php?#omelete"><p>Omelete.</p></a>
                     </div>
                 </div>
-            </section>
+            </article>
             <div class="text-end p-3">
                 <a class="btn btn-primary" href="../Seriesetv.php/serieshome.php" role="button">Voltar</a>
             </div>
         </div>
         <div class="container d-none d-sm-none d-lg-block">
             <div class="row text-center">
-                <h1>Séries e TV</h1>
+                <h2>Séries e TV</h2>
             </div>
-            <section>
-                <div>
-                    <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                    <h2 class="d-inline cor-letra">Globo de Ouro negocia para voltar à TV em 2023</h2>
-                </div>
+            <article>
+
+                <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
+                <h2 class="d-inline cor-letra">Globo de Ouro negocia para voltar à TV em 2023</h2>
+
                 <div class="row cor-fundo">
-                    <div class="col-lg-6 text-center pb-3">
-                        <img src="../img/globoouro.png"  class="img-fluid" alt="iagem do prêmio globo de ouro">
-                    </div>
+                    <figure class="col-lg-6 text-center pb-3">
+                        <img src="../img/globoouro.png"  class="img-fluid" alt="Prêmio globo de ouro">
+                        <figcaption>Troféus do Globo de Ouro</figcaption>
+                    </figure>
                     <div class="col-lg-6 text-center">
                         <p>A edição de 2022 do prêmio foi cancelada depois que um artigo publicado pelo Los Angeles Times expôs que a HFPA não tinha membros negros em sua organização, entre 87 pessoas, resultando em ultraje e num boicote da indústria.</p>
                         <p>Como parte de medidas de reforma, 102 novos membros foram admitidos à organização, mas só seis deles negros, o que gerou ainda mais críticas.</p>
@@ -73,11 +76,12 @@
                         <p>A notícia chega depois que a Associação de Imprensa Estrangeira de Hollywood, responsável pelo Globo de Outo, anunciou planos para vender sua participação no evento e privatizá-lo.</p>
                         
                     </div>
-                    <div class="col-lg-6 text-center">
-                        <img src="../img/globoouro2.jpg" class="img-fluid" alt="outra imagem do prêmio globo de ouro">  
-                    </div>
+                    <figure class="col-lg-6 text-center">
+                        <img src="../img/globoouro2.jpg" class="img-fluid" alt="Prêmio globo de ouro">
+                        <figcaption>Prêmio globo de ouro</figcaption>
+                    </figure>
                 </div>
-            </section>
+            </article>
             <div class="text-end p-3">
                 <a class="btn btn-primary" href="../Seriesetv.php/serieshome.php" role="button">Voltar</a>
             </div>

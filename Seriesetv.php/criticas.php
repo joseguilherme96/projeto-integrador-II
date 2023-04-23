@@ -14,20 +14,21 @@
     
     <?php include "../nav.php"?>
     <div class="container">
-        <article>
+        <section>
             <div class= "row text-center">
-                <h1>Séries e TV</h1>
+                <h2>Séries e TV</h2>
             </div>
-            <div class="row p-3">
-                <div class= "col-12 text-center">
-                    <img src="../img/casaescuro.png" class="img-fluid" alt="imagem de cena escura da qual os fãs reclamaram">
+            <article>
+                <div class="row p-3">
+                    <figure class= "col-12 text-center">
+                            <img src="../img/casaescuro.png" class="img-fluid" alt="Cena criticada por fãs por ser escura demais ">
+                            <figcaption>Game of Thrones: episódio escuro</figcaption>
+                    </figure>
                 </div>
-            </div>
-            <section>
                 <div class="row">
                     <div class="col-12 text-start cor-letra cor-fundo">
                         <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                        <h2 class="d-inline">A Casa do Dragão: fãs reclamam de episódio escuro demais e HBO responde</h2>
+                        <h2 class="d-inline">A Casa do Dragão: fãs reclamam de episódio escuro demais</h2>
                     </div>
                 </div>
                 <div class="row cor-fundo">
@@ -45,11 +46,11 @@
                         <a class="text-decoration-none cor-letra" href="../autores.php?#giovannabreve"><p>Giovanna Breve,03/10/2022.</p></a>
                     </div>
                 </div>
-            </section>
+            </article>
             <div class="text-end p-3">
                 <a class="btn btn-primary" href="../Seriesetv.php/serieshome.php" role="button">Voltar</a>
             </div>
-        </article>
+        </section>
     </div>
     <?php include "../rodape.php"?>
 </body>
