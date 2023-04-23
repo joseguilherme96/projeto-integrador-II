@@ -111,7 +111,7 @@
   </article>
 </section>
 <section id="streamming">
-  <div class="row ">
+  <div class="row">
     <div class="col">
       <h2>STREAMING</h2>
     </div>
@@ -143,14 +143,14 @@
     </div>
   </div>
 </section>
-  <section id="literatura">
+<section id="literatura">
       <div class="row">
         <div class="col-12">
           <h2 class="cor-letra">LITERATURA - FILMES INSPIRADOS EM LIVROS</h2>
         </div>
       </div>
       <div class="row">
-        <div class="col-12 col-sm-6 col-lg-3 p-1">
+        <article class="col-12 col-sm-6 col-lg-3 p-1">
           <div class="text-center">
             <figure>
               <img src="img/jogador-n1.jpg" alt="Capa Livro">
@@ -178,8 +178,8 @@
           <div class="text-end">
             <a href="artigo-literatura.php?cod=1">Ler Mais</a>
           </div>
-        </div>
-        <div class="col-12 col-sm-6 col-lg-3 p-1">
+        </article>  
+        <article class="col-12 col-sm-6 col-lg-3 p-1">
           <div class="text-center">
             <figure>
               <img src="img/harry-potter.jpg" alt="Capa Livro">
@@ -204,8 +204,8 @@
             <a href="artigo-literatura.php?cod=2">Ler Mais</a>
             </div>
           </div>
-        </div>
-        <div class="col-12 col-sm-6 col-lg-3 p-1">
+        </article>
+        <article class="col-12 col-sm-6 col-lg-3 p-1">
           <div class="text-center">
             <figure>
               <img src="img/jogos-vorazes.jpg" alt="Capa Livro">
@@ -230,8 +230,8 @@
             <a href="artigo-literatura.php?cod=3">Ler Mais</a>
             </div>
           </div>
-        </div>
-        <div class="col-12 col-sm-6 col-lg-3 p-1">
+        </article>
+        <article class="col-12 col-sm-6 col-lg-3 p-1">
           <div class="text-center">
             <figure>
               <img src="img/senhor-dos-aneis.jpg" alt="Capa Livro">
@@ -256,17 +256,13 @@
             <a href="artigo-literatura.php?cod=4">Ler Mais</a>
             </div>
           </div>
-        </div>
+        </article>
       </div>
   </section>
   <section id="entrevistas">
+    <h2 class="row cor-letra">ENTREVISTAS</h2>
     <div class="row">
-      <div class="col-12">
-        <h2 class="cor-letra">ENTREVISTAS</h2>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-12 col-sm-6 col-lg-3">
+      <article class="col-12 col-sm-6 col-lg-3">
         <div class="row">
         <h2 class="cor-letra">Jason Stham</h2>
         </div>
@@ -279,50 +275,37 @@
         <div class="row text-end">
         <a href="entrevista-com-autores.php">Ler Mais</a>
         </div>
-      </div>
-      <div class="col-12 col-sm-6 col-lg-3">
-        <div class="row">
-          <h2 class="cor-letra">Camille Rowe</h2>
-        </div>
-        <div class="row">
+      </article>
+      <article class="col-12 col-sm-6 col-lg-3">
+        <h2 class="row cor-letra">Camille Rowe</h2>
+        <figure class="row">
           <img src="img/camille-rowe.jpg" alt="Foto Autor">
-        </div>
-        <div class="row">
-          <p>Camille Rowe a protagonista do primeiro fashion film Journeys by Mango a apresentar a coleção feminina mais em</p>
-        </div>
+        </figure>
+        <p>Camille Rowe a protagonista do primeiro fashion film Journeys by Mango a apresentar a coleção feminina mais em</p>
         <div class="row text-end">
         <a href="entrevista-com-autores.php">Ler Mais</a>
         </div>
-      </div>
-      
-      <div class="col-12 col-sm-6 col-lg-3">
-        <div class="row">
-          <h2 class="cor-letra">Vin Diesel</h2>
-        </div>
-        <div class="row">
+      </article>
+      <article class="col-12 col-sm-6 col-lg-3">
+        <h2 class="row cor-letra">Vin Diesel</h2>
+        <figure class="row">
           <img src="img/vin-diesel.jpg" alt="Foto Autor">
-        </div>
-        <div class="row">
-          <p>Vin diesel fala sobre o filme Reativado que estreiou no dia 19 de janeiro.</p>
-        </div>
+        </figure>
+        <p>Vin diesel fala sobre o filme Reativado que estreiou no dia 19 de janeiro.</p>
         <div class="row text-end">
-        <a href="entrevista-com-autores.php">Ler Mais</a>
+          <a href="entrevista-com-autores.php">Ler Mais</a>
         </div>
-      </div>
-      <div class="col-12 col-sm-6 col-lg-3">
-        <div class="row">
-          <h2 class="cor-letra">Audrey Tautou</h2>
-        </div>
+      </article>
+      <article class="col-12 col-sm-6 col-lg-3">
+        <h2 class="row cor-letra">Audrey Tautou</h2>
         <div class="row">
           <img src="img/audrey-tautou.jpg" alt="Foto Autor">
         </div>
-        <div class="row">
-          <p>Audrey Justine Tautou é uma atriz francesa. Reconhecida na França por sua atuação em Vénus beauté que lhe rendeu o prêmio César de Atriz Revelação</p>
-        </div>
+        <p>Audrey Justine Tautou é uma atriz francesa. Reconhecida na França por sua atuação em Vénus beauté que lhe rendeu o prêmio César de Atriz Revelação</p>
         <div class="row text-end">
-        <a href="entrevista-com-autores.php">Ler Mais</a>
+          <a href="entrevista-com-autores.php">Ler Mais</a>
         </div>
-      </div>
+      </article>
     </div>
 </section>
 </div>

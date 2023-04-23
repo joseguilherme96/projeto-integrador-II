@@ -19,47 +19,37 @@
       </div>
     </div>
     <?php include "../barra-de-pesquisa.php";?>
-    <section id="cinema">
-  <div class="row">
-    <div class="col-12">
-      <h2 class="cor-letra">CINEMA</h2>
-    </div> 
-  </div>
-  <div class="row text-center">
-    <div class=" col-sm-5 col-lg-12">
-    <a href="noticia-filme.php?cod=1">
-      <picture >
-        <source srcset="img/banner-cinema.jpg" class="img-fluid" media="(min-width:992px)">
-        <img src="img/indiana-jones.jpg" class="img-fluid" alt="Banner Cinema">
-        </a>
-        <figcaption class="d-none d-lg-block">Fonte imagem em https://www.nerdview.com.br/2022/12/asista-ao-trailer-oficial-de-indiana.html</figcaption>
-      </picture>
-    </div>
-    <div class="col-12 col-sm-5 col-lg-12">
-      <div class="row ">
-        <p>
-        Indiana Jones está de volta! Durante a CCXP22, o quinto filme do arqueólogo mais amado da cultura pop teve seu primeiro trailer revelado. Além de trazer o retorno de Harrison Ford a um dos papéis mais icônicos de sua carreira depois de 14 anos, a prévia revelou também o título oficial da nova sequência: Indiana Jones e o Chamado do Destino
-        </p>  
-      </div>
-      <div class="row justify-content-center ">
-      <div class="cor-botao col-5 col-lg-2 text-center col-sm-7 m-1">
-            <a href="literatura.php" class="text-decoration-none text-light">LANÇAMENTO</a>
-          </div>
-          <div class="cor-botao col-5 col-lg-2 text-center col-sm-3 m-1">
-            <a href="literatura.php" class="text-decoration-none text-light">AÇÃO</a>
-          </div>
-      </div>
-      <div>
-        <i class="bi bi-circle cor-letra"></i>
-        <i class="bi bi-circle cor-letra" ></i>
-        <i class="bi bi-circle cor-letra"></i>
-      </div>
-    </div>
-  </div>
-</section>
+  <section class="row text-center" id="cimema">
+  <article class=" col-sm-5 col-lg-12">
+    <h2 class="cor-letra row">CINEMA</h2>
+      <a href="noticia-filme.php?cod=1">
+        <picture>
+          <source srcset="img/banner-cinema.jpg" class="img-fluid" media="(min-width:992px)">
+          <img src="img/indiana-jones.jpg" class="img-fluid" alt="Banner Cinema">
+          </a>
+          <figcaption class="d-none d-lg-block">Fonte imagem em https://www.nerdview.com.br/2022/12/asista-ao-trailer-oficial-de-indiana.html</figcaption>
+        </picture>
+          <p>
+          Indiana Jones está de volta! Durante a CCXP22, o quinto filme do arqueólogo mais amado da cultura pop teve seu primeiro trailer revelado. Além de trazer o retorno de Harrison Ford a um dos papéis mais icônicos de sua carreira depois de 14 anos, a prévia revelou também o título oficial da nova sequência: Indiana Jones e o Chamado do Destino
+          </p> 
+        <div class="row justify-content-center ">
+        <div class="cor-botao col-5 col-lg-2 text-center col-sm-7 m-1">
+              <a href="literatura.php" class="text-decoration-none text-light">LANÇAMENTO</a>
+            </div>
+            <div class="cor-botao col-5 col-lg-2 text-center col-sm-3 m-1">
+              <a href="literatura.php" class="text-decoration-none text-light">AÇÃO</a>
+            </div>
+        </div>
+        <div>
+          <i class="bi bi-circle cor-letra"></i>
+          <i class="bi bi-circle cor-letra" ></i>
+          <i class="bi bi-circle cor-letra"></i>
+        </div>
+    </article>
+  </section>
 <section>
     <div class="row">
-        <div class="col-12 col-sm-6 col-lg-6">
+        <article class="col-12 col-sm-6 col-lg-6">
           <img src="img/filmes/banner-marvel-menor.jpg" alt="Capa de Filmes">
           <h4 class="cor-letra">
           CCXP22: painel do Marvel Studios promete um 2023 cheio de despedidas
@@ -77,8 +67,8 @@
             <div class="text-end">
               <a href="noticia-filme.php?cod=2">Ler Mais</a>
             </div>
-        </div>
-        <div class="col-12 col-sm-6 col-lg-6">
+        </article>
+        <article class="col-12 col-sm-6 col-lg-6">
           <img src="img/filmes/filme-the-last-of-us-menor.jpg" alt="Capa de Filmes">
           <h4 class="cor-letra">
           The Last of Us ganha trailer inédito e emocionante na CCXP22
@@ -96,7 +86,7 @@
             <div class="text-end">
               <a href="noticia-filme.php?cod=3">Ler Mais</a>
             </div>
-        </div>
+        </article>
     </div>
     </div>
   </div>

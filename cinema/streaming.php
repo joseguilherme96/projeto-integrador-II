@@ -13,11 +13,11 @@
 <body>
   <?php include "../nav.php";?>
   <div class="container">
-    <div class="row">
+    <section class="row">
       <div class="col-12 cor-letra">
         <a href="../index.php" class="cor-letra">Home</a> / <a href="index.php" class="cor-letra">Cinema</a> / <a href="filmes.php" class="cor-letra">Streaming</a> 
       </div>
-    </div>
+    </section>
     <?php include "../barra-de-pesquisa.php";?>
     <div class="row">
         <div class="col-12 text-center">

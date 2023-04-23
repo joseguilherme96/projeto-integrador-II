@@ -13,87 +13,64 @@
 <body>
 <?php include '../nav.php'; ?>
     <div class="container">
-        <div class="row">
+        <section class="row">
             <div class="col-12 cor-letra" >
                 <a href="../index.php" class="cor-letra">Home</a> / <a href="index.php" class="cor-letra">Cinema</a> / <a href="literatura.php" class="cor-letra">Literatura</a> 
             </div>
-        </div>
+        </section>
         <?php include "../barra-de-pesquisa.php";?>
-        <div class="row">
-            <div class="col-12 text-center">
-                <h2 class="d-inline cor-letra text-start">FILMES INSPIRADO EM LIVROS</h2>
-            </div> 
-        </div>
-        <div class="row">
-        <section class="col-12 col-sm-6 col-lg-4 p-1">
-          <div class="text-center">
-            <figure>
-              <img src="img/jogador-n1.jpg" alt="Capa Livro">
-              <figcaption>Jogador Nº 1</figcaption>
-            </figure>
-          </div>
-          <div class="text-left">
-            <h4 class="cor-letra">
-            Jogador Nº 1 | Crítica
-           
-            </h4>
-            <h5 class="cor-letra-D2D2D2">
-            A volta do Steven Spielberg moleque
-            </h5>
-            <h6>
-              Por <a href="../autores.php?#omelete">Omelete</a>  19/03/2018
-              <!--https://www.omelete.com.br/filmes/criticas/jogador-no-1-critica-->
-            </h6>
-            <p>
-            Ninguém melhor que Steven Spielberg para levar às telas a adaptação de Jogador Nº 1 de Ernest Cline.
-             O cineasta, afinal, é a maior influência (o maior responsável, na verdade) 
-             por tudo aquilo que inspirou o autor.
-            </p>
-          </div>
-          <div class="text-end">
-            <a href="artigo-literatura.php?cod=1">Ler Mais</a>
-          </div>
-        </section>
-        <section class="col-12 col-sm-6 col-lg-4 p-1">
-        <div class="text-center">
-            <figure>
-              <img src="img/jogos-vorazes.jpg" alt="Capa Livro">
-              <figcaption>Jogos Vorazes</figcaption>
-            </figure>
-          </div>
-          <div class="text-left">
-            <h4 class="cor-letra">
-            Jennifer Lawrence descarta papéis em grandes franquias: "Velha demais"
-            </h4>
-            <h5 class="cor-letra-D2D2D2">
-            Estrela de X-Men e Jogos Vorazes deve se concentrar em títulos independentes
-            </h5>
-            <h6>
-              Por <a href="../autores.php?#caiocolleti">Caio Coletti</a>  08/10/20222
-            </h6>
-            <!-- https://www.omelete.com.br/autores/caio-coletti-->
-            <p>
-            Não espere ver Jennifer Lawrence de volta às grandes franquias hollywoodianas. Participando do BFI London Film Festival [via Deadline], ela explicou por que deve se concentrar em projetos independentes daqui em diante.
-            </p>
-            <div class="text-end">
-            <a href="artigo-literatura.php?cod=3">Ler Mais</a>
+        <section class="row text-center">
+          <h2 class="d-inline cor-letra">FILMES INSPIRADO EM LIVROS</h2>
+          <article class="col-12 col-sm-6 col-lg-4 p-1">
+            <div class="text-center">
+              <figure>
+                <img src="img/jogador-n1.jpg" alt="Capa Livro">
+                <figcaption>Jogador Nº 1</figcaption>
+              </figure>
             </div>
-          </div>
-        </section>
-        <section class="col-12 col-sm-6 col-lg-4 p-1">
-        <div class="text-center">
-            <figure>
+            <div class="text-left">
+              <hgroup>
+                <h4 class="cor-letra">Jogador Nº 1 | Crítica</h4>
+                <h5 class="cor-letra-D2D2D2">A volta do Steven Spielberg moleque</h5>
+                <h6>Por <a href="../autores.php?#omelete">Omelete</a>  19/03/2018
+                  <!--https://www.omelete.com.br/filmes/criticas/jogador-no-1-critica-->
+                </h6>
+              </hgroup>
+              <p>
+              Ninguém melhor que Steven Spielberg para levar às telas a adaptação de Jogador Nº 1 de Ernest Cline.
+              O cineasta, afinal, é a maior influência (o maior responsável, na verdade) 
+              por tudo aquilo que inspirou o autor.
+              </p>
+            </div>
+            <div class="text-end">
+              <a href="artigo-literatura.php?cod=1">Ler Mais</a>
+            </div>
+          </article>
+          <article class="col-12 col-sm-6 col-lg-4 p-1">
+              <figure class="text-center">>
+                <img src="img/jogos-vorazes.jpg" alt="Capa Livro">
+                <figcaption>Jogos Vorazes</figcaption>
+              </figure>
+              <hgroup>
+                <h4 class="cor-letra">Jennifer Lawrence descarta papéis em grandes franquias: "Velha demais"</h4>
+                <h5 class="cor-letra-D2D2D2">Estrela de X-Men e Jogos Vorazes deve se concentrar em títulos independentes</h5>
+                <h6>Por <a href="../autores.php?#caiocolleti">Caio Coletti</a>  08/10/20222</h6>
+              </hgroup>
+              <!-- https://www.omelete.com.br/autores/caio-coletti-->
+              <p>Não espere ver Jennifer Lawrence de volta às grandes franquias hollywoodianas. Participando do BFI London Film Festival [via Deadline], ela explicou por que deve se concentrar em projetos independentes daqui em diante.</p>
+              <div class="text-end">
+              <a href="artigo-literatura.php?cod=3">Ler Mais</a>
+              </div>
+          </article>
+          <article class="col-12 col-sm-6 col-lg-4 p-1">
+            <figure class="text-center">
               <img src="img/harry-potter.jpg" alt="Capa Livro">
               <figcaption>Harry Potter</figcaption>
             </figure>
-          </div>
-          <div class="text-left">
-            <h5 class="cor-letra">
-            Harry Potter é a a saga do órfão bruxo criada por J.K. Rowling e iniciada em 1997.
-            </h5>
-            <h6>
-              Por <a href="../autores.php?#omelete">Omelete</a>  04/12/20222
-            </h6>
+            <hgroup>
+              <h5 class="cor-letra">Harry Potter é a a saga do órfão bruxo criada por J.K. Rowling e iniciada em 1997.</h5>
+              <h6>Por <a href="../autores.php?#omelete">Omelete</a>  04/12/20222</h6>
+            </hgroup>
             <!-- https://www.omelete.com.br/harry-potter?gclid=EAIaIQobChMI3Kaew5_g-wIVFWSRCh0sSAh2EAAYASAAEgLR_vD_BwE -->
             <p>
             Depois dos oito filmes baseados nos livros, a franquia agora se prepara para 
@@ -102,40 +79,30 @@
             mágicas pelos cinco continentes.
             </p>
             <div class="text-end">
-            <a href="artigo-literatura.php?cod=2">Ler Mais</a>
+              <a href="artigo-literatura.php?cod=2">Ler Mais</a>
             </div>
-          </div>
+            </div>
+          </article>
         </section>
-        <section class="col-12 col-sm-12 col-lg-12 p-1">
-        <div class="text-center">
-            <figure>
-              <img src="img/artigos/banner-senhor-dos-aneis.jpg" alt="Capa Livro">
-              <figcaption>Senhor dos Anéis</figcaption>
-            </figure>
-          </div>
-          <div class="text-left">
-            <h4 class="cor-letra">
-                Os Anéis de Poder | Prime Video anuncia novas escalações do elenco; veja
-            </h4>
-            <h5 class="cor-letra-D2D2D2">
-            Personagens dos atores não foram revelados
-            </h5>
-            <h6>
-              Por <a href="../autores.php?#omelete">Omelete</a>  28/10/20222
-            </h6>
+        <section class="row text-center">
+          <article class="col-12 col-sm-12 col-lg-12 p-1">
+            <figure class="text-center">
+                <img src="img/artigos/banner-senhor-dos-aneis.jpg" alt="Capa Livro">
+                <figcaption>Senhor dos Anéis</figcaption>
+            </figure> 
+            <hgroup>
+              <h4 class="cor-letra">Os Anéis de Poder | Prime Video anuncia novas escalações do elenco; veja</h4>
+              <h5 class="cor-letra-D2D2D2">Personagens dos atores não foram revelados</h5>
+              <h6> Por <a href="../autores.php?#omelete">Omelete</a>  28/10/20222</h6>
+            </hgroup>
             <!-- https://www.omelete.com.br/autores/flavio-pinto-->
-            <p>
-            O Prime Video aproveitou a manhã de hoje (1) para anunciar as novas adições do elenco de O Senhor dos Anéis: Os Anéis de Poder. Em formato de fio, a plataforma, aos poucos, revelou o nome dos 7 atores que se juntarão à produção na a próxima temporada. 
-            </p>
+            <p class="row p-5">O Prime Video aproveitou a manhã de hoje (1) para anunciar as novas adições do elenco de O Senhor dos Anéis: Os Anéis de Poder. Em formato de fio, a plataforma, aos poucos, revelou o nome dos 7 atores que se juntarão à produção na a próxima temporada. </p>
             <div class="text-end">
-            <a href="artigo-literatura.php?cod=4">Ler Mais</a>
+              <a href="artigo-literatura.php?cod=4">Ler Mais</a>
             </div>
-          </div>
-        </div>
-      </div>
+          </article>
         </section>
       </div>
-    </div>
     <?php include '../rodape.php';?>
 </body>
 </html>

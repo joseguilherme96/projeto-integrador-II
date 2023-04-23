@@ -13,76 +13,55 @@
 <body>
   <?php include '../nav.php'; ?>
   <div class="container">
-    <div class="row">
+    <section class="row">
       <div class="col-12 cor-letra">
         <a href="../index.php" class="cor-letra">Home</a> / <a href="index.php" class="cor-letra">Cinema</a> / <a href="literatura.php" class="cor-letra">Entrevistas</a>
       </div>
-    </div>
+    </section>
     <?php include "../barra-de-pesquisa.php"; ?>
-    <div class="row">
-      <div class="col-12 text-center">
-        <h1 class="cor-letra">ENTREVISTAS COM ATORES</h1>
-      </div>
-    </div>
-    <div class="row">
-      <section class="col-12 col-sm-6 col-lg-4 p-1">
-        <div class="row">
-          <h2 class="cor-letra">Jason Stham</h2>
-        </div>
-        <div class="row">
+    <section class="row">
+      <h2 class="cor-letra row text-center">ENTREVISTAS COM ATORES</h2>
+      <article class="col-12 col-sm-6 col-lg-4 p-1">
+        <h2 class="cor-letra">Jason Stham</h2>
+        <figure class="row">
           <img src="img/jason-statham.jpg" class="img-fluid" alt="Foto Autor">
-        </div>
-        <div class="row">
-          <p>Conhecido como o cara durão de Carga Explosiva, Os Mercenários e Velozes & Furiosos 7, Jason Statham fez poucas comédias em sua carreira. </p>
-        </div>
+        </figure>
+        <p>Conhecido como o cara durão de Carga Explosiva, Os Mercenários e Velozes & Furiosos 7, Jason Statham fez poucas comédias em sua carreira. </p>
         <div class="row text-end">
           <a href="entrevista-com-autores.php?#jasonsthan">Ler Mais</a>
         </div>
-      </section>
-      <section class="col-12 col-sm-6 col-lg-4 p-1">
-        <div class="row">
-          <h2 class="cor-letra">Vin Diesel</h2>
-        </div>
-        <div class="row">
+      </article>
+      <article class="col-12 col-sm-6 col-lg-4 p-1">
+        <h2 class="cor-letra">Vin Diesel</h2>
+        <figure class="row">
           <img src="img/vin-diesel.jpg" class="img-fluid" alt="Foto Autor">
-        </div>
-        <div class="row">
-          <p>Vin diesel fala sobre o filme Reativado que estreiou no dia 19 de janeiro.</p>
-        </div>
+        </figure>
+        <p>Vin diesel fala sobre o filme Reativado que estreiou no dia 19 de janeiro.</p>
         <div class="row text-end">
           <a href="entrevista-com-autores.php?#vindiesel">Ler Mais</a>
         </div>
-      </section>
-      <section class="col-12 col-sm-6 col-lg-4 p-1">
-        <div class="row">
-          <h2 class="cor-letra">Camille Rowe</h2>
-        </div>
-        <div class="row">
+      </article>
+      <article class="col-12 col-sm-6 col-lg-4 p-1">
+        <h2 class="cor-letra">Camille Rowe</h2>
+        <figure class="row">
           <img src="img/camille-rowe.jpg" class="img-fluid" alt="Foto Autor">
-        </div>
-        <div class="row">
-          <p>Camille Rowe a protagonista do primeiro fashion film Journeys by Mango a apresentar a coleção feminina mais em</p>
-        </div>
+        </figure>
+        <p>Camille Rowe a protagonista do primeiro fashion film Journeys by Mango a apresentar a coleção feminina mais em</p>
         <div class="row text-end">
           <a href="entrevista-com-autores.php?#camillerowe">Ler Mais</a>
         </div>
-      </section>
-      <section class="col-12 col-sm-12 col-lg-12 p-1">
-        <div class="row">
-          <h2 class="cor-letra">Audrey Tautou</h2>
-        </div>
-        <div class="row">
+      </article>
+      <article class="col-12 col-sm-12 col-lg-12 p-1">
+        <h2 class="cor-letra">Audrey Tautou</h2>
+        <figure class="row">
           <img src="img/audrey-tautou.jpg" class="img-fluid" alt="Foto Autor">
-        </div>
-        <div class="row">
-          <p>Audrey Justine Tautou é uma atriz francesa. Reconhecida na França por sua atuação em Vénus beauté que lhe rendeu o prêmio César de Atriz Revelação</p>
-        </div>
+        </figure>
+        <p>Audrey Justine Tautou é uma atriz francesa. Reconhecida na França por sua atuação em Vénus beauté que lhe rendeu o prêmio César de Atriz Revelação</p>
         <div class="row text-end">
           <a href="entrevista-com-autores.php?#audreytautou">Ler Mais</a>
         </div>
-      </section>
-    </div>
-  </div>
+      </article>
+    </section>
   <?php include "../rodape.php"; ?>
 </body>
 </html>
