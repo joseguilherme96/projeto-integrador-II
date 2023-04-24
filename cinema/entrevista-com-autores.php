@@ -13,21 +13,15 @@
 <body>
     <?php include "../nav.php" ?>
     <div class="container ">
-        <section class="row">
-            <div class="col-12 cor-letra">
-                <a href="../index.php" class="cor-letra">Home</a> / <a href="index.php" class="cor-letra">Cinema</a> / <a href="entrevistas.php" class="cor-letra">Entrevistas</a> / <a href="entrevista-com-autores.php" class="cor-letra">Entrevista</a>
-            </div>
+        <section class="col-12 cor-letra">
+            <a href="../index.php" class="cor-letra">Home</a> / <a href="index.php" class="cor-letra">Cinema</a> / <a href="entrevistas.php" class="cor-letra">Entrevistas</a> / <a href="entrevista-com-autores.php" class="cor-letra">Entrevista</a>
         </section>
         <?php include "../barra-de-pesquisa.php"; ?>
         <section>
             <h1 class="row d-block text-center cor-letra">Entrevistas</h1>
             <article id="vindiesel">
                 <h2 class="cor-letra">Vin Diesel</h2>
-                <div class="row text-center">
-                    <div class="col-12 col-sm-12 col-lg-12">
-                        <iframe class="col-12" src="https://www.youtube.com/embed/yQ9QkFxC0sc" title="VIN DIESEL | Entrevista Exclusiva com Carol Moreira" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
-                </div>
+                <iframe class="col-12 col-sm-12 col-lg-12" src="https://www.youtube.com/embed/yQ9QkFxC0sc" title="VIN DIESEL | Entrevista Exclusiva com Carol Moreira" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="row justify-content-start">
                     <div class="col-lg-12">
                         <p>Vin diesel fala sobre o filme Reativado que estreiou no dia 19 de janeiro. </p>
@@ -54,11 +48,7 @@
                         <iframe class="col-12" src="https://www.youtube.com/embed/Q7pTtHIcZuU" title="Entrevista a Jason Statham - El Especialista: Resurrección" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
-                <div class="row justify-content-center">
-                    <div class="col-lg-12">
-                        <p>Conhecido como o cara durão de Carga Explosiva, Os Mercenários e Velozes & Furiosos 7, Jason Statham fez poucas comédias em sua carreira.</p>
-                    </div>
-                </div>
+                <p>Conhecido como o cara durão de Carga Explosiva, Os Mercenários e Velozes & Furiosos 7, Jason Statham fez poucas comédias em sua carreira.</p>    
             </article>
             <article id="audreytautou">
                 <h2 class="cor-letra">Audrey Tautou</h2>

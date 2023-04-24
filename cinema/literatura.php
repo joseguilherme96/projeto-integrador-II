@@ -19,32 +19,26 @@
             </div>
         </section>
         <?php include "../barra-de-pesquisa.php";?>
-        <section class="row text-center">
+        <section class="row">
           <h2 class="d-inline cor-letra">FILMES INSPIRADO EM LIVROS</h2>
           <article class="col-12 col-sm-6 col-lg-4 p-1">
-            <div class="text-center">
-              <figure>
-                <img src="img/jogador-n1.jpg" alt="Capa Livro">
-                <figcaption>Jogador Nº 1</figcaption>
-              </figure>
-            </div>
-            <div class="text-left">
-              <hgroup>
-                <h4 class="cor-letra">Jogador Nº 1 | Crítica</h4>
-                <h5 class="cor-letra-D2D2D2">A volta do Steven Spielberg moleque</h5>
-                <h6>Por <a href="../autores.php?#omelete">Omelete</a>  19/03/2018
-                  <!--https://www.omelete.com.br/filmes/criticas/jogador-no-1-critica-->
-                </h6>
-              </hgroup>
-              <p>
-              Ninguém melhor que Steven Spielberg para levar às telas a adaptação de Jogador Nº 1 de Ernest Cline.
-              O cineasta, afinal, é a maior influência (o maior responsável, na verdade) 
-              por tudo aquilo que inspirou o autor.
-              </p>
-            </div>
-            <div class="text-end">
-              <a href="artigo-literatura.php?cod=1">Ler Mais</a>
-            </div>
+            <figure class="text-center">
+              <img src="img/jogador-n1.jpg" alt="Capa Livro">
+              <figcaption>Jogador Nº 1</figcaption>
+            </figure>
+            <hgroup>
+              <h4 class="cor-letra">Jogador Nº 1 | Crítica</h4>
+              <h5 class="cor-letra-D2D2D2">A volta do Steven Spielberg moleque</h5>
+              <h6>Por <a href="../autores.php?#omelete">Omelete</a>  19/03/2018
+                <!--https://www.omelete.com.br/filmes/criticas/jogador-no-1-critica-->
+              </h6>
+            </hgroup>
+            <p>
+            Ninguém melhor que Steven Spielberg para levar às telas a adaptação de Jogador Nº 1 de Ernest Cline.
+            O cineasta, afinal, é a maior influência (o maior responsável, na verdade) 
+            por tudo aquilo que inspirou o autor.
+            </p>
+            <a href="artigo-literatura.php?cod=1" class="text-end d-block">Ler Mais</a>
           </article>
           <article class="col-12 col-sm-6 col-lg-4 p-1">
               <figure class="text-center">>

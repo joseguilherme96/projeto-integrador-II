@@ -25,46 +25,40 @@
             <?php        
                 if($_GET['cod']==1){
             ?>
-            <article>
+            <article class=" row justify-content-center">
                 <figure class="col-12 col-sm-12 col-lg-12">
                     <img src="img/banner-cinema.jpg" class="img-fluid" alt="Capa Filme">
                     <figcaption class="text-center">Fonte imagem em https://www.nerdview.com.br/2022/12/asista-ao-trailer-oficial-de-indiana.html</figcaption>
-                </figure>
-                <div class="row justify-content-center">
-                        <div class="col-lg-5 py-3">
-                            <h5>Indiana Jones e o Chamado do Destino ganha título e trailer na CCXP22</h5>
-                            <h6>Por <a href="../autores.php?#nicogarofalo">NICO GARÓFALO</a>  01/12/2022</h6>
-                            <!--https://www.omelete.com.br/autores/nico-garofalo -->
-                        </div>
-                        <div class="col-lg-3 py-4">
-                            <div class="row ">
-                                <div class="col-6 border">LANÇAMENTO</div>
-                                <div class="col-3 border">AÇAO</div>
-                            </div>
-                        </div>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-8">
-                        <p>
-                            Indiana Jones está de volta! Durante a CCXP22, o quinto filme do arqueólogo mais amado da cultura pop teve seu primeiro trailer revelado. Além de trazer o retorno de Harrison Ford a um dos papéis mais icônicos de sua carreira depois de 14 anos, a prévia revelou também o título oficial da nova sequência: Indiana Jones e o Chamado do Destino. Assista acima:
-                        </p>
-                        <p>
-                        O quinto Indiana Jones contará com o retorno de Harrison Ford ao lado de um elenco repleto de estrelas formado por Antonio Banderas, Phoebe Waller-Bridge, Mads Mikkelsen, Boyd Holbrook e Thomas Kretschmann.
-                        </p>
-                        <p>
-                        A direção ficou com James Mangold, de Logan e Ford vs. Ferrari. Esta será a primeira vez que um filme da franquia Indiana Jones não é dirigido por Steven Spielberg. John Williams, que criou o tema para Os Caçadores da Arca Perdida em 1981, também está encarregado da trilha sonora do novo longa.
-                        </p>
-                        <p>
-                        Indiana Jones e o Chamado do Destino deve chegar aos cinemas em 30 de junho de 2023.
-                        </p>
-                        <p>
-                        Nomes que confirmados para a CCXP22 incluem os atores Keanu Reeves, Zoë Saldana, Pedro Pascal, Paul Rudd, Evangeline Lilly, Jonathan Majors, Jenna Ortega, Gwendoline Christie, Noah Centineo, Kirby Howell-Baptiste e Bella Ramsey, o elenco do Porta dos Fundos, os cineastas Dave Filoni e Jon Favreau, os produtores Kevin Feige e Jon Landau, o streamer Gaulês, os quadrinistas Jim Starlin, Mark Waid, Aimée de Jongh, Laerte, FabienToulmé, Marcello Quintanilha, Jim Cheung e muitos outros.
-                        </p>
-                        <p>
-                        A CCXP22 acontece de 1 a 4 de dezembro e os ingressos podem ser adquiridos no site Mundo Ticket.
-                        </p>    
+                </figure>   
+                <hgroup class="col-lg-5 py-3">
+                    <h5>Indiana Jones e o Chamado do Destino ganha título e trailer na CCXP22</h5>
+                    <h6>Por <a href="../autores.php?#nicogarofalo">NICO GARÓFALO</a>  01/12/2022</h6>
+                    <!--https://www.omelete.com.br/autores/nico-garofalo -->
+                </hgroup>
+                <div class="col-lg-3 py-4">
+                    <div class="row ">
+                        <div class="col-6 border">LANÇAMENTO</div>
+                        <div class="col-3 border">AÇAO</div>
                     </div>
                 </div>
+                <p class="col-8">
+                    Indiana Jones está de volta! Durante a CCXP22, o quinto filme do arqueólogo mais amado da cultura pop teve seu primeiro trailer revelado. Além de trazer o retorno de Harrison Ford a um dos papéis mais icônicos de sua carreira depois de 14 anos, a prévia revelou também o título oficial da nova sequência: Indiana Jones e o Chamado do Destino. Assista acima:
+                </p>
+                <p class="col-8">
+                O quinto Indiana Jones contará com o retorno de Harrison Ford ao lado de um elenco repleto de estrelas formado por Antonio Banderas, Phoebe Waller-Bridge, Mads Mikkelsen, Boyd Holbrook e Thomas Kretschmann.
+                </p>
+                <p class="col-8">
+                A direção ficou com James Mangold, de Logan e Ford vs. Ferrari. Esta será a primeira vez que um filme da franquia Indiana Jones não é dirigido por Steven Spielberg. John Williams, que criou o tema para Os Caçadores da Arca Perdida em 1981, também está encarregado da trilha sonora do novo longa.
+                </p>
+                <p class="col-8">
+                Indiana Jones e o Chamado do Destino deve chegar aos cinemas em 30 de junho de 2023.
+                </p>
+                <p class="col-8">
+                Nomes que confirmados para a CCXP22 incluem os atores Keanu Reeves, Zoë Saldana, Pedro Pascal, Paul Rudd, Evangeline Lilly, Jonathan Majors, Jenna Ortega, Gwendoline Christie, Noah Centineo, Kirby Howell-Baptiste e Bella Ramsey, o elenco do Porta dos Fundos, os cineastas Dave Filoni e Jon Favreau, os produtores Kevin Feige e Jon Landau, o streamer Gaulês, os quadrinistas Jim Starlin, Mark Waid, Aimée de Jongh, Laerte, FabienToulmé, Marcello Quintanilha, Jim Cheung e muitos outros.
+                </p>
+                <p class="col-8">
+                A CCXP22 acontece de 1 a 4 de dezembro e os ingressos podem ser adquiridos no site Mundo Ticket.
+                </p>
                 <div class="row justify-content-center">
                     <div class="col-8">
                         <p>  </p>

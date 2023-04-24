@@ -49,8 +49,8 @@
       <article class="col-12 col-sm-6 col-lg-6">
         <figure class="text-center">
             <img src="img/streaming/deep.png" class="img-fluid" alt="Capa do Filme" >
+            <figcaption class="d-none">Capa do filme deep</figcaption>
         </figure>
-        <div class=" row text-left ">
           <div class="row">
             <hgroup class="col-lg-9">
               <h4 class="cor-letra">Como thriller erótico, Águas Profundas é uma ótima comédia de costumes </h4>
@@ -61,7 +61,6 @@
               <h6 class="col-12 border text-light cor-botao text-center ">PRIME VIDEO</h6 >
             </div>
           </div>
-        </div>
         <p>Águas Profundas era uma proposição bizarra desde o começo: um thriller erótico inspirado por um livro da autora de Carol (Patricia Highsmith), escrito pelos roteiristas de Mais Estranho que a Ficção (Zach Helm) e Euphoria (Sam Levinson), dirigido pelo responsável por Proposta Indecente e Atração Fatal (Adrian Lyne) e protagonizado pelo (já ex-)casal da vida real Ben Affleck e Ana de Armas. Como diria Natasha Lyonne naquela cena de Boneca Russa eternizada em memes no Twitter: “Que conceito”.</p>
         <div class="text-end">
             <a href="noticia-filme.php?cod=4">Ler Mais</a>

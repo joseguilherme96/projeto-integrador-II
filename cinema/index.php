@@ -12,14 +12,12 @@
 <body>
 <?php include "../nav.php"?>
   <div class="container">
-    <div class="row">
+    <section class="row">
       <div class="col-12 cor-letra">
         <a href="../index.php" class="text-decoration-none cor-letra">Home</a> / <a href="index.php" class="text-decoration-none cor-letra">Cinema</a>
       </div>
-    </div>
-    <section>
-    <?php include "../barra-de-pesquisa.php";?>
     </section>
+    <?php include "../barra-de-pesquisa.php";?>
     <section class="row">
       <article>
         <h2 class="col-12 cor-letra text-center">CINEMA</h2>
@@ -76,40 +74,35 @@
   <section id="cinema">
     <article>
       <h2 class="cor-letra">CINEMA</h2>
-  <div class="row text-center">
-    <div class=" col-sm-5 col-lg-12">
-    <a href="noticia-filme.php?cod=1">
-      <picture >
-        <source srcset="img/banner-cinema.jpg" class="img-fluid" media="(min-width:992px)">
-        <img src="img/indiana-jones.jpg" class="img-fluid" alt="Banner Cinema">
-        </a>
-        <figcaption class="">Fonte imagem em https://www.nerdview.com.br/2022/12/asista-ao-trailer-oficial-de-indiana.html</figcaption>
-      </picture>
-      
-    </div>
-    <div class="col-12 col-sm-5 col-lg-12">
-      <div class="row ">
-        <p>
-        Indiana Jones está de volta! Durante a CCXP22, o quinto filme do arqueólogo mais amado da cultura pop teve seu primeiro trailer revelado. Além de trazer o retorno de Harrison Ford a um dos papéis mais icônicos de sua carreira depois de 14 anos, a prévia revelou também o título oficial da nova sequência: Indiana Jones e o Chamado do Destino
-        </p>  
-      </div>
-      <div class="row justify-content-center ">
-      <div class="cor-botao col-5 col-lg-2 text-center col-sm-7 m-1">
-            <a href="literatura.php" class="text-decoration-none text-light">LANÇAMENTO</a>
+          <a href="noticia-filme.php?cod=1">
+        <picture class=" row text-center">
+          <source srcset="img/banner-cinema.jpg" class="img-fluid" media="(min-width:992px)">
+          <img src="img/indiana-jones.jpg" class="img-fluid" alt="Banner Cinema">
+          </a>
+          <figcaption class="">Fonte imagem em https://www.nerdview.com.br/2022/12/asista-ao-trailer-oficial-de-indiana.html</figcaption>
+        </picture>
+        <div class="col-12 col-sm-5 col-lg-12">
+          <div class="row ">
+            <p>
+            Indiana Jones está de volta! Durante a CCXP22, o quinto filme do arqueólogo mais amado da cultura pop teve seu primeiro trailer revelado. Além de trazer o retorno de Harrison Ford a um dos papéis mais icônicos de sua carreira depois de 14 anos, a prévia revelou também o título oficial da nova sequência: Indiana Jones e o Chamado do Destino
+            </p>  
           </div>
-          <div class="cor-botao col-5 col-lg-2 text-center col-sm-3 m-1">
-            <a href="literatura.php" class="text-decoration-none text-light">AÇÃO</a>
+          <div class="row justify-content-center ">
+            <div class="cor-botao col-5 col-lg-2 text-center col-sm-7 m-1">
+                  <a href="literatura.php" class="text-decoration-none text-light">LANÇAMENTO</a>
+                </div>
+                <div class="cor-botao col-5 col-lg-2 text-center col-sm-3 m-1">
+                  <a href="literatura.php" class="text-decoration-none text-light">AÇÃO</a>
+                </div>
           </div>
-      </div>
-      <div>
-        <i class="bi bi-circle cor-letra"></i>
-        <i class="bi bi-circle cor-letra" ></i>
-        <i class="bi bi-circle cor-letra"></i>
-      </div>
-    </div>
-  </div>
-  </article>
-</section>
+          <div>
+            <i class="bi bi-circle cor-letra"></i>
+            <i class="bi bi-circle cor-letra" ></i>
+            <i class="bi bi-circle cor-letra"></i>
+          </div>
+        </div>
+    </article>
+  </section>
 <section id="streamming">
   <div class="row">
     <div class="col">

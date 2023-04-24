@@ -11,6 +11,7 @@
       border-width: 10px;
     }
 </style>
+<header>
   <nav class="navbar navbar-expand-lg  sticky-top border ">
     <div class="container">
       <a class="navbar-brand" href="#"><span class="text-warning">PM</span>A&M</a> <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbarSupportedContent" data-bs-toggle="collapse" type="button"><span class="navbar-toggler-icon"></span></button>
@@ -85,13 +86,11 @@
             <li class="nav-item">
               <a class="nav-link" href="/projeto-integrador-II-main/autores.php">Referências</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/projeto-integrador-II-main/wireframes-html">Wireframes</a>
-            </li>
           </ul>
         </div>
         </ul>
       </div>
     </div>
   </nav>
+  </header>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>

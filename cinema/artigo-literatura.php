@@ -12,11 +12,9 @@
 </head>
 <body>
     <?php include "../nav.php" ?>
-    <div class="container ">
-        <section class="row cor-letra">
-            <div class="col-12">
-                <a href="../index.php" class="cor-letra">Home</a> / <a href="index.php" class="cor-letra">Cinema</a> / <a href="literatura.php" class="cor-letra">Literatura</a> / <a href="artigo-literatura.php" class="cor-letra">Artigo</a>
-            </div>
+    <div class="container">
+        <section class="col-12 cor-letra">
+            <a href="../index.php" class="cor-letra">Home</a> / <a href="index.php" class="cor-letra col-3">Cinema</a> / <a href="literatura.php" class="cor-letra">Literatura</a> / <a href="artigo-literatura.php" class="cor-letra">Artigo</a>  
         </section>
         <?php include "../barra-de-pesquisa.php"; ?>
         <section>
@@ -24,55 +22,49 @@
             <?php if (isset($_GET['cod'])) {
                 if ($_GET['cod'] == 1) {
             ?>
-            <article class="row">
+            <article class="row justify-content-center">
                 <figure class="col-12 col-sm-12 col-lg-12 text-start text-lg-end">
                     <img src="img/artigos/banner-jogador-numero-1.jpg" class="img-fluid">
                     <figcaption class="text-center"><b>Fonte imagem em </b> https://www.hbomax.com/br/pt/feature/urn:hbo:feature:GX9q5dgf0LMILwgEAAAF0</figcaption>
                 </figure>
-                <div class="row justify-content-center">
-                    <hgroup class="col-lg-5">
-                        <h4 class="cor-letra">Jogador Nº 1 | Crítica </h4>
-                        <h5 class="cor-letra">A volta do Steven Spielberg moleque</h5>
-                        <h6>Por <a href="../autores.php?#omelete">Omelete</a> 19/03/2018</h6>
-                    </hgroup>
-                    <div class="col-lg-3">
-                        <div class="row ">
-                            <div class="cor-botao col-5 col-sm-10 col-lg-8 text-center   mt-2">
-                                <a href="" class="text-decoration-none text-light">FICÇÃO CIENTIFICA</a>
-                            </div>
-                        </div>
-                    </div>
+                <hgroup class="col-lg-5">
+                    <h4 class="cor-letra">Jogador Nº 1 | Crítica </h4>
+                    <h5 class="cor-letra">A volta do Steven Spielberg moleque</h5>
+                    <h6>Por <a href="../autores.php?#omelete">Omelete</a> 19/03/2018</h6>
+                </hgroup>
+                <div class=" col-lg-3  text-center  mt-2">
+                    <a href="" class="text-decoration-none text-light cor-botao p-1">FICÇÃO CIENTIFICA</a>
                 </div>
-                <div class="row justify-content-center">
-                    <div class="col-8">
-                        <p>Ninguém melhor que Steven Spielberg para levar às telas a adaptação de Jogador Nº 1 de Ernest Cline. O cineasta, afinal, é a maior influência (o maior responsável, na verdade) por tudo aquilo que inspirou o autor do livro a criar sua distópica obra devota aos anos 1980. Mas não é o Spielberg "adulto", o histórico e dramático, que vemos aqui no comando de Jogador Nº 1, mas o cineasta moleque, aquele de Tubarão, E.T., Contatos Imediatos e Indiana Jones... o que torna a experiência ainda melhor.</p>
-                        <p>Spielberg não apenas entende o milhar de referências do livro, mas ajudou a criá-las direta ou indiretamente - assim como a linguagem em que Cline se apoia em seu romance. O cineasta era sinônimo de aventura infanto-juvenil (juntamente com George Lucas, Robert Zemeckis, Richard Donner e tantos outros que transformaram o mundo e a cultura pop quatro décadas atrás) e aqui ele se recorda disso. O mestre retorna a sua melhor forma, homenageando essa época tão importante, em que os recém-empoderados diretores - que nos anos 70 passaram de coadjuvantes dos produtores a verdadeiros chefes criativos -, ganharam o direito de sonhar mais alto, com a indústria abrindo seus cofres para a fantasia e ficção científica, dando vida a imagens até então apenas registradas nas páginas das histórias em quadrinhos.</p>
-                        <p>Com tal pedigree, Jogador Nº 1 é muito mais do que a habitual e cansada colagem de referências pop que temos aos montes hoje. A nostalgia é uma desculpa, não um objetivo. É no mundo criado (ou seria cocriado?) por Cline que Spielberg encontra a oportunidade para revisitar a inocência do passado. Até em estrutura o filme é um grande retorno aos clássicos oitentistas - e o final igualmente simples e genial é prova mais que perfeita disso.</p>
-                        <p>Mas Jogador Nº 1 também é a forma que o cineasta encontrou para se atualizar. Ao ampliar as referências do filme ele mostra que não apenas entende as preferências de uma nova geração como também seu comportamento. O roteiro de Zak Penn e do próprio Ernest Cline é repleto de momentos sutis sobre quem somos hoje - sobre a sociedade online, conectada e ao mesmo tempo desligada da realidade.</p>
-                        <p>No filme, como no livro, o ano é 2045. Nele, sobreviventes do período mais sombrio da humanidade precisam sobreviver em meio ao desemprego e a fome. Nessa realidade vive Wade Watts, um garoto pobre e órfão de 17 anos que, como escapismo, faz o mesmo que tantos outros milhões como ele: passa horas e horas conectado ao OASIS: um mundo online em que a realidade virtual turva os sentidos e coloca na busca por itens e moedas a satisfação que o corpo costumava encontrar de outras maneiras décadas atrás.</p>
-                        <p>Ty Sheridan faz um bom Wade Watts em sua jornada para encontrar as três pistas que o falecido criador do sistema, James Halliday (um caricato Mark Rylance), deixou para o mundo. Ao vencedor, o controle sobre o OASIS - algo que move o industrialista Nolan Sorrento (Ben Mendelsohn, em papel que já virou recorrente para ele).</p>
-                        <p>Há um maior equilíbrio na adaptação entre os mundos real e virtual, aproveitando os atores - que no OASIS encarnam avatares digitais. Há menos desafios e subtramas também, como esperado, mas o resultado, sob o comando de Spielberg, é muito bem amarrado. Cada referência tem um sentido e a qualidade do mundo virtual é estarrecedora, algo surpreendente em tempos em que basicamente todos os blockbusters do cinema contêm cenas quase que totalmente digitais. O OASIS é tão perfeito que em determinado momento, quando surge um ator em cena, há uma inversão no chamado "vale da estranheza". O humano parece irreal perante o digital. Spielberg mergulha tão fundo no mundo de Jogador Nº 1 que os limites se tornam borrados. Passado, presente, nostalgia, realidade, digital e orgânico fundem-se em um espetáculo visual digno de seus marcos passados. O ciclo ganha um reboot e - felizmente - o mestre está com o dedo no botão.</p>
-                    </div>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-8">
-                        <h3 class="cor-letra">Disponíveis em</h3>
-                    </div>
-                </div>
+                <p class="col-8">Ninguém melhor que Steven Spielberg para levar às telas a adaptação de Jogador Nº 1 de Ernest Cline. O cineasta, afinal, é a maior influência (o maior responsável, na verdade) por tudo aquilo que inspirou o autor do livro a criar sua distópica obra devota aos anos 1980. Mas não é o Spielberg "adulto", o histórico e dramático, que vemos aqui no comando de Jogador Nº 1, mas o cineasta moleque, aquele de Tubarão, E.T., Contatos Imediatos e Indiana Jones... o que torna a experiência ainda melhor.</p>
+                <p class="col-8">Spielberg não apenas entende o milhar de referências do livro, mas ajudou a criá-las direta ou indiretamente - assim como a linguagem em que Cline se apoia em seu romance. O cineasta era sinônimo de aventura infanto-juvenil (juntamente com George Lucas, Robert Zemeckis, Richard Donner e tantos outros que transformaram o mundo e a cultura pop quatro décadas atrás) e aqui ele se recorda disso. O mestre retorna a sua melhor forma, homenageando essa época tão importante, em que os recém-empoderados diretores - que nos anos 70 passaram de coadjuvantes dos produtores a verdadeiros chefes criativos -, ganharam o direito de sonhar mais alto, com a indústria abrindo seus cofres para a fantasia e ficção científica, dando vida a imagens até então apenas registradas nas páginas das histórias em quadrinhos.</p>
+                <p class="col-8">Com tal pedigree, Jogador Nº 1 é muito mais do que a habitual e cansada colagem de referências pop que temos aos montes hoje. A nostalgia é uma desculpa, não um objetivo. É no mundo criado (ou seria cocriado?) por Cline que Spielberg encontra a oportunidade para revisitar a inocência do passado. Até em estrutura o filme é um grande retorno aos clássicos oitentistas - e o final igualmente simples e genial é prova mais que perfeita disso.</p>
+                <p class="col-8">Mas Jogador Nº 1 também é a forma que o cineasta encontrou para se atualizar. Ao ampliar as referências do filme ele mostra que não apenas entende as preferências de uma nova geração como também seu comportamento. O roteiro de Zak Penn e do próprio Ernest Cline é repleto de momentos sutis sobre quem somos hoje - sobre a sociedade online, conectada e ao mesmo tempo desligada da realidade.</p>
+                <p class="col-8">No filme, como no livro, o ano é 2045. Nele, sobreviventes do período mais sombrio da humanidade precisam sobreviver em meio ao desemprego e a fome. Nessa realidade vive Wade Watts, um garoto pobre e órfão de 17 anos que, como escapismo, faz o mesmo que tantos outros milhões como ele: passa horas e horas conectado ao OASIS: um mundo online em que a realidade virtual turva os sentidos e coloca na busca por itens e moedas a satisfação que o corpo costumava encontrar de outras maneiras décadas atrás.</p>
+                <p class="col-8">Ty Sheridan faz um bom Wade Watts em sua jornada para encontrar as três pistas que o falecido criador do sistema, James Halliday (um caricato Mark Rylance), deixou para o mundo. Ao vencedor, o controle sobre o OASIS - algo que move o industrialista Nolan Sorrento (Ben Mendelsohn, em papel que já virou recorrente para ele).</p>
+                <p class="col-8">Há um maior equilíbrio na adaptação entre os mundos real e virtual, aproveitando os atores - que no OASIS encarnam avatares digitais. Há menos desafios e subtramas também, como esperado, mas o resultado, sob o comando de Spielberg, é muito bem amarrado. Cada referência tem um sentido e a qualidade do mundo virtual é estarrecedora, algo surpreendente em tempos em que basicamente todos os blockbusters do cinema contêm cenas quase que totalmente digitais. O OASIS é tão perfeito que em determinado momento, quando surge um ator em cena, há uma inversão no chamado "vale da estranheza". O humano parece irreal perante o digital. Spielberg mergulha tão fundo no mundo de Jogador Nº 1 que os limites se tornam borrados. Passado, presente, nostalgia, realidade, digital e orgânico fundem-se em um espetáculo visual digno de seus marcos passados. O ciclo ganha um reboot e - felizmente - o mestre está com o dedo no botão.</p>
+                <h3 class="cor-letra col-8">Disponíveis em</h3>
                 <div class="row justify-content-center">
                     <div class="col-8">
                         <div class="row justify-content-start">
+                            <figure class="col-2">
+                                <a href="https://www.primevideo.com/dp/amzn1.dv.gti.78b680ff-76d5-f11d-300c-65263d116eaa?autoplay=0&ref_=atv_cf_strg_wb" target="blank">
+                                    <img src="img/icones-streaming/prime-video.png" class="img-fluid" alt="Logo Prime Video">
+                                </a>
+                            </figure>
+                            <figure class="col-2">
+                                <a href="http://www.youtube.com/watch?v=dGurgPE-wb8" target="blank">
+                                    <img src="img/icones-streaming/youtube.png" class="img-fluid" alt="Logo Youtube">
+                                </a>
+                            </figure>
                             <div class="col-2">
-                                <a href="https://www.primevideo.com/dp/amzn1.dv.gti.78b680ff-76d5-f11d-300c-65263d116eaa?autoplay=0&ref_=atv_cf_strg_wb" target="blank"><img src="img/icones-streaming/prime-video.png" class="img-fluid" alt="Logo Prime Video"></a>
+                                <a href="https://tv.apple.com/br/movie/ready-player-one/umc.cmc.295lpojxtonf6dqc4za2i97lr?action=play" target="blank">
+                                    <img src="img/icones-streaming/apple-tv.png" class="img-fluid" alt="Logo Apple Tv">
+                                </a>
                             </div>
                             <div class="col-2">
-                                <a href="http://www.youtube.com/watch?v=dGurgPE-wb8" target="blank"><img src="img/icones-streaming/youtube.png" class="img-fluid" alt="Logo Youtube"></a>
-                            </div>
-                            <div class="col-2">
-                                <a href="https://tv.apple.com/br/movie/ready-player-one/umc.cmc.295lpojxtonf6dqc4za2i97lr?action=play" target="blank"><img src="img/icones-streaming/apple-tv.png" class="img-fluid" alt="Logo Apple Tv"></a>
-                            </div>
-                            <div class="col-2">
-                                <a href="https://play.hbomax.com/page/urn:hbo:page:GX9q5dgf0LMILwgEAAAF0:type:feature?source=googleHBOMAX&action=open" target="blank"> <img src="img/icones-streaming/hbo-max-icon.jpg" class="img-fluid" alt="Logo HBO"></a>
+                                <a href="https://play.hbomax.com/page/urn:hbo:page:GX9q5dgf0LMILwgEAAAF0:type:feature?source=googleHBOMAX&action=open" target="blank"> 
+                                    <img src="img/icones-streaming/hbo-max-icon.jpg" class="img-fluid" alt="Logo HBO">
+                                </a>
                             </div>
                             <div class="col-4 text-end">
                                 <i class="bi bi-share fs-1 cor-letra"></i>
