@@ -12,91 +12,94 @@
     <title>Séries e TV</title>
 </head>
 <body>
-    
     <?php include "../nav.php"?>
+
     <div class="container">
-        <section>
-                <h2 class="text-center">Séries e TV</h1>
-            <article>
-                <div class="row text-start cor-fundo">
-                    <div class="col 12">
+            <h2 class="text-center">Séries e TV</h2>
+            <section>
+                <article class="row text-start cor-fundo">
+                
+                
                         <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                         <a class="text-decoration-none cor-letra" href="noticias.php"><h2 class="d-inline">Globo de Ouro negocia para voltar à TV em 2023</h2></a>
-                    </div>
+                
                         <a class="text-dark text-decoration-none" href="noticias.php"><p>Depois de acontecer em uma cerimônia privada em 2022, o Globo de Ouro negocia sua volta à TV...</p></a>  
-                </div>
-                <div class="row">
-                    <figure class="text-center">
-                        <a href="noticias.php"><img src="../img/globoouro.png" class="img-fluid" alt="Prêmio globo de ouro"></a>
-                        <figcaption>Troféus do Globo de Ouro</figcaption>
-                    </figure>
-                </div>
-            </article>
+        
+                        <figure class="text-center">
+                            <a href="noticias.php"><img src="../img/globoouro.png" class="img-fluid" alt="Prêmio globo de ouro"></a>
+                            <figcaption>Troféus do Globo de Ouro</figcaption>
+                        </figure>
+                
+                </article>
+            </section>
 
-            <div class="row">
-                <article class="col-12 col-sm-6">
-                    <div class="row">
-                        <figure class="col-12 col-sm-12 pt-5 mt-sm-3" height="300">
+            
+            <section class="row">
+                <article class="col-12 col-sm-6 ">
+                
+                        <figure class="col-12 col-sm-12 pt-5 mt-sm-3 pb-3">
                             <a href="atores.php"><img src="../img/seubarriga.png" class="img-fluid" alt="Édgar Vivar na CCXP22"></a> 
                             <figcaption>No Palco Thunder by Cinemark Club, Edgar Vivar falou sobre carreira na Turma do Chaves</figcaption>
                         </figure>
-                        <div class="col-12 col-sm-12 pt-3 text-start cor-fundo pb-3">
-                            <div class="col-12">
-                                <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                                <a class="text-decoration-none cor-letra" href="atores.php"><h2 class="d-inline">Atores</h2></a>
-                            </div>
-                                <a class="text-dark text-decoration-none" href="atores.php"><p>Na CCXP22 Seu Barriga emociona CCXP22 em painel com tom de despedida...O ator mexicano interpretou o dono da vila do Chaves e ficou famoso no Brasil com seu bordão: "pague os 14 meses de aluguel!".Diz ele:"Vim muitas vezes para cá, sou praticamente brasileiro."</p></a>
+                        
+                        
+                            
+                            <a class="text-decoration-none cor-letra text-start cor-fundo d-block" href="atores.php"><i class="bi bi-square-fill fs-1 d-inline cor-letra text-start cor-fundo"></i><h2 class="d-inline">Atores</h2></a>
+                            
+                            <a class="text-dark text-decoration-none pb-3 text-start cor-fundo " href="atores.php"><p class="cor-fundo">Na CCXP22 Seu Barriga emociona CCXP22 em painel com tom de despedida...O ator mexicano interpretou o dono da vila do Chaves e ficou famoso no Brasil com seu bordão: "pague os 14 meses de aluguel!".Diz ele:"Vim muitas vezes para cá, sou praticamente brasileiro."</p></a>
+                        
+                    
+                </article>
+
+                <article class="col-12 col-sm-6">
+                    
+                        <figure class="col-12 col-sm-12 pt-5 mt-sm-3">
+                            <a href="atores.php"><img src="../img/lacasa22.jpg" class="img-fluid" alt="Édgar Vivar na CCXP22"></a> 
+                            <figcaption>No Palco Thunder by Cinemark Club, Edgar Vivar falou sobre carreira na Turma do Chaves</figcaption>
+                        </figure>
+                        <div class="pt-3 text-start cor-fundo pb-3">
+                        
+                            <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
+                            <a class="text-decoration-none cor-letra" href="atores.php"><h2 class="d-inline">Resenha: Lacasa de papel</h2></a>
+                
+                            <a class="text-dark text-decoration-none" href="atores.php"><p>La Casa de Papel, da Netflix, conta a história de nove habilidosos ladrões,que se trancam na Casa da Moeda da Espanha, com o ambicioso plano de realizar o maior roubo da história...</p></a>
+                        </div>
+                    
+                </article>
+                <article class="col-12 col-sm-6">
+                    <div class="row">
+                        <figure class="col-12 col-sm-12 pt-5 mt-sm-3">
+                            <a href="atores.php"><img src="../img/casaescuro.png" class="img-fluid" alt="Édgar Vivar na CCXP22"></a> 
+                            <figcaption>No Palco Thunder by Cinemark Club, Edgar Vivar falou sobre carreira na Turma do Chaves</figcaption>
+                        </figure>
+                        <div class="pt-3 text-start cor-fundo pb-3">
+                        
+                            <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
+                            <a class="text-decoration-none cor-letra" href="atores.php"><h2 class="d-inline">Crítica à série Game of Thrones:A Casa do Dragão</h2></a>
+                
+                            <a class="text-dark text-decoration-none" href="atores.php"><p>Fãs de Game of Thrones criticam o epsódio A casa do Dragão, declarando que as cenas estavam pouco iluminadas, causando dificuldade de enxergar...</p></a>
                         </div>
                     </div>
                 </article>
                 <article class="col-12 col-sm-6">
                     <div class="row">
-                        <figure class="col-12 col-sm-12 pt-5 text-center ms-3 col-lg-12">
-                            <a href="resenha.php"><img src="../img/lacasa22.jpg" class="img-fluid mt-3" alt="Capa da série La casa de papel"></a>
-                            <figcaption>La Casa de Papel,história de habilidosos Ladrões mascarados</figcaption>
+                        <figure class="col-12 col-sm-12 pt-5 mt-sm-3">
+                            <a href="atores.php"><img src="../img/you2.jpg" class="img-fluid" alt="Édgar Vivar na CCXP22"></a> 
+                            <figcaption>No Palco Thunder by Cinemark Club, Edgar Vivar falou sobre carreira na Turma do Chaves</figcaption>
                         </figure>
-                        <div class="col-12 col-sm-12 pt-3 text-start cor-fundo ms-3 col-lg-12">
-                            <div class="col 12">
-                                <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                                <a class="text-decoration-none cor-letra" href="resenha.php"><h2 class="d-inline">Resenha da série La casa de Papel</h2></a>
-                            </div>
-                            <a class="text-dark text-decoration-none " href="resenha.php"><p>La Casa de Papel, da Netflix, conta a história de nove habilidosos ladrões,que se trancam na Casa da Moeda da Espanha, com o ambicioso plano de realizar o maior roubo da história...</p></a>
+                        <div class="pt-3 text-start cor-fundo pb-3">
+                        
+                            <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
+                            <a class="text-decoration-none cor-letra" href="atores.php"><h2 class="d-inline">4ª temporada de You...</h2></a>
+                
+                            <a class="text-dark text-decoration-none" href="atores.php"><p>Lançamentos exclusivos da Netflix como a 4ª Temporada de You,prometem impressionar o público,a primeira com data de lançamento prevista para 10 de fevereiro de 2023. Estrelada por Penn Badgley You teve sua estreia em 2018 e acompanha um carismático psicopata stalke...</p></a>
                         </div>
                     </div>
                 </article>
-                <article class="col-12 col-sm-6">
-                    <div class="row">
-                        <figure class="col-12 col-sm-12 pt-5 text-center">
-                            <a href="criticas.php"><img src="../img/casaescuro.png" class="img-fluid" alt="Cena criticada por fãs por ser escura demais"></a>
-                            <figcaption>Game of Thrones: episódio escuro</figcaption>
-                        </figure>
-                        <div class="col-12 col-sm-12 pt-3 text-start cor-fundo p-2 ">
-                            <div class="col 12">
-                                <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                                <a class="text-decoration-none cor-letra" href="criticas.php"><h2 class="d-inline">Crítica à série Game of Thrones:A Casa do Dragão</h2></a>
-                            </div>
-                            <a class="text-dark text-decoration-none" href="criticas.php"><p>Fãs de Game of Thrones criticam o epsódio A casa do Dragão, declarando que as cenas estavam pouco iluminadas, causando dificuldade de enxergar...</p></a>
-                        </div>
-                    </div>
-                </article>
-                <article class="col-12 col-sm-6">
-                    <div class="row">
-                        <figure class="col-12 col-sm-12 pt-5 text-center ms-4">
-                            <a href="lançamentos.php"><img src="../img/you2.jpg" class="img-fluid" alt="Capa da série You"></a>
-                            <figcaption>Capa da Série You disponível na Netflix.</figcaption>
-                        </figure>
-                        <div class="col-12 col-sm-12 pt-3 text-start cor-fundo ms-4 mb-3">
-                            <div class="col 12">
-                                <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                                <a class="text-decoration-none cor-letra" href="lançamentos.php"><h2 class="d-inline">4ª temporada de You...</h2></a>
-                            </div>
-                            <a class="text-dark text-decoration-none" href="lançamentos.php"><p>Lançamentos exclusivos da Netflix como a 4ª Temporada de You,prometem impressionar o público,a primeira com data de lançamento prevista para 10 de fevereiro de 2023. Estrelada por Penn Badgley You teve sua estreia em 2018 e acompanha um carismático psicopata stalke...</p></a>
-                        </div>
-                    </div>
-                </article>
-            </div>  
-        </section>
-    </div> 
+            </section>  
+    </div>
+
+ 
     <?php include "../rodape.php"?>     
 </body>
 </html>
