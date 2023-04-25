@@ -18,33 +18,57 @@
 </nav>
 
 <section>
-  <h1> TOP Five</h1>
+  <div class="container">
+
+  <div class="row">
+    <div class="col-12 cor-letra">
+      <a href="../pg.html" class="text-decoration-none cor-letra">Home</a> / <a href="autores.html" class="text-decoration-none cor-letra">Autores</a>/ <a href="criticas.html" class="text-decoration-none cor-letra">Criticas</a> / <a href="materia.html" class="text-decoration-none cor-letra">Materias
+      / <a href="topfive.html" class="text-decoration-none cor-letra">Top Five</a>
+    
+    </div>
+  </div>
+  <div class="cor-fundo">
+  <h1 class="col-12 cor-letra text-center">Top Five</h1>
+</div>
+ 
+
 <article class="row pt-5 ">
-    <div class="container">
+
+
         <div class="col-12 col-sm-6 col-lg-12 text-center pt-5 ">
           <figure>
           <img src=" ../HQS/img/t1.jpg" class="img-fluid" alt="TOP1">
           <figcaption> top five </figcaption>
           </figure>
         </div>
-
+      
         <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start ">
+          <div class="cor-fundo">
+        <h1 class="cor-letra">Dias Gigantes</h1>
           <p>Dias Gigantes começou como uma webcomic, derivada de uma HQ anterior escrita e desenhada por Allison: Scary-Go-Round. Esther fazia parte do elenco coadjuvante da anterior e se tornou uma das protagonistas aqui, e seguiu por um tom diferente, trocando o sobrenatural pelo humor cotidiano.
             A webcomic evoluiu para uma minissérie em seis edições, da qual os dois últimos capítulos abrem este volume. Eles são melhores que os dois últimos, sobretudo pelas ilustrações de Lissa Treiman.
             Animadora da Disney (está na equipe de Enrolados, Zootopia e outros), ela entrega um visual detalhado, muito expressivo e deliciosamente cartunesco.
             Os dois capítulos finais deste volume são os que abrem o título mensal. O ilustrador passou a ser Max Sarin, com desenhos menos sofisticados e inspirados – tanto nas expressões, como nos cenários. Não é um mau trabalho, mas a comparação com a primeira metade do álbum é desfavorável. </p>
             <a class="text-decoration-none cor-letra" href=" ../autores.php?#renatofelix">
               <p>Renato Felix,16/08/2021.</p> </a>
+            </div>
         </div>
+     
 
 </article>
 
-<article>
+<article class="row pt-5 ">
 
-        <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center"> <img src=" ../HQS/img/t2.jpg" class="img-fluid" alt="TOP2">
+        <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center">
+          <figure>
+           <img src=" ../HQS/img/t2.jpg" class="img-fluid" alt="TOP2">
+           <figcaption>top Five</figcaption>
+          </figure>
         </div>
 
         <div class="col-12 col-sm-6 col-lg-12  pt-5 pb-5 text-start ">
+          <div class="cor-fundo">
+        <h1 class="cor-letra">Pompeo</h1>
           <p> Esta graphic novel é um dos últimos trabalhos de Pazienza, um dos criadores da revista italiana Frigidaire, antes de sua morte. O leitor brasileiro viu algumas de suas HQs curtas na revista Animal, da VHD Diffusion, no final dos anos 1980.
             Na obra, o leitor encontra o relato das dificuldades enfrentadas por um autor, tanto com as drogas, quanto com não aceitação à crítica ao seu trabalho.
             Pompeo é um artista amplamente aclamado e procurado para diversos trabalhos, inclusive dava aulas em uma escola de artes. Muitas de suas obras estão por toda a Itália, desde capas de CDs até cartazes de cinema, além das produções em quadrinhos.
@@ -57,14 +81,23 @@
             <a class="text-decoration-none cor-letra" href=" ../autores.php?#samirnaliato">
               <p>Samir Naliato,25/07/2022.</p>
             </a>
-        
+          </div>
         </div>
 </article>
 
       <article class="row pt-5 ">
-        <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center"> <img src=" ../HQS/img/t3.jpg" class="img-fluid" alt="TOP3">
+        <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center">
+          
+          <figure><img src=" ../HQS/img/t3.jpg" class="img-fluid" alt="TOP3">
+          <figcaption>top five</figcaption></figure>
         </div>
         <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start">
+          
+          <div class="cor-fundo">
+
+            <div class="row justify-content-center">
+              <div class="col-8">
+        <h1 class="cor-letra">Doce Jazz</h1>
           <p> Uma experiência pessoal serviu de base para a escrita do roteiro: Mylle Silva fez um intercâmbio no Japão durante seis meses. Na volta, após ter colecionado tantos momentos, sentiu a necessidade de contar essa história.
             Elisa desembarca no Japão, passa pela experiência de morar em um país tão diferente e ainda consegue construir boas amizades – além de integrar uma banda de Jazz.
             O roteiro funciona bem, porém é bastante conciso. O leitor poderia conhecer mais Elisa, entender melhor as relações que ela estabeleceu por meio da música, conhecer outros elementos dessa viagem, principalmente as diferenças culturais e dificuldades com o idioma.
@@ -73,16 +106,23 @@
             <a class="text-decoration-none cor-letra" href=" ../autores.php?#sergiocodespoti">
               <p>Sergio Codespoti,10/03/2022.</p>
             </a>
-          
+          </div>
         </div>
+      </div>
+    </div>
 </article>
 
-<article>
+<article class="row pt-5 ">
         <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center"> 
+          <figure>
           <img src=" ../HQS/img/t4.jpg" class="img-fluid" alt="TOP4">
+          <figcaption>top five</figcaption>
+        </figure>
         </div>
 
         <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start ">
+          <div class="cor-fundo">
+        <h1 class="cor-letra">Diarios de Amora</h1>
           <p> Os Diários de Amora é um quadrinho claramente destinado ao público infantil. Não há nada de mais na história, mas é justamente por sua simplicidade que pode conquistar um leitor mais experiente.
             Amora tem 10 anos e sonha em ser escritora. O encantamento acontece já nas primeiras páginas do quadrinho, pois a personagem é muito cativante, generosa, corajosa e determinada.
             É uma história para ler para alguma criança, capaz de aguçar a imaginação de meninas e de meninos, ao se deparar com uma garota sonhadora, inteligente e segura de si. Mas funciona também para adultos que apreciam uma linda trama que remete aos sonhos e mistérios da infância.
@@ -94,7 +134,7 @@
               <p>Samir Naliato,17/11/2022.</p>
             </a>
         </div>
-
+      </div>
 </article>
 
     </div>
