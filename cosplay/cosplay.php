@@ -26,7 +26,7 @@
 
 
         <article>
-        <a href="https://animenew.com.br/god-of-war-ragnarok-cosplay-impecavel-deixa-fas-surpresos/"><figure> <figcaption><img src=" imgcosplay /gowcosplay.jpg" alt="God of War Ragnarök Cosplay surpreende fãs da grande franquia, com o recém lançamendo do jogo God of War Ragnarök, que está sendo um sucesso absurdo, aclamada em todo o mundo, alguns comentarios positivos surgiram como este *A equipe envolvida na construção desses cosplays é simplesmente incrível*"> </a></figcaption> </figure>
+        <a href="https://animenew.com.br/god-of-war-ragnarok-cosplay-impecavel-deixa-fas-surpresos/"><figure> <figcaption><img src="imgcosplay/gowcosplay.jpg" alt="God of War Ragnarök Cosplay surpreende fãs da grande franquia, com o recém lançamendo do jogo God of War Ragnarök, que está sendo um sucesso absurdo, aclamada em todo o mundo, alguns comentarios positivos surgiram como este *A equipe envolvida na construção desses cosplays é simplesmente incrível*"> </a></figcaption> </figure>
         <h2>God of War Ragnarök</h2>
         <p>Cosplay surpreende fãs da grande franquia, com o recém lançamendo do jogo God of War Ragnarök, que está sendo um sucesso absurdo, aclamada em todo o mundo, alguns comentarios positivos surgiram como este "A equipe envolvida na construção desses cosplays é simplesmente incrível". </p>
         </article>
