@@ -9,8 +9,10 @@
 </head>
 <body>
 <nav><?php include "nav.php"?> </nav>
-    <main>
-        <section>
+
+    <main class="container justify-content-center">
+
+        <section class="row text-center col-12 pt-5">
             <h1>NORMAS DE UTILIZAÇÃO</h1>
             <p>POLÍTICA DE SEGURANÇA E PRIVACIDADE DO PORTAL DE NOTÍCIAS </p>
 

@@ -12,11 +12,12 @@
 
     <main class="container justify-content-center"> 
     
-      <section class="row text-center col-12 pt-5">
 
-        <h1> EVENTOS </h1>
+        <h1 class="text-center pt-5"> EVENTOS </h1>
         
-        <figure><figcaption><img src="imgcosplay/eventos.png" alt="Esta é uma imagem"></figcaption><figure>
+        <figure class="row text-center col-12 pt-5"><figcaption><img src="imgcosplay/eventos.png" alt="Esta é uma imagem"></figcaption><figure>
+
+      <section class="row text-center col-12 pt-5">
 
         <article class="col-12 col-sm-12 col-lg-6 col-xl-6 text-center  pt-5">
         <h2>E3</h2> <a href="https://e3expo.com"><figure> <figcaption><img src="imgcosplay/E3evento.png" alt=""></a></figcaption></figure>
@@ -28,6 +29,10 @@
         <h2>CCXP</h2> <a href="https://www.ccxp.com.br"> <figure> <figcaption><img src="imgcosplay/ccxp.png" alt=""> </a></figcaption></figure>
         <p>CCXP é um evento brasileiro de cultura pop nos moldes da San Diego Comic-Con cobrindo as principais áreas dessa indústria como: vídeo-games, histórias em quadrinhos, filmes e séries para TV. </p>
         </article>
+
+      </section>
+
+      <section class="row text-center col-12 pt-5">
 
         <article class="col-12 col-sm-12 col-lg-6 col-xl-6 text-center  pt-5">
         <h2>Summer Game Fast  </h2> <a href="https://www.summergamefest.com"><figure> <figcaption> <img src="imgcosplay/summergamerfast.png" alt=""> </a></figcaption></figure>
