@@ -19,8 +19,8 @@
   <div class="container">
   <div class="row">
     <div class="col-12 cor-letra">
-      <a href="../pg.html" class="text-decoration-none cor-letra">Home</a> / <a href="autores.html" class="text-decoration-none cor-letra">Autores</a>/ <a href="criticas.html" class="text-decoration-none cor-letra">Criticas</a> / <a href="materia.html" class="text-decoration-none cor-letra">Materias
-      / <a href="topfive.html" class="text-decoration-none cor-letra">Top Five  / <a href="ultimasnoticias.html" class="text-decoration-none cor-letra">Ultimas Noticias</a>
+      <a href="../pg.php" class="text-decoration-none cor-letra">Home</a> / <a href="autores.php" class="text-decoration-none cor-letra">Autores</a>/ <a href="criticas.php" class="text-decoration-none cor-letra">Criticas</a> / <a href="materia.php" class="text-decoration-none cor-letra">Materias
+      / <a href="topfive.php" class="text-decoration-none cor-letra">Top Five  / <a href="ultimasnoticias.php" class="text-decoration-none cor-letra">Ultimas Noticias</a>
     
     </div>
   </div>

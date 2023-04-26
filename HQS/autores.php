@@ -24,7 +24,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12 cor-letra">
-        <a href="../pg.html" class="text-decoration-none cor-letra">Home</a> / <a href="autores.html" class="text-decoration-none cor-letra">Autores</a>
+        <a href="../pg.php" class="text-decoration-none cor-letra">Home</a> / <a href="autores.php" class="text-decoration-none cor-letra">Autores</a>
       </div>
     </div>
     <h1 class="col-12 cor-letra text-center">Autores</h1>

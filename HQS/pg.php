@@ -1,107 +1,129 @@
-<!doctype html>
+
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
-  <meta charset='utf-8'>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>HQS</title>
-  <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
-  <link rel="stylesheet" href="../css/tema.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="../css/tema.css">
+    <title>HQS</title>
 </head>
 <body>
 
-<main>
+  <main>
 
-<nav>
-  <?php include "../nav.php" ?>
-</nav>
+  <nav><?php include "../nav.php"?>  </nav>
 
-<section>
-  <div class="container text-center">
-  
-            <h2>HQS</h2>
+    <div class="container">
 
-       
-            <article class="portfolio section-padding" id="portfolio">
-
-          <div class="row">
-            <div class="col-12 col-md-6 col-lg-6">
-              <div class="card text-light text-center bg-white pb-2">
-                <div class="card-body text-dark">
-                  <div class="img-area mb-3">
-                    <figure>
-                    <img alt="Noticias" class="img-fluid" src="../HQS/img/u1.jpg">
-                      <figcaption> noticias </figcaption>
-                      </figure>
-                      </div>
-                        <a href="ultimasnoticias.php">
-                    <h3 class="card-title">Noticia</h3>
-                  </a>
-                </div>
+            <div class="row">
+              <div class="col-12 cor-letra">
+                <a href="../pg.php" class="text-decoration-none cor-letra">Home</a> / <a href="autores.php" class="text-decoration-none cor-letra">Autores</a>/ <a href="criticas.php" class="text-decoration-none cor-letra">Criticas</a> / <a href="materia.php" class="text-decoration-none cor-letra">Materias</a>
+                / <a href="topfive.php" class="text-decoration-none cor-letra">Top Five</a>         / <a href="ultimas Noticias.php" class="text-decoration-none cor-letra">Ultimas Noticias</a>
+              
               </div>
             </div>
-            <div class="col-12 col-md-6 col-lg-6">
-              <div class="card text-light text-center bg-white pb-2">
-                <div class="card-body text-dark">
-                  <div class="img-area mb-3">
-                    <figure>
-                      <img alt="Top Five" class="img-fluid" src="../HQS/img/t1.jpg" height="225px" width="225px">
-                        <figcaption>top five </figcaption>
+
+            <section>
+
+              <h2 class="text-center cor-letra">HQS</h2>
+                <article >
+            
+                        <figure class="text-center">
+                            <a href="materia.php"><img src="../HQS/img/m1.jpg"img-fluid src="../HQS/img/c1.jpg" class="img-fluid" alt=" Aqui temos a imagem do CCXP22"></a>
+                            <figcaption>CCXP22</figcaption>
                         </figure>
-                      </div>
-                  <a href="topfive.php">
-                    <h3 class="card-title">Top Five</h3>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </article>
+            
+                <div class="row text-start cor-fundo">
 
-
-      <article class="portfolio section-padding" id="portfolio">
-        <div class="container">
-          <div class="row">
-            <div class="col-12 col-md-6 col-lg-4">
-              <div class="card text-light text-center bg-white pb-2">
-                <div class="card-body text-dark">
-                  <div class="img-area mb-3">
-                    <figure>
-                    <img alt="Critica" class="img-fluid" src="../HQS/img/c1.jpg" height="400px" width="400px">
-                    <figcaption>critica</figcaption>
-                       </figure>
-
-                  </div>
-
-                  <a href="critica.php">
-                    <h3 class="card-title">Critica</h3>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="col-12 col-md-6 col-lg-4">
-              <div class="card text-light text-center bg-white pb-2">
-                <div class="card-body text-dark">
-                  <div class="img-area mb-3">
-                    <figure>
-                  <img alt="Materia" class="img-fluid" src="../HQS/img/m1.jpg" height="225px" width="225px">
-                <figcaption>materia </figcaption>
-                  </figure>
-                </div>
-                  <a href="materia.php">
-                    <h3 class="card-title">Materia</h3>
-                  </a>
-                </div>
-              </div>
-            </div>
+                  <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
+                  <a class="text-decoration-none cor-letra" href="materia.php"><h2 class="d-inline">A Comic Con Experience (CCXP) 2022 começou na quinta-feira (1) e ocorre até o próximo domingo (4) na São Paulo Expo.</h2></a>
+          
+                  <a class="text-dark text-decoration-none" href="materia.php"><p>Muitos filmes e séries aparecerão em estandes na CCXP 2022...</p></a>  
           </div>
-        </div>
-    </article>
-     </section>
-    </div>
-    <footer>
-      <?php include "../rodape.php" ?>
-    </footer>
-    </main.
+                
+                </article>
+          
+                <article class="row">
+                
+                        <figure class="col-12 col-sm-4 pt-5 mt-sm-3 pb-3">
+                            <a href="topfive.php"><img src="../HQS/img/t1.jpg" class="img-fluid" alt="Aqui temos a imagem do livro dias gigantes"></a> 
+                            <figcaption>Dias Gigantes</figcaption>
+                        </figure>
+
+                   
+                        <figure class="col-12 col-sm-4 pt-5 mt-sm-3 pb-3">
+                          <a href="topfive.php"><img src="../HQS/img/t2.jpg" class="img-fluid" alt="Aqui temos a imagem do livro Pompeo"></a> 
+                          <figcaption>Pompeo</figcaption>
+                      </figure>
+
+                      <figure class="col-12 col-sm-4 pt-5 mt-sm-3 pb-3">
+                        <a href="topfive.php"><img src="../HQS/img/t3.jpg" class="img-fluid" alt="Aqui temos a imagem do livro Doce Jazz"></a> 
+                        <figcaption>Doce Jazz</figcaption>
+                    </figure>
+                      
+                        
+                        <article class="col-12 col-sm-12 pt-5 mt-sm-3 pb-3" >
+                            <a class="text-decoration-none cor-letra text-start cor-fundo d-block" href="topfive.php"  ><i class="bi bi-square-fill fs-1 d-inline cor-letra text-start cor-fundo"></i><h2 class="d-inline">Formosa Márcia vence o Prêmio Jabuti na categoria História em Quadrinhos</h2></a>
+                            
+                            <a class="text-dark text-decoration-none pb-3 text-start cor-fundo " href="topfive.php"><p class="cor-fundo">Foi divulgado na data de ontem o vencedor da 64ª edição do Prêmio Jabuti na categoria História em Quadrinhos. O prêmio foi para Escuta, Formosa Márcia, de Marcello Quintanilha (Editora Veneta).</p></a>
+
+                </article>
+
+                <article class="row"> 
+                    
+
+                  
+                        <figure class="col-12 col-sm-4 pt-5 mt-sm-3">
+                            <a href="critica.php"><img src="../HQS/img/c3.jpg" class="img-fluid" alt=" Aqui temos a imagem do Jeff Smith: Bone e a longa jornada épica do “faça você mesmo"></a> 
+                            <figcaption>Jeff Smith: Bone e a longa jornada épica do “faça você mesmo”</figcaption>
+                        </figure>
+
+                        <figure class="col-12 col-sm-4 pt-5 mt-sm-3">
+                          <a href="materia.php"><img src="../HQS/img/m2.jpg" class="img-fluid" alt="Aqui temos a imagem da monica"></a> 
+                          <figcaption>Do Cruzeiro Novo ao Real: 50 anos de economia brasileira com a revista Mônica</figcaption>
+                      </figure>
+
+                      <figure class="col-12 col-sm-4 pt-5 mt-sm-3">
+                        <a href="materia.php"><img src="../HQS/img/m3.jpg" class="img-fluid" alt="Aqui temos a imagem do mestre Kung Fu"></a> 
+                        <figcaption>Relembrando as HQs do Mestre de Kung Fu</figcaption>
+                    </figure>
+
+                        <div class="pt-3 text-start cor-fundo pb-3">
+                        
+                            <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
+                            <a class="text-decoration-none cor-letra" href="ultimasnoticias.php"><h2 class="d-inline">Desenhão: batalha de desenhos ao vivo premiará artista com um iPad Pro</h2></a>
+                
+                            <a class="text-dark text-decoration-none" href="ultimasnoticias.php"><p>No próximo sábado, 26 de novembro, a partir das 19h, acontece o Desenhão, uma festa que vai reunir artistas, fãs dos quadrinhos nacionais e amantes da cultura geek no geral numa oportunidade de juntar as pessoas para celebrar, debater assuntos e fazer arte. </p></a>
+                        </div>
+                     </article>
+
+
+                <article class="row">
+                    
+                        <figure class="col-6 col-sm-6 pt-5 mt-sm-3">
+                            <a href="ultimasnoticias.php"><img src="../HQS/img/u5.jpg" class="img-fluid" alt="Aqui temos a imagem do FATECON"></a> 
+                            <figcaption>Fatecon</figcaption>
+                        </figure>
+  
+                      <div class="col-6 col-sm-6 pt-5   mt-sm-3">
+                            <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
+                            <a class="text-decoration-none cor-letra" href="ultimasnoticias.php"><h2 class="d-inline">História em quadrinhos sobre Paulo Freire em campanha no Catarse</h2></a>
+                
+                            <a class="text-dark text-decoration-none" href="ultimasnoticias.php"><p>A obra busca apresentar o educador a uma nova geração, mas também permitir um reencontro àqueles que conhecem sua história, com quatro narrativas criadas por Rogério Faria (Marighella #LIVRE), Ricardo Sousa (ZéMurai), Jefferson Costa (Jeremias - Pele) e Ren Nolasco (Só Ana), com 20 páginas.</p></a>
+                        </div>
+                      </div>
+                </article>
+
+
+          
+
+ <footer>  <?php include "../rodape.php"?>  </footer>
+
+              </section>
+  </main>
 </body>
 </html>
