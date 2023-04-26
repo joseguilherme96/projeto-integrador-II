@@ -16,7 +16,7 @@
 
         <section class="row text-center col-12 pt-5">
 
-          <h1> ANIMES </h1> 
+          <h1 class="cor-letra"> ANIMES </h1> 
 
           <article class="col-12  col-sm-12 col-lg-4 col-xl-4 text-center  pt-5"> <h2 class="cor-letra"> Boruto </h2>   <a href="https://www.crunchyroll.com/pt-br/series/GR75Q020Y/boruto-naruto-next-generations"><figure><figcaption> <img src=" imgcosplay/boruto.png" alt=" Uzumaki Boruto, filho de Uzumaki Naruto, o Sétimo Hokage, se inscreveu na Academia Ninja para aprender a ser um verdadeiro ninja. Os outros estudantes o ignoram por ser apenas o filho do Hokage mas a paixão e a personalidade do Boruto vai acabar com todos esses preconceitos.Quando uma série de misteriosos eventos começa a se desenrolar, cabe a Boruto e seus novos amigos a investigá-los. Como um tornado, Boruto entra no coração de todos: sua história está prestes a começar!"> </a>  </figcaption></figure></article> 
         
