@@ -13,23 +13,19 @@
 <body>
     <?php include "../nav.php"?>
     <div class="container">
-        <section>
-            
-                <h2 class="text-center">Séries e TV</h2>
-        
-            <div class="text-start cor-letra">
-                <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                <h2 class="d-inline">Lançamentos</h2>
-            </div>
-            <div class="row">
-                <article class="col-12 col-sm-6 p-3">
-                    <div class="text-center cor-letra">
-                        <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                        <h3 class="d-inline">4ª temporada de You</h3>
-                    </div>
-                    <figure class="text-center p-3">
-                            <img src="../img/you.png" class="img-fluid" alt="Capa da série You">
-                            <figcaption>Capa da Série You disponível na Netflix.</figcaption>
+        <hgroup> 
+            <h2 class="text-center">Séries e TV</h2>
+            <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i><h2 class="d-inline text-start cor-letra">Lançamentos</h2>
+        </hgroup>  
+            <Section class="row">
+                <article class="col-12 col-sm-6 p-3 text-center">
+                   
+                    <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
+                    <h3 class="d-inline cor-letra">4ª temporada de You</h3>
+                
+                    <figure class="p-3">
+                        <img src="../img/you.png" class="img-fluid" alt="Capa da série You">
+                        <figcaption>Capa da Série You disponível na Netflix.</figcaption>
                     </figure>
                     <p>A Netflix anunciou no Tudum,evento de anúncios da Netflix, a data de estreia da 4ª Temporada, que será dividida em duas partes: a primeira leva de episódios está marcada para 10 de fevereiro, 
                         e a segunda parte chega em 10 de março de 2023.
@@ -39,12 +35,12 @@
                     </p>
                     <a class="text-decoration-none cor-letra" href="../autores.php?#juliasabbaga"><p>Júlia Sabbaga 24/09/2022.</p></a>
                 </article>
-                <article class="col-12 col-sm-6 cor-fundo p-3">
-                    <div class="text-center cor-letra">
-                        <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                        <h3 class="d-inline">Wandinha</h3>
-                    </div>
-                    <figure class="text-center p-3">
+                <article class="col-12 col-sm-6 cor-fundo p-3 text-center ">
+                    
+                    <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
+                    <h3 class="d-inline cor-letra">Wandinha</h3>
+                    
+                    <figure class="p-3">
                         <img src="../img/wandinha.jpg"height="300" width="300" class="img-fluid" alt="imagem de capa da série wandinha">
                         <figcaption>Capa da série Wandinha,disponível na Netflix.</figcaption>
                     </figure>
@@ -52,11 +48,10 @@
                     <p>Além de Ortega, o elenco de Wandinha ainda conta com Catherine Zeta-Jones, Luis Guzmán, Gwendoline Christie, Christina Ricci e muito mais. A história é descrita como "um mistério com toques sobrenaturais que acompanha a trajetória de Wandinha como aluna da Escola Nunca Mais."</p>
                     <a class="text-decoration-none cor-letra" href="../autores.php?#pedrohenriqueribeiro"><p>Pedro Henrique Ribeiro,24/09/2022.</p></a>
                 </article>
-            </div>
+            </Section>
             <div class="text-end p-3">
                 <a class="btn btn-primary" href="../Seriesetv.php/serieshome.php" role="button">Voltar</a>
             </div>
-        </section>
     </div>
     <?php include "../rodape.php"?>
 </body>

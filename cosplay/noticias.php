@@ -16,26 +16,26 @@
 
           <article>
            <h1> NOTÍCIAS </h1>
-            <a href=""> <figure> <figcaption> <img src="" alt="Aqui você fica por dentro de todas as novidades no mundo gamer, nesta imagem é mostrado um conjunto de aparelhos gamers e tecnologias." class="img-fluid"> </figcaption> </figure> 
+            <a> <figure> <figcaption> <img src="imgcosplay/bannernoticias.png" alt="Aqui você fica por dentro de todas as novidades no mundo gamer, nesta imagem é mostrado um conjunto de aparelhos gamers e tecnologias." class="img-fluid"> </figcaption> </figure> 
           </article>
 
           <article>
-            <a href=""><figure> <figcaption> <img src="" alt="Cuphead é um enorme lançamento, um dos mais bem sucedidos da historia. O sucesso do game foi tão grande, que ele ganhou uma série animada na Netflix que já está na terceira temporada."> </a>  </figcaption> </figure> 
+            <a href="https://www.animeunited.com.br/blog/ultimos-artigos/conheca-mais-sobre-a-historia-de-cuphead-e-sua-serie-animada-da-netflix/"><figure> <figcaption> <img src="imgcosplay/cuphead.png" alt="Cuphead é um enorme lançamento, um dos mais bem sucedidos da historia. O sucesso do game foi tão grande, que ele ganhou uma série animada na Netflix que já está na terceira temporada."> </a>  </figcaption> </figure> 
             <h2> Cuphead </h2> É um enorme lançamento, um dos mais bem sucedidos da historia. O sucesso do game foi tão grande, que ele ganhou uma série animada na Netflix que já está na terceira temporada.</p>
           </article>
 
          <article>
-            <a href=""> <figure> <figcaption> <img src="" alt="Summer Game Fast Evento acontecerá dias antes do grande evento E3 2023. A próxima edição do Summer Game Fest já está marcada para acontecer a partir do dia 8 de junho."> </a> </figcaption> </figure> 
+            <a href="https://adrenaline.com.br/noticias/v/80731/8-de-junho-summer-game-fest-2023-acontecera-dias-antes-da-e3-2023"> <figure> <figcaption> <img src="imgcosplay/summergamerfast.png" alt="Summer Game Fast Evento acontecerá dias antes do grande evento E3 2023. A próxima edição do Summer Game Fest já está marcada para acontecer a partir do dia 8 de junho."> </a> </figcaption> </figure> 
             <h2> Summer Game Fast </h2> Evento acontecerá dias antes do grande evento E3 2023. A próxima edição do Summer Game Fest já está marcada para acontecer a partir do dia 8 de junho.</p>
           </article>
 
           <article>
-            <a href=""> <figure> <figcaption> <img src="" alt="God of War Ragnarök Cosplay surpreende fãs da grande franquia. Principalmente com o recém lançamendo do jogo God of War Ragnarök,que está sendo um sucesso absurdo."> </a></figcaption> </figure> 
+            <a href="https://animenew.com.br/god-of-war-ragnarok-cosplay-impecavel-deixa-fas-surpresos/"> <figure> <figcaption> <img src="imgcosplay/gowragnaroknoticias.png" alt="God of War Ragnarök Cosplay surpreende fãs da grande franquia. Principalmente com o recém lançamendo do jogo God of War Ragnarök,que está sendo um sucesso absurdo."> </a></figcaption> </figure> 
             <h2>God of War Ragnarök</h2> Cosplay surpreende fãs da grande franquia. Principalmente com o recém lançamendo do jogo God of War Ragnarök,que está sendo um sucesso absurdo. </p>   
           </article>
 
           <article>
-            <a href=""> <figure> <figcaption> <img src="" alt="CCXP Com evento historico ingressos se esgotam na CCXP22. Com muito conteudo, além de diversos idolos como Keanu Reeves, Bruna Marquezine, Xolo Maridueña e diversos outros."> </a> </figcaption> </figure> 
+            <a href="https://www.ccxp.com.br"> <figure> <figcaption> <img src="imgcosplay/ccxp.png" alt="CCXP Com evento historico ingressos se esgotam na CCXP22. Com muito conteudo, além de diversos idolos como Keanu Reeves, Bruna Marquezine, Xolo Maridueña e diversos outros."> </a> </figcaption> </figure> 
             <h2> CCXP</h2> Com evento historico ingressos se esgotam na CCXP22. Com muito conteudo, além de diversos idolos como Keanu Reeves, Bruna Marquezine, Xolo Maridueña e diversos outros. </p>
           </article>
       </section>

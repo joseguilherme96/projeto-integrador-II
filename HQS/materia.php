@@ -12,12 +12,21 @@
 
 <body>
   <main>
-  <nav>
-  <?php include "../nav.php" ?></nav>
+  <nav><?php include "../nav.php" ?></nav>
 
-  <section class="row pt-5 ">
-  <div class="container">
+  
     
+<section class="row pt-5 ">
+    <div class="container">
+
+      <div class="row">
+        <div class="col-12 cor-letra">
+          <a href="../pg.php" class="text-decoration-none cor-letra">Home</a> / <a href="autores.php" class="text-decoration-none cor-letra">Autores</a>/ <a href="criticas.php" class="text-decoration-none cor-letra">Criticas</a> / <a href="materia.php" class="text-decoration-none cor-letra">Materias</a>
+        </div>
+      </div>
+      <h1 class="col-12 cor-letra text-center">Materias</h1>
+
+      <article class="row pt-5 ">
       
       <div class="col-12 col-sm-12 col-lg-12 text-center pt-5 ">
         <figure>
@@ -26,6 +35,10 @@
         </figure>
 
       </div>
+      </article>
+
+      <article class="row pt-5 ">
+
       <div class="col-12 col-sm-12 col-lg-12 pt-5 pb-5 text-start ">
         <h1 class="cor-letra">Guia dos lançamentos de quadrinhos na CCXP22</h1>
         <p>Após três anos, a CCXP volta a ser presencial e é aguardada com ansiedade por fãs e profissionais. O evento ocorre entre 1º e 4 de dezembro e, como sempre, um dos destaques será o Artists' Valley (antigo Artists' Alley), que receberá mais de 482 autores de todo o Brasil e do exterior, divididos em 356 mesas vendendo seus trabalhos. E vários deles serão lançados na CCXP.
@@ -38,9 +51,15 @@
           </a>
       </div>
 
+    </article>
 
+      <article class="row pt-5 ">
+    
       <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
+        <figure>
         <img src="../HQS/img/m2.jpg" class="img-fluid" alt="Do Cruzeiro Novo ao Real: 50 anos de economia brasileira com a revista Mônica">
+      <figcaption>Do cruzeiro ao novo real</figcaption>
+      </figure>
       </div>
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start ">
         <h1 class="cor-letra">Do Cruzeiro Novo ao Real: 50 anos de economia brasileira com a revista Mônica</h1>
@@ -52,10 +71,11 @@
           <a class="text-decoration-none cor-letra" href=" ../autores.php?#renatofelix">
             <p>Renato Felix,29/12/2020.</p> </a>
       </div>
-    </section>
+
+    </article>
 
 
-    <section class="row pt-5 ">
+    <article class="row pt-5 ">
 
       <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
         <figure>
@@ -75,10 +95,15 @@
             <p>Sergio Codespoti,05/08/2018. </p> </a>
         
       </div>
-    </section>
+    </article>
     
-  </div>
+ 
   <footer><?php include "../rodape.php" ?></footer>
+
+</section>
+</div>
+
+
 </main>
 </body>
 </html>

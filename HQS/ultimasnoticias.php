@@ -16,9 +16,22 @@
 </nav>
 
 <section>
-  <h1> Ultimas Noticias </h1>
-
   <div class="container">
+  <div class="row">
+    <div class="col-12 cor-letra">
+      <a href="../pg.php" class="text-decoration-none cor-letra">Home</a> / <a href="autores.php" class="text-decoration-none cor-letra">Autores</a>/ <a href="criticas.php" class="text-decoration-none cor-letra">Criticas</a> / <a href="materia.php" class="text-decoration-none cor-letra">Materias
+      / <a href="topfive.php" class="text-decoration-none cor-letra">Top Five  / <a href="ultimasnoticias.php" class="text-decoration-none cor-letra">Ultimas Noticias</a>
+    
+    </div>
+  </div>
+ 
+  <h1 class="col-12 cor-letra text-center">Ultimas Noticias</h1>
+</div>
+ 
+
+ 
+
+
     <article class="row pt-5 ">
        <div class="col-12 col-sm-12 col-lg-6 text-center pt-5 ">
         <figure>
@@ -40,15 +53,21 @@
       
       </div>
 
+    </article>
+
+
+
+      <article class="row pt-5 ">
       <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
         <figure>
        <img src=" ../HQS/img/u2.jpg" class="img-fluid" alt="Formosa Márcia vence o Prêmio Jabuti na categoria História em Quadrinhos">
       <figcaption> premio jabuti </figcaption>
-      
-    </div>
-</article>
+        </figure>
 
-      <article>
+    </div>
+
+
+
       <div class="col-12 col-sm-12 col-lg-6  pt-5 pb-5 text-start ">
         <h1 class="cor-letra">Formosa Márcia vence o Prêmio Jabuti na categoria História em Quadrinhos</h1>
         <p class="texto"> Foi divulgado na data de ontem o vencedor da 64ª edição do Prêmio Jabuti na categoria História em Quadrinhos.
@@ -62,6 +81,7 @@
         <a class="text-decoration-none cor-letra" href=" ../autores.php?#marcelonaranjo">
           <p>Marcelon Aranjo,25/11/2022.</p>
         </a>
+
       </div>
 </article>
 
@@ -84,13 +104,13 @@
        
       </div>
 </article>
-</section>
-  </div>
+
+
   <footer>
     <?php include "../rodape.php" ?>
   </footer>
-
-  
+</div>
+</section> 
 </main>
 </body>
 </html>

@@ -18,7 +18,17 @@
 </nav>
 
 <section>
-  <h1>Autores </h1>
+
+   
+
+  <div class="container">
+    <div class="row">
+      <div class="col-12 cor-letra">
+        <a href="../pg.php" class="text-decoration-none cor-letra">Home</a> / <a href="autores.php" class="text-decoration-none cor-letra">Autores</a>
+      </div>
+    </div>
+    <h1 class="col-12 cor-letra text-center">Autores</h1>
+  
 
   <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
     <div class="carousel-indicators">
@@ -63,17 +73,12 @@
     </button>
   </div>
 
-</section>
 
-  <section class="row pt-5 ">
-    
-  <div class="container">
+  
 
+ 
 
-    <h1>Autores</h1>
-
-
-<article>
+<article class="row pt-5 ">
 
       <div class="col-12 col-sm-12 col-lg-6 text-center pt-5 ">
 
@@ -82,6 +87,7 @@
         <figcaption> Mauricio de Sousa </figcaption>
         </figure>
       </div>
+
 
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start ">
         <div class="cor-fundo">
@@ -103,6 +109,7 @@
           <img src=" ../HQS/img/a2.jpg" class="img-fluid" alt=" Aqui temos a imagem do Katsuhiro Otomo">
           <figcaption> Katsuhiro Otomo</figcaption>
 </figure>
+        </div>
         
         <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start">
           <div class="cor-fundo">

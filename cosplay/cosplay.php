@@ -9,8 +9,16 @@
 </head>
 <body>
   <?php include "../nav.php" ?>
+  <div class="container ">
     <main>
+      
+    <div class="row">
+    <div class="col-12 cor-letra">
       <h1> COSPLAY </h1>
+    </div>
+
+    <div class="row">
+      
         <article>
         <a href="https://www.instagram.com/p/ClEcb9ojfda/?utm_source=ig_embed&ig_rid=ec94feb5-a4f1-49f9-bc25-1625c4ae9ef5"><figure> <figcaption> <img src=" imgcosplay/kodia.jpg " alt="Ahsoka Tano - Star Wars Incrivel Cosplay do personagem Ahsoka Tano feita por uma fã da grande série Star Wars surpreendeu nas redes sociais, a fã descreve *Esse cosplay foi um verdadeiro desafio pra mim, principalmente a maquiagem, e aprendi muito fazendo.Mal posso esperar para usá-la na Star Wars Celebration em Londres no ano que vem."> </a> </figcaption> </figure>
         <h2> Ahsoka Tano - Star Wars </h2>
@@ -26,7 +34,7 @@
 
 
         <article>
-        <a href="https://animenew.com.br/god-of-war-ragnarok-cosplay-impecavel-deixa-fas-surpresos/"><figure> <figcaption><img src=" imgcosplay /gowcosplay.jpg" alt="God of War Ragnarök Cosplay surpreende fãs da grande franquia, com o recém lançamendo do jogo God of War Ragnarök, que está sendo um sucesso absurdo, aclamada em todo o mundo, alguns comentarios positivos surgiram como este *A equipe envolvida na construção desses cosplays é simplesmente incrível*"> </a></figcaption> </figure>
+        <a href="https://animenew.com.br/god-of-war-ragnarok-cosplay-impecavel-deixa-fas-surpresos/"><figure> <figcaption><img src="imgcosplay/gowcosplay.jpg" alt="God of War Ragnarök Cosplay surpreende fãs da grande franquia, com o recém lançamendo do jogo God of War Ragnarök, que está sendo um sucesso absurdo, aclamada em todo o mundo, alguns comentarios positivos surgiram como este *A equipe envolvida na construção desses cosplays é simplesmente incrível*"> </a></figcaption> </figure>
         <h2>God of War Ragnarök</h2>
         <p>Cosplay surpreende fãs da grande franquia, com o recém lançamendo do jogo God of War Ragnarök, que está sendo um sucesso absurdo, aclamada em todo o mundo, alguns comentarios positivos surgiram como este "A equipe envolvida na construção desses cosplays é simplesmente incrível". </p>
         </article>

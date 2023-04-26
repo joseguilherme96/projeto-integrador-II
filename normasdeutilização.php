@@ -9,33 +9,28 @@
 </head>
 <body>
 <nav><?php include "nav.php"?> </nav>
+    <main>
+        <section>
+            <h1>NORMAS DE UTILIZAÇÃO</h1>
+            <p>POLÍTICA DE SEGURANÇA E PRIVACIDADE DO PORTAL DE NOTÍCIAS </p>
 
-<div class="container text-center">
-    <section>
-    <div class="row pb-5 ">
-        <h1 class="pb-5 pt-5">NORMAS DE UTILIZAÇÃO</h1>
-        <p>POLÍTICA DE SEGURANÇA E PRIVACIDADE DO PORTAL DE NOTÍCIAS </p>
+            <p>O portal de Notícias sabe o quanto é importante para você conhecer e estar seguro sobre a utilização dos seus dados pessoais. Por isso, nos preocupamos em esclarecer e divulgar nossa política de utilização dessas informações. Assim, você poderá entender melhor quais informações obtemos e como as utilizamos. Dedique alguns minutos do seu tempo para ler essa política e aproveitar de forma consciente e segura tudo o que o portal de notícias tem para oferecer. Para assegurar regras claras e precisas, o portal de notícias pode alterar essa política de tempos em tempos, e sendo assim, recomenda sua leitura periodicamente.
 
-<p>O portal de Notícias sabe o quanto é importante para você conhecer e estar seguro sobre a utilização dos seus dados pessoais. Por isso, nos preocupamos em esclarecer e divulgar nossa política de utilização dessas informações. Assim, você poderá entender melhor quais informações obtemos e como as utilizamos. Dedique alguns minutos do seu tempo para ler essa política e aproveitar de forma consciente e segura tudo o que o portal de notícias tem para oferecer. Para assegurar regras claras e precisas, o portal de notícias pode alterar essa política de tempos em tempos, e sendo assim, recomenda sua leitura periodicamente.
+            Esta política permitirá que você saiba:
 
-Esta política permitirá que você saiba:
-
-<P>• Quais informações obtemos; </p>
-<p>• O que são cookies e qual a sua utilidade;</p>
-<p>• Como serão utilizadas estas informações;</p>
-<p>• Quem coleta as informações;</p>
-<p>• Com quem suas informações podem ser compartilhadas;</p>
-<p>• Quais são as suas opções a respeito da coleta, uso e distribuição de suas informações;</p>
-<p>• Como o portal de notícias trata suas informações relativas a Games, Animes, Notícias, Cinemas e toda e qualquer informação relacionada a este ramo;</p>
-<p>• Precauções de segurança estabelecidas para sua proteção em caso de perda, má utilização ou alteração de suas informações;</p>
-<p>• Exclusão de contas e dados armazenados e;</p>
-<p>• O que mais você precisa saber sobre sua privacidade na Internet.</p>
-
-<p>Está é a nossa política de segurança e privacidade do portal de notícias. </p>
-    </div>
-</section>
-</div>
-
+            <P>• Quais informações obtemos; </p>
+            <p>• O que são cookies e qual a sua utilidade;</p>
+            <p>• Como serão utilizadas estas informações;</p>
+            <p>• Quem coleta as informações;</p>
+            <p>• Com quem suas informações podem ser compartilhadas;</p>
+            <p>• Quais são as suas opções a respeito da coleta, uso e distribuição de suas informações;</p>
+            <p>• Como o portal de notícias trata suas informações relativas a Games, Animes, Notícias, Cinemas e toda e qualquer informação relacionada a este ramo;</p>
+            <p>• Precauções de segurança estabelecidas para sua proteção em caso de perda, má utilização ou alteração de suas informações;</p>
+            <p>• Exclusão de contas e dados armazenados e;</p>
+            <p>• O que mais você precisa saber sobre sua privacidade na Internet.</p>
+            <p>Está é a nossa política de segurança e privacidade do portal de notícias. </p>
+        </section> 
+    </main>
 <footer> <?php include "rodape.php"?>  </footer>
 </body>
 </html>
