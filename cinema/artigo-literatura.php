@@ -1,25 +1,21 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Noticia Cinema</title>
-    <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-    <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
-    <link rel="stylesheet" href="../css/tema.css">
-</head>
-<body>
-    <?php include "../nav.php" ?>
+<?php $title = "Artigo Literatura";?>
+<?php include "../header.php"?>
     <div class="container">
-        <section class="col-12 cor-letra">
-            <a href="../index.php" class="cor-letra">Home</a> / <a href="index.php" class="cor-letra col-3">Cinema</a> / <a href="literatura.php" class="cor-letra">Literatura</a> / <a href="artigo-literatura.php" class="cor-letra">Artigo</a>  
-        </section>
+        <nav class="navbar navbar-expand-lg bg-light">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a href="../index.php" class=" nav-link cor-letra">Home / </a></li>
+                <li class="nav-item"><a href="index.php" class=" nav-link  cor-letra">Cinema / </a></li>
+                <li class="nav-item"><a href="literatura.php" class=" nav-link cor-letra">Literatura / </a></li>
+                <li class="nav-item"><a href="artigo-literatura.php" class="nav-link  cor-letra">Artigo</a> </li>
+            </ul>
+        </nav>
         <?php include "../barra-de-pesquisa.php"; ?>
-        <section>
-            <h2 class="row text-center d-block cor-letra">Filmes inspirados em livros</h2>
-            <?php if (isset($_GET['cod'])) {
+        <?php 
+            if (isset($_GET['cod'])) {
+        ?>
+        <section class="row">
+            <h2 class="cor-letra">Filmes inspirados em livros</h2>
+            <?php   
                 if ($_GET['cod'] == 1) {
             ?>
             <article class="row justify-content-center">
@@ -43,237 +39,210 @@
                 <p class="col-8">Ty Sheridan faz um bom Wade Watts em sua jornada para encontrar as três pistas que o falecido criador do sistema, James Halliday (um caricato Mark Rylance), deixou para o mundo. Ao vencedor, o controle sobre o OASIS - algo que move o industrialista Nolan Sorrento (Ben Mendelsohn, em papel que já virou recorrente para ele).</p>
                 <p class="col-8">Há um maior equilíbrio na adaptação entre os mundos real e virtual, aproveitando os atores - que no OASIS encarnam avatares digitais. Há menos desafios e subtramas também, como esperado, mas o resultado, sob o comando de Spielberg, é muito bem amarrado. Cada referência tem um sentido e a qualidade do mundo virtual é estarrecedora, algo surpreendente em tempos em que basicamente todos os blockbusters do cinema contêm cenas quase que totalmente digitais. O OASIS é tão perfeito que em determinado momento, quando surge um ator em cena, há uma inversão no chamado "vale da estranheza". O humano parece irreal perante o digital. Spielberg mergulha tão fundo no mundo de Jogador Nº 1 que os limites se tornam borrados. Passado, presente, nostalgia, realidade, digital e orgânico fundem-se em um espetáculo visual digno de seus marcos passados. O ciclo ganha um reboot e - felizmente - o mestre está com o dedo no botão.</p>
                 <h3 class="cor-letra col-8">Disponíveis em</h3>
-                <div class="row justify-content-center">
-                    <div class="col-8">
-                        <div class="row justify-content-start">
-                            <figure class="col-2">
-                                <a href="https://www.primevideo.com/dp/amzn1.dv.gti.78b680ff-76d5-f11d-300c-65263d116eaa?autoplay=0&ref_=atv_cf_strg_wb" target="blank">
-                                    <img src="img/icones-streaming/prime-video.png" class="img-fluid" alt="Logo Prime Video">
-                                </a>
-                            </figure>
-                            <figure class="col-2">
-                                <a href="http://www.youtube.com/watch?v=dGurgPE-wb8" target="blank">
-                                    <img src="img/icones-streaming/youtube.png" class="img-fluid" alt="Logo Youtube">
-                                </a>
-                            </figure>
-                            <div class="col-2">
-                                <a href="https://tv.apple.com/br/movie/ready-player-one/umc.cmc.295lpojxtonf6dqc4za2i97lr?action=play" target="blank">
-                                    <img src="img/icones-streaming/apple-tv.png" class="img-fluid" alt="Logo Apple Tv">
-                                </a>
-                            </div>
-                            <div class="col-2">
-                                <a href="https://play.hbomax.com/page/urn:hbo:page:GX9q5dgf0LMILwgEAAAF0:type:feature?source=googleHBOMAX&action=open" target="blank"> 
-                                    <img src="img/icones-streaming/hbo-max-icon.jpg" class="img-fluid" alt="Logo HBO">
-                                </a>
-                            </div>
-                            <div class="col-4 text-end">
-                                <i class="bi bi-share fs-1 cor-letra"></i>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <a class="col-12"></a>
+                <a href="https://www.primevideo.com/dp/amzn1.dv.gti.78b680ff-76d5-f11d-300c-65263d116eaa?autoplay=0&ref_=atv_cf_strg_wb" class="col-1" target="blank">
+                    <figure>
+                            <img src="img/icones-streaming/prime-video.png" class="img-fluid" alt="Logo Prime Video">
+                    </figure>
+                </a>
+                <a href="http://www.youtube.com/watch?v=dGurgPE-wb8" class="col-1" target="blank">
+                    <figure >
+                            <img src="img/icones-streaming/youtube.png" class="img-fluid" alt="Logo Youtube">
+                    </figure>
+                </a>
+                <a href="https://tv.apple.com/br/movie/ready-player-one/umc.cmc.295lpojxtonf6dqc4za2i97lr?action=play" class="col-1" target="blank">
+                    <figure>
+                            <img src="img/icones-streaming/apple-tv.png" class="img-fluid" alt="Logo Apple Tv">
+                    </figure>
+                </a>
+                <a href="https://play.hbomax.com/page/urn:hbo:page:GX9q5dgf0LMILwgEAAAF0:type:feature?source=googleHBOMAX&action=open" class="col-1" target="blank"> 
+                    <figure>
+                            <img src="img/icones-streaming/hbo-max-icon.jpg" class="img-fluid" alt="Logo HBO">
+                    </figure>
+                </a>
+                <figure class="col-4 text-end">
+                    <i class="bi bi-share fs-1 cor-letra"></i>
+                </figure>
             </article>
             <?php } ?>
             <?php
-            if ($_GET['cod'] == 2) {
+                if ($_GET['cod'] == 2) {
             ?>
-                <article class="row">
-                    <figure class="col-12 col-sm-12 col-lg-12 text-center">
-                        <img src="img/artigos/banner-harry-potter.png" class="img-fluid">
-                        <figcaption><b>Fonte da imagem em</b> https://pt.wikipedia.org/wiki/Harry_Potter_%28s%C3%A9rie_de_filmes%29</figcaption>
+            <article class="row justify-content-center">
+                <figure class="col-12 col-sm-12 col-lg-12 text-center">
+                    <img src="img/artigos/banner-harry-potter.png" class="img-fluid">
+                    <figcaption><b>Fonte da imagem em</b> https://pt.wikipedia.org/wiki/Harry_Potter_%28s%C3%A9rie_de_filmes%29</figcaption>
+                </figure>
+                <hgroup class="col-lg-5">
+                    <h4 class="cor-letra">Harry Potter</h4>
+                    <h5 class="cor-letra">Harry Potter é a a saga do órfão bruxo criada por J.K. Rowling e iniciada em 1997.</h5>
+                    <h6>Por <a href="../autores.php?#omelete">Omelete</a> 19/03/2018</h6>
+                </hgroup>
+                <div class="col-lg-3">
+                    <div class="cor-botao col-5 col-sm-10 col-lg-8 text-center   mt-2">
+                        <a href="" class="text-decoration-none text-light">FICÇÃO CIENTIFICA</a>
+                    </div>
+                </div>
+                <p class="col-8">Depois dos oito filmes baseados nos livros, a franquia agora se prepara para lançar Animais Fantásticos e Onde Habitam, que adapta o livro didático no mundo de Harry Potter que cataloga 75 espécies de criaturas mágicas pelos cinco continentes. Os filmes contarão as viagens do autor do livro, Scamander, 70 anos antes do início da jornada de Harry Potter. </p>
+                <ul class="col-8">
+                    <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> Harry Potter e as Relíquias da Morte - Parte 2 (2011)</li>
+                    <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> Harry Potter e as Relíquias da Morte - Parte 1 (2010)</li>
+                    <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> Harry Potter e o Enigma do Príncipe (2008)</li>
+                    <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> Harry Potter e a Ordem da Fênix (2007)</li>
+                    <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> Harry Potter e o Cálice de Fogo (2005)</li>
+                    <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> Harry Potter e o Prisioneiro de Azkaban (2004)</li>
+                    <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> Harry Potter e a Câmara Secreta (2002)</li>
+                    <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> Harry Potter e a Pedra Filosofal (2001)</li>
+                </ul>
+                <h3 class="cor-letra col-8">Disponíveis em</h3>
+                <a class="col-12"></a>
+                <a href="https://www.primevideo.com/dp/amzn1.dv.gti.78b680ff-76d5-f11d-300c-65263d116eaa?autoplay=0&ref_=atv_cf_strg_wb" class="col-1" target="blank">
+                    <figure>
+                            <img src="img/icones-streaming/prime-video.png" class="img-fluid" alt="Logo Prime Video">
                     </figure>
-                    <div class="row justify-content-center">
-                        <hgroup class="col-lg-5">
-                            <h4 class="cor-letra">Harry Potter</h4>
-                            <h5 class="cor-letra">Harry Potter é a a saga do órfão bruxo criada por J.K. Rowling e iniciada em 1997.</h5>
-                            <h6>Por <a href="../autores.php?#omelete">Omelete</a> 19/03/2018</h6>
-                        </hgroup>
-                        <div class="col-lg-3">
-                            <div class="row ">
-                                <div class="cor-botao col-5 col-sm-10 col-lg-8 text-center   mt-2">
-                                    <a href="" class="text-decoration-none text-light">FICÇÃO CIENTIFICA</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row justify-content-center">
-                        <div class="col-8">
-                            <p>Depois dos oito filmes baseados nos livros, a franquia agora se prepara para lançar Animais Fantásticos e Onde Habitam, que adapta o livro didático no mundo de Harry Potter que cataloga 75 espécies de criaturas mágicas pelos cinco continentes. Os filmes contarão as viagens do autor do livro, Scamander, 70 anos antes do início da jornada de Harry Potter. </p>
-                            <ul>
-                                <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> Harry Potter e as Relíquias da Morte - Parte 2 (2011)</li>
-                                <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> Harry Potter e as Relíquias da Morte - Parte 1 (2010)</li>
-                                <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> Harry Potter e o Enigma do Príncipe (2008)</li>
-                                <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> Harry Potter e a Ordem da Fênix (2007)</li>
-                                <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> Harry Potter e o Cálice de Fogo (2005)</li>
-                                <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> Harry Potter e o Prisioneiro de Azkaban (2004)</li>
-                                <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> Harry Potter e a Câmara Secreta (2002)</li>
-                                <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> Harry Potter e a Pedra Filosofal (2001)</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="row justify-content-center">
-                        <div class="col-8">
-                            <h3 class="cor-letra">Disponíveis em</h3>
-                        </div>
-                    </div>
-                    <div class="row justify-content-center">
-                        <div class="col-8">
-                            <div class="row justify-content-start">
-                                <div class="col-2">
-                                    <a href="https://www.primevideo.com/dp/amzn1.dv.gti.78b680ff-76d5-f11d-300c-65263d116eaa?autoplay=0&ref_=atv_cf_strg_wb" target="blank"><img src="img/icones-streaming/prime-video.png" class="img-fluid" alt="Logo Prime Video"></a>
-                                </div>
-                                <div class="col-2">
-                                    <a href="http://www.youtube.com/watch?v=dGurgPE-wb8" target="blank"><img src="img/icones-streaming/youtube.png" class="img-fluid" alt="Logo Youtube"></a>
-                                </div>
-                                <div class="col-2">
-                                    <a href="https://tv.apple.com/br/movie/ready-player-one/umc.cmc.295lpojxtonf6dqc4za2i97lr?action=play" target="blank"><img src="img/icones-streaming/apple-tv.png" class="img-fluid" alt="Logo Apple Tv"></a>
-                                </div>
-                                <div class="col-2">
-                                    <a href="https://play.hbomax.com/page/urn:hbo:page:GX9q5dgf0LMILwgEAAAF0:type:feature?source=googleHBOMAX&action=open" target="blank"> <img src="img/icones-streaming/hbo-max-icon.jpg" class="img-fluid" alt="Logo HBO"></a>
-                                </div>
-                                <div class="col-4 text-end">
-                                    <i class="bi bi-share fs-1 cor-letra"></i>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </article>
-                <?php } ?>
-                <?php
+                </a>
+                <a href="http://www.youtube.com/watch?v=dGurgPE-wb8" class="col-1" target="blank">
+                    <figure >
+                            <img src="img/icones-streaming/youtube.png" class="img-fluid" alt="Logo Youtube">
+                    </figure>
+                </a>
+                <a href="https://tv.apple.com/br/movie/ready-player-one/umc.cmc.295lpojxtonf6dqc4za2i97lr?action=play" class="col-1" target="blank">
+                    <figure>
+                            <img src="img/icones-streaming/apple-tv.png" class="img-fluid" alt="Logo Apple Tv">
+                    </figure>
+                </a>
+                <a href="https://play.hbomax.com/page/urn:hbo:page:GX9q5dgf0LMILwgEAAAF0:type:feature?source=googleHBOMAX&action=open" class="col-1" target="blank"> 
+                    <figure>
+                            <img src="img/icones-streaming/hbo-max-icon.jpg" class="img-fluid" alt="Logo HBO">
+                    </figure>
+                </a>
+                <figure class="col-4 text-end">
+                    <i class="bi bi-share fs-1 cor-letra"></i>
+                </figure>
+            </article>
+            <?php 
+                } 
+            ?>
+            <?php
                 if ($_GET['cod'] == 3) {
-                ?>
-                    <article class="row text-center">
-                        <figure class="col-12 col-sm-12 col-lg-12">
-                            <img src="img/artigos/banner-jennifer-lawrence.jpg" class="img-fluid">
-                            <figcaption class="text-center"><b>Fonte imagem em </b>https://www.omelete.com.br/filmes/jennifer-lawrence-franquias-velha</figcaption>
-                        </figure>
-                        <div class="row justify-content-center">
-                            <div class="row  justify-content-center">
-                                <div class="col-3">
-                                    <h4 class="cor-letra d-inline">Jogos Vorazes</h4>
-                                </div>
-                                <div class="cor-botao col-5 col-sm-3 col-lg-2 text-center mt-2">
-                                    <a href="" class="text-decoration-none text-light">FICÇÃO CIENTIFICA</a>
-                                </div>
-                                <div class="cor-botao col-5 col-sm-2 col-lg-2 text-center  mx-1 mt-2">
-                                    <a href="" class="text-decoration-none text-light">AÇÃO</a>
-                                </div>
-                                <div class="cor-botao col-5 col-sm-3 col-lg-2 text-center  mx-1 mt-2">
-                                    <a href="" class="text-decoration-none text-light">AVENTURA</a>
-                                </div>
-                            </div>
-                            <hgroup class="col-lg-8">
-                                <h5 class="cor-letra">Jennifer Lawrence descarta papéis em grandes franquias: "Velha demais"</h5>
-                                <h5 class="cor-letra-D2D2D2">Estrela de X-Men e Jogos Vorazes deve se concentrar em títulos independentes</h5>
-                                <h6>Por <a href="../autores.php?#caiocolleti">Caio Coletti</a> 08/10/2022</h6>
-                            </hgroup>
-                        </div>
-                        <div class="row justify-content-center">
-                            <div class="col-8 text-start">
-                                <p>Não espere ver Jennifer Lawrence de volta às grandes franquias hollywoodianas. Participando do BFI London Film Festival [via Deadline], ela explicou por que deve se concentrar em projetos independentes daqui em diante.</p>
-                                <p>"Franquias são muito divertidas, mas eu não conseguiria fazer uma agora. Estou muito velha e frágil", brincou a estrela de 32 anos, que já protagonizou sagas como Jogos Vorazes e X-Men.</p>
-                                <p>Falando mais sério, Lawrence caracterizou o seu retorno às telas com Não Olhe Para Cima e Causeway como uma "retomada de controle" após os superestrelato trazido pelos blockbusters e pelo Oscar (vencido por O Lado Bom da Vida).</p>
-                                <p>"Naquela época, senti que havia me tornado um produto. Cada decisão que eu tomava era na verdade uma decisão em grupo. Eu não fazia ideia do que era esperado uma estrela de cinema gigante, ou do que Katniss Everdeen deveria fazer a seguir... Quando penso naqueles anos hoje em dia, sinto uma perda de controle", comentou.</p>
-                                <p>Jennifer Lawrence fala de disparidade salarial em Não Olhe Para Cima Os próximos projetos de Lawrence incluem a comédia No Hard Feelings, coestrelada por Matthew Broderick; e uma reunião com Adam McKay, diretor de Não Olhe Para Cima, no thriller inspirado em história real Bad Blood.</p>
-                            </div>
-                        </div>
-                        <div class="row justify-content-center">
-                            <div class="col-8">
-                                <h3 class="cor-letra">Disponíveis em</h3>
-                            </div>
-                        </div>
-                        <div class="row justify-content-center">
-                            <div class="col-8">
-                                <div class="row justify-content-start">
-                                    <div class="col-2">
-                                        <a href="https://www.primevideo.com/dp/amzn1.dv.gti.c8b3c59f-d12a-6501-3b11-dc521e4ce5ea?autoplay=0&ref_=atv_cf_strg_wb" target="blank"><img src="img/icones-streaming/prime-video.png" class="img-fluid" alt="Logo Prime Video"></a>
-                                    </div>
-                                    <div class="col-2">
-                                        <a href="http://www.youtube.com/watch?v=NmfcFROdvGE" target="blank"><img src="img/icones-streaming/youtube.png" class="img-fluid" alt="Logo Youtube"></a>
-                                    </div>
-                                    <div class="col-2">
-                                        <a href="https://tv.apple.com/br/movie/the-hunger-games-versao-em-portugues/umc.cmc.2p1170vnfy62s4bgkeul0ls7c?action=play" target="blank"><img src="img/icones-streaming/apple-tv.png" class="img-fluid" alt="Logo Apple Tv"></a>
-                                    </div>
-                                    <div class="col-2">
-                                        <a href="https://play.hbomax.com/feature/urn:hbo:feature:GYOVrkwGAqquiBgEAAAQd?source=googleHBOMAX&action=open" target="blank"> <img src="img/icones-streaming/hbo-max-icon.jpg" class="img-fluid" alt="Logo HBO"></a>
-                                    </div>
-                                    <div class="col-4 text-end">
-                                        <i class="bi bi-share fs-1 cor-letra"></i>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </article>
-                <?php } ?>
-                <?php
+            ?>
+            <article class="row  justify-content-center text-center">
+                <figure class="col-12 col-sm-12 col-lg-12">
+                    <img src="img/artigos/banner-jennifer-lawrence.jpg" class="img-fluid">
+                    <figcaption class="text-center"><b>Fonte imagem em </b>https://www.omelete.com.br/filmes/jennifer-lawrence-franquias-velha</figcaption>
+                </figure>
+                <div class="col-3">
+                    <h4 class="cor-letra d-inline">Jogos Vorazes</h4>
+                </div>
+                <div class="cor-botao col-5 col-sm-3 col-lg-2 text-center mt-2">
+                    <a href="" class="text-decoration-none text-light">FICÇÃO CIENTIFICA</a>
+                </div>
+                <div class="cor-botao col-5 col-sm-2 col-lg-2 text-center  mx-1 mt-2">
+                    <a href="" class="text-decoration-none text-light">AÇÃO</a>
+                </div>
+                <div class="cor-botao col-5 col-sm-3 col-lg-2 text-center  mx-1 mt-2">
+                    <a href="" class="text-decoration-none text-light">AVENTURA</a>
+                </div>
+                <hgroup class="col-lg-8">
+                    <h5 class="cor-letra">Jennifer Lawrence descarta papéis em grandes franquias: "Velha demais"</h5>
+                    <h5 class="cor-letra-D2D2D2">Estrela de X-Men e Jogos Vorazes deve se concentrar em títulos independentes</h5>
+                    <h6>Por <a href="../autores.php?#caiocolleti">Caio Coletti</a> 08/10/2022</h6>
+                </hgroup>
+                <p class="col-8 text-start">Não espere ver Jennifer Lawrence de volta às grandes franquias hollywoodianas. Participando do BFI London Film Festival [via Deadline], ela explicou por que deve se concentrar em projetos independentes daqui em diante.</p>
+                <p class="col-8 text-start">"Franquias são muito divertidas, mas eu não conseguiria fazer uma agora. Estou muito velha e frágil", brincou a estrela de 32 anos, que já protagonizou sagas como Jogos Vorazes e X-Men.</p>
+                <p class="col-8 text-start">Falando mais sério, Lawrence caracterizou o seu retorno às telas com Não Olhe Para Cima e Causeway como uma "retomada de controle" após os superestrelato trazido pelos blockbusters e pelo Oscar (vencido por O Lado Bom da Vida).</p>
+                <p class="col-8 text-start">"Naquela época, senti que havia me tornado um produto. Cada decisão que eu tomava era na verdade uma decisão em grupo. Eu não fazia ideia do que era esperado uma estrela de cinema gigante, ou do que Katniss Everdeen deveria fazer a seguir... Quando penso naqueles anos hoje em dia, sinto uma perda de controle", comentou.</p>
+                <p class="col-8 text-start">Jennifer Lawrence fala de disparidade salarial em Não Olhe Para Cima Os próximos projetos de Lawrence incluem a comédia No Hard Feelings, coestrelada por Matthew Broderick; e uma reunião com Adam McKay, diretor de Não Olhe Para Cima, no thriller inspirado em história real Bad Blood.</p>
+                <h3 class="cor-letra col-8">Disponíveis em</h3>
+                <a class="col-12"></a>
+                <a href="https://www.primevideo.com/dp/amzn1.dv.gti.78b680ff-76d5-f11d-300c-65263d116eaa?autoplay=0&ref_=atv_cf_strg_wb" class="col-1" target="blank">
+                    <figure>
+                            <img src="img/icones-streaming/prime-video.png" class="img-fluid" alt="Logo Prime Video">
+                    </figure>
+                </a>
+                <a href="http://www.youtube.com/watch?v=dGurgPE-wb8" class="col-1" target="blank">
+                    <figure >
+                            <img src="img/icones-streaming/youtube.png" class="img-fluid" alt="Logo Youtube">
+                    </figure>
+                </a>
+                <a href="https://tv.apple.com/br/movie/ready-player-one/umc.cmc.295lpojxtonf6dqc4za2i97lr?action=play" class="col-1" target="blank">
+                    <figure>
+                            <img src="img/icones-streaming/apple-tv.png" class="img-fluid" alt="Logo Apple Tv">
+                    </figure>
+                </a>
+                <a href="https://play.hbomax.com/page/urn:hbo:page:GX9q5dgf0LMILwgEAAAF0:type:feature?source=googleHBOMAX&action=open" class="col-1" target="blank"> 
+                    <figure>
+                            <img src="img/icones-streaming/hbo-max-icon.jpg" class="img-fluid" alt="Logo HBO">
+                    </figure>
+                </a>
+                <figure class="col-4 text-end">
+                    <i class="bi bi-share fs-1 cor-letra"></i>
+                </figure>
+            </article>
+            <?php } ?>
+            <?php
                 if ($_GET['cod'] == 4) {
-                ?>
-                    <article class="row">
-                        <figure class="col-12 col-sm-12 col-lg-12 text-center">
-                            <img src="img/artigos/banner-senhor-dos-aneis.jpg" class="img-fluid">
-                            <figcaption class="text-center"><b>Fonte da imagem em </b>https://www.omelete.com.br/o-senhor-dos-aneis/aneis-do-poder-novas-escalacoes-fio</figcaption>
-                        </figure>
-                        <div class="row justify-content-center">
-                            <div class="row  justify-content-center">
-                                <div class="col-3">
-                                    <h4 class="cor-letra d-inline">Senhor dos Anéis</h4>
-                                </div>
-                                <div class="cor-botao col-5 col-sm-3 col-lg-2 text-center mt-2">
-                                    <a href="" class="text-decoration-none text-light">AVENTURA</a>
-                                </div>
-                                <div class="cor-botao col-5 col-sm-2 col-lg-2 text-center  mx-1 mt-2">
-                                    <a href="" class="text-decoration-none text-light">ÉPICO</a>
-                                </div>
-                                <div class="cor-botao col-5 col-sm-3 col-lg-2 text-center  mx-1 mt-2">
-                                    <a href="" class="text-decoration-none text-light">FANTASIA</a>
-                                </div>
-                            </div>
-                            <hgroup class="col-lg-8">
-                                <h5 class="cor-letra">Os Anéis de Poder | Prime Video anuncia novas escalações do elenco; veja</h5>
-                                <h5 class="cor-letra-D2D2D2">Personagens dos atores não foram revelados</h5>
-                                <h6>Por <a href="../autores.php?#omelete">Omelete</a> 01/12/2022</h6>
-                            </hgroup>
-                        </div>
-                        <div class="row justify-content-center">
-                            <div class="col-8">
-                                <p>O Prime Video aproveitou a manhã de hoje (1) para anunciar as novas adições do elenco de O Senhor dos Anéis: Os Anéis de Poder. Em formato de fio, a plataforma, aos poucos, revelou o nome dos 7 atores que se juntarão à produção na a próxima temporada.</p>
-                                <p>A primeira divulgação foi a do ator Gabriel Akuwudike (Game of Thrones); veja: </p>
-                                <p>Alguns instantes depois, o perfil na rede social também confirmou as escalações de Yasen ‘Zates’ Atour (The Witcher), Ben Daniels (The Exorcist), Amelia Kenworthy, Nia Towle (Persuasão) e Nicholas Woodeson (Roma). Até o momento, os atores seguem sem personagens divulgados. </p>
-                                <p>Além disso, a plataforma também divulgou que o papel de Adar, líder dos Orcs, agora, será interpretado por Sam Hazeldine (Slow Horses), que substitui Joseph Mawle.</p>
-                                <p>O Senhor dos Anéis: Os Anéis de Poder inicia filmagens da segunda temporada</p>
-                                <p>Elenco se pronuncia contra ataques racistas
-                                    [Crítica] Os Anéis de Poder é TV à moda antiga na era das séries “memeáveis”
-                                    O Senhor dos Anéis: Os Anéis de Poder aborda a Segunda Era, se concentrando em Galadriel (Morfydd Clark) e sua busca por vingança contra o terrível (e desaparecido) Sauron, responsável pela morte do irmão. A criação do Um Anel e a queda de Númenor são alguns dos eventos dessa mesma época na mitologia de Tolkien.
-                                    A primeira temporada completa está no Prime Video.</p>
-                            </div>
-                        </div>
-                        <div class="row justify-content-center">
-                            <div class="col-8">
-                                <h3 class="cor-letra">Disponíveis em</h3>
-                            </div>
-                        </div>
-                        <div class="row justify-content-center">
-                            <div class="col-8">
-                                <div class="row justify-content-start">
-                                    <div class="col-2">
-                                        <a href="https://www.primevideo.com/dp/amzn1.dv.gti.91d91081-a2e1-4004-af7d-4efb31e99e27?autoplay=0&ref_=atv_cf_strg_wb" target="blank"><img src="img/icones-streaming/prime-video.png" class="img-fluid" alt="Logo Prime Video"></a>
-                                    </div>
-                                    <div class="col-2">
-                                        <a href="http://www.youtube.com/watch?v=2Qta22pKi1w" target="blank"><img src="img/icones-streaming/youtube.png" class="img-fluid" alt="Logo Youtube"></a>
-                                    </div>
-                                    <div class="col-2">
-                                        <a href="https://play.hbomax.com/feature/urn:hbo:feature:GXeF-mg4zu8PCwwEAADwj?source=googleHBOMAX&action=play" target="blank"> <img src="img/icones-streaming/hbo-max-icon.jpg" class="img-fluid" alt="Logo HBO"></a>
-                                    </div>
-                                    <div class="col-4 text-end">
-                                        <i class="bi bi-share fs-1 cor-letra"></i>
-                                    </div>
-                                    <div class="col-2">
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </article>
+            ?>
+            <article class="row">
+                <figure class="col-12 col-sm-12 col-lg-12 text-center">
+                    <img src="img/artigos/banner-senhor-dos-aneis.jpg" class="img-fluid">
+                    <figcaption class="text-center"><b>Fonte da imagem em </b>https://www.omelete.com.br/o-senhor-dos-aneis/aneis-do-poder-novas-escalacoes-fio</figcaption>
+                </figure>
+            <div class="row justify-content-center">
+                <div class="row  justify-content-center">
+                    <div class="col-3">
+                        <h4 class="cor-letra d-inline">Senhor dos Anéis</h4>
+                    </div>
+                    <div class="cor-botao col-5 col-sm-3 col-lg-2 text-center mt-2">
+                        <a href="" class="text-decoration-none text-light">AVENTURA</a>
+                    </div>
+                    <div class="cor-botao col-5 col-sm-2 col-lg-2 text-center  mx-1 mt-2">
+                        <a href="" class="text-decoration-none text-light">ÉPICO</a>
+                    </div>
+                    <div class="cor-botao col-5 col-sm-3 col-lg-2 text-center  mx-1 mt-2">
+                        <a href="" class="text-decoration-none text-light">FANTASIA</a>
+                    </div>
+                </div>
+                <hgroup class="col-lg-8">
+                    <h5 class="cor-letra">Os Anéis de Poder | Prime Video anuncia novas escalações do elenco; veja</h5>
+                    <h5 class="cor-letra-D2D2D2">Personagens dos atores não foram revelados</h5>
+                    <h6>Por <a href="../autores.php?#omelete">Omelete</a> 01/12/2022</h6>
+                </hgroup>
+                <p class="col-8">O Prime Video aproveitou a manhã de hoje (1) para anunciar as novas adições do elenco de O Senhor dos Anéis: Os Anéis de Poder. Em formato de fio, a plataforma, aos poucos, revelou o nome dos 7 atores que se juntarão à produção na a próxima temporada.</p>
+                <p class="col-8">A primeira divulgação foi a do ator Gabriel Akuwudike (Game of Thrones); veja: </p>
+                <p class="col-8">Alguns instantes depois, o perfil na rede social também confirmou as escalações de Yasen ‘Zates’ Atour (The Witcher), Ben Daniels (The Exorcist), Amelia Kenworthy, Nia Towle (Persuasão) e Nicholas Woodeson (Roma). Até o momento, os atores seguem sem personagens divulgados. </p>
+                <p class="col-8">Além disso, a plataforma também divulgou que o papel de Adar, líder dos Orcs, agora, será interpretado por Sam Hazeldine (Slow Horses), que substitui Joseph Mawle.</p>
+                <p class="col-8">O Senhor dos Anéis: Os Anéis de Poder inicia filmagens da segunda temporada</p>
+                <p class="col-8">Elenco se pronuncia contra ataques racistas
+                    [Crítica] Os Anéis de Poder é TV à moda antiga na era das séries “memeáveis”
+                    O Senhor dos Anéis: Os Anéis de Poder aborda a Segunda Era, se concentrando em Galadriel (Morfydd Clark) e sua busca por vingança contra o terrível (e desaparecido) Sauron, responsável pela morte do irmão. A criação do Um Anel e a queda de Númenor são alguns dos eventos dessa mesma época na mitologia de Tolkien.
+                    A primeira temporada completa está no Prime Video.</p>
+                <h3 class="cor-letra col-8">Disponíveis em</h3>
+                <a class="col-12"></a>
+                <a href="https://www.primevideo.com/dp/amzn1.dv.gti.78b680ff-76d5-f11d-300c-65263d116eaa?autoplay=0&ref_=atv_cf_strg_wb" class="col-1" target="blank">
+                    <figure>
+                            <img src="img/icones-streaming/prime-video.png" class="img-fluid" alt="Logo Prime Video">
+                    </figure>
+                </a>
+                <a href="http://www.youtube.com/watch?v=dGurgPE-wb8" class="col-1" target="blank">
+                    <figure >
+                            <img src="img/icones-streaming/youtube.png" class="img-fluid" alt="Logo Youtube">
+                    </figure>
+                </a>
+                <a href="https://tv.apple.com/br/movie/ready-player-one/umc.cmc.295lpojxtonf6dqc4za2i97lr?action=play" class="col-1" target="blank">
+                    <figure>
+                            <img src="img/icones-streaming/apple-tv.png" class="img-fluid" alt="Logo Apple Tv">
+                    </figure>
+                </a>
+                <a href="https://play.hbomax.com/page/urn:hbo:page:GX9q5dgf0LMILwgEAAAF0:type:feature?source=googleHBOMAX&action=open" class="col-1" target="blank"> 
+                    <figure>
+                            <img src="img/icones-streaming/hbo-max-icon.jpg" class="img-fluid" alt="Logo HBO">
+                    </figure>
+                </a>
+                <figure class="col-4 text-end">
+                    <i class="bi bi-share fs-1 cor-letra"></i>
+                </figure>
+            </article>
                 <?php } ?>
             <?php
             }
@@ -281,6 +250,4 @@
         </section>
         <?php include "mais-noticias.php"; ?>
     </div>
-    <?php include "../rodape.php"; ?>
-</body>
-</html>
+    <?php include "../footer.php"?>
