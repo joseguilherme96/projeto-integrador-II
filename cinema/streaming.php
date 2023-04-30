@@ -1,3 +1,4 @@
+<!--Validado na w3-->
 <?php $title = "Streaming";?>
 <?php include "../header.php"?>
   <div class="container">
@@ -10,11 +11,12 @@
     </nav>
     <?php include "../barra-de-pesquisa.php"; ?>
     <section class="row justify-content-center">
-      <article class="row justify-content-center">
-        <hgroup class=" col-12 text-center cor-letra">
-          <h2>STREAMING</h2>
-          <h3>Noticias exclusivas de filmes das principais plataformas de Streaming </h3>
+        <hgroup class=" col-12 text-center">
+          <h2 class="cor-letra">STREAMING</h2>
+          <p>Noticias exclusivas de filmes das principais plataformas de Streaming </p>
         </hgroup>
+      <article class="row justify-content-center">
+        <h2 class="cor-letra">Opções de Stremming</h2>
         <figure class="col-12 col-sm-4 col-lg-4 text-center"><!--col <= 576px; col-sm >=576px col-lg >=992px -->
           <img src="img/prime-video.png " class="img-fluid border" alt="Capa Prime Video">
           <figcaption class="row p-5">
@@ -36,6 +38,7 @@
       </article>
     </section>
     <section class="row">
+      <h2 class="cor-letra">Noticias</h2>
       <article class="col-12 col-sm-6 col-lg-6">
         <figure class="text-center">
           <img src="img/streaming/deep.png" class="img-fluid" alt="Capa do Filme">
@@ -43,8 +46,8 @@
         </figure>
         <hgroup class="row">
           <h4 class="col-8 cor-letra">Como thriller erótico, Águas Profundas é uma ótima comédia de costumes </h4>
-          <h6 class="col-4 border text-light cor-botao text-center mt-4 mb-5">PRIME VIDEO</h6>
-          <h5 class="cor-letra">Adrian Lyne está menos interessado em cenas de sexo do que está em tirar sarro dos ricos</h5>
+          <p class="col-4 border text-light cor-botao text-center mt-4 mb-5">PRIME VIDEO</p>
+          <p class="cor-letra">Adrian Lyne está menos interessado em cenas de sexo do que está em tirar sarro dos ricos</p>
         </hgroup>
         <p>Por <a href="../autores.php?#caiocolleti">CAIO COLLETI</a><time datetime="2022-10-28">28/10/2022</time></p>
         <p>Águas Profundas era uma proposição bizarra desde o começo: um thriller erótico inspirado por um livro da autora de Carol (Patricia Highsmith), escrito pelos roteiristas de Mais Estranho que a Ficção (Zach Helm) e Euphoria (Sam Levinson), dirigido pelo responsável por Proposta Indecente e Atração Fatal (Adrian Lyne) e protagonizado pelo (já ex-)casal da vida real Ben Affleck e Ana de Armas. Como diria Natasha Lyonne naquela cena de Boneca Russa eternizada em memes no Twitter: “Que conceito”.</p>
@@ -56,8 +59,8 @@
         </figure>
         <hgroup class="row">
           <h4 class="col-8 cor-letra">Netflix divulga imagens e data de estreia de Agente Oculto</h4>
-          <h6 class="col-4 border text-light cor-botao text-center mt-4 mb-5 ">NETFLIX</h6>
-          <h5 class="cor-letra">Filme é estrelado por Ryan Gosling, Ana de Armas, Chris Evans e dirigido pelos irmãos Russo</h5>
+          <p class="col-4 border text-light cor-botao text-center mt-4 mb-5 ">NETFLIX</p>
+          <p class="cor-letra">Filme é estrelado por Ryan Gosling, Ana de Armas, Chris Evans e dirigido pelos irmãos Russo</p>
         </hgroup>
         <p>Por <a href="../autores.php?#omelete">omelete</a><time datetime="2022-04-26">26/04/2022</time></p>
         <p>Na trama, Ryan Gosling é o agente da CIA Court Gentry, também conhecido como Agente Oculto e Sierra Six, enquanto Chris Evans é seu adversário psicopata Lloyd Hansen. O longa é baseado no livro The Gray Man, de Mark Greaney.</p>

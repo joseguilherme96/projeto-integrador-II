@@ -1,3 +1,4 @@
+<!--Validado na w3-->
 <?php $title = "Artigo Literatura";?>
 <?php include "../header.php"?>
     <div class="container">
@@ -25,12 +26,12 @@
                 </figure>
                 <hgroup class="col-lg-5">
                     <h4 class="cor-letra">Jogador Nº 1 | Crítica </h4>
-                    <h5 class="cor-letra">A volta do Steven Spielberg moleque</h5>
-                    <h6>Por <a href="../autores.php?#omelete">Omelete</a> 19/03/2018</h6>
+                    <p class="cor-letra">A volta do Steven Spielberg moleque</p>
                 </hgroup>
                 <div class=" col-lg-3  text-center  mt-2">
                     <a href="" class="text-decoration-none text-light cor-botao p-1">FICÇÃO CIENTIFICA</a>
                 </div>
+                <p class="col-8">Por <a href="../autores.php?#omelete">Omelete</a> 19/03/2018</p>
                 <p class="col-8">Ninguém melhor que Steven Spielberg para levar às telas a adaptação de Jogador Nº 1 de Ernest Cline. O cineasta, afinal, é a maior influência (o maior responsável, na verdade) por tudo aquilo que inspirou o autor do livro a criar sua distópica obra devota aos anos 1980. Mas não é o Spielberg "adulto", o histórico e dramático, que vemos aqui no comando de Jogador Nº 1, mas o cineasta moleque, aquele de Tubarão, E.T., Contatos Imediatos e Indiana Jones... o que torna a experiência ainda melhor.</p>
                 <p class="col-8">Spielberg não apenas entende o milhar de referências do livro, mas ajudou a criá-las direta ou indiretamente - assim como a linguagem em que Cline se apoia em seu romance. O cineasta era sinônimo de aventura infanto-juvenil (juntamente com George Lucas, Robert Zemeckis, Richard Donner e tantos outros que transformaram o mundo e a cultura pop quatro décadas atrás) e aqui ele se recorda disso. O mestre retorna a sua melhor forma, homenageando essa época tão importante, em que os recém-empoderados diretores - que nos anos 70 passaram de coadjuvantes dos produtores a verdadeiros chefes criativos -, ganharam o direito de sonhar mais alto, com a indústria abrindo seus cofres para a fantasia e ficção científica, dando vida a imagens até então apenas registradas nas páginas das histórias em quadrinhos.</p>
                 <p class="col-8">Com tal pedigree, Jogador Nº 1 é muito mais do que a habitual e cansada colagem de referências pop que temos aos montes hoje. A nostalgia é uma desculpa, não um objetivo. É no mundo criado (ou seria cocriado?) por Cline que Spielberg encontra a oportunidade para revisitar a inocência do passado. Até em estrutura o filme é um grande retorno aos clássicos oitentistas - e o final igualmente simples e genial é prova mais que perfeita disso.</p>
@@ -75,14 +76,14 @@
                 </figure>
                 <hgroup class="col-lg-5">
                     <h4 class="cor-letra">Harry Potter</h4>
-                    <h5 class="cor-letra">Harry Potter é a a saga do órfão bruxo criada por J.K. Rowling e iniciada em 1997.</h5>
-                    <h6>Por <a href="../autores.php?#omelete">Omelete</a> 19/03/2018</h6>
+                    <p class="cor-letra">Harry Potter é a a saga do órfão bruxo criada por J.K. Rowling e iniciada em 1997.</p>
                 </hgroup>
                 <div class="col-lg-3">
                     <div class="cor-botao col-5 col-sm-10 col-lg-8 text-center   mt-2">
                         <a href="" class="text-decoration-none text-light">FICÇÃO CIENTIFICA</a>
                     </div>
                 </div>
+                <p>Por <a href="../autores.php?#omelete">Omelete</a> 19/03/2018</p>
                 <p class="col-8">Depois dos oito filmes baseados nos livros, a franquia agora se prepara para lançar Animais Fantásticos e Onde Habitam, que adapta o livro didático no mundo de Harry Potter que cataloga 75 espécies de criaturas mágicas pelos cinco continentes. Os filmes contarão as viagens do autor do livro, Scamander, 70 anos antes do início da jornada de Harry Potter. </p>
                 <ul class="col-8">
                     <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> Harry Potter e as Relíquias da Morte - Parte 2 (2011)</li>
@@ -145,9 +146,9 @@
                 </div>
                 <hgroup class="col-lg-8">
                     <h5 class="cor-letra">Jennifer Lawrence descarta papéis em grandes franquias: "Velha demais"</h5>
-                    <h5 class="cor-letra-D2D2D2">Estrela de X-Men e Jogos Vorazes deve se concentrar em títulos independentes</h5>
-                    <h6>Por <a href="../autores.php?#caiocolleti">Caio Coletti</a> 08/10/2022</h6>
+                    <p class="cor-letra-D2D2D2">Estrela de X-Men e Jogos Vorazes deve se concentrar em títulos independentes</p>
                 </hgroup>
+                <p>Por <a href="../autores.php?#caiocolleti">Caio Coletti</a> <time datetime="2022-10-08">08/10/2022</time></p>
                 <p class="col-8 text-start">Não espere ver Jennifer Lawrence de volta às grandes franquias hollywoodianas. Participando do BFI London Film Festival [via Deadline], ela explicou por que deve se concentrar em projetos independentes daqui em diante.</p>
                 <p class="col-8 text-start">"Franquias são muito divertidas, mas eu não conseguiria fazer uma agora. Estou muito velha e frágil", brincou a estrela de 32 anos, que já protagonizou sagas como Jogos Vorazes e X-Men.</p>
                 <p class="col-8 text-start">Falando mais sério, Lawrence caracterizou o seu retorno às telas com Não Olhe Para Cima e Causeway como uma "retomada de controle" após os superestrelato trazido pelos blockbusters e pelo Oscar (vencido por O Lado Bom da Vida).</p>
@@ -188,7 +189,6 @@
                     <img src="img/artigos/banner-senhor-dos-aneis.jpg" class="img-fluid">
                     <figcaption class="text-center"><b>Fonte da imagem em </b>https://www.omelete.com.br/o-senhor-dos-aneis/aneis-do-poder-novas-escalacoes-fio</figcaption>
                 </figure>
-            <div class="row justify-content-center">
                 <div class="row  justify-content-center">
                     <div class="col-3">
                         <h4 class="cor-letra d-inline">Senhor dos Anéis</h4>
@@ -205,9 +205,9 @@
                 </div>
                 <hgroup class="col-lg-8">
                     <h5 class="cor-letra">Os Anéis de Poder | Prime Video anuncia novas escalações do elenco; veja</h5>
-                    <h5 class="cor-letra-D2D2D2">Personagens dos atores não foram revelados</h5>
-                    <h6>Por <a href="../autores.php?#omelete">Omelete</a> 01/12/2022</h6>
+                    <p class="cor-letra-D2D2D2">Personagens dos atores não foram revelados</p>
                 </hgroup>
+                <p>Por <a href="../autores.php?#omelete">Omelete</a> 01/12/2022</p>
                 <p class="col-8">O Prime Video aproveitou a manhã de hoje (1) para anunciar as novas adições do elenco de O Senhor dos Anéis: Os Anéis de Poder. Em formato de fio, a plataforma, aos poucos, revelou o nome dos 7 atores que se juntarão à produção na a próxima temporada.</p>
                 <p class="col-8">A primeira divulgação foi a do ator Gabriel Akuwudike (Game of Thrones); veja: </p>
                 <p class="col-8">Alguns instantes depois, o perfil na rede social também confirmou as escalações de Yasen ‘Zates’ Atour (The Witcher), Ben Daniels (The Exorcist), Amelia Kenworthy, Nia Towle (Persuasão) e Nicholas Woodeson (Roma). Até o momento, os atores seguem sem personagens divulgados. </p>

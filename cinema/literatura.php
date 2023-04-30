@@ -1,3 +1,4 @@
+<!--Validado na w3-->
 <?php $title = "Filmes Inspirados em Livros";?>
 <?php include "../header.php"?>
   <div class="container">
@@ -18,7 +19,7 @@
         </figure>
         <hgroup>
           <h4 class="cor-letra">Jogador Nº 1 | Crítica</h4>
-          <h5 class="cor-letra-D2D2D2">A volta do Steven Spielberg moleque</h5>
+          <p class="cor-letra-D2D2D2">A volta do Steven Spielberg moleque</p>
         </hgroup>
         <p>Por <a href="../autores.php?#omelete">Omelete</a><time datetime="2018-03-19">19/03/2018</time></p><!--https://www.omelete.com.br/filmes/criticas/jogador-no-1-critica-->
         <p>
@@ -33,7 +34,7 @@
           </figure>
           <hgroup>
             <h4 class="cor-letra">Jennifer Lawrence descarta papéis em grandes franquias: "Velha demais"</h4>
-            <h5 class="cor-letra-D2D2D2">Estrela de X-Men e Jogos Vorazes deve se concentrar em títulos independentes</h5>
+            <p class="cor-letra-D2D2D2">Estrela de X-Men e Jogos Vorazes deve se concentrar em títulos independentes</p>
           </hgroup>
           <p>Por <a href="../autores.php?#caiocolleti">Caio Coletti</a> <time datetime="2022-10-08">08/10/2022</time></p><!-- https://www.omelete.com.br/autores/caio-coletti-->
           <p>Não espere ver Jennifer Lawrence de volta às grandes franquias hollywoodianas. Participando do BFI London Film Festival [via Deadline], ela explicou por que deve se concentrar em projetos independentes daqui em diante.</p>
@@ -55,16 +56,14 @@
         </p>
         <a href="artigo-literatura.php?cod=2" class="d-block text-end">Ler Mais</a>
       </article>
-    </section>
-    <section class="row text-center">
       <article class="col-12 col-sm-12 col-lg-12 p-1">
         <figure class="text-center">
-            <img src="img/artigos/banner-senhor-dos-aneis.jpg"class="img-fluid" alt="Capa Livro">
+            <img src="img/artigos/banner-senhor-dos-aneis.jpg" class="img-fluid" alt="Capa Livro">
             <figcaption>Senhor dos Anéis</figcaption>
         </figure> 
         <hgroup>
           <h4 class="text-start cor-letra">Os Anéis de Poder | Prime Video anuncia novas escalações do elenco; veja</h4>
-          <h5 class=" text-start cor-letra-D2D2D2">Personagens dos atores não foram revelados</h5>
+          <p class=" text-start cor-letra-D2D2D2">Personagens dos atores não foram revelados</p>
         </hgroup>
         <p class="text-start"> Por <a href="../autores.php?#omelete">Omelete</a>  <time datetime="2022-10-28"></time>28/10/2022</p><!-- https://www.omelete.com.br/autores/flavio-pinto-->
         <p class="text-start">O Prime Video aproveitou a manhã de hoje (1) para anunciar as novas adições do elenco de O Senhor dos Anéis: Os Anéis de Poder. Em formato de fio, a plataforma, aos poucos, revelou o nome dos 7 atores que se juntarão à produção na a próxima temporada. </p>

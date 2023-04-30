@@ -29,12 +29,12 @@
         </div>
         <div class="col-sm-3  col-lg-1 d-none d-sm-inline">
             <ul>
-                <li><a class="dropdown-item" href="/projeto-integrador-II-main/Seriesetv.php/serieshome.php" class="text-decoration-none text-light">Serie/Tv</a></li>
-                <li><a class="dropdown-item" href="/projeto-integrador-II-main/Seriesetv.php/resenha.php" class="text-decoration-none text-light">Resenhas</a></li>
-                <li><a class="dropdown-item" href="/projeto-integrador-II-main/Seriesetv.php/lançamentos.php" class="text-decoration-none text-light">Lançamentos</a></li>
-                <li><a class="dropdown-item" href="/projeto-integrador-II-main/Seriesetv.php/criticas.php" class="text-decoration-none text-light">Criticas</a></li>
-                <li><a class="dropdown-item" href="/projeto-integrador-II-main/Seriesetv.php/noticias.php" class="text-decoration-none text-light">Notícias</a></li>
-                <li><a class="dropdown-item" href="/projeto-integrador-II-main/Seriesetv.php/atores.php" class="text-decoration-none text-light">Atores</a></li>
+                <li><a href="/projeto-integrador-II-main/Seriesetv.php/serieshome.php" class=" dropdown-item text-decoration-none text-light">Serie/Tv</a></li>
+                <li><a href="/projeto-integrador-II-main/Seriesetv.php/resenha.php" class=" dropdown-item text-decoration-none text-light">Resenhas</a></li>
+                <li><a href="/projeto-integrador-II-main/Seriesetv.php/lançamentos.php" class="dropdown-item text-decoration-none text-light">Lançamentos</a></li>
+                <li><a href="/projeto-integrador-II-main/Seriesetv.php/criticas.php" class="dropdown-item text-decoration-none text-light">Criticas</a></li>
+                <li><a href="/projeto-integrador-II-main/Seriesetv.php/noticias.php" class="dropdown-item text-decoration-none text-light">Notícias</a></li>
+                <li><a href="/projeto-integrador-II-main/Seriesetv.php/atores.php" class="dropdown-item text-decoration-none text-light">Atores</a></li>
             </ul>
         </div>
         <div class="col-3 col-lg-1">
@@ -43,36 +43,36 @@
             <p class="text-center">Participantes</p>
             <div class="row">
                 <div class="col-3 col-lg-3">
-                    <figure>
-                        <a href="/projeto-integrador-II-main/quemsomos.php?#gilberto" class="text-decoration-none text-light">
-                            <img src="/projeto-integrador-II-main/img/IMG-20221204-WA0101.jpg" class="img-fluid">
-                            <figcaption class="text-center">Gilberto</figcaption>
-                        </a>
-                    </figure>
+                    <a href="/projeto-integrador-II-main/quemsomos.php?#gilberto" class="text-decoration-none text-light">
+                        <figure>
+                                <img src="/projeto-integrador-II-main/img/IMG-20221204-WA0101.jpg" class="img-fluid">
+                                <figcaption class="text-center">Gilberto</figcaption>
+                        </figure>
+                    </a>
                 </div>
                 <div class="col-3 col-lg-3 ">
-                    <figure>
-                        <a href="/projeto-integrador-II-main/quemsomos.php?#joseguilherme" class="text-decoration-none text-light">
-                            <img src="/projeto-integrador-II-main/img/IMG_20220922_071956875.jpg" class="img-fluid">
-                            <figcaption class="text-center">José Guilherme</figcaption>
-                        </a>
-                    </figure>
+                    <a href="/projeto-integrador-II-main/quemsomos.php?#joseguilherme" class="text-decoration-none text-light">
+                        <figure>
+                                <img src="/projeto-integrador-II-main/img/IMG_20220922_071956875.jpg" class="img-fluid">
+                                <figcaption class="text-center">José Guilherme</figcaption>
+                        </figure>
+                    </a>
                 </div>
                 <div class="col-3 col-lg-3">
-                    <figure>
-                        <a href="/projeto-integrador-II-main/quemsomos.php?#melissa" class="text-decoration-none text-light">
-                            <img src="/projeto-integrador-II-main/img/Screenshot_20221204-094744.png" class="img-fluid">
-                            <figcaption class="text-center">Melissa</figcaption>
-                        </a>
-                    </figure>
+                    <a href="/projeto-integrador-II-main/quemsomos.php?#melissa" class="text-decoration-none text-light">
+                        <figure>
+                                <img src="/projeto-integrador-II-main/img/Screenshot_20221204-094744.png" class="img-fluid">
+                                <figcaption class="text-center">Melissa</figcaption>
+                        </figure>
+                    </a>
                 </div>
                 <div class="col-3 col-lg-3">
-                    <figure>
-                        <a href="/projeto-integrador-II-main/quemsomos.php?#yasmin" class="text-decoration-none text-light">
+                    <a href="/projeto-integrador-II-main/quemsomos.php?#yasmin" class="text-decoration-none text-light">
+                        <figure>
                             <img src="/projeto-integrador-II-main/img/IMG-20221204-WA0097.jpg" class="img-fluid">
                             <figcaption class="text-center">Yasmin</figcaption>
-                        </a>
-                    </figure>
+                        </figure>
+                    </a>
                 </div>
             </div>
             <div class="row">
@@ -85,6 +85,6 @@
             </div>
         </div>
     </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
 </body>
 </html>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>

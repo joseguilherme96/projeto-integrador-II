@@ -1,3 +1,4 @@
+<!--Validado na w3-->
 <?php $title = "Noticia Filme";?>
 <?php include "../header.php"?>
     <div class="container ">
@@ -16,6 +17,7 @@
             <?php        
                 if($_GET['cod']==1){
             ?>
+            <h2 class="cor-letra">Indiana Jones</h2>
             <article class=" row justify-content-center">
                 <figure class="col-12 col-sm-12 col-lg-12">
                     <img src="img/banner-cinema.jpg" class="img-fluid" alt="Capa Filme">
@@ -24,7 +26,7 @@
                 <h5 class=" col-10 col-lg-5 my-lg-1 cor-letra">Indiana Jones e o Chamado do Destino ganha título e trailer na CCXP22</h5>
                 <div class="col-4 col-lg-2 my-lg-3 border cor-botao text-light">LANÇAMENTO</div>
                 <div class="col-2 col-lg-1 my-lg-3 border cor-botao text-light">AÇAO</div>
-                <p class="col-8">Por <a href="../autores.php?#nicogarofalo">NICO GARÓFALO</a><time class="2022-12-01">01/12/2022</time></p><!--https://www.omelete.com.br/autores/nico-garofalo -->
+                <p class="col-8">Por <a href="../autores.php?#nicogarofalo">NICO GARÓFALO</a><time datetime="2022-12-01">01/12/2022</time></p><!--https://www.omelete.com.br/autores/nico-garofalo -->
                 <p class="col-8">Indiana Jones está de volta! Durante a CCXP22, o quinto filme do arqueólogo mais amado da cultura pop teve seu primeiro trailer revelado. Além de trazer o retorno de Harrison Ford a um dos papéis mais icônicos de sua carreira depois de 14 anos, a prévia revelou também o título oficial da nova sequência: Indiana Jones e o Chamado do Destino. Assista acima:</p>
                 <p class="col-8">O quinto Indiana Jones contará com o retorno de Harrison Ford ao lado de um elenco repleto de estrelas formado por Antonio Banderas, Phoebe Waller-Bridge, Mads Mikkelsen, Boyd Holbrook e Thomas Kretschmann.</p>
                 <p class="col-8">A direção ficou com James Mangold, de Logan e Ford vs. Ferrari. Esta será a primeira vez que um filme da franquia Indiana Jones não é dirigido por Steven Spielberg. John Williams, que criou o tema para Os Caçadores da Arca Perdida em 1981, também está encarregado da trilha sonora do novo longa.</p>
@@ -43,7 +45,7 @@
                 </figure>
                 <hgroup class="col-8 col-lg-8 py-3">
                     <h4 class="cor-letra">CCXP22: painel do Marvel Studios promete um 2023 cheio de despedidas</h4>
-                    <h5 class="cor-letra">Apresentação do estúdio no Palco Thunder mostrou prévias de Homem-Formiga e a Vespa: Quantumania e Guardiões da Galáxia vol. 3</h5>
+                    <p class="cor-letra">Apresentação do estúdio no Palco Thunder mostrou prévias de Homem-Formiga e a Vespa: Quantumania e Guardiões da Galáxia vol. 3</p>
                 </hgroup>
                 <p class="col-8">Por <a href="../autores.php?#nicogarofalo">NICO GARÓFALO</a><time datetime="2022-12-01">01/12/2022</time></p><!--https://www.omelete.com.br/autores/nico-garofalo -->
                 <p class="col-8">Como não podia deixar de ser, o painel do Marvel Studios no Palco Thunder by Cinemark Club na CCXP22 contou com muita alegria e energia do público, que conseguiu assistir às novidades trazidas por Kevin Feige para os fãs brasileiros. Mas, pelo que as novas prévias de Homem-Formiga e a Vespa: Quantumania e Guardiões da Galáxia vol. 3 deram a entender, 2023 não vai ser nem um pouco alegre para os heróis do MCU. Os conteúdos lançados nesta quinta-feira (1º) no São Paulo Expo pintam um futuro para lá de trágico para Scott Lang (Paul Rudd), Peter Quill (Chris Pratt) e suas respectivas famílias.</p>
@@ -63,12 +65,12 @@
             ?>
             <article class="row justify-content-center">
                 <figure class="text-center col-12 col-sm-12 col-lg-12">
-                    <img src="img/filmes/filme-the-last-of-us .jpg" class="img-fluid" alt="Capa Filme">
+                    <img src="img/filmes/filme-the-last-of-us.jpg" class="img-fluid" alt="Capa Filme">
                     <figcaption> Fonte imagem em :https://thelastofus.com.br/noticias/novo-filme-de-schwarzenegger-inspirado-em-the-last-of-us/</figcaption>    
                 </figure>
                 <hgroup class="col-8 py-3">
                     <h4 class="cor-letra">The Last of Us ganha trailer inédito e emocionante na CCXP22</h4>
-                    <h5 class="cor-letra">Série estreia na HBO Max em 15 de janeiro</h5>
+                    <p class="cor-letra">Série estreia na HBO Max em 15 de janeiro</p>
                 </hgroup>
                 <p class="col-8">Por <a href="../autores.php?#giovannabreve">GIOVANNA BREVE E NICOLAOS GARÓFALO</a><time datetime="2022-03-03">03/12/2022</time></p><!--https://www.omelete.com.br/autores/nico-garofalo -->
                 <p class="col-8">The Last of Us, série da HBO Max que adapta o game, ganhou um novo trailer na CCXP22 no Palco Thunder by Cinemark Club. A novidade veio com a presença do elenco de estrelas Pedro Pascal, Bella Ramsey, Gabriel Luna, Merle Dandrigge e os produtores execultivos Craig Mazin e Neil Druckmann. Confira acima.</p>
@@ -88,7 +90,7 @@
                 </figure>
                 <hgroup class="col-8 py-3">
                     <h4 class="cor-letra">Como thriller erótico, Águas Profundas é uma ótima comédia de costumes</h4>
-                    <h5 class="cor-letra">Adrian Lyne está menos interessado em cenas de sexo do que está em tirar sarro dos ricos</h5>
+                    <p class="cor-letra">Adrian Lyne está menos interessado em cenas de sexo do que está em tirar sarro dos ricos</p>
                 </hgroup>
                 <p class="col-8">Por <a href="../autores.php?#caiocolleti">CAIO COLETTI</a><time datetime="2022-03-18">18/03/2022</time></p><!--https://www.omelete.com.br/autores/nico-garofalo -->
                 <p class="col-8">Águas Profundas era uma proposição bizarra desde o começo: um thriller erótico inspirado por um livro da autora de Carol (Patricia Highsmith), escrito pelos roteiristas de Mais Estranho que a Ficção (Zach Helm) e Euphoria (Sam Levinson), dirigido pelo responsável por Proposta Indecente e Atração Fatal (Adrian Lyne) e protagonizado pelo (já ex-)casal da vida real Ben Affleck e Ana de Armas. Como diria Natasha Lyonne naquela cena de Boneca Russa eternizada em memes no Twitter: “Que conceito”.</p>
@@ -113,7 +115,7 @@
                 </figure>    
                 <hgroup class="col-8 py-3">
                     <h4 class="cor-letra">The Last of Us ganha trailer inédito e emocionante na CCXP22</h4>
-                    <h5 class="cor-letra">Série estreia na HBO Max em 15 de janeiro</h5>
+                    <p class="cor-letra">Série estreia na HBO Max em 15 de janeiro</p>
                 </hgroup>
                 <p class="col-8">Por <a href="../autores.php?#omelete">Omelete.</a><time datetime="2022-04-26" >26/04/2022</time></p><!--https://www.omelete.com.br/autores/nico-garofalo -->
                 <p class="col-8">A Netflix liberou nesta terça-feira (26) novas imagens de seu mais novo filme original, Agente Oculto, mostrando os personagens de Chris Evans, Ryan Gosling, Ana de Armas e Regé-Jean Page</p>

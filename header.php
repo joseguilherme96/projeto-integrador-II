@@ -7,23 +7,6 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
     <link rel="stylesheet" href="/projeto-integrador-II-main/css/tema.css">
-    <style>
-        nav>div {
-        background-color: #E03616;
-        }
-        nav {
-        background-color: #E03616;
-        }
-
-        hr {
-        border-color: #E03616;
-        border-width: 10px;
-        }
-
-        footer>div {
-            background-color: #363636;
-        }
-    </style>
 </head>
 <body>
     <header>
@@ -33,7 +16,6 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
             <li class="nav-item">
-                </button>
                 <a class="nav-link active" aria-current="page" href="/projeto-integrador-II-main/index.php">Home</a>
             </li>
             <li class="nav-item dropdown">
@@ -103,7 +85,6 @@
                 </li>
             </ul>
             </div>
-            </ul>
         </div>
         </div>
     </nav>

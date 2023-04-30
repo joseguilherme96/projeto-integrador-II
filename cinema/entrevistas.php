@@ -1,3 +1,4 @@
+<!--Validado na w3-->
 <?php $title = "Entrevistas";?>
 <?php include "../header.php"?>
   <div class="container">

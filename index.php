@@ -1,3 +1,4 @@
+<!--Validado na w3-->
 <?php $title = "Home";?>
 <?php include "header.php"?>
     <main class="container">
@@ -8,10 +9,10 @@
         </nav>
         <?php include "barra-de-pesquisa.php"; ?>
         <section class="row cinemamt-5">
-            <article class="row  mt-5">
+            <hgroup class="row  mt-5">
                 <h2 class="cor-letra text-start py-3">CINEMA</h2>
                 <p class="align-items-center">Aqui vamos trazer noticias, materias e entrevistas exclusivas sobre o mundo do cimema. As noticias sobre filmes incluem lançamentos, noticias de streaming focado nos principais filmes exclusivos da plataforma streamming, entrevistas.</p>
-            </article>
+            </hgroup>
             <figure class="col-12 col-sm-12 col-lg-6 cor-fundo">
                 <img src="cinema/img/artigos/banner-senhor-dos-aneis.jpg" class="img-fluid ">
                 <figcaption class="fs-6"><b>Fonte imagem</b> : https://www.omelete.com.br/o-senhor-dos-aneis/aneis-do-poder-novas-escalacoes-fio</figcaption>
@@ -22,7 +23,7 @@
                     Os Anéis de Poder | Prime Video anuncia novas escalações do elenco; veja
                 </h2>
                 <h5 class="text-start">Personagens dos atores não foram revelados</h5>
-                <p class="text-start">Por <a href="autores.php?#omelete">omelete</a> <date time="2022-12-01">01/12/2022</date></p>
+                <p class="text-start">Por <a href="autores.php?#omelete">omelete</a> <time datetime="2022-12-01">01/12/2022</time></p>
                 <p class="text-start">O Prime Video aproveitou a manhã de hoje (1) para anunciar as novas adições do elenco de O Senhor dos Anéis: Os Anéis de Poder. Em formato de fio, a plataforma, aos poucos, revelou o nome dos 7 atores que se juntarão à produção na a próxima temporada.</p>
                 <a class="btn text-decoration-none text-light col-2" style="background-color:#E03616" href="cinema/artigo-literatura.php?cod=4" role="button">Ver mais</a>
             </article>  
@@ -30,7 +31,7 @@
         <section class="row cor-fundo mt-5 mb-5">
             <h2 class="py-3 cor-letra">HQS</h2>
             <figure class="col-12 col-sm-12 col-lg-6 ">
-                <img src="img/hqs.jpg" class="img-fluid ">
+                <img src="img/hqs.jpg" class="img-fluid " alt="Aqui temos fotos de capa revistas de historia em quadrinhos">
             </figure>
             <article class="col-12 col-sm-12 col-lg-6 text-end">
                 <h2 class="cor-letra text-start">
@@ -49,7 +50,7 @@
                 <picture class=" col-sm-12 col-lg-12 text-center p-1">
                     <source srcset="  HQS/img/u1.jpg" class="img-fluid" media="(min-width:992px)">
                     <source srcset="  HQS/img/u1.jpg" class="img-fluid" media="(min-width:576px)">
-                    <img src="  HQS/img/u1.jpg" class="img-fluid">
+                    <img src="  HQS/img/u1.jpg" class="img-fluid" alt="Primeiro desenhão arte mais Rolê">
                 </picture>
                 <a class="btn text-light d-inline col-3 col-lg-1 m-5" style="background-color:#E03616" href="HQS/ultimasnoticias.php" role="button">Ver mais</a>
             </article>

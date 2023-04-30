@@ -1,3 +1,4 @@
+<!--Validado na w3-->
 <?php $title = "Cinema";?>
 <?php include "../header.php"?>
   <div class="container">
@@ -9,8 +10,9 @@
     </nav>
     <?php include "../barra-de-pesquisa.php";?>
     <section class="row">
+      <h2 class="col-12 cor-letra text-center">CINEMA</h2>
       <article>
-        <h2 class="col-12 cor-letra text-center">CINEMA</h2>
+          <h2 class="cor-letra">Noticias</h2>
           <p class="text-center">
             Aqui vamos trazer noticias, materias e entrevistas exclusivas sobre o mundo do cimema. 
             As noticias sobre filmes incluem lançamentos, noticias de streaming focado nos 
@@ -20,6 +22,7 @@
       </article>
     </section>
     <section class="row justify-content-center">
+        <h2 class="cor-letra">Opções de Straming</h2>
         <figure class="col-6 col-sm-3 col-lg-3 p-1 ">
           <img src="img/filmes.jpg" class="img-fluid" alt="Capa Filmes">
           <figcaption class="row justify-content-center">
@@ -46,15 +49,16 @@
         </figure>
     </section>
     <section class="row" id="cinema">
+      <h2 class="cor-letra text-center">CINEMA</h2>
       <article class="row justify-content-center">
-        <h2 class="cor-letra">CINEMA</h2>
+        <h2 class="cor-letra">Indiana Jones</h2>
         <a href="noticia-filme.php?cod=1" class="text-center">
-        <picture class="col-12">
-              <source srcset="img/banner-cinema.jpg" class="img-fluid" media="(min-width:992px)">
-              <img src="img/indiana-jones.jpg" class="img-fluid" alt="Banner Cinema">
-              <figcaption>Fonte imagem em https://www.nerdview.com.br/2022/12/asista-ao-trailer-oficial-de-indiana.html</figcaption>
-        </picture>
+          <picture class="col-12">
+                <source srcset="img/banner-cinema.jpg" class="img-fluid" media="(min-width:992px)">
+                <img src="img/indiana-jones.jpg" class="img-fluid" alt="Banner Cinema">
+          </picture>
         </a>
+        <p>Fonte imagem em https://www.nerdview.com.br/2022/12/asista-ao-trailer-oficial-de-indiana.html</p>
         <p>Indiana Jones está de volta! Durante a CCXP22, o quinto filme do arqueólogo mais amado da cultura pop teve seu primeiro trailer revelado. Além de trazer o retorno de Harrison Ford a um dos papéis mais icônicos de sua carreira depois de 14 anos, a prévia revelou também o título oficial da nova sequência: Indiana Jones e o Chamado do Destino</p>
         <a href="noticia-filme.php?cod=1" class="cor-botao col-12 col-lg-2 text-center col-sm-7 m-1 text-decoration-none text-light">LANÇAMENTO</a>
         <a href="noticia-filme.php?cod=1" class="cor-botao col-12 col-lg-2 text-center col-sm-3 m-1 text-decoration-none text-light">AÇÃO</a> 
@@ -94,7 +98,7 @@
         </figure>
         <hgroup>
           <h4 class="cor-letra text-start">Jogador Nº 1 | Crítica</h4>
-          <h5 class="cor-letra-D2D2D2 text-start">A volta do Steven Spielberg moleque</h5>
+          <p class="cor-letra-D2D2D2 text-start">A volta do Steven Spielberg moleque</p>
         </hgroup>
         <p class="text-start">Por <a href="../autores.php?#omelete">Omelete</a> 19/03/2018<!--https://www.omelete.com.br/filmes/criticas/jogador-no-1-critica--></p>
         <p class="text-start">Ninguém melhor que Steven Spielberg para levar às telas a adaptação de Jogador Nº 1 de Ernest Cline.
@@ -125,7 +129,7 @@
         </figure>
         <hgroup>
           <h4 class="cor-letra">Jennifer Lawrence descarta papéis em grandes franquias: "Velha demais"</h4>
-          <h5 class="cor-letra-D2D2D2">Estrela de X-Men e Jogos Vorazes deve se concentrar em títulos independentes</h5>
+          <p class="cor-letra-D2D2D2">Estrela de X-Men e Jogos Vorazes deve se concentrar em títulos independentes</p>
         </hgroup>
         <p>Por <a href="../autores.php?#caiocolleti">Caio Coletti</a>  08/10/20222</p><!-- https://www.omelete.com.br/autores/caio-coletti-->
         <p>
@@ -138,11 +142,13 @@
           <img src="img/senhor-dos-aneis.jpg" alt="Capa Livro">
           <figcaption>Senhor dos Anéis</figcaption>
         </figure>
-        <h4 class="cor-letra text-start">Os Anéis de Poder | Prime Video anuncia novas escalações do elenco; veja</h4>
-        <h5 class="cor-letra-D2D2D2 text-start">Personagens dos atores não foram revelados</h5>
+        <hgroup>
+          <h4 class="cor-letra text-start">Os Anéis de Poder | Prime Video anuncia novas escalações do elenco; veja</h4>
+          <p class="cor-letra-D2D2D2 text-start">Personagens dos atores não foram revelados</p>
+        </hgroup>
         <p class="text-start">Por <a href="../autores.php?#omelete">Omelete.</a>28/10/20222</p>
         <p class="text-start">O Prime Video aproveitou a manhã de hoje (1) para anunciar as novas adições do elenco de O Senhor dos Anéis: Os Anéis de Poder. Em formato de fio, a plataforma, aos poucos, revelou o nome dos 7 atores que se juntarão à produção na a próxima temporada. </p>
-        <a href="artigo-literatura.php?cod=4"class="d-block text-end">Ler Mais</a>
+        <a href="artigo-literatura.php?cod=4" class="d-block text-end">Ler Mais</a>
       </article>
     </section>
     <section  class= "row" id="entrevistas">
@@ -174,7 +180,7 @@
       <article class="col-12 col-sm-6 col-lg-3 text-center">
         <h2 class="row cor-letra">Audrey Tautou</h2>
         <figure>
-          <img src="img/audrey-tautou.jpg"class="img-fluid" alt="Foto Autor">
+          <img src="img/audrey-tautou.jpg" class="img-fluid" alt="Foto Autor">
           <figcaption class="d-none">Foto da atriz Audrey Tautou</figcaption>
         </figure>
         <p class="text-start">Audrey Justine Tautou é uma atriz francesa. Reconhecida na França por sua atuação em Vénus beauté que lhe rendeu o prêmio César de Atriz Revelação</p>
