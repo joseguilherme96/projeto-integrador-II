@@ -15,7 +15,7 @@
 
     <main class="container text-center">
 
-      <section class="row justify-content-center pt-5">
+      <section class="row justify-content-center ">
 
             <article class="row col-12 col-sm-12 col-lg-4 col-xl-12 pt-5">
 
@@ -36,14 +36,14 @@
               
               </div> 
 
-              <div class=" col-6 col-sm-6 col-lg-6 col-xl-6 pt-5">
+              <div class=" col-6 col-sm-6 col-lg-6 col-xl-6 pb-5">
 
                 <a href="https://animenew.com.br/god-of-war-ragnarok-cosplay-impecavel-deixa-fas-surpresos/"> <figure> <figcaption> <img src="imgcosplay/gowragnaroknoticias.png" alt="God of War Ragnarök Cosplay surpreende fãs da grande franquia. Principalmente com o recém lançamendo do jogo God of War Ragnarök,que está sendo um sucesso absurdo."> </a></figcaption> </figure> 
-                <h2 class="cor-letra">God of War Ragnarök</h2> Cosplay surpreende fãs da grande franquia. Principalmente com o recém lançamendo do jogo God of War Ragnarök,que está sendo um sucesso absurdo. </p>   
+                <h2 class="cor-letra">God of War Ragnarök</h2> <p> Cosplay surpreende fãs da grande franquia. Principalmente com o recém lançamendo do jogo God of War Ragnarök,que está sendo um sucesso absurdo. </p>   
 
               </div>
 
-              <div class=" col-6 col-sm-6 col-lg-6 col-xl-6 pt-5">
+              <div class=" col-6 col-sm-6 col-lg-6 col-xl-6 pb-5">
 
                 <a href="https://www.ccxp.com.br"> <figure> <figcaption> <img src="imgcosplay/ccxp.png" alt="CCXP Com evento historico ingressos se esgotam na CCXP22. Com muito conteudo, além de diversos idolos como Keanu Reeves, Bruna Marquezine, Xolo Maridueña e diversos outros."> </a> </figcaption> </figure> 
                 <h2 class="cor-letra"> CCXP</h2> Com evento historico ingressos se esgotam na CCXP22. Com muito conteudo, além de diversos idolos como Keanu Reeves, Bruna Marquezine, Xolo Maridueña e diversos outros. </p>
