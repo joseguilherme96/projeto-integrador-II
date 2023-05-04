@@ -1,20 +1,14 @@
-<!doctype html>
-<html lang="pt-br">
-
-<head>
-  <title>Noticias</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
-  <link rel="stylesheet" href="node_modules/bootstrap-icons/font/bootstrap-icons.css">
-  <link href="../css/tema.css" rel="stylesheet">
-</head>
-<body>
-  <?php include "../nav.php" ?>
-
+<?php $title = "Animes";?>
+<?php include "../header.php"?>
     <main class="container text-center">
-
+    <nav class="navbar navbar-expand-lg bg-light">
+              <ul class="navbar-nav">
+                  <li class="nav-item"><a href="../index.php" class=" nav-link cor-letra">Home / </a></li>
+                  <li class="nav-item"><a href="index.php" class=" nav-link  cor-letra">Cosplay / </a></li>
+                  <li class="nav-item"><a href="index.php" class=" nav-link  cor-letra">Animes / </a></li>
+                  <li class="nav-item"><a href="index.php" class=" nav-link  cor-letra">Noticias / </a></li>
+              </ul>
+    </nav>
       <section class="row justify-content-center ">
 
             <article class="row col-12 col-sm-12 col-lg-4 col-xl-12 pt-5">
@@ -55,6 +49,4 @@
         </section>
 
     </main>
-  <?php include "../rodape.php" ?>
-</body>
-</html>
+<?php include "../footer.php"; ?>
