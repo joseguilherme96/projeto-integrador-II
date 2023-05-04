@@ -1,12 +1,12 @@
 <!doctype html>
-<html lang="en">
+<html lang="PT-BR">
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>HQS</title>
+  <title>Critica</title>
   <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
   <link rel="stylesheet" href="../css/tema.css">
 </head>
 
@@ -17,27 +17,22 @@
     <?php include "../nav.php" ?>
 </nav>
 
-
+<div class="container">
 
 <section class="row pt-5 ">
-    <div class="container">
-      <div class="container">
-        <div class="row">
-          <div class="col-12 cor-letra">
-            <a href="../pg.php" class="text-decoration-none cor-letra">Home</a> / <a href="autores.php" class="text-decoration-none cor-letra">Autores</a>/ <a href="criticas.html" class="text-decoration-none cor-letra">Criticas</a>
+  <div class="col-12 cor-letra ROW">
+            <a href="../pg.php" class="text-decoration-none cor-letra">Home</a>/ <a href="criticas.html" class="text-decoration-none cor-letra">Criticas</a>
           </div>
-        </div>
         <h1 class="col-12 cor-letra text-center">Criticas</h1>
       
 
 <article>
 
-      <div class="col-12 col-sm-6 col-lg-12 text-center pt-5 ">
-<figure>
+<figure class="col-12 col-sm-6 col-lg-12 text-center pt-5 ">
           <img src=" ../HQS/img/c1.jpg" class="img-fluid" alt=" Aqui temos a imagem de Raina Telgemeier: um mergulho na adolescência com Drama e Coragem">
           <figcaption>Raina Telgemeier: um mergulho na adolescência com Drama e Coragem</figcaption>       
 </figure>
-     </div> 
+ 
 
       <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start ">
           <h1 class="cor-letra">Raina Telgemeier: um mergulho na adolescência com Drama e Coragem</h1>
@@ -60,12 +55,12 @@
 
 
 <article>
-      <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center">
-        <figure>
+  
+        <figure class="col-12 col-sm-6 col-lg-12 pt-5 text-center">
           <img src=" ../HQS/img/c2.jpg" class="img-fluid" alt=" Aqui temos a imagem de Stefan Petrucha: a verdade está nas páginas dos quadrinhos">
           <figcaption>Stefan Petrucha: a verdade está nas páginas dos quadrinhos</figcaption>
         </figure>
-      </div>
+   
 
       <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start ">
           <h1 class="cor-letra">Stefan Petrucha: a verdade está nas páginas dos quadrinhos</h1>
@@ -80,12 +75,12 @@
 
  <article class="row pt-5 ">
 
-        <div class="col-12 col-sm-6 col-lg-12 pt-5 text-center">
-          <figure>
+   
+          <figure class="col-12 col-sm-6 col-lg-12 pt-5 text-center">
           <img src=" ../HQS/img/c3.jpg" class="img-fluid" alt=" Aqui temos a iamgem de Jeff Smith: Bone e a longa jornada épica do “faça você mesmo”">
           <figcaption>Jeff Smith: Bone e a longa jornada épica do “faça você mesmo</figcaption>
           </figure>
-        </div>
+     
    
         <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start">
             <h2 class="cor-letra">Jeff Smith: Bone e a longa jornada épica do “faça você mesmo”</h2>
