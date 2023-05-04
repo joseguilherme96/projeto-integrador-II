@@ -1,23 +1,13 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+<?php $title = "Artigo Literatura";?>
+<?php include "../header.php"?>
     
-    <link rel="stylesheet" href="node_modules/bootstrap-icons/font/bootstrap-icons.css">
-    <link rel="stylesheet" href="../css/tema.css">
-    <title>Séries e TV</title>
-</head>
-<body>
-    <?php include "../nav.php"?>
     <div class="container">
         <section class="row">
             <hgroup>
                 <h2 class= "text-center">Séries e TV</h2>
             
                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                <h3 class="d-inline cor-letra">Atores</h3>
+                <p class="d-inline cor-letra">Atores</p>
             </hgroup>
             <article class="col-12 col-sm-6 cor-fundo text-center">
                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>

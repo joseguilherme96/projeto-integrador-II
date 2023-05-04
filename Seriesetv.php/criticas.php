@@ -24,14 +24,6 @@
             
             <article class="cor-fundo row">
               
-                
-                
-               
-                
-                   
-                
-                
-                
                     
                         <i class="bi bi-square-fill fs-1 d-inline cor-letra text-end  col-2">fgr</i>
                         <h2 class=" text-start d-inline cor-letra  p-3 col-10">A Casa do Dragão: fãs reclamam de episódio escuro demais</h2>

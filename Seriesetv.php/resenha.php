@@ -37,7 +37,7 @@
                     <p class="col-8">Direção por: Jesús Colmenar, Koldo Serra, Álex Rodrigo e Javier Quintas.</p>
                     <p class="col-8">A trama é dividida em 5 partes sendo todas disponibilizadas na Netflix.</p>
                     <a class="text-decoration-none cor-letra col-8" href="../autores.php?#natalianini"><p>Natalia NiNi,15/12/2021.</p></a>
-                </div>       
+                  
             </article>
             <div class=" text-end p-3">
                 <a class="btn btn-primary " href="../Seriesetv.php/serieshome.php" role="button">Voltar</a>

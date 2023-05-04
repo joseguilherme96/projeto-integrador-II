@@ -43,8 +43,11 @@
                         </figure>
                         
                         
-                            
-                            <a class="text-decoration-none cor-letra text-start cor-fundo d-block" href="atores.php"><i class="bi bi-square-fill fs-1 d-inline cor-letra text-start cor-fundo"></i><h2 class="d-inline">Atores</h2></a>
+        
+                            <a class="text-decoration-none cor-letra text-start cor-fundo d-block" href="atores.php">
+                                <i class="bi bi-square-fill fs-1 d-inline cor-letra text-start cor-fundo"></i>
+                                <h2 class="d-inline">Atores</h2>
+                            </a>
                             
                             <a class="text-dark text-decoration-none pb-3 text-start cor-fundo " href="atores.php"><p class="cor-fundo">Na CCXP22 Seu Barriga emociona CCXP22 em painel com tom de despedida...O ator mexicano interpretou o dono da vila do Chaves e ficou famoso no Brasil com seu bordão: "pague os 14 meses de aluguel!".Diz ele:"Vim muitas vezes para cá, sou praticamente brasileiro."</p></a>
                         
