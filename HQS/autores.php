@@ -10,7 +10,7 @@
 <main>
 
 <section>
-
+  
     <h1 class="col-12 cor-letra text-center">Autores</h1>
 
   <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">

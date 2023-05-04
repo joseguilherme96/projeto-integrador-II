@@ -74,9 +74,11 @@
        
       </div>
 </article>
+
   <footer>
     <?php include "../rodape.php" ?>
   </footer>
+  
 </div>
 </section> 
 </main>
