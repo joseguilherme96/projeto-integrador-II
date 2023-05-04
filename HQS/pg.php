@@ -3,29 +3,17 @@
     <div class="container">
         <nav class="navbar navbar-expand-lg bg-light">
             <ul class="navbar-nav">
-                <li class="nav-item"><a href="../index.php" class=" nav-link cor-letra">Home / </a></li>
-                <li class="nav-item"><a href="index.php" class=" nav-link  cor-letra">Cinema / </a></li>
-                <li class="nav-item"><a href="literatura.php" class=" nav-link cor-letra">Literatura / </a></li>
-                <li class="nav-item"><a href="artigo-literatura.php" class="nav-link  cor-letra">Artigo</a> </li>
+                <li class="nav-item"><a href="../pg.php" class=" nav-link cor-letra">Home / </a></li>
             </ul>
 <body>
 
   <main>
 
-  <nav><?php include "../nav.php"?>  </nav>
-
     <div class="container">
-
-      <div class="col-12 cor-letra ROW">
-          
-                <a href="../pg.php" class="text-decoration-none cor-letra">Home</a> / <a href="autores.php" class="text-decoration-none cor-letra">Autores</a>/ <a href="criticas.php" class="text-decoration-none cor-letra">Criticas</a> / <a href="materia.php" class="text-decoration-none cor-letra">Materias</a>
-                / <a href="topfive.php" class="text-decoration-none cor-letra">Top Five</a>         / <a href="ultimas Noticias.php" class="text-decoration-none cor-letra">Ultimas Noticias</a>
-              
-              </div>
 
             <section>
 
-              <h2 class="text-center cor-letra">HQS</h2>
+              <h1 class="text-center cor-letra">HQS</h1>
                 <article >
             
                         <figure class="text-center">

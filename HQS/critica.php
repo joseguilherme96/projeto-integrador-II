@@ -3,26 +3,17 @@
     <div class="container">
         <nav class="navbar navbar-expand-lg bg-light">
             <ul class="navbar-nav">
-                <li class="nav-item"><a href="../index.php" class=" nav-link cor-letra">Home / </a></li>
-                <li class="nav-item"><a href="index.php" class=" nav-link  cor-letra">Cinema / </a></li>
-                <li class="nav-item"><a href="literatura.php" class=" nav-link cor-letra">Literatura / </a></li>
-                <li class="nav-item"><a href="artigo-literatura.php" class="nav-link  cor-letra">Artigo</a> </li>
+                <li class="nav-item"><a href="../pg.php" class=" nav-link cor-letra">Home / </a></li>
+                <li class="nav-item"><a href="critica.php" class=" nav-link  cor-letra">Cinema / </a></li>
+
             </ul>
   <body>
   <main>
     
-  <nav>
-    <?php include "../nav.php" ?>
-</nav>
-
 <div class="container">
 
 <section class="row pt-5 ">
-  <div class="col-12 cor-letra ROW">
-            <a href="../pg.php" class="text-decoration-none cor-letra">Home</a>/ <a href="criticas.html" class="text-decoration-none cor-letra">Criticas</a>
-          </div>
         <h1 class="col-12 cor-letra text-center">Criticas</h1>
-      
 
 <article>
 

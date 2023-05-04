@@ -3,29 +3,16 @@
     <div class="container">
         <nav class="navbar navbar-expand-lg bg-light">
             <ul class="navbar-nav">
-                <li class="nav-item"><a href="../index.php" class=" nav-link cor-letra">Home / </a></li>
-                <li class="nav-item"><a href="index.php" class=" nav-link  cor-letra">Cinema / </a></li>
-                <li class="nav-item"><a href="literatura.php" class=" nav-link cor-letra">Literatura / </a></li>
-                <li class="nav-item"><a href="artigo-literatura.php" class="nav-link  cor-letra">Artigo</a> </li>
+                <li class="nav-item"><a href="pg.php" class=" nav-link cor-letra">Home / </a></li>
+                <li class="nav-item"><a href="autores.php" class=" nav-link  cor-letra">Autores </a></li>
             </ul>
 <body>
 <main>
 
-  <nav>
-  <?php include "../nav.php" ?>
-</nav>
-
 <section>
 
-   
-
   <div class="container">
-    <div class="col-12 cor-letra ROW">
-   
-        <a href="../pg.php" class="text-decoration-none cor-letra">Home</a> / <a href="autores.php" class="text-decoration-none cor-letra">Autores</a>
-    </div>
     <h1 class="col-12 cor-letra text-center">Autores</h1>
-  
 
   <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
     <div class="carousel-indicators">
@@ -71,10 +58,6 @@
   </div>
 
 
-  
-
- 
-
 <article class="row pt-5 " >
 
   
@@ -82,8 +65,6 @@
         <img src=" ../HQS/img/a1.jpg" class="img-fluid" alt="Aqui temos a imagem do Mauricio de Sousa">
         <figcaption> Mauricio de Sousa </figcaption>
         </figure>
-     
-
 
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start cor-fundo">
           <h2 class="cor-letra">Mauricio de Sousa</h2>
@@ -92,8 +73,7 @@
             Em 1970, lançou a revista Mônica e, em 1971, recebeu o mais importante prêmio do mundo dos quadrinhos, o troféu Yellow Kid, em Lucca, na Itália. Seguindo o sucesso de Mônica, outros personagens também ganharam suas próprias revistas, que já passaram pelas editoras Abril e Globo e atualmente estão na Panini.
             Dos quadrinhos, eles foram para o teatro, o cinema, a televisão, a internet, parques temáticos e até para exposições de arte.
           </p>
-        </div>
-      
+        </div> 
 
 </article>
       
