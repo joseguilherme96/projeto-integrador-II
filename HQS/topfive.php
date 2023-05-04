@@ -1,43 +1,23 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Topfive</title>
-  <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="../css/tema.css">
-</head>
+<?php $title = "Top Five";?>
+<?php include "../header.php"?>
+    <div class="container">
+        <nav class="navbar navbar-expand-lg bg-light">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a href="../pg.php" class=" nav-link cor-letra">Home / </a></li>
+                <li class="nav-item"><a href="topfive.php" class=" nav-link  cor-letra">Top Five / </a></li>
+            </ul>
 
 <body>
 <main>
 
-<nav>
-    <?php include "../nav.php" ?>
-</nav>
-
 <section>
-  <div class="container" >
-
-    <div class="col-12 cor-letra ROW">
-      <a href="../pg.php" class="text-decoration-none cor-letra">Home</a> 
-      / <a href="topfive.html" class="text-decoration-none cor-letra">Top Five</a>
-    
-    </div>
-  
   <h1 class="col-12 cor-letra text-center cor-fundo">Top Five</h1>
-
- 
-
 <article class="row pt-5 ">
-
-
 
           <figure class="col-12 col-sm-6 col-lg-12 text-center pt-5 ">
           <img src=" ../HQS/img/t1.jpg" class="img-fluid" alt="TOP1">
           <figcaption> top five </figcaption>
           </figure>
-        </div>
       
         <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start cor-fundo">
         <h1 class="cor-letra">Dias Gigantes</h1>
@@ -48,20 +28,15 @@
             <a class="text-decoration-none cor-letra" href=" ../autores.php?#renatofelix">
               <p>Renato Felix,16/08/2021.</p> </a>
             </div>
-       
-     
 
 </article>
 
 <article class="row pt-5 ">
-
-   
           <figure class="col-12 col-sm-6 col-lg-12 pt-5 text-center">
            <img src=" ../HQS/img/t2.jpg" class="img-fluid" alt="TOP2">
            <figcaption>top Five</figcaption>
           </figure>
     
-
         <div class="col-12 col-sm-6 col-lg-12  pt-5 pb-5 text-start cor-fundo">
         <h1 class="cor-letra">Pompeo</h1>
           <p> Esta graphic novel é um dos últimos trabalhos de Pazienza, um dos criadores da revista italiana Frigidaire, antes de sua morte. O leitor brasileiro viu algumas de suas HQs curtas na revista Animal, da VHD Diffusion, no final dos anos 1980.
@@ -82,13 +57,13 @@
 
       <article class="row pt-5 col-12 col-sm-6 col-lg-12 pt-5 text-center">
           
-          <figure><img src=" ../HQS/img/t3.jpg" class="img-fluid" alt="TOP3">
+          <figure>
+            <img src=" ../HQS/img/t3.jpg" class="img-fluid" alt="TOP3">
           <figcaption>top five</figcaption>
           </figure>
        
         <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start cor-fundo">
-            
-            
+
         <h1 class="cor-letra">Doce Jazz</h1>
           <p> Uma experiência pessoal serviu de base para a escrita do roteiro: Mylle Silva fez um intercâmbio no Japão durante seis meses. Na volta, após ter colecionado tantos momentos, sentiu a necessidade de contar essa história.
             Elisa desembarca no Japão, passa pela experiência de morar em um país tão diferente e ainda consegue construir boas amizades – além de integrar uma banda de Jazz.
@@ -98,8 +73,8 @@
             <a class="text-decoration-none cor-letra" href=" ../autores.php?#sergiocodespoti">
               <p>Sergio Codespoti,10/03/2022.</p>
             </a>
-        
         </div>
+
 </article>
 
 <article class="row pt-5 ">
@@ -107,11 +82,9 @@
           <img src=" ../HQS/img/t4.jpg" class="img-fluid" alt="TOP4">
           <figcaption>top five</figcaption>
         </figure>
-    
 
         <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start cor-fundo">
-          
-        <h1 class="cor-letra">Diarios de Amora</h1>
+            <h1 class="cor-letra">Diarios de Amora</h1>
           <p> Os Diários de Amora é um quadrinho claramente destinado ao público infantil. Não há nada de mais na história, mas é justamente por sua simplicidade que pode conquistar um leitor mais experiente.
             Amora tem 10 anos e sonha em ser escritora. O encantamento acontece já nas primeiras páginas do quadrinho, pois a personagem é muito cativante, generosa, corajosa e determinada.
             É uma história para ler para alguma criança, capaz de aguçar a imaginação de meninas e de meninos, ao se deparar com uma garota sonhadora, inteligente e segura de si. Mas funciona também para adultos que apreciam uma linda trama que remete aos sonhos e mistérios da infância.
@@ -126,9 +99,10 @@
 
 </article>
 
-    </div>
+
     <footer><?php include "../rodape.php" ?></footer>
 </section>
 </main>
 </body>
+</div>
 </html>

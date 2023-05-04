@@ -1,29 +1,19 @@
-<!doctype html>
-<html lang="PT-BR">
-<head>
-  <title>Materia</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="../css/tema.css">
-</head>
-
+<?php $title = "Materia";?>
+<?php include "../header.php"?>
+    <div class="container">
+        <nav class="navbar navbar-expand-lg bg-light">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a href="../pg.php" class=" nav-link cor-letra">Home / </a></li>
+                <li class="nav-item"><a href="materia.php" class=" nav-link  cor-letra">Materias / </a></li>
+            </ul>
 <body>
   <main>
-  <nav><?php include "../nav.php" ?></nav>
 
-  
-  <div class="container">
 <section class="row pt-5 ">
-    
-  <div class="col-12 cor-letra ROW">
-          <a href="../pg.php" class="text-decoration-none cor-letra">Home</a> / <a href="materia.php" class="text-decoration-none cor-letra">Materias</a>
-      </div>
+
       <h1 class="col-12 cor-letra text-center">Materias</h1>
 
       <article class="row pt-5 ">
-      
    
         <figure class="col-12 col-sm-12 col-lg-12 text-center pt-5 ">
         <img src=" ../HQS/img/m1.jpg" class="img-fluid" alt="Guia dos lançamentos de quadrinhos na CCXP22">
@@ -70,15 +60,12 @@
 
     </article>
 
-
     <article class="row pt-5 ">
 
-   
         <figure class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
         <img src="../HQS/img/m3.jpg" class="img-fluid" alt="Relembrando as HQs do Mestre de Kung Fu">
         <figcaption>mestre kung fu </figcaption>
        </figure>
-   
 
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start">
         <h1 class="cor-letra">Relembrando as HQs do Mestre de Kung Fu</h1>
@@ -98,8 +85,6 @@
 
 </section>
 </div>
-
-
 </main>
 </body>
 </html>

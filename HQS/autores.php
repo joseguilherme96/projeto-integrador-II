@@ -1,32 +1,17 @@
-<!doctype html>
-<HTML lang="PT-BR">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Autores</title>
-  <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="../css/tema.css">
-</head>
-
+<?php $title = "Autores";?>
+<?php include "../header.php"?>
+    <div class="container">
+        <nav class="navbar navbar-expand-lg bg-light">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a href="pg.php" class=" nav-link cor-letra">Home / </a></li>
+                <li class="nav-item"><a href="autores.php" class=" nav-link  cor-letra">Autores </a></li>
+            </ul>
 <body>
 <main>
 
-  <nav>
-  <?php include "../nav.php" ?>
-</nav>
-
 <section>
-
-   
-
-  <div class="container">
-    <div class="col-12 cor-letra ROW">
-   
-        <a href="../pg.php" class="text-decoration-none cor-letra">Home</a> / <a href="autores.php" class="text-decoration-none cor-letra">Autores</a>
-    </div>
-    <h1 class="col-12 cor-letra text-center">Autores</h1>
   
+    <h1 class="col-12 cor-letra text-center">Autores</h1>
 
   <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
     <div class="carousel-indicators">
@@ -72,10 +57,6 @@
   </div>
 
 
-  
-
- 
-
 <article class="row pt-5 " >
 
   
@@ -83,8 +64,6 @@
         <img src=" ../HQS/img/a1.jpg" class="img-fluid" alt="Aqui temos a imagem do Mauricio de Sousa">
         <figcaption> Mauricio de Sousa </figcaption>
         </figure>
-     
-
 
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start cor-fundo">
           <h2 class="cor-letra">Mauricio de Sousa</h2>
@@ -93,14 +72,12 @@
             Em 1970, lançou a revista Mônica e, em 1971, recebeu o mais importante prêmio do mundo dos quadrinhos, o troféu Yellow Kid, em Lucca, na Itália. Seguindo o sucesso de Mônica, outros personagens também ganharam suas próprias revistas, que já passaram pelas editoras Abril e Globo e atualmente estão na Panini.
             Dos quadrinhos, eles foram para o teatro, o cinema, a televisão, a internet, parques temáticos e até para exposições de arte.
           </p>
-        </div>
-      
+        </div> 
 
 </article>
       
 <article class="row pt-5 ">
-
-       
+    
  <figure class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
           <img src=" ../HQS/img/a2.jpg" class="img-fluid" alt=" Aqui temos a imagem do Katsuhiro Otomo">
           <figcaption> Katsuhiro Otomo</figcaption>
@@ -119,8 +96,9 @@
   <footer>
     <?php include "../rodape.php" ?>
   </footer>
-  </div>
 
+  </div>
+</section>
 </main>
 </body>
 </html>
