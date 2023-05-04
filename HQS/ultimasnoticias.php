@@ -6,39 +6,34 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
   <link rel="stylesheet" href="../css/tema.css">
 </head>
+
 <body>
   <main>
   <nav>
   <?php include "../nav.php" ?>
 </nav>
-
+<div class="container">
 <section>
-  <div class="container">
-  <div class="row">
-    <div class="col-12 cor-letra">
-      <a href="../pg.php" class="text-decoration-none cor-letra">Home</a> / <a href="autores.php" class="text-decoration-none cor-letra">Autores</a>/ <a href="criticas.php" class="text-decoration-none cor-letra">Criticas</a> / <a href="materia.php" class="text-decoration-none cor-letra">Materias
-      / <a href="topfive.php" class="text-decoration-none cor-letra">Top Five  / <a href="ultimasnoticias.php" class="text-decoration-none cor-letra">Ultimas Noticias</a>
+
+    <div class="col-12 cor-letra ROW">
+      <a href="../pg.php" class="text-decoration-none cor-letra">Home</a> 
+      / <a href="ultimasnoticias.php" class="text-decoration-none cor-letra">Ultimas Noticias</a>
     
     </div>
-  </div>
+ 
  
   <h1 class="col-12 cor-letra text-center">Ultimas Noticias</h1>
-</div>
- 
 
  
-
 
     <article class="row pt-5 ">
-       <div class="col-12 col-sm-12 col-lg-6 text-center pt-5 ">
-        <figure>
+        <figure class="col-12 col-sm-12 col-lg-6 text-center pt-5 ">
           <img src=" ../HQS/img/u1.jpg" class="img-fluid" alt="Aqui temos a imagem do ultimo desenhão">
           <figcaption>desenhão </figcaption>
          </figure>
-      </div>
+  
 
           <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start ">
         <h1 class="cor-letra">Desenhão: batalha de desenhos ao vivo premiará artista com um iPad Pro</h1>
@@ -58,13 +53,12 @@
 
 
       <article class="row pt-5 ">
-      <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
-        <figure>
+        <figure class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
        <img src=" ../HQS/img/u2.jpg" class="img-fluid" alt="Formosa Márcia vence o Prêmio Jabuti na categoria História em Quadrinhos">
       <figcaption> premio jabuti </figcaption>
         </figure>
 
-    </div>
+
 
 
 
@@ -86,12 +80,12 @@
 </article>
 
     <article class="row pt-5 ">
-      <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
-        <figure>
+        <figure class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
         <img src=" ../HQS/img/u3.jpg" class="img-fluid" alt="História em quadrinhos sobre Paulo Freire em campanha no Catarse">
         <figcaption>paulo freire </figcaption>
       </figure>
-          </div>
+        
+
              <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start">
         <h1 class="cor-letra">História em quadrinhos sobre Paulo Freire em campanha no Catarse</h1>
         <p class="texto"> A obra busca apresentar o educador a uma nova geração, mas também permitir um reencontro àqueles que conhecem sua história, com quatro narrativas criadas por Rogério Faria (Marighella #LIVRE), Ricardo Sousa (ZéMurai), Jefferson Costa (Jeremias - Pele) e Ren Nolasco (Só Ana), com 20 páginas.
