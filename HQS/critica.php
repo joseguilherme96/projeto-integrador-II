@@ -9,8 +9,6 @@
             </ul>
   <body>
   <main>
-    
-<div class="container">
 
 <section class="row pt-5 ">
         <h1 class="col-12 cor-letra text-center">Criticas</h1>
@@ -81,6 +79,7 @@
     <footer><?php include "../rodape.php" ?></footer>
   </div>
 
+</section>
+  </main>
 </body>
-</main>
 </html>

@@ -8,16 +8,13 @@
 <body>
 
   <main>
-
-    <div class="container">
-
             <section>
 
               <h1 class="text-center cor-letra">HQS</h1>
                 <article >
             
                         <figure class="text-center">
-                            <a href="materia.php"><img src="../HQS/img/m1.jpg"img-fluid src="../HQS/img/c1.jpg" class="img-fluid" alt=" Aqui temos a imagem do CCXP22"></a>
+                            <a href="materia.php"><img src="../HQS/img/m1.jpg" img-fluid src="../HQS/img/c1.jpg" class="img-fluid" alt=" Aqui temos a imagem do CCXP22"></a>
                             <figcaption>CCXP22</figcaption>
                         </figure>
             
@@ -91,11 +88,12 @@
                 
                             <a class="text-dark text-decoration-none" href="ultimasnoticias.php"><p>A obra busca apresentar o educador a uma nova geração, mas também permitir um reencontro àqueles que conhecem sua história, com quatro narrativas criadas por Rogério Faria (Marighella #LIVRE), Ricardo Sousa (ZéMurai), Jefferson Costa (Jeremias - Pele) e Ren Nolasco (Só Ana), com 20 páginas.</p></a>
                         </div>
-                      </div>
+                      
                 </article>
  <footer>  <?php include "../rodape.php"?>  </footer>
 
               </section>
+              </div>
   </main>
 </body>
 </html>

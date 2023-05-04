@@ -8,8 +8,7 @@
             </ul>
 <body>
   <main>
- 
-  <div class="container">
+
 <section class="row pt-5 ">
 
       <h1 class="col-12 cor-letra text-center">Materias</h1>
@@ -86,8 +85,6 @@
 
 </section>
 </div>
-
-
 </main>
 </body>
 </html>

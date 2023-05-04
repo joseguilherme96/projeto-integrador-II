@@ -10,8 +10,6 @@
 <body>
 <main>
 
-<div class="container" >
-
 <section>
   <h1 class="col-12 cor-letra text-center cor-fundo">Top Five</h1>
 <article class="row pt-5 ">
@@ -20,7 +18,6 @@
           <img src=" ../HQS/img/t1.jpg" class="img-fluid" alt="TOP1">
           <figcaption> top five </figcaption>
           </figure>
-        </div>
       
         <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start cor-fundo">
         <h1 class="cor-letra">Dias Gigantes</h1>
@@ -35,14 +32,11 @@
 </article>
 
 <article class="row pt-5 ">
-
-   
           <figure class="col-12 col-sm-6 col-lg-12 pt-5 text-center">
            <img src=" ../HQS/img/t2.jpg" class="img-fluid" alt="TOP2">
            <figcaption>top Five</figcaption>
           </figure>
     
-
         <div class="col-12 col-sm-6 col-lg-12  pt-5 pb-5 text-start cor-fundo">
         <h1 class="cor-letra">Pompeo</h1>
           <p> Esta graphic novel é um dos últimos trabalhos de Pazienza, um dos criadores da revista italiana Frigidaire, antes de sua morte. O leitor brasileiro viu algumas de suas HQs curtas na revista Animal, da VHD Diffusion, no final dos anos 1980.
@@ -103,9 +97,10 @@
 
 </article>
 
-    </div>
+
     <footer><?php include "../rodape.php" ?></footer>
 </section>
 </main>
 </body>
+</div>
 </html>

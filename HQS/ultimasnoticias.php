@@ -9,7 +9,7 @@
 
 <body>
   <main>
-<div class="container">
+
 <section>
 
   <h1 class="col-12 cor-letra text-center">Ultimas Noticias</h1>
@@ -19,7 +19,6 @@
           <figcaption>desenhão </figcaption>
          </figure>
   
-
           <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start ">
         <h1 class="cor-letra">Desenhão: batalha de desenhos ao vivo premiará artista com um iPad Pro</h1>
         <p class="texto">No próximo sábado, 26 de novembro, a partir das 19h, acontece o Desenhão, uma festa que vai reunir artistas, fãs dos quadrinhos nacionais e amantes da cultura geek no geral numa oportunidade de juntar as pessoas para celebrar, debater assuntos e fazer arte.

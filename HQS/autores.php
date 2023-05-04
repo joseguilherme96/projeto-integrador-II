@@ -11,7 +11,6 @@
 
 <section>
 
-  <div class="container">
     <h1 class="col-12 cor-letra text-center">Autores</h1>
 
   <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
@@ -78,8 +77,7 @@
 </article>
       
 <article class="row pt-5 ">
-
-       
+    
  <figure class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
           <img src=" ../HQS/img/a2.jpg" class="img-fluid" alt=" Aqui temos a imagem do Katsuhiro Otomo">
           <figcaption> Katsuhiro Otomo</figcaption>
@@ -98,8 +96,9 @@
   <footer>
     <?php include "../rodape.php" ?>
   </footer>
-  </div>
 
+  </div>
+</section>
 </main>
 </body>
 </html>
