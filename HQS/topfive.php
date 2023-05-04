@@ -1,13 +1,13 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Topfive</title>
-  <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="../css/tema.css">
-</head>
+<?php $title = "Top Five";?>
+<?php include "../header.php"?>
+    <div class="container">
+        <nav class="navbar navbar-expand-lg bg-light">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a href="../index.php" class=" nav-link cor-letra">Home / </a></li>
+                <li class="nav-item"><a href="index.php" class=" nav-link  cor-letra">Cinema / </a></li>
+                <li class="nav-item"><a href="literatura.php" class=" nav-link cor-letra">Literatura / </a></li>
+                <li class="nav-item"><a href="artigo-literatura.php" class="nav-link  cor-letra">Artigo</a> </li>
+            </ul>
 
 <body>
 <main>
@@ -31,8 +31,6 @@
 
 <article class="row pt-5 ">
 
-
-
           <figure class="col-12 col-sm-6 col-lg-12 text-center pt-5 ">
           <img src=" ../HQS/img/t1.jpg" class="img-fluid" alt="TOP1">
           <figcaption> top five </figcaption>
@@ -48,8 +46,6 @@
             <a class="text-decoration-none cor-letra" href=" ../autores.php?#renatofelix">
               <p>Renato Felix,16/08/2021.</p> </a>
             </div>
-       
-     
 
 </article>
 
@@ -87,8 +83,6 @@
           </figure>
        
         <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start cor-fundo">
-            
-            
         <h1 class="cor-letra">Doce Jazz</h1>
           <p> Uma experiência pessoal serviu de base para a escrita do roteiro: Mylle Silva fez um intercâmbio no Japão durante seis meses. Na volta, após ter colecionado tantos momentos, sentiu a necessidade de contar essa história.
             Elisa desembarca no Japão, passa pela experiência de morar em um país tão diferente e ainda consegue construir boas amizades – além de integrar uma banda de Jazz.
@@ -107,8 +101,6 @@
           <img src=" ../HQS/img/t4.jpg" class="img-fluid" alt="TOP4">
           <figcaption>top five</figcaption>
         </figure>
-    
-
         <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start cor-fundo">
           
         <h1 class="cor-letra">Diarios de Amora</h1>

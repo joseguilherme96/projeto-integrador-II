@@ -1,15 +1,13 @@
-<!doctype html>
-<html lang="PT-BR">
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Critica</title>
-  <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="../css/tema.css">
-</head>
-
+<?php $title = "Criticas";?>
+<?php include "../header.php"?>
+    <div class="container">
+        <nav class="navbar navbar-expand-lg bg-light">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a href="../index.php" class=" nav-link cor-letra">Home / </a></li>
+                <li class="nav-item"><a href="index.php" class=" nav-link  cor-letra">Cinema / </a></li>
+                <li class="nav-item"><a href="literatura.php" class=" nav-link cor-letra">Literatura / </a></li>
+                <li class="nav-item"><a href="artigo-literatura.php" class="nav-link  cor-letra">Artigo</a> </li>
+            </ul>
   <body>
   <main>
     
@@ -53,15 +51,12 @@
 
 </article>
 
-
 <article>
   
         <figure class="col-12 col-sm-6 col-lg-12 pt-5 text-center">
           <img src=" ../HQS/img/c2.jpg" class="img-fluid" alt=" Aqui temos a imagem de Stefan Petrucha: a verdade está nas páginas dos quadrinhos">
           <figcaption>Stefan Petrucha: a verdade está nas páginas dos quadrinhos</figcaption>
         </figure>
-   
-
       <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start ">
           <h1 class="cor-letra">Stefan Petrucha: a verdade está nas páginas dos quadrinhos</h1>
           <p> Stefan Petrucha é um prolífero autor norte-americano, com trabalhos publicados por grandes editoras lá fora, incluindo romances baseados em super-heróis da Marvel Comics.
@@ -74,14 +69,11 @@
 </article>
 
  <article class="row pt-5 ">
-
-   
           <figure class="col-12 col-sm-6 col-lg-12 pt-5 text-center">
           <img src=" ../HQS/img/c3.jpg" class="img-fluid" alt=" Aqui temos a iamgem de Jeff Smith: Bone e a longa jornada épica do “faça você mesmo”">
           <figcaption>Jeff Smith: Bone e a longa jornada épica do “faça você mesmo</figcaption>
           </figure>
      
-   
         <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start">
             <h2 class="cor-letra">Jeff Smith: Bone e a longa jornada épica do “faça você mesmo”</h2>
             <p> No começo dos anos 1990, o título Bone instigou e fomentou o mercado de autopublicação norte-americano numa época em que a toda poderosa indústria dos super-heróis inflava cada vez mais a bolha especulativa com suas sagas caça-níqueis e as coleções de graphic novels – termo criado por Will Eisner (1917-2005) no final dos anos 1970 para “elevar” o status das HQs – estavam crescendo nas prateleiras.

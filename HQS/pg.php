@@ -1,14 +1,13 @@
-
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-    <link rel="stylesheet" href="../css/tema.css">
-    <title>HQS</title>
-</head>
+<?php $title = "HQS";?>
+<?php include "../header.php"?>
+    <div class="container">
+        <nav class="navbar navbar-expand-lg bg-light">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a href="../index.php" class=" nav-link cor-letra">Home / </a></li>
+                <li class="nav-item"><a href="index.php" class=" nav-link  cor-letra">Cinema / </a></li>
+                <li class="nav-item"><a href="literatura.php" class=" nav-link cor-letra">Literatura / </a></li>
+                <li class="nav-item"><a href="artigo-literatura.php" class="nav-link  cor-letra">Artigo</a> </li>
+            </ul>
 <body>
 
   <main>
@@ -68,12 +67,8 @@
                             
                             <a class="text-dark text-decoration-none pb-3 text-start cor-fundo " href="topfive.php"><p class="cor-fundo">Foi divulgado na data de ontem o vencedor da 64ª edição do Prêmio Jabuti na categoria História em Quadrinhos. O prêmio foi para Escuta, Formosa Márcia, de Marcello Quintanilha (Editora Veneta).</p></a>
 
-                </article>
-
+            </article>
                 <article class="row"> 
-                    
-
-                  
                         <figure class="col-12 col-sm-4 pt-5 mt-sm-3">
                             <a href="critica.php"><img src="../HQS/img/c3.jpg" class="img-fluid" alt=" Aqui temos a imagem do Jeff Smith: Bone e a longa jornada épica do “faça você mesmo"></a> 
                             <figcaption>Jeff Smith: Bone e a longa jornada épica do “faça você mesmo”</figcaption>
@@ -90,15 +85,11 @@
                     </figure>
 
                         <div class="pt-3 text-start cor-fundo pb-3">
-                        
                             <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                             <a class="text-decoration-none cor-letra" href="ultimasnoticias.php"><h2 class="d-inline">Desenhão: batalha de desenhos ao vivo premiará artista com um iPad Pro</h2></a>
-                
                             <a class="text-dark text-decoration-none" href="ultimasnoticias.php"><p>No próximo sábado, 26 de novembro, a partir das 19h, acontece o Desenhão, uma festa que vai reunir artistas, fãs dos quadrinhos nacionais e amantes da cultura geek no geral numa oportunidade de juntar as pessoas para celebrar, debater assuntos e fazer arte. </p></a>
                         </div>
                      </article>
-
-
                 <article class="row">
                     
                         <figure class="col-6 col-sm-6 pt-5 mt-sm-3">
@@ -114,10 +105,6 @@
                         </div>
                       </div>
                 </article>
-
-
-          
-
  <footer>  <?php include "../rodape.php"?>  </footer>
 
               </section>
