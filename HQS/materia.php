@@ -1,12 +1,11 @@
 <!doctype html>
-<html lang="en">
+<html lang="PT-BR">
 <head>
-  <title>HQS</title>
+  <title>Materia</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
   <link rel="stylesheet" href="../css/tema.css">
 </head>
 
@@ -15,26 +14,23 @@
   <nav><?php include "../nav.php" ?></nav>
 
   
-    
+  <div class="container">
 <section class="row pt-5 ">
-    <div class="container">
-
-      <div class="row">
-        <div class="col-12 cor-letra">
-          <a href="../pg.php" class="text-decoration-none cor-letra">Home</a> / <a href="autores.php" class="text-decoration-none cor-letra">Autores</a>/ <a href="criticas.php" class="text-decoration-none cor-letra">Criticas</a> / <a href="materia.php" class="text-decoration-none cor-letra">Materias</a>
-        </div>
+    
+  <div class="col-12 cor-letra ROW">
+          <a href="../pg.php" class="text-decoration-none cor-letra">Home</a> / <a href="materia.php" class="text-decoration-none cor-letra">Materias</a>
       </div>
       <h1 class="col-12 cor-letra text-center">Materias</h1>
 
       <article class="row pt-5 ">
       
-      <div class="col-12 col-sm-12 col-lg-12 text-center pt-5 ">
-        <figure>
+   
+        <figure class="col-12 col-sm-12 col-lg-12 text-center pt-5 ">
         <img src=" ../HQS/img/m1.jpg" class="img-fluid" alt="Guia dos lançamentos de quadrinhos na CCXP22">
         <figcaption> CCXP22 </figcaption>
         </figure>
 
-      </div>
+  
       </article>
 
       <article class="row pt-5 ">
@@ -55,12 +51,12 @@
 
       <article class="row pt-5 ">
     
-      <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
-        <figure>
+     
+        <figure class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
         <img src="../HQS/img/m2.jpg" class="img-fluid" alt="Do Cruzeiro Novo ao Real: 50 anos de economia brasileira com a revista Mônica">
       <figcaption>Do cruzeiro ao novo real</figcaption>
       </figure>
-      </div>
+   
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start ">
         <h1 class="cor-letra">Do Cruzeiro Novo ao Real: 50 anos de economia brasileira com a revista Mônica</h1>
         <p>Comemorando 50 anos em 2020, Mônica é o gibi há mais tempo publicado ininterruptamente no Brasil. São mais de 600 edições, sem deixar de estar nas bancas nem um único mês. A revista possui uma estabilidade que impressiona: praticamente não mudou desde sua estreia, salvo um aumento de 64 para 80 páginas, em 1984.
@@ -77,12 +73,12 @@
 
     <article class="row pt-5 ">
 
-      <div class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
-        <figure>
+   
+        <figure class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
         <img src="../HQS/img/m3.jpg" class="img-fluid" alt="Relembrando as HQs do Mestre de Kung Fu">
         <figcaption>mestre kung fu </figcaption>
        </figure>
-      </div>
+   
 
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start">
         <h1 class="cor-letra">Relembrando as HQs do Mestre de Kung Fu</h1>
