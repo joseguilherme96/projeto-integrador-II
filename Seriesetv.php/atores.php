@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="../css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-    <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    
     <link rel="stylesheet" href="node_modules/bootstrap-icons/font/bootstrap-icons.css">
     <link rel="stylesheet" href="../css/tema.css">
     <title>Séries e TV</title>
@@ -14,12 +13,12 @@
     <?php include "../nav.php"?>
     <div class="container">
         <section class="row">
+            <hgroup>
+                <h2 class= "text-center">Séries e TV</h2>
             
-            <h2 class= "text-center">Séries e TV</h2>
-            
-            <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-            <h2 class="d-inline cor-letra">Atores</h2>
-        
+                <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
+                <h3 class="d-inline cor-letra">Atores</h3>
+            </hgroup>
             <article class="col-12 col-sm-6 cor-fundo text-center">
                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                 <h3 class="d-inline p-3 cor-letra ">Katherine McNamara revela paixão pela comunidade e fãs brasileiros na CCXP22</h3>
@@ -75,9 +74,9 @@
                 <a class="text-decoration-none cor-letra" href="../autores.php?#Pedrohenriqueribeiro"><p>Pedro Henrique Ribeiro 04/12/2022</p></a>
                 
                 </article>
-            <div class="text-end pb-3">
-                <a class="btn btn-primary " href="../Seriesetv.php/serieshome.php" role="button">Voltar</a>
-            </div> 
+            
+                <a class="btn btn-primary display-block text-end pb-3 " href="../Seriesetv.php/serieshome.php" role="button">Voltar</a>
+         
         </section>
     </div> 
     <?php include "../rodape.php"?>  
