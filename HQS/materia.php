@@ -3,25 +3,20 @@
     <div class="container">
 
 <body>
-  <main>
+ <main>
 
-<section class="row pt-5 ">
+  <section class="row pt-5 ">
 
       <h1 class="col-12 cor-letra text-center">Materias</h1>
 
-      <article class="row pt-5 ">
+      <article>
    
         <figure class="col-12 col-sm-12 col-lg-12 text-center pt-5 ">
         <img src=" ../HQS/img/m1.jpg" class="img-fluid" alt="Guia dos lançamentos de quadrinhos na CCXP22">
         <figcaption> CCXP22 </figcaption>
         </figure>
 
-  
-      </article>
-
-      <article class="row pt-5 ">
-
-      <div class="col-12 col-sm-12 col-lg-12 pt-5 pb-5 text-start ">
+        <div class="row col-12 col-sm-12 col-lg-12 text-center pt-5 ">
         <h1 class="cor-letra">Guia dos lançamentos de quadrinhos na CCXP22</h1>
         <p>Após três anos, a CCXP volta a ser presencial e é aguardada com ansiedade por fãs e profissionais. O evento ocorre entre 1º e 4 de dezembro e, como sempre, um dos destaques será o Artists' Valley (antigo Artists' Alley), que receberá mais de 482 autores de todo o Brasil e do exterior, divididos em 356 mesas vendendo seus trabalhos. E vários deles serão lançados na CCXP.
           Diversas editoras também marcarão presença com estandes próprios e no novo espaço Mercado Medieval.
@@ -33,16 +28,13 @@
           </a>
       </div>
 
-    </article>
+     </article>
 
-      <article class="row pt-5 ">
-    
-     
-        <figure class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
+    <article class="row pt-5 ">
+      <figure class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
         <img src="../HQS/img/m2.jpg" class="img-fluid" alt="Do Cruzeiro Novo ao Real: 50 anos de economia brasileira com a revista Mônica">
-      <figcaption>Do cruzeiro ao novo real</figcaption>
+        <figcaption>Do cruzeiro ao novo real</figcaption>
       </figure>
-   
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start ">
         <h1 class="cor-letra">Do Cruzeiro Novo ao Real: 50 anos de economia brasileira com a revista Mônica</h1>
         <p>Comemorando 50 anos em 2020, Mônica é o gibi há mais tempo publicado ininterruptamente no Brasil. São mais de 600 edições, sem deixar de estar nas bancas nem um único mês. A revista possui uma estabilidade que impressiona: praticamente não mudou desde sua estreia, salvo um aumento de 64 para 80 páginas, em 1984.
@@ -53,16 +45,13 @@
           <a class="text-decoration-none cor-letra" href=" ../autores.php?#renatofelix">
             <p>Renato Felix,29/12/2020.</p> </a>
       </div>
-
     </article>
 
     <article class="row pt-5 ">
-
-        <figure class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
+      <figure class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
         <img src="../HQS/img/m3.jpg" class="img-fluid" alt="Relembrando as HQs do Mestre de Kung Fu">
         <figcaption>mestre kung fu </figcaption>
-       </figure>
-
+      </figure>
       <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start">
         <h1 class="cor-letra">Relembrando as HQs do Mestre de Kung Fu</h1>
         <p> Shang Chi, o Mestre do Kung Fu, surgiu em dezembro de 1973, nas páginas da revista bimestral Special Marvel Edition # 15, da Marvel Comics.
@@ -72,15 +61,14 @@
           Diante desse cenário, não foi estranho as editoras norte-americanas apostarem nas artes marciais como uma das tendências para atrair novos leitores. </p>
           <a class="text-decoration-none cor-letra" href=" ../autores.php?#sergiocodespoti">
             <p>Sergio Codespoti,05/08/2018. </p> </a>
-        
       </div>
     </article>
     
  
-  <footer><?php include "../rodape.php" ?></footer>
+   <footer><?php include "../rodape.php" ?></footer>
 
-</section>
-</div>
-</main>
+  </section>
+  </div>
+ </main>
 </body>
 </html>
