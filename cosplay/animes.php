@@ -3,20 +3,19 @@
 <?php include "../header.php"?>
 
   <main class="container text-center ">
-  <nav class="navbar navbar-expand-lg bg-light">
+    <nav class="navbar navbar-expand-lg bg-light">
             <ul class="navbar-nav">
                 <li class="nav-item"><a href="../index.php" class=" nav-link cor-letra">Home / </a></li>
-                <li class="nav-item"><a href="index.php" class=" nav-link  cor-letra">Cosplay / </a></li>
-                <li class="nav-item"><a href="literatura.php" class=" nav-link cor-letra">Anime / </a></li>
+                <li class="nav-item"><a href="cosplay.php" class=" nav-link  cor-letra">Cosplay / </a></li>
+                <li class="nav-item"><a href="animes.php" class=" nav-link cor-letra">Animes / </a></li>
             </ul>
     </nav>
     <section class="row justify-content-center  ">
              <h1 class="cor-letra"> ANIMES </h1> 
-             
             <div class="row col-12 col-sm-6 col-lg-6 col-xl-4 pt-3,5">
           <article >
              <h2 class="cor-letra "> Boruto </h2>  
-             <a href="https://www.crunchyroll.com/pt-br/series/GR75Q020Y/boruto-naruto-next-generations">
+             <a href="https://www.crunchyroll.com/pt-br/series/GR75Q020Y/boruto-naruto-next-generations"> </a> 
               <figure> 
                   <img src=" imgcosplay/boruto.png" class="img-fluid"  alt=" Uzumaki Boruto, filho de Uzumaki Naruto, o Sétimo Hokage, se inscreveu na Academia Ninja para aprender a ser um verdadeiro ninja. Os outros estudantes o ignoram por ser apenas o filho do Hokage mas a paixão e a personalidade do Boruto vai acabar com todos esses preconceitos.Quando uma série de misteriosos eventos começa a se desenrolar, cabe a Boruto e seus novos amigos a investigá-los. Como um tornado, Boruto entra no coração de todos: sua história está prestes a começar!"> </a>  
                   <figcaption> </figcaption>
