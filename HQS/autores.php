@@ -1,11 +1,6 @@
 <?php $title = "Autores";?>
 <?php include "../header.php"?>
     <div class="container">
-        <nav class="navbar navbar-expand-lg bg-light">
-            <ul class="navbar-nav">
-                <li class="nav-item"><a href="pg.php" class=" nav-link cor-letra">Home / </a></li>
-                <li class="nav-item"><a href="autores.php" class=" nav-link  cor-letra">Autores </a></li>
-            </ul>
 <body>
 <main>
 
