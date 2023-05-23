@@ -2,64 +2,55 @@
 <?php $title = "Contato";?>
 <?php include "header.php"?>
     <main class="container my-5">
-        <section>
-            <form class="row justify-content-end"  action="contato.php" method="POST">
-                <h2 class="cor-letra">Fale Conosco</h2>
-                <label>Nome</label>
-                <input type="text" class="form-control" placeholder="Nome" required>
-                <label>E-mail</label>
-                <input type="text" class="form-control" placeholder="example@hotmail.com" required>
-                <label>Mensagem</label>
-                <textarea class="form-control" placeholder="Mensagem" required></textarea>
+        <form class="row justify-content-end"  action="contato.php" method="POST"> 
+            <fieldset>
+                <legend class="cor-letra">Fale Conosco</legend>
+                <label for="nome">Nome</label>
+                <input type="text" class="form-control" placeholder="Nome" id="nome" required>
+                <label for="email">E-mail</label>
+                <input type="text" class="form-control" placeholder="example@hotmail.com" id="email" required>
                 <label for="assuntosSelect">Qual assunto que você gostaria de receber ?</label>
-                <select id="assuntosSelect">
-                    <option>Selecione um assunto : </option>
+            </fieldset>
+            <fieldset>
+                <legend class="cor-letra">Assuntos</legend>
+                <select id="assuntosSelect" aria-controls="assuntoInfo">
+                    <option value="">Selecione um assunto : </option>
                     <option value="cinema">Cinema</option>
                     <option value="hqs">HQS</option>
                     <option value="cosplay">Cosplay</option>
                     <option value="seriestv">Series e Tv</option>
                 </select>
-                <hgroup role="assunto" id="assuntoInfo" aria-live="polite">
-                    <h2 id="planetTitle">Não foi selecionado nenhum assunto</h2>
+                <div role="region" id="assuntoInfo" aria-live="polite">
                     <p id="assuntoDescricao">Selecione um assunto para ver sua descrição</p>
-                </hgroup>
-                <p>
-                    <small>
-                        Referencias
-                        <a href="https://en.wikipedia.org/wiki/Solar_System"></a>
-                    <small>
-                </p>
-                <input type="submit" class="btn col-3 col-lg-2 my-5" style="background-color:#E03616" value="Enviar Mensagem" accsesskey="e">
-            </form>
-        </section>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend class="cor-letra">Mensagem</legend>
+                <label for="mensagem">Mensagem</label>
+                <textarea class="form-control" placeholder="Mensagem" id="mensagem" required></textarea>
+                <input type="submit" class="btn col-3 col-lg-2 my-5" style="background-color:#E03616" value="Enviar Mensagem">
+            </fieldset>
+        </form>
     </main>
     <script>
         const ASSUNTOS_INFO = {
 
             cinema:{
-                title:"Cinema",
                 description: 
                 "Aqui vamos trazer noticias, materias e entrevistas exclusivas sobre o mundo do cimema. As noticias sobre filmes incluem lançamentos, noticias de streaming focado nos principais filmes exclusivos da plataforma streamming, entrevistas com os autores mais famosos dos filmes e filmes que foram inspirados na literatura.",
             },
 
             hqs:{
-
-                title: "HQS",
                 description:
                 "HQs e mangás estão muito bem representados na DarkSide Books. Títulos nacionais e internacionais fazem parte da linha DarkSide Graphic Novel.",
-
-            }
+            },
 
             cosplay:{
-
-                title:"cosplay",
                 description:
                 "Cosplay, uma abreviação de costume play do inglês, costume; traduzido como  fantasia  ou figurino, e play, traduzido como jogo ou dramatização, é uma atividade e arte performática em que os participantes chamados cosplayers usam fantasias e acessórios para representar um personagem específico.",
-            
-            }
+            },
 
             seriestv:{
-                title:"seriestv"
                 description:
                 "Sabia tudo sobre series e TV",
             },
@@ -68,9 +59,26 @@
 
         function renderAssuntoInfo(assunto){
 
-            const assuntoTitle = document.querySelector("assuntoTitle");
-            const assuntoDescription = document.query
+            const assuntoDescricao = document.querySelector("#assuntoDescricao");
+
+            if(assunto in ASSUNTOS_INFO){
+
+                assuntoDescricao.textContent = ASSUNTOS_INFO[assunto].description;
+
+            }else{
+
+                assuntoDescricao.textContent = "Selecione um assunto para ver a descrição";
+
+            }
 
         }
+
+        const renderAssuntoInfoButton = document.querySelector("#assuntosSelect");
+
+        renderAssuntoInfoButton.addEventListener("click",(event)=>{
+            const assuntosSelect = document.querySelector("#assuntosSelect");
+            const selectedAssunto = assuntosSelect.options[assuntosSelect.selectedIndex].value;
+            renderAssuntoInfo(selectedAssunto)
+        });
     </script>
     <?php include "footer.php"?>
