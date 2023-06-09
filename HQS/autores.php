@@ -13,17 +13,11 @@
           <img src=" ../HQS/img/a22.jpg" class="img-fluid" alt="Aqui temos a imagem do Mauricio de Sousa">
             <figcaption> Mauricio de Sousa </figcaption>
         </figure>
-     
-
-
       <article class="row pt-5 " >
-
-  
              <figure class="col-12 col-sm-12 col-lg-6 text-center pt-5 ">
                <img src=" ../HQS/img/a1.jpg" class="img-fluid" alt="Aqui temos a imagem do Mauricio de Sousa">
                  <figcaption> Mauricio de Sousa </figcaption>
              </figure>
-
        <div class="col-12 col-sm-12 col-lg-6 pt-5 pb-5 text-start cor-fundo">
           <h2 class="cor-letra">Mauricio de Sousa</h2>
           <p>Mauricio de Sousa é desenhista, empresário, o mais premiado autor brasileiro de quadrinhos e membro da Academia Paulista de Letras. Nasceu em 27 de outubro de 1935, numa família de poetas e contadores de histórias em Santa Isabel, no interior de São Paulo. Ainda criança, mudou-se para Mogi das Cruzes, onde descobriu sua paixão pelo desenho e começou a criar os primeiros personagens. Com 19 anos, foi para São Paulo tentar trabalhar como ilustrador na Folha da Manhã (hoje Folha de S.Paulo). No entanto, conseguiu apenas uma vaga de repórter policial.
@@ -31,12 +25,10 @@
             Em 1970, lançou a revista Mônica e, em 1971, recebeu o mais importante prêmio do mundo dos quadrinhos, o troféu Yellow Kid, em Lucca, na Itália. Seguindo o sucesso de Mônica, outros personagens também ganharam suas próprias revistas, que já passaram pelas editoras Abril e Globo e atualmente estão na Panini.
             Dos quadrinhos, eles foram para o teatro, o cinema, a televisão, a internet, parques temáticos e até para exposições de arte.
           </p>
-        </div> 
-
+        </div>
       </article>
       
        <article class="row pt-5 ">
-    
          <figure class="col-12 col-sm-12 col-lg-6 pt-5 text-center">
           <img src=" ../HQS/img/a2.jpg" class="img-fluid" alt=" Aqui temos a imagem do Katsuhiro Otomo">
           <figcaption> Katsuhiro Otomo</figcaption>
