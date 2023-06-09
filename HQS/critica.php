@@ -1,60 +1,54 @@
 <?php $title = "Criticas";?>
 <?php include "../header.php"?>
-    <div class="container">
-  <body>
-  <main>
-
-<section class="row pt-5 ">
+   
+<body>
+ <main>
+  <div class="container">
+   <section class="row pt-5 ">
         <h1 class="col-12 cor-letra text-center">Criticas</h1>
 
-<article>
+      <article>
 
-<figure class="col-12 col-sm-6 col-lg-12 text-center pt-5 ">
-          <img src=" ../HQS/img/c1.jpg" class="img-fluid" alt=" Aqui temos a imagem de Raina Telgemeier: um mergulho na adolescência com Drama e Coragem">
-          <figcaption>Raina Telgemeier: um mergulho na adolescência com Drama e Coragem</figcaption>       
-</figure>
+          <figure class="col-12 col-sm-6 col-lg-12 text-center pt-5 ">
+            <img src=" ../HQS/img/c1.jpg" class="img-fluid" alt=" Aqui temos a imagem de Raina Telgemeier: um mergulho na adolescência com Drama e Coragem">
+              <figcaption>Raina Telgemeier: um mergulho na adolescência com Drama e Coragem</figcaption>       
+          </figure>
  
 
-      <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start ">
-          <h1 class="cor-letra">Raina Telgemeier: um mergulho na adolescência com Drama e Coragem</h1>
-          <p>No final de julho deste ano, a quadrinhista Raina Telgemeier (20/05/1977) foi laureada com dois Eisner Awards: Melhor roteirista e artista e Melhor publicação infantil, por Guts, da Scholastic Graphix. Ela tem se destacado no diálogo com o público jovem. Boa parte de seu trabalho é autobiográfico, com foco em aspectos de sua vida na adolescência. Isso, aliado a traços limpos e carismáticos, reforçam a identificação com os leitores. Nos últimos meses, dois de seus álbuns chegaram ao Brasil: Drama (Devir) e Coragem (Intrínseca).
+         <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start ">
+          <h2 class="cor-letra">Raina Telgemeier: um mergulho na adolescência com Drama e Coragem</h2>
+           <p>No final de julho deste ano, a quadrinhista Raina Telgemeier (20/05/1977) foi laureada com dois Eisner Awards: Melhor roteirista e artista e Melhor publicação infantil, por Guts, da Scholastic Graphix. Ela tem se destacado no diálogo com o público jovem. Boa parte de seu trabalho é autobiográfico, com foco em aspectos de sua vida na adolescência. Isso, aliado a traços limpos e carismáticos, reforçam a identificação com os leitores. Nos últimos meses, dois de seus álbuns chegaram ao Brasil: Drama (Devir) e Coragem (Intrínseca).
             Antes, saíram aqui Sorria (lançado originalmente nos Estados Unidos em 2010, seu primeiro álbum como roteirista e desenhista), que a mostrava em um tratamento dentário que complicava sua vida social; e Irmãs (de 2014), sobre o relacionamento com a irmã mais nova – ambos pela Devir.
             Drama foi publicado originalmente em 2012. A protagonista é Callie, uma garota que trabalha nos cenários das peças de sua escola. A história é sobre sua paixão pelo teatro, enquanto vive seus primeiros amores.
-            Já Coragem, lançado nos EUA em 2019, é um retorno da autora às HQs autobiográficas. Ela fala dos muitos medos que sentia em determinado momento da adolescência, que se refletiam em dores físicas e se revelaram problemas de ansiedade.
-            
+            Já Coragem, lançado nos EUA em 2019, é um retorno da autora às HQs autobiográficas. Ela fala dos muitos medos que sentia em determinado momento da adolescência, que se refletiam em dores físicas e se revelaram problemas de ansiedade.</p>
             <a class="text-decoration-none cor-letra" href=" ../autores.php?#pedrohenriqueribeiro">
               <p>Pedro Henrique Ribeiro,24/09/2022.</p>
             </a>
+         </div>
 
-            <a class="text-decoration-none cor-letra" href=" ../autores.php?#renatofelix">
-              <p>Renato Felix,08/09/2020.</p>
-            </a>
-          
-        </div>
+      </article>
 
-</article>
-
-<article>
+      <article>
   
         <figure class="col-12 col-sm-6 col-lg-12 pt-5 text-center">
           <img src=" ../HQS/img/c2.jpg" class="img-fluid" alt=" Aqui temos a imagem de Stefan Petrucha: a verdade está nas páginas dos quadrinhos">
           <figcaption>Stefan Petrucha: a verdade está nas páginas dos quadrinhos</figcaption>
         </figure>
-      <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start ">
-          <h1 class="cor-letra">Stefan Petrucha: a verdade está nas páginas dos quadrinhos</h1>
+         <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start ">
+          <h2 class="cor-letra">Stefan Petrucha: a verdade está nas páginas dos quadrinhos</h2>
           <p> Stefan Petrucha é um prolífero autor norte-americano, com trabalhos publicados por grandes editoras lá fora, incluindo romances baseados em super-heróis da Marvel Comics.
             Esta entrevista foi realizada por e-mail no final de 2018, e trata principalmente pelo trabalho do escritor na série Arquivo X Clássicos, lançada atualmente no Brasil pela New Order Editora.
             Essas histórias, algumas delas publicadas pela primeira por aqui na década de 1990 pela Myhtos Editora, são consideradas um ponto importante em publicações de franquias licenciadas exatamente por ter um trabalho cuidadoso e apresentar temas e acontecimentos próprios, afastando-se da ideia de serem meras adaptações de episódios. .</p>
           <a class="text-decoration-none cor-letra" href=" ../autores.php?#renatofelix">
           <p>Renato Felix,06/09/2020.</p> </a>
-      </div>
+         </div>
 
-</article>
+      </article>
 
- <article class="row pt-5 ">
+      <article class="row pt-5 ">
           <figure class="col-12 col-sm-6 col-lg-12 pt-5 text-center">
-          <img src=" ../HQS/img/c3.jpg" class="img-fluid" alt=" Aqui temos a iamgem de Jeff Smith: Bone e a longa jornada épica do “faça você mesmo”">
-          <figcaption>Jeff Smith: Bone e a longa jornada épica do “faça você mesmo</figcaption>
+            <img src=" ../HQS/img/c3.jpg" class="img-fluid" alt=" Aqui temos a iamgem de Jeff Smith: Bone e a longa jornada épica do “faça você mesmo”">
+              <figcaption>Jeff Smith: Bone e a longa jornada épica do “faça você mesmo</figcaption>
           </figure>
      
         <div class="col-12 col-sm-6 col-lg-12 pt-5 pb-5 text-start">
@@ -67,13 +61,12 @@
             </a>
         </div>
      
-</article>
+      </article>
 
 
-    <footer><?php include "../rodape.php" ?></footer>
+          <footer><?php include "../rodape.php" ?></footer>
+   </section>
   </div>
-
-</section>
-  </main>
+ </main>
 </body>
 </html>
