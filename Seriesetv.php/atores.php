@@ -1,23 +1,15 @@
-<?php $title = "Artigo Literatura";?>
+<?php $title = "Atores";?>
 <?php include "../header.php"?>
-    
     <div class="container">
         <section class="row">
-            <hgroup>
-                <h2 class= "text-center">Séries e TV</h2>
-            
-                <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                <p class="d-inline cor-letra">Atores</p>
-            </hgroup>
+            <h2 class= "text-center">Séries e TV</h2>
             <article class="col-12 col-sm-6 cor-fundo text-center">
                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                 <h3 class="d-inline p-3 cor-letra ">Katherine McNamara revela paixão pela comunidade e fãs brasileiros na CCXP22</h3>
-                
                 <figure>
-                    <img src="../img/katherine.png" class="img-fluid" alt="katherine McNamara na CCXP22,usando uma jaqueta vermelha,segurando o microfone, sorrindo e acessenando.">
+                    <img src="../img/katherine.png" class="img-fluid" alt="Imagem de katherine McNamara na CCXP22,usando uma jaqueta vermelha,segurando o microfone, sorrindo e acessenando.">
                     <figcaption>Katherine McNamara revela paixão pela comunidade e fãs brasileiros na CCXP22</figcaption>
                 </figure>
-
                 <p>Katherine McNamara trouxe simpatia e encantou o público do Palco Thunder by Cinemark Club durante a CCXP22. 
                     Em uma conversa com Maria Bopp, a artista contou sobre a carreira, a paixão pelo Brasil e o carinho dos fãs das franquias que já atuou.
                 </p>
@@ -34,22 +26,15 @@
                 <p>Durante o painel, McNamara disse achar incrível como os eventos como CCXP são importantes para os fãs de franquias e atores e artistas. "Eu aprendi como a comunidade de 
                     convenções é incrível, a gente conta essas histórias porque a gente se empodera e traz um sentimento de pertencimento"
                 </p>
-
-                <a class="text-decoration-none cor-letra" href="../autores.php?#giovannabreve"><p>Giovanna Breve,03/12/2022.</p></a>
-                
+                <a class="text-decoration-none blue" href="../autores.php?#giovannabreve"><p>Giovanna Breve,03/12/2022.</p></a>
             </article>
-
-            <article class="col-12 col-sm-6 text-center p-3">
-                        
+            <article class="col-12 col-sm-6 text-center ">      
                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>     
-                <h3 class="d-inline cor-letra text-center p-3">Seu Barriga emociona CCXP22 em painel com tom de despedida</h3>
-            
-                    
+                <h3 class="d-inline cor-letra text-center p-3">Seu Barriga emociona CCXP22 em painel com tom de despedida</h3>  
                 <figure>
-                    <img src="../img/seubarriga.png" class="img-fluid" alt="Édgar Vivar na CCXP22">
+                    <img src="../img/seubarriga.png" class="img-fluid m-2" alt="Édgar Vivar na CCXP22">
                     <figcaption>No Palco Thunder by Cinemark Club, Edgar Vivar falou sobre carreira na Turma do Chaves</figcaption>
                 </figure>
-
                 <p> O consagrado ator Edgar Vivar emocionou o público do Palco Thunder by Cinemark Club compartilhando com o público histórias de bastidores que envolvem o amado personagem Seu Barriga. 
                     O ator mexicano interpretou o dono da vila do Chaves e ficou famoso no Brasil com seu bordão: "pague os 14 meses de aluguel!"
                 </p>
@@ -60,16 +45,13 @@
                 <p>Relembrando o início da produção, Vivar disse que antes mesmo de saberem se os projetos de Roberto Gomez Bolaños (o Chaves) daria certo, o elenco gravou, em duas semanas, vários episódios de A Turma do Chavez,
                     Chapolin Colorado e Cidadão Gómez - que não chegou ao Brasil. "Mas Chaves foi um sucesso tremendo", afirmou.
                 </p>
-
-                <a class="text-decoration-none cor-letra" href="../autores.php?#Pedrohenriqueribeiro"><p>Pedro Henrique Ribeiro 04/12/2022</p></a>
-                
-                </article>
+                <a class="text-decoration-none blue" href="../autores.php?#Pedrohenriqueribeiro"><p>Pedro Henrique Ribeiro 04/12/2022</p></a>
+                <div class="text-end">
+                    <a class="btn btn-primary display-block text-end pb-3 " href="../Seriesetv.php/serieshome.php" role="button">Voltar</a>
+                </div>
+            </article>
             
-                <a class="btn btn-primary display-block text-end pb-3 " href="../Seriesetv.php/serieshome.php" role="button">Voltar</a>
-         
         </section>
+        
     </div> 
-    <?php include "../rodape.php"?>  
-</body>
-</html>
-    
+    <?php include "../footer.php"?>
