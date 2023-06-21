@@ -45,24 +45,24 @@
                 <div class="col-3 col-lg-3">
                     <a href="/projeto-integrador-II-main/quemsomos.php?#gilberto" class="text-decoration-none text-light">
                         <figure>
-                                <img src="/projeto-integrador-II-main/img/IMG-20221204-WA0101.jpg" class="img-fluid">
-                                <figcaption class="text-center">Gilberto</figcaption>
+                            <img src="/projeto-integrador-II-main/img/IMG-20221204-WA0101.jpg" class="img-fluid">
+                            <figcaption class="text-center">Gilberto</figcaption>
                         </figure>
                     </a>
                 </div>
                 <div class="col-3 col-lg-3 ">
                     <a href="/projeto-integrador-II-main/quemsomos.php?#joseguilherme" class="text-decoration-none text-light">
                         <figure>
-                                <img src="/projeto-integrador-II-main/img/IMG_20220922_071956875.jpg" class="img-fluid">
-                                <figcaption class="text-center">José Guilherme</figcaption>
+                            <img src="/projeto-integrador-II-main/img/IMG_20220922_071956875.jpg" class="img-fluid">
+                            <figcaption class="text-center">José Guilherme</figcaption>
                         </figure>
                     </a>
                 </div>
                 <div class="col-3 col-lg-3">
                     <a href="/projeto-integrador-II-main/quemsomos.php?#melissa" class="text-decoration-none text-light">
                         <figure>
-                                <img src="/projeto-integrador-II-main/img/Screenshot_20221204-094744.png" class="img-fluid">
-                                <figcaption class="text-center">Melissa</figcaption>
+                            <img src="/projeto-integrador-II-main/img/Screenshot_20221204-094744.png" class="img-fluid">
+                            <figcaption class="text-center">Melissa</figcaption>
                         </figure>
                     </a>
                 </div>

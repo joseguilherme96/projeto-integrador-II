@@ -1,13 +1,17 @@
 <!--Validado na w3-->
-<?php $title = "Home";?>
-<?php include "header.php"?>
+<?php $title = "Home"; ?>
+
+<?php include "header.php" ?>
+
     <main class="container">
         <nav class="navbar navbar-expand-lg bg-light">
             <ul class="navbar-nav">
                 <li class="nav-item"><a href="index.php" class="nav-link  cor-letra">Home / </a></li>
             </ul>
         </nav>
+
         <?php include "barra-de-pesquisa.php"; ?>
+
         <section class="row cinemamt-5">
             <hgroup class="row  mt-5">
                 <h2 class="cor-letra text-start py-3">CINEMA</h2>
@@ -26,7 +30,7 @@
                 <p class="text-start">Por <a href="autores.php?#omelete">omelete</a> <time datetime="2022-12-01">01/12/2022</time></p>
                 <p class="text-start">O Prime Video aproveitou a manhã de hoje (1) para anunciar as novas adições do elenco de O Senhor dos Anéis: Os Anéis de Poder. Em formato de fio, a plataforma, aos poucos, revelou o nome dos 7 atores que se juntarão à produção na a próxima temporada.</p>
                 <a class="btn text-decoration-none text-light col-2" style="background-color:#E03616" href="cinema/artigo-literatura.php?cod=4" role="button">Ver mais</a>
-            </article>  
+            </article>
         </section>
         <section class="row cor-fundo mt-5 mb-5">
             <h2 class="py-3 cor-letra">HQS</h2>
@@ -35,7 +39,7 @@
             </figure>
             <article class="col-12 col-sm-12 col-lg-6 text-end">
                 <h2 class="cor-letra text-start">
-                    <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>    
+                    <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                     Guia dos lançamentos de quadrinhos na CCXP22
                 </h2>
                 <p class="text-start">Após três anos, a CCXP volta a ser presencial e é aguardada com ansiedade por fãs e profissionais.O evento ocorre entre 1º e 4 de dezembro e, como sempre, um dos destaques será o Artists' Valley (antigo Artists' Alley), que receberá mais de 482 autores de todo o Brasil e do exterior, divididos em 356 mesas vendendo seus trabalhos.</p>
@@ -44,7 +48,8 @@
             <article class="row my-3 cor-fundo justify-content-end">
                 <h2 class="d-inline cor-letra text-start">
                     <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
-                    Desenhão: batalha de desenhos ao vivo premiará artista com um iPad Pro</h2>
+                    Desenhão: batalha de desenhos ao vivo premiará artista com um iPad Pro
+                </h2>
                 <p>No próximo sábado, 26 de novembro, a partir das 19h, acontece o Desenhão, uma festa que vai reunir artistas, fãs dos quadrinhos nacionais e amantes da cultura geek no geral numa oportunidade de juntar as pessoas para celebrar, debater assuntos e fazer arte.</p>
                 <h6>Por <a href="autores.php?#samirnaliato">Samir Naliato</a><time datetime="2022-12-01">01/12/2022</time></h6>
                 <picture class=" col-sm-12 col-lg-12 text-center p-1">
@@ -57,21 +62,21 @@
         </section>
         <section class="row cosplay cor-fundo justify-content-end mt-5">
             <h2 class=" py-1 cor-letra">
-                <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>  
+                <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                 COSPLAY
             </h2>
             <figure class="col-12 col-sm-6 col-lg-3 text-center pt-2 ">
                 <img src="cosplay/imgcosplay/kodia.jpg " alt="Ahsoka Tano - Star Wars Incrivel Cosplay do personagem Ahsoka Tano feita por uma fã da grande série Star Wars surpreendeu nas redes sociais, a fã descreve *Esse cosplay foi um verdadeiro desafio pra mim, principalmente a maquiagem, e aprendi muito fazendo.Mal posso esperar para usá-la na Star Wars Celebration em Londres no ano que vem.">
             </figure>
             <article class="col-12 col-sm-6 col-lg-3 pt-2 pb-5 text-start ">
-                <h6 class="cor-letra"> Ahsoka Tano - Star Wars </h6> 
+                <h6 class="cor-letra"> Ahsoka Tano - Star Wars </h6>
                 <p>Incrivel Cosplay do personagem "Ahsoka Tano" feita por uma fã da grande série Star Wars surpreendeu nas redes sociais, a fã descreve "Esse cosplay foi um verdadeiro desafio pra mim, principalmente a maquiagem, e aprendi muito fazendo.Mal posso esperar para usá-la na Star Wars Celebration em Londres no ano que vem.</p>
             </article>
-            <figure class="col-12 col-sm-6 col-lg-3 pt-2 text-center"> 
+            <figure class="col-12 col-sm-6 col-lg-3 pt-2 text-center">
                 <img src="cosplay/imgcosplay/arlequina.jpg" alt="Deadpool e Arlequina Deadpool e Arlequina juntos em incrivel cosplay feito por fã, quem conhece sabe que os dois personagem são de casas de super-herois diferentes, então essa amizade é bem improvavel acontecer um dia, em algum filme, mas os fãs quebram barreiras. ">
             </figure>
             <article class="col-12 col-sm-6 col-lg-3  pt-2 pb-5 text-start ">
-                <h6 class="cor-letra">Deadpool e Arlequina </h6>    
+                <h6 class="cor-letra">Deadpool e Arlequina </h6>
                 <p>Deadpool e Arlequina juntos em incrivel cosplay feito por fã, quem conhece sabe que os dois personagem são de casas de super-herois diferentes, então essa amizade é bem improvavel acontecer um dia, em algum filme, mas os fãs quebram barreiras. </p>
             </article>
             <a class="btn text-decoration-none text-light col-3 col-lg-1 m-5" style="background-color:#E03616" href="cosplay/cosplay.php" role="button">Ver mais</a>
@@ -107,4 +112,5 @@
             <a class="btn text-decoration-none text-light col-3 col-lg-2" style="background-color:#E03616" href="seriesetv.php/atores.php" role="button">Ver mais</a>
         </section>
     </main>
-    <?php include "footer.php" ?>
+
+<?php include "footer.php";?>
