@@ -1,6 +1,7 @@
 <!--Validado na W3C-->
 <?php $title = "serieshome";?>
 <?php include "../header.php"?>
+
     <div class="container">
         <h2 class="text-center">Séries e TV</h2>
         <section class="text-center">
@@ -68,4 +69,5 @@
             <a class="btn btn-primary display-block text-end pb-3 " href="../index.php" role="button">Voltar</a>
         </div> 
     </div>
+
 <?php include "../footer.php"?>

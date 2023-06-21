@@ -1,5 +1,6 @@
 <?php $title = "noticias";?>
 <?php include "../header.php"?>
+
     <section class="container  text-center">
         <h2 class="text-center">Séries e TV</h2> 
         <article class="cor-fundo">
@@ -25,4 +26,5 @@
             <a class="btn btn-primary display-block text-end pb-3 " href="../Seriesetv.php/serieshome.php" role="button">Voltar</a>
         </div>
     </section>  
+    
 <?php include "../footer.php"?>

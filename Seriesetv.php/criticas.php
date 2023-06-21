@@ -1,5 +1,6 @@
 <?php $title = "Criticas";?>
 <?php include "../header.php"?>
+
     <div class="container">
         <section>
             <h2 class= "text-center">Séries e TV</h2>
@@ -25,4 +26,5 @@
             </div>
         </section>
     </div> 
+    
     <?php include "../footer.php"?>

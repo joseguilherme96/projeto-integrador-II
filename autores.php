@@ -1,5 +1,6 @@
 <?php $title = "Refeências";?>
 <?php include "header.php"?>
+
     <main class="container">
         <i class="bi bi-square-fill fs-1 d-inline cor-letra  col-2"></i>
         <h2 class="d-inline cor-letra  p-3 col-10">Nossas Refrências</h2>
@@ -208,4 +209,5 @@
         </div>
     </section>
 </main>
+
 <?php include "footer.php"?>

@@ -1,5 +1,6 @@
 <?php $title = "Atores";?>
 <?php include "../header.php"?>
+
     <div class="container">
         <section class="row">
             <h2 class= "text-center">Séries e TV</h2>
@@ -54,4 +55,5 @@
         </section>
         
     </div> 
+    
     <?php include "../footer.php"?>
