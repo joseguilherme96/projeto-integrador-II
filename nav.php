@@ -47,7 +47,7 @@
               <li><a class="dropdown-item" href="/projeto-integrador-II-main/HQS/materia.php">Materias</a></li>
               <li><a class="dropdown-item" href="/projeto-integrador-II-main/HQS/topfive.php">Top Five</a></li>
               <li><a class="dropdown-item" href="/projeto-integrador-II-main/HQS/critica.php">Criticas</a></li>
-              <li><a class="dropdown-item" href="/projeto-integrador-II-main/HQS/ultimasnoticias.php">Melhores criticas</a></li>
+              <li><a class="dropdown-item" href="/projeto-integrador-II-main/HQS/ultimasnoticias.php">Ultimas Noticias</a></li>
               <li><a class="dropdown-item" href="/projeto-integrador-II-main/HQS/autores.php">Melhores autores</a></li>
             </ul>
           </li>
