@@ -1,10 +1,8 @@
 <?php $title = "Autores";?>
 <?php include "../header.php"?>
 
-
+<div class="container">
   <main>
-
-   <div class="container">
     <section>
   
      <h1 class="col-12 cor-letra text-center">Autores</h1>
@@ -47,4 +45,6 @@
     </section>
    </div>
   </main>
+  </body>
+</html>
 

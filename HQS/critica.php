@@ -1,9 +1,8 @@
 <?php $title = "Criticas";?>
 <?php include "../header.php"?>
    
-
+<div class="container">
  <main>
-  <div class="container">
    <section class="row pt-5 ">
         <h1 class="col-12 cor-letra text-center">Criticas</h1>
 
@@ -68,4 +67,5 @@
    </section>
   </div>
  </main>
-
+ </body>
+</html>

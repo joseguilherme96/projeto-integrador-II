@@ -1,8 +1,7 @@
 <?php $title = "HQS";?>
 <?php include "../header.php"?>
-<body>
+<div class="container">
   <main>
-   <div class="container">
       <section>
               <h1 class="text-center cor-letra">HQS</h1>
        <article >

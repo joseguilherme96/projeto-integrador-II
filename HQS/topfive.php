@@ -1,8 +1,8 @@
 <?php $title = "Top Five";?>
 <?php include "../header.php"?>
-<body>
+
+<div class="container"> 
  <main>
-  <div class="container"> 
    <section>
      <h1 class="col-12 cor-letra text-center cor-fundo">Top Five</h1>
        <article class="row pt-5 ">

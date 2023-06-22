@@ -1,8 +1,7 @@
 <?php $title = "Ultimas Noticias";?>
 <?php include "../header.php"?>
-<body>
+<div class="container">
   <main>
-   <div class="container">
     <section>
            <h1 class="col-12 cor-letra text-center">Ultimas Noticias</h1>
         <article class="row pt-5 ">
