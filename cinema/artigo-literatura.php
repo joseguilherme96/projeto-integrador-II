@@ -1,6 +1,7 @@
 <!--Validado na w3-->
 <?php $title = "Artigo Literatura";?>
 <?php include "../header.php"?>
+
     <div class="container">
         <nav class="navbar navbar-expand-lg bg-light">
             <ul class="navbar-nav">
@@ -10,15 +11,20 @@
                 <li class="nav-item"><a href="artigo-literatura.php" class="nav-link  cor-letra">Artigo</a> </li>
             </ul>
         </nav>
+
         <?php include "../barra-de-pesquisa.php"; ?>
+
         <?php 
             if (isset($_GET['cod'])) {
         ?>
+
         <section class="row">
             <h2 class="cor-letra">Filmes inspirados em livros</h2>
+
             <?php   
                 if ($_GET['cod'] == 1) {
             ?>
+
             <article class="row justify-content-center">
                 <figure class="col-12 col-sm-12 col-lg-12 text-start text-lg-end">
                     <img src="img/artigos/banner-jogador-numero-1.jpg" class="img-fluid">
@@ -31,7 +37,7 @@
                 <div class=" col-lg-3  text-center  mt-2">
                     <a href="" class="text-decoration-none text-light cor-botao p-1">FICÇÃO CIENTIFICA</a>
                 </div>
-                <p class="col-8">Por <a href="../autores.php?#omelete">Omelete</a> 19/03/2018</p>
+                <p class="col-8">Por <a href="../autores.php?#omelete">Omelete</a> <time datetime="2018-03-19">19/03/2018</time></p>
                 <p class="col-8">Ninguém melhor que Steven Spielberg para levar às telas a adaptação de Jogador Nº 1 de Ernest Cline. O cineasta, afinal, é a maior influência (o maior responsável, na verdade) por tudo aquilo que inspirou o autor do livro a criar sua distópica obra devota aos anos 1980. Mas não é o Spielberg "adulto", o histórico e dramático, que vemos aqui no comando de Jogador Nº 1, mas o cineasta moleque, aquele de Tubarão, E.T., Contatos Imediatos e Indiana Jones... o que torna a experiência ainda melhor.</p>
                 <p class="col-8">Spielberg não apenas entende o milhar de referências do livro, mas ajudou a criá-las direta ou indiretamente - assim como a linguagem em que Cline se apoia em seu romance. O cineasta era sinônimo de aventura infanto-juvenil (juntamente com George Lucas, Robert Zemeckis, Richard Donner e tantos outros que transformaram o mundo e a cultura pop quatro décadas atrás) e aqui ele se recorda disso. O mestre retorna a sua melhor forma, homenageando essa época tão importante, em que os recém-empoderados diretores - que nos anos 70 passaram de coadjuvantes dos produtores a verdadeiros chefes criativos -, ganharam o direito de sonhar mais alto, com a indústria abrindo seus cofres para a fantasia e ficção científica, dando vida a imagens até então apenas registradas nas páginas das histórias em quadrinhos.</p>
                 <p class="col-8">Com tal pedigree, Jogador Nº 1 é muito mais do que a habitual e cansada colagem de referências pop que temos aos montes hoje. A nostalgia é uma desculpa, não um objetivo. É no mundo criado (ou seria cocriado?) por Cline que Spielberg encontra a oportunidade para revisitar a inocência do passado. Até em estrutura o filme é um grande retorno aos clássicos oitentistas - e o final igualmente simples e genial é prova mais que perfeita disso.</p>
@@ -65,10 +71,12 @@
                     <i class="bi bi-share fs-1 cor-letra"></i>
                 </figure>
             </article>
+
             <?php } ?>
             <?php
                 if ($_GET['cod'] == 2) {
             ?>
+
             <article class="row justify-content-center">
                 <figure class="col-12 col-sm-12 col-lg-12 text-center">
                     <img src="img/artigos/banner-harry-potter.png" class="img-fluid">
@@ -83,7 +91,7 @@
                         <a href="" class="text-decoration-none text-light">FICÇÃO CIENTIFICA</a>
                     </div>
                 </div>
-                <p>Por <a href="../autores.php?#omelete">Omelete</a> 19/03/2018</p>
+                <p>Por <a href="../autores.php?#omelete">Omelete</a><time datetime="2018-03-19">19/03/2018</time></p>
                 <p class="col-8">Depois dos oito filmes baseados nos livros, a franquia agora se prepara para lançar Animais Fantásticos e Onde Habitam, que adapta o livro didático no mundo de Harry Potter que cataloga 75 espécies de criaturas mágicas pelos cinco continentes. Os filmes contarão as viagens do autor do livro, Scamander, 70 anos antes do início da jornada de Harry Potter. </p>
                 <ul class="col-8">
                     <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> Harry Potter e as Relíquias da Morte - Parte 2 (2011)</li>
@@ -121,12 +129,14 @@
                     <i class="bi bi-share fs-1 cor-letra"></i>
                 </figure>
             </article>
+
             <?php 
                 } 
             ?>
             <?php
                 if ($_GET['cod'] == 3) {
             ?>
+
             <article class="row  justify-content-center text-center">
                 <figure class="col-12 col-sm-12 col-lg-12">
                     <img src="img/artigos/banner-jennifer-lawrence.jpg" class="img-fluid">
@@ -180,10 +190,12 @@
                     <i class="bi bi-share fs-1 cor-letra"></i>
                 </figure>
             </article>
+
             <?php } ?>
             <?php
                 if ($_GET['cod'] == 4) {
             ?>
+
             <article class="row">
                 <figure class="col-12 col-sm-12 col-lg-12 text-center">
                     <img src="img/artigos/banner-senhor-dos-aneis.jpg" class="img-fluid">
@@ -207,7 +219,7 @@
                     <h5 class="cor-letra">Os Anéis de Poder | Prime Video anuncia novas escalações do elenco; veja</h5>
                     <p class="cor-letra-D2D2D2">Personagens dos atores não foram revelados</p>
                 </hgroup>
-                <p>Por <a href="../autores.php?#omelete">Omelete</a> 01/12/2022</p>
+                <p>Por <a href="../autores.php?#omelete">Omelete</a> <time datetime="2022-12-01"></time>01/12/2022</p>
                 <p class="col-8">O Prime Video aproveitou a manhã de hoje (1) para anunciar as novas adições do elenco de O Senhor dos Anéis: Os Anéis de Poder. Em formato de fio, a plataforma, aos poucos, revelou o nome dos 7 atores que se juntarão à produção na a próxima temporada.</p>
                 <p class="col-8">A primeira divulgação foi a do ator Gabriel Akuwudike (Game of Thrones); veja: </p>
                 <p class="col-8">Alguns instantes depois, o perfil na rede social também confirmou as escalações de Yasen ‘Zates’ Atour (The Witcher), Ben Daniels (The Exorcist), Amelia Kenworthy, Nia Towle (Persuasão) e Nicholas Woodeson (Roma). Até o momento, os atores seguem sem personagens divulgados. </p>
@@ -243,11 +255,16 @@
                     <i class="bi bi-share fs-1 cor-letra"></i>
                 </figure>
             </article>
+
                 <?php } ?>
             <?php
             }
             ?>
+
         </section>
+        
         <?php include "mais-noticias.php"; ?>
+
     </div>
-    <?php include "../footer.php"?>
+
+<?php include "../footer.php"?>

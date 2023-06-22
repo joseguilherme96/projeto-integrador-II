@@ -1,6 +1,7 @@
 <!--Validado na w3-->
 <?php $title = "Noticia Filme";?>
 <?php include "../header.php"?>
+
     <div class="container ">
         <nav class="navbar navbar-expand-lg bg-light">
             <ul class="navbar-nav">
@@ -10,13 +11,17 @@
                 <li class="nav-item"><a href="noticia-filme.php" class="cor-letra">Noticia</a></li>
             </ul>
         </nav>
+
         <?php include "../barra-de-pesquisa.php";?>
         <?php if(isset($_GET['cod'])){?>
+
         <h2 class="row justify-content-center text-center cor-letra">Noticia Filme</h2>
         <section class="row">
+
             <?php        
                 if($_GET['cod']==1){
             ?>
+
             <h2 class="cor-letra">Indiana Jones</h2>
             <article class=" row justify-content-center">
                 <figure class="col-12 col-sm-12 col-lg-12">
@@ -34,10 +39,13 @@
                 <p class="col-8">Nomes que confirmados para a CCXP22 incluem os atores Keanu Reeves, Zoë Saldana, Pedro Pascal, Paul Rudd, Evangeline Lilly, Jonathan Majors, Jenna Ortega, Gwendoline Christie, Noah Centineo, Kirby Howell-Baptiste e Bella Ramsey, o elenco do Porta dos Fundos, os cineastas Dave Filoni e Jon Favreau, os produtores Kevin Feige e Jon Landau, o streamer Gaulês, os quadrinistas Jim Starlin, Mark Waid, Aimée de Jongh, Laerte, FabienToulmé, Marcello Quintanilha, Jim Cheung e muitos outros.</p>
                 <p class="col-8">A CCXP22 acontece de 1 a 4 de dezembro e os ingressos podem ser adquiridos no site Mundo Ticket.</p>  
             </article>
+
             <?php } ?>
             <?php  
                 if($_GET['cod']==2){
             ?>
+
+
             <article class="row justify-content-center">
                 <figure class="text-center col-12 col-sm-12 col-lg-12">
                     <img src="img/filmes/banner-marvel.jpg" class="img-fluid" alt="Capa Filme">
@@ -57,12 +65,14 @@
                 <p class="col-8"> No primeiro dia de CCXP22, a Paramount revelou o primeiro trailer de Transformers: O Despertar das Feras, a data da 3ª temporada de Mandalorian e o primeiro trailer do recém intitulado Indiana Jones e o Chamado do Destino.</p>
                 <p class="col-8"> Nomes que confirmados para a CCXP22 incluem os atores Keanu Reeves, Zoë Saldana, Pedro Pascal, Paul Rudd, Evangeline Lilly, Jonathan Majors, Jenna Ortega, Gwendoline Christie, Noah Centineo, Kirby Howell-Baptiste e Bella Ramsey, o elenco do Porta dos Fundos, os cineastas Dave Filoni e Jon Favreau, os produtores Kevin Feige e Jon Landau, o streamer Gaulês, os quadrinistas Jim Starlin, Mark Waid, Aimée de Jongh, FabienToulmé, Marcello Quintanilha, Jim Cheung e muitos outros.</p>  
             </article>
+
             <?php 
                 }
             ?>
             <?php  
                 if($_GET['cod']==3){
             ?>
+
             <article class="row justify-content-center">
                 <figure class="text-center col-12 col-sm-12 col-lg-12">
                     <img src="img/filmes/filme-the-last-of-us.jpg" class="img-fluid" alt="Capa Filme">
@@ -77,12 +87,14 @@
                 <p class="col-8">A prévia mostra um compilado de imagens de Joel, Ellie e Marlene em cenários bastante conhecidos para os familiarizados com o jogo. As cenas variam entre a cidade de Boston, a floresta, o shopping e, pela primeira vez, vemos de perto um clicker. A trailer foca também nos vínculos e conflitos que Joel enfrenta ao aceitar a missão de levar a Ellie.</p>
                 <p class="col-8">Nos primeiros dias de CCXP22, a Paramount revelou o primeiro trailer de Transformers: O Despertar das Feras, enquanto a Disney trouxe a data da 3ª temporada de Mandalorian e os primeiros trailers de Indiana Jones e o Chamado do Destino e Guardiões da Galáxia Vol. 3. A Maurício de Sousa Produções também anunciou uma série de novidades, e o ator Tenoch Huerta, o Namor de Pantera Negra: Wakanda Para Sempre, deu um show de simpatia.</p>
             </article>
+
             <?php 
                 }
             ?>
             <?php  
                 if($_GET['cod']==4){
             ?>
+
             <article  class="row justify-content-center">
                 <figure class=" text-center col-12 col-sm-12 col-lg-12">
                     <img src="img/streaming/deep.png" class="img-fluid" alt="Capa Filme">
@@ -102,12 +114,14 @@
                 <p class="col-8">É verdade que, nos 20 anos que Adrian Lyne passou afastado das telas desde Infidelidade (2002), o thriller erótico como gênero se esvaziou em uma Hollywood cada vez mais estéril. Também é verdade, no entanto, que o diretor sempre foi muito mais interessado em dinâmicas de classe do que em dinâmicas de gênero ou em jogos psicossexuais - é sobre isso que Proposta Indecente, Atração Fatal e até Lolita versam, por baixo da superfície. Não deveria ser surpresa que Águas Profundas seja o que é, mas o marketing e o discurso cultural deixaram o público preparado para outra coisa (e posicionado para a decepção).</p>
                 <p class="col-8">Se visto com o coração aberto e a disposição venenosa de rir de e com ele, o filme oferece 2h de entretenimento de qualidade.</p>
             </article>
+
             <?php 
                 }
             ?>
             <?php  
                 if($_GET['cod']==5){
             ?>
+
             <article class="row justify-content-center">
                 <figure class="text-center col-12 col-sm-12 col-lg-12">
                     <img src="img/streaming/agente-oculto.jpg" class="img-fluid" alt="Capa Filme">
@@ -123,14 +137,19 @@
                 <p class="col-8">Leia a sinopse do título: "Arrancado de uma penitenciária federal e recrutado por Donald Fitzroy (Billy Bob Thornton), Gentry já foi um mercenário altamente qualificado e sancionado pela Agência. Mas agora a situação virou e ele é o alvo, caçado em todo o mundo por Hansen, um ex-membro da CIA que não vai parar por nada até derrubá-lo. A seu favor, Six conta com a ajuda da agente Dani Miranda (Ana de Armas). Ele vai precisar."</p>
                 <p class="col-8">Dirigido pelos irmãos Anthony e Joe Russo, o filme ainda conta com Billy Bob Thornton, Jessica Henwick, Dhanush, Alfred Woodard e o brasileiro Wagner Moura no elenco. 
             </article>
+
             <?php 
                 }
             ?>
+
         </section>
         <?php 
             }
         ?>
+
         <?php include "mais-noticias.php"; ?>
+
     </div>
-    <?php include '../footer.php';?>
+
+<?php include '../footer.php';?>
     

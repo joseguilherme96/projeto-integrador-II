@@ -33,6 +33,4 @@
             <p>Está é a nossa política de segurança e privacidade do portal de notícias. </p>
         </section> 
     </main>
-<footer> <?php include "rodape.php"?>  </footer>
-</body>
-</html>
+    <?php include "footer.php"?>
