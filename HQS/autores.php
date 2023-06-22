@@ -8,8 +8,8 @@
      <h1 class="col-12 cor-letra text-center">Autores</h1>
   
         <figure class="col-12 col-sm-12 col-lg-12 text-center pt-5 ">
-          <img src=" ../HQS/img/a22.jpg" class="img-fluid" alt="Aqui temos a imagem do Mauricio de Sousa">
-            <figcaption> Mauricio de Sousa </figcaption>
+          <img src=" ../HQS/img/a22.jpg" class="img-fluid" alt="Aqui temos a imagem dos HQS">
+            <figcaption> Hqs </figcaption>
         </figure>
       <article class="row pt-5 " >
              <figure class="col-12 col-sm-12 col-lg-6 text-center pt-5 ">

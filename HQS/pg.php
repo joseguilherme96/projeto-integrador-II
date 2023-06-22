@@ -35,7 +35,7 @@
                   
         <article class="col-12 col-sm-12 pt-5 mt-sm-3 pb-3" >
                             <a class="text-decoration-none cor-letra text-start cor-fundo d-block" href="topfive.php"  ><i class="bi bi-square-fill fs-1 d-inline cor-letra text-start cor-fundo"></i><h2 class="d-inline">Formosa Márcia vence o Prêmio Jabuti na categoria História em Quadrinhos</h2></a>
-                            <a class="text-dark text-decoration-none pb-3 text-start cor-fundo " href="topfive.php"><p class="cor-fundo">Foi divulgado na data de ontem o vencedor da 64ª edição do Prêmio Jabuti na categoria História em Quadrinhos. O prêmio foi para Escuta, Formosa Márcia, de Marcello Quintanilha (Editora Veneta).</p></a>
+                            <a class="text-dark text-decoration-none pb-3 text-start cor-fundo row" href="topfive.php"><p class="cor-fundo">Foi divulgado na data de ontem o vencedor da 64ª edição do Prêmio Jabuti na categoria História em Quadrinhos. O prêmio foi para Escuta, Formosa Márcia, de Marcello Quintanilha (Editora Veneta).</p></a>
 
         </article>
                 
@@ -58,7 +58,7 @@
                         <div class="pt-3 text-start cor-fundo pb-3">
                             <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                             <a class="text-decoration-none cor-letra" href="ultimasnoticias.php"><h2 class="d-inline">Desenhão: batalha de desenhos ao vivo premiará artista com um iPad Pro</h2></a>
-                            <a class="text-dark text-decoration-none" href="ultimasnoticias.php"><p>No próximo sábado, 26 de novembro, a partir das 19h, acontece o Desenhão, uma festa que vai reunir artistas, fãs dos quadrinhos nacionais e amantes da cultura geek no geral numa oportunidade de juntar as pessoas para celebrar, debater assuntos e fazer arte. </p></a>
+                            <a class="text-dark text-decoration-none row" href="ultimasnoticias.php"><p>No próximo sábado, 26 de novembro, a partir das 19h, acontece o Desenhão, uma festa que vai reunir artistas, fãs dos quadrinhos nacionais e amantes da cultura geek no geral numa oportunidade de juntar as pessoas para celebrar, debater assuntos e fazer arte. </p></a>
                         </div>
        </article>
                
