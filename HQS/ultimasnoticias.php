@@ -57,9 +57,7 @@
                                   </a>
              </div>
       </article>
-                  <footer>
-                       <?php include "../rodape.php" ?>
-                  </footer>
+      <?php include "../footer.php"?>
     </section> 
    </div>
  </main>

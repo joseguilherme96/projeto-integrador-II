@@ -1,7 +1,7 @@
 <?php $title = "Materia";?>
 <?php include "../header.php"?>
 
-<body>
+
  <main>
   <div class="container">
    <section class="row pt-5 ">
@@ -57,10 +57,9 @@
             <p>Sergio Codespoti,05/08/2018. </p> </a>
       </div>
     </article>
-     <footer><?php include "../rodape.php" ?></footer>
+    <?php include "../footer.php"?>
 
    </section>
   </div>
  </main>
-</body>
-</html>
+

@@ -1,7 +1,7 @@
 <?php $title = "Criticas";?>
 <?php include "../header.php"?>
    
-<body>
+
  <main>
   <div class="container">
    <section class="row pt-5 ">
@@ -64,9 +64,8 @@
       </article>
 
 
-          <footer><?php include "../rodape.php" ?></footer>
+      <?php include "../footer.php"?>
    </section>
   </div>
  </main>
-</body>
-</html>
+
