@@ -60,7 +60,7 @@
             </a>
         </div>
      
-      </article>
+</article>
 
 
       <?php include "../footer.php"?>
