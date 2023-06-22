@@ -56,8 +56,9 @@
                                   </a>
              </div>
       </article>
+ 
+      <?php include "../footer.php"?>
+   
       </section> 
    </div>
  </main>
-      <?php include "../footer.php"?>
-   

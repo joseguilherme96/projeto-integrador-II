@@ -1,5 +1,6 @@
 <?php $title = "HQS";?>
 <?php include "../header.php"?>
+
 <div class="container">
   <main>
       <section>
@@ -77,6 +78,7 @@
                       </div>          
         </article>
         <?php include "../footer.php"?>
+      
       </section>
    </div>
   </main>
