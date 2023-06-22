@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="node_modules/bootstrap-icons/font/bootstrap-icons.css">
     <link rel="stylesheet" href="css/tema.css">
   </head>
-<body>
+
 <?php include "nav.php"?>
   <div class="container">
     <section class="row pt-5" id="joseguilherme"> 
@@ -97,6 +97,4 @@
       </div>
     </section>
   </div>
-  <footer><?php include "rodape.php"?></footer> 
-</body>
-</html>
+  <?php include "../footer.php"?>
