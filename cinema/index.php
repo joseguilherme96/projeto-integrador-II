@@ -134,7 +134,7 @@
             <h4 class="cor-letra">Jennifer Lawrence descarta papéis em grandes franquias: "Velha demais"</h4>
             <p class="cor-letra-D2D2D2">Estrela de X-Men e Jogos Vorazes deve se concentrar em títulos independentes</p>
           </hgroup>
-          <p>Por <a href="../autores.php?#caiocolleti">Caio Coletti</a><time datetime="08-10-2022">08/10/2022</time></p><!-- https://www.omelete.com.br/autores/caio-coletti-->
+          <p>Por <a href="../autores.php?#caiocolleti">Caio Coletti</a><time datetime="2022-10-08">08/10/2022</time></p><!-- https://www.omelete.com.br/autores/caio-coletti-->
           <p>
             Não espere ver Jennifer Lawrence de volta às grandes franquias hollywoodianas. Participando do BFI London Film Festival [via Deadline], ela explicou por que deve se concentrar em projetos independentes daqui em diante.
           </p>

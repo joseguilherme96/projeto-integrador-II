@@ -17,6 +17,7 @@
         <p>Função no Grupo: Gerente</p>
         <p>Responsável pelo desenvovimento das seguintes páginas relacionadas a cinema : </p>
         <ul class="list-unstyled">
+        <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="index.php">Home</a> </li>
           <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="cinema/index.php">Cinema</a> </li>
           <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="cinema/entrevistas.php">Entrevistas</a> </li>
           <li><i class="bi bi-square-fill fs-6 d-inline cor-letra"></i> <a href="cinema/filmes.php">Filmes</a> </li>
