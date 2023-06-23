@@ -1,6 +1,5 @@
-<!doctype html>
 <?php $title = "Quem somos";?>
-<?php include "../header.php"?>
+<?php include "header.php"?>
 
   <div class="container">
     <section class="row pt-5" id="joseguilherme"> 
@@ -89,4 +88,5 @@
       </div>
     </section>
   </div>
+
   <?php include "footer.php"?>
