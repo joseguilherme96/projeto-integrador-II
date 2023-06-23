@@ -56,10 +56,10 @@
           <a class="text-decoration-none cor-letra" href=" ../autores.php?#sergiocodespoti">
             <p>Sergio Codespoti,05/08/2018. </p> </a>
       </div>
-    </article>
-    <?php include "../footer.php"?>
-
+    </article>   
    </section>
   </div>
  </main>
+    <?php include "../footer.php"?>
+
 

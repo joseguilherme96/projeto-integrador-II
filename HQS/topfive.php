@@ -78,9 +78,9 @@
               <p>Samir Naliato,17/11/2022.</p>
             </a>
         </div>
-    </article>
-    <?php include "../footer.php"?>
-   
+    </article>     
   </section>
   </div>
  </main>
+    <?php include "../footer.php"?>
+
