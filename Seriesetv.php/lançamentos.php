@@ -25,7 +25,7 @@
                 <i class="bi bi-square-fill fs-1 d-inline cor-letra"></i>
                 <h3 class="d-inline cor-letra">Wandinha</h3>
                 <figure class="p-3">
-                    <img src="../img/wandinha2.png" height="300" width="300" class="img-fluid" alt="imagem de capa da série wandinha">
+                    <img src="../img/wandinha2.png" class="img-fluid" alt="imagem de capa da série wandinha">
                     <figcaption>Capa da série Wandinha,disponível na Netflix.</figcaption>
                 </figure>
                 <p>A série Wandinha, focada na personagem da Família Addams, ganhou uma nova prévia no Tudum. A produção da Netflix tem estreia confirmada para 23 de novembro.</p>
