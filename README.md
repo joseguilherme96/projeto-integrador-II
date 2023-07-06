@@ -13,7 +13,7 @@ O portal de noticias de noticia foi elaborado com base no tema Cultura Pop, onde
 * PHP - Hypertext Preprocessor
 
 ## Acessibilidade
-O projeto agora está com implementação do atributo `tabindex` para ordenar a navegação nas tags, foco com o background na cor cinza nos elementos, implementado também `aria-labelledby` e `aria-describedby` para o leitor de tela NVDA. `aria-live` no formulario de contato para descrever os itens do combobox e entre outras mudanças qu foram feitas para tornar o projeto mais acessível.
+O projeto agora está com implementação do atributo `tabindex` para ordenar a navegação nas tags, foco com o background na cor cinza nos elementos, implementado também `aria-labelledby` e `aria-describedby` para o leitor de tela NVDA. `aria-live` no formulario de contato para descrever os itens do combobox e entre outras mudanças que foram feitas para tornar o projeto mais acessível.
 
 ## Instalação
 A pasta do projeto pode ser baixado de duas formas :
