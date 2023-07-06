@@ -1,9 +1,17 @@
 .cor-fundo{
-    background-color:#D2D2D2; ;
+    background-color:#ffffff; ;
+}
+
+.blue {
+    color: #e01616;
+}
+
+.cor-letra-home{
+    color:rgb(132, 0, 255)
 }
 
 .cor-letra{
-    color: #E03616;
+    color:black
 }
 
 .cor-letra-D2D2D2{
@@ -27,10 +35,6 @@
 	box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
 }
 
-nav{
-    background-color: #E03616;
-}
-
 hr {
     border-color: #E03616;
     border-width: 10px;
@@ -45,4 +49,8 @@ footer{
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
 *{
     font-family: 'Montserrat',sans-serif;
+}
+
+hgroup:focus,a:focus,h1:focus,h2:focus,h3:focus,h4:focus,h5:focus,p:focus,h6:focus,i:focus,input:focus{
+    background-color: lightgrey;
 }
