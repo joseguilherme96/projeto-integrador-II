@@ -1,6 +1,6 @@
 <?php $title = "Animes";?>
 <?php include "../header.php"?>
-    <main class="container justify-content-center">
+  <main class="container justify-content-center">
       <nav class="navbar navbar-expand-lg bg-light">
               <ul class="navbar-nav">
                   <li class="nav-item"><a href="../index.php" class=" nav-link cor-letra">Home / </a></li>
@@ -70,5 +70,5 @@
             </figure> 
         </article>
     <section>
-    </main>
+  </main>
 <?php include "../footer.php"; ?>
