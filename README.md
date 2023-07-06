@@ -22,7 +22,7 @@ A pasta do projeto pode ser baixado de duas formas :
 Execute o comando git clone https://github.com/joseguilherme96/projeto-integrador-II.git
 
 ## Através do site GitHub
-Baixe a pasta na opção Code -> Download ZIP e descompacte e retireo -main da pasta.
+Baixe a pasta na opção Code -> Download ZIP e descompacte e retire o -main da pasta.
 
 ## Servidor XAMPP
 Salve a pasta projeto-integrador-II dentro da pasta htdocs
