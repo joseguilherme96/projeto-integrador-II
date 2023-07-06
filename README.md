@@ -12,15 +12,17 @@ O portal de noticias de noticia foi elaborado com base no tema Cultura Pop, onde
 * CSS - Cascading Style Sheets
 * PHP - Hypertext Preprocessor
 
+## Acessibilidade
+O projeto agora está com implementação do atributo `tabindex` para ordenar a navegação nas tags, foco com o background na cor cinza nos elementos, implementado também `aria-labelledby` e `aria-describedby` para o leitor de tela NVDA. `aria-live` no formulario de contato para descrever os itens do combobox e entre outras mudanças qu foram feitas para tornar o projeto mais acessível.
+
 ## Instalação
 A pasta do projeto pode ser baixado de duas formas :
 
 ## Via Terminal
 Execute o comando git clone https://github.com/joseguilherme96/projeto-integrador-II.git
-Renomeie a pasta para projeto-integrador-II-main.
 
 ## Através do site GitHub
-Baixe a pasta na opção Code -> Download ZIP e descompacte.
+Baixe a pasta na opção Code -> Download ZIP e descompacte e retireo -main da pasta.
 
 ## Servidor XAMPP
 Salve a pasta projeto-integrador-II dentro da pasta htdocs
