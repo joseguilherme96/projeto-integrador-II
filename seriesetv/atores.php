@@ -13,7 +13,7 @@
                 <p tabindex="13">Katherine McNamara trouxe simpatia e encantou o público do Palco Thunder by Cinemark Club durante a CCXP22. 
                     Em uma conversa com Maria Bopp, a artista contou sobre a carreira, a paixão pelo Brasil e o carinho dos fãs das franquias que já atuou.
                 </p>
-                <p tabindex="14">A atriz possui um enorme carinho pelo país, ela esteve presente na CCXP14 e foi sua primeira participação em uma convenção. "Adoro o Brasil e os brasileiros, 
+                <p tabindex="14">A atriz  possui um enorme carinho pelo país, ela esteve presente na CCXP14 e foi sua primeira participação em uma convenção. "Adoro o Brasil e os brasileiros, 
                     o público é tão carinhoso, há tanto amor pela comunidade, é um prazer estar de volta" disse, encantada.
                 </p>
                 <p tabindex="15">McNamara é reconhecida pelos fãs por participar de produções de ficção e fantasia como Shadowhunters, Maze Runner e Arrow, e conta que, apesar de ter caído de 
